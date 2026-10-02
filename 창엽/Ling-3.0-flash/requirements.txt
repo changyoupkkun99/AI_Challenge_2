@@ -1,0 +1,9 @@
+# 원본 노트북에서 확인한 핵심 패키지. GPU용 Torch/CUDA와 특수 wheel은 env.md 및 노트북 설치 셀을 확인하세요.
+# Ling vLLM fork는 원본 노트북 Step 0에서 소스 빌드합니다.
+# CUDA 13.0 / cu130 Torch 조합을 유지해야 합니다.
+cuda-toolkit[nvcc,crt,cccl]==13.0.3
+nvidia-cuda-nvrtc==13.0.88
+huggingface_hub<2
+decord
+pandas
+pillow

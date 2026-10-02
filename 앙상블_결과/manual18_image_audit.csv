@@ -1,0 +1,19 @@
+﻿id,old_answer,manual_revised_unverified,visual_reading,visual_confidence,image_reason,forced_in_all_five
+test_0047.jpg,d,a,d,medium,large main sign says 불닭오리; smaller sign says 초계국수,False
+test_1282.jpg,b,c,b,high,restriction sign says 통제구역; room sign says 정압실,False
+test_1931.jpg,a,b,b,high,칙촉 box highlights 6+2 갓성비,False
+test_2328.jpg,a,d,d,medium,"14,000 display is next to 뼈구이",False
+test_2989.jpg,d,a,d,high,"341,000 price is below black gas ranges",False
+test_3347.jpg,b,d,b,high,book spines say 나의 아저씨,False
+test_3878.jpg,b,d,b,high,신청기간 lower on poster is 2026.3~12; top is 모집시,False
+test_3902.jpg,c,b,c,high,성서 입문 is the brown book,False
+test_3928.jpg,d,c,d,high,14:50 창원역 row says 창원역고속버스매표소,False
+test_4369.jpg,c,a,a,high,"receipt line 연어 3종 has 5,900",True
+test_4383.jpg,a,c,a/c,uncertain,upper building sign 피닉스타운; lower store sign 구미모터스,False
+test_4988.jpg,a,b,a,medium,strawberry variant is pink/purple box,True
+test_5424.jpg,b,c,b/c,uncertain,vegetable stands and 분식 signs are both present,False
+test_5434.jpg,b,c,b/c,uncertain,small text pledges b; large slogan says c,False
+test_5718.jpg,d,b,d,high,building sign spells 행복안집,False
+test_5828.jpg,c,a,c/a,uncertain,维他/Vita logo at top; VLT product marking below,False
+test_6468.jpg,c,b,b,high,yellow sauce packets say 마요네즈,True
+test_6519.jpg,a,c,a/c,uncertain,English and Korean name forms may be equivalent,False

@@ -1,0 +1,5 @@
+# 원본 노트북에서 확인한 핵심 패키지. GPU용 Torch/CUDA와 특수 wheel은 env.md 및 노트북 설치 셀을 확인하세요.
+# vLLM은 원본 노트북 STEP 0에서 commit 8d16ca6cc21931481f6c6f9ec0365874a80c6bb2 wheel을 설치합니다.
+# torch==2.13.0+cu132 및 torchvision==0.28.0+cu132는 PyTorch cu132 index를 사용합니다.
+pandas
+pillow

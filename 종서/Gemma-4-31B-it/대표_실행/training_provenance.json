@@ -1,0 +1,8 @@
+{
+  "model_name": "google/gemma-4-31B-it",
+  "resolved_revision": "842da3794eaa0b77d5f08bae87a17459d91ff475",
+  "training_quantization": "none",
+  "run_id": "20260925T124050809287Z-gemma4-31b-full-bf16",
+  "parent_adapter_path": null,
+  "parent_adapter_sha256": null
+}

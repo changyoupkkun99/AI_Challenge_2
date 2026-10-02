@@ -1,0 +1,11 @@
+# 원본 노트북에서 확인한 핵심 패키지. GPU용 Torch/CUDA와 특수 wheel은 env.md 및 노트북 설치 셀을 확인하세요.
+transformers==4.57.1
+accelerate>=1.2,<2
+pyzipper
+pillow
+pandas
+numpy
+plotly>=6,<7
+nbformat>=5
+psutil
+# LoRA 모드에서만: peft==0.17.1, bitsandbytes>=0.48,<0.49

@@ -1,0 +1,42 @@
+{
+  "run_id": "20260925T143733609301Z-full-best_train",
+  "stage": "after",
+  "role": "local",
+  "profile": "full",
+  "model_name": "Qwen/Qwen3-VL-8B-Instruct",
+  "quantization": "none",
+  "dtype": "bf16",
+  "checkpoint_signature": "a1bbe97f85a1e624a3b1b9ca28b8fd9bef4055fa7bdf06a3ec10b4ce04563c20",
+  "eval_signature": "96c909e1c5103a3cdc2061a4627f28e057fc4511d5802a7b7d7da864d6fc4dcc",
+  "template_sha256": "03f40b433e3c55503d6ce2ec4678e01dcd2c67fb958d9df0b4deb636a8da20a1",
+  "timing_signature": "21657676529bd24e317a15d2f826ccb103dce23f7798ed60230e9b5ed923913a",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "n": 1434,
+  "correct": 1360,
+  "accuracy": 0.9483960948396095,
+  "failures": 0,
+  "format_failures": 0,
+  "runtime_failures": 0,
+  "latency_p50_ms": 248.5600384989084,
+  "latency_p95_ms": 274.95585289907467,
+  "peak_allocated_gb": 16.700982093811035,
+  "peak_reserved_gb": 16.779296875,
+  "memory_measurement": "PyTorch allocator, evaluation phase only; not total GPU VRAM",
+  "adapter_sha256": "c32587228b2b0b637dcf6fe4ec2bb7787baa2a54efa04fd1694490563b55a2b0",
+  "image_views": "exif_rgb_single",
+  "label_policy": "Train original labels retained only for saved included verdicts. Dev labels are AI visual pseudo-labels, not official ground truth.",
+  "accuracy_by_source": {
+    "dev_pseudo": {
+      "n": 311,
+      "correct": 264,
+      "accuracy": 0.8488745980707395,
+      "failures": 0
+    },
+    "train_original": {
+      "n": 1123,
+      "correct": 1096,
+      "accuracy": 0.9759572573463936,
+      "failures": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "metrics": {
+    "train_runtime": 5579.6593,
+    "train_samples_per_second": 1.028,
+    "train_steps_per_second": 0.129,
+    "total_flos": 7.166654743058783e+17,
+    "train_loss": 0.06219924027079834,
+    "epoch": 1.0
+  },
+  "final_eval": {
+    "eval_loss": 0.047006428241729736
+  },
+  "elapsed_seconds": 6041.916306907,
+  "peak_allocated_gb": 59.74760341644287,
+  "peak_reserved_gb": 60.25,
+  "checkpoint_selection": "final step; validation loss is monitored, not used for best-checkpoint selection"
+}

@@ -1,0 +1,11 @@
+# 원본 노트북에서 확인한 핵심 패키지. GPU용 Torch/CUDA와 특수 wheel은 env.md 및 노트북 설치 셀을 확인하세요.
+torch==2.11.0
+torchvision==0.26.0
+torchaudio==2.11.0
+transformers>=4.43.2,<5.0.0
+accelerate>=0.34.2
+peft>=0.13.2
+bitsandbytes>=0.43.3
+datasets
+pillow
+pandas

@@ -1,0 +1,7 @@
+# 원본 노트북에서 확인한 핵심 패키지. GPU용 Torch/CUDA와 특수 wheel은 env.md 및 노트북 설치 셀을 확인하세요.
+vllm>=0.12.0
+transformers>=5.0.0rc0
+compressed-tensors
+huggingface_hub
+pillow
+pandas

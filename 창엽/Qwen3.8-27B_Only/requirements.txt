@@ -1,0 +1,6 @@
+# 원본 노트북에서 확인한 핵심 패키지. GPU용 Torch/CUDA와 특수 wheel은 env.md 및 노트북 설치 셀을 확인하세요.
+transformers==5.17.0
+accelerate==1.15.0
+peft==0.21.0
+gptqmodel==7.5.0
+optimum==2.3.0

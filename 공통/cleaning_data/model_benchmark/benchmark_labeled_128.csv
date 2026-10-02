@@ -1,0 +1,129 @@
+﻿source_idx,id,path,question,a,b,c,d,answer
+6911,dev_2240.jpg,dev/dev_2240.jpg,이 사진 속 피자 제품 중 'Ristorante' 브랜드의 'PIZZA QUATTRO FORMAGGI' 피자의 무게는 얼마인가요?,300g,355g,400g,340g,d
+457,train_0544.jpg,train/train_0544.jpg,사진 속 쓰레기통에 적힌 '일반쓰레기'라는 표시는 무엇을 의미하나요?,유해 폐기물 쓰레기,일반적으로 버리는 쓰레기,음식물 쓰레기 전용,재활용이 가능한 쓰레기,b
+6904,dev_2232.jpg,dev/dev_2232.jpg,이 이미지에서 '오레오' 제품은 몇 가지 종류가 보이나요?,1가지,3가지,2가지,4가지,d
+1649,train_1991.jpg,train/train_1991.jpg,"버스 승객 안전 규칙에 따르면, 승객이 차량 운행 중에 반드시 해야 하는 행동은 무엇인가요?",자리 이동하기,손잡이 잡기,미리 일어나기,휴대폰 사용하기,b
+2892,train_3477.jpg,train/train_3477.jpg,사진에 보이는 간판에 적힌 전화번호는 무엇인가요?,051-972-0750,010-9999-8888,02-345-6789,031-123-4567,a
+6305,dev_1207.jpg,dev/dev_1207.jpg,이 장소에서 흡연이 허용되는 곳이 아닌 곳은 어디인가요?,콘도동,흡연장,파이오니아홀,금연구역,d
+2510,train_3014.jpg,train/train_3014.jpg,"이 수납함의 가로, 세로, 높이 중 가장 긴 길이는 얼마인가요?",약 44cm,약 27.5cm,약 26cm,약 33cm,a
+3942,train_4739.jpg,train/train_4739.jpg,이 건물 앞 안내판에 적혀 있지 않은 내용은 무엇인가요?,치과,리프팅,피부과,비만클리닉,a
+2077,train_2482.jpg,train/train_2482.jpg,이 포스터에서 강조하는 문구는 무엇인가요?,성공을 위한 최고의 선택 삼성화재,당신에게 좋은 보험 삼성화재,오늘도 열심히 준비하는 당신이 프로!,고객을 위한 최상의 서비스,c
+2107,train_2519.jpg,train/train_2519.jpg,이 락커에서 '1-9' 번호가 붙은 락커는 어디에 위치해 있나요?,"두 번째 줄, 네 번째 칸","세 번째 줄, 두 번째 칸","첫 번째 줄, 다섯 번째 칸","두 번째 줄, 세 번째 칸",a
+5403,train_6551.jpg,train/train_6551.jpg,이 바구니 안에 들어있는 주류의 종류는 무엇인가요?,와인,맥주,위스키,사케,c
+79,train_0094.jpg,train/train_0094.jpg,마우스 패드에 적힌 문구 중 'SSAFY' 바로 아래에 적힌 내용은 무엇인가요?,Samsung SW Academy For Young,Samsung Software Academy For Youth,Software AI Academy For Youth,Samsung SW·AI academy For Youth,d
+6114,dev_0918.jpg,dev/dev_0918.jpg,이 냉동 아이스크림 진열대에서 '콘이랑 원더' 아이스크림의 가격은 얼마인가요?,"1,500원","3,000원","2,500원","2,000원",c
+2669,train_3200.jpg,train/train_3200.jpg,사진 속 빌딩에 적힌 한의원 이름은 무엇인가요?,그린컴,PEARLY,경락한의원,GLASS 해녀안경,c
+6682,dev_1821.jpg,dev/dev_1821.jpg,이 서점에서 제공하는 오늘의 추천 도서와 관련된 행사는 언제 열리나요?,11월 16일 오후 3시,11월 20일 오후 5시,10월 30일 오전 11시,12월 1일 오후 2시,a
+4960,train_5992.jpg,train/train_5992.jpg,이 우유 팩에 적힌 내용 중 '1등급 신선한 목장우유'라고 표시된 것은 무엇을 의미하나요?,우유의 포장 크기를 나타낸다,우유의 가격이 1등급이다,우유가 1리터임을 의미한다,우유의 신선도와 등급을 나타낸다,d
+5111,train_6187.jpg,train/train_6187.jpg,사진 속 놀이기구 이름은 무엇인가요?,QUEEN,PRINCE,KING,JOKER,c
+5963,dev_0687.jpg,dev/dev_0687.jpg,사진 속 건물 2층에 위치한 업소는 무엇을 하는 곳인가요?,찜노래방,나무구인중개사,노래 연습장,피트니스,c
+251,train_0300.jpg,train/train_0300.jpg,이 건물의 3층에 있는 가게 이름은 무엇인가요?,방탈출카페,전국 1등 가차샵,보드카페,히든토이,a
+842,train_1025.jpg,train/train_1025.jpg,이 건물 외벽에 적혀 있는 간판의 글자는 무엇인가요?,multicampu,multicampas,multicampuss,multicampus,d
+3151,train_3800.jpg,train/train_3800.jpg,이 건물 2층에 위치한 병원의 진료과목이 아닌 것은 무엇인가요?,요로결석 치료,내과,피부과,비뇨기과,b
+4639,train_5598.jpg,train/train_5598.jpg,다음 중 이미지에 보이는 제품의 이름으로 올바른 것은 무엇인가요?,동원 참치,동원 스팸,스팸 클래식 싱글,스팸 클래식 싱글과 동원 고추참치,d
+1741,train_2094.jpg,train/train_2094.jpg,이 머그컵에 적힌 문구는 무엇인가요?,Cinnamon Haus,Sweet Aroma,Morning Brew,Coffee Time,a
+3960,train_4764.jpg,train/train_4764.jpg,이 이미지 속 웨이팅 화면에 표시된 현재 웨이팅 팀 수와 예상 대기 시간은 무엇인가요?,"45팀, 53분","35팀, 45분","54팀, 53분","53팀, 54분",d
+2406,train_2884.jpg,train/train_2884.jpg,사진 속 건물에 있는 간판 중 '고등영어'를 가르치는 학원의 이름은 무엇인가요?,하이퍼고등영어,서울국어논술학원,에이스과학,펜톤미술학원,a
+2018,train_2416.jpg,train/train_2416.jpg,이 제품의 이름은 무엇인가요?,Gillette Cool Wave,Gillette Power Boost,Gillette Fusion ProGlide Sensitive,Gillette Classic,c
+2094,train_2501.jpg,train/train_2501.jpg,컵에 적힌 문구는 무엇인가요?,Twyla Tharp,SEOUL BREW Since 2022 서울 브루 - 2022년,영감의 기록,THE CREATIVE HABIT 창조하는 습관,b
+6187,dev_1017.jpg,dev/dev_1017.jpg,이 매장에서 판매하는 '바스켓 지우개'의 가격은 얼마인가요?,"3,000원","1,800원","4,000원","2,000원",d
+6098,dev_0897.jpg,dev/dev_0897.jpg,이 전시의 안내문에 적힌 일본어 '立入禁止'는 무슨 뜻인가요?,출입 금지,사진 촬영 금지,애완동물 출입 금지,음식물 반입 금지,a
+2436,train_2925.jpg,train/train_2925.jpg,이 이미지에서 벽에 적힌 문구 중 대회와 관련된 문구는 무엇인가요?,GRAY START,EASY HOLD,2024 COMPETITION CHALLENGE,NAVY TOP,c
+1025,train_1235.jpg,train/train_1235.jpg,스카이링크 안내판에 표시된 게이트 중 없는 것은 무엇인가요?,C,A,B,D,d
+5803,dev_0410.jpg,dev/dev_0410.jpg,사진 속 냉장고 진열대에서 '체다치즈' 제품의 가격은 얼마인가요?,"4,490원","9,850원","3,990원","5,990원",b
+4467,train_5393.jpg,train/train_5393.jpg,"우시라멘 메뉴 중에서 가격이 10,000원인 음식은 무엇인가요?",소유라멘,돈가스정식,오야꼬동,남작우동 SET,a
+2069,train_2473.jpg,train/train_2473.jpg,사진 속 노란색 차단막에 적힌 문구는 무엇인가요?,주의 깊게,통행 금지,안전 제일,위험 경고,c
+1009,train_1216.jpg,train/train_1216.jpg,이 책의 제목은 무엇인가요?,Short Stories,One-Way Ticket,OXFORD UNIVERSITY PRESS,Tom Walsh,b
+6239,dev_1096.jpg,dev/dev_1096.jpg,사진 속 커피 컵에 적힌 브랜드 이름은 무엇인가요?,MEGA MGC STATION,MEGA COFFEE,MEGA MGC COFFEE,MEGA COFFEE STATION,c
+4705,train_5675.jpg,train/train_5675.jpg,이 사진에 보이는 그릇 세트에 적혀 있는 내용 중 맞는 것은 무엇인가요?,COFFEE,PEPPER,SALT SHAKER,SUGAR,b
+5326,train_6454.jpg,train/train_6454.jpg,책꽂이에 꽂혀 있는 책 중에서 '국가론'이라는 제목이 붙은 책의 저자는 누구인가요?,강성태,유발 하라리,플라톤,정재승,c
+5101,train_6176.jpg,train/train_6176.jpg,이 식당의 간판에 적힌 식당 이름은 무엇인가요?,만두전골 디안,디안 만두집,만두전골 집,디안 만두전골,d
+101,train_0120.jpg,train/train_0120.jpg,이 상자에 담긴 농산물은 무엇인가요?,양파,감자,고구마,사과,b
+7081,dev_2538.jpg,dev/dev_2538.jpg,이 거리에서 '키스키스'는 어떤 종류의 업소인가요?,부대찌개 식당,모텔,노래방,김치찜 전문점,c
+1915,train_2299.jpg,train/train_2299.jpg,유성구종합사회복지관은 몇 미터 떨어져 있나요?,400m,100m,200m,300m,d
+3431,train_4138.jpg,train/train_4138.jpg,빨간색 포장지에 적힌 아이스크림의 맛은 무엇인가요?,바닐라,딸기,녹차,밀크초코,d
+2588,train_3106.jpg,train/train_3106.jpg,피코크 파슬리 9g의 가격은 얼마인가요?,"3,200원","5,000원","4,180원","4,640원",c
+3857,train_4641.jpg,train/train_4641.jpg,천장에 설치된 기기의 브랜드는 무엇인가요?,EPSON,SONY,LG,SAMSUNG,a
+3774,train_4550.jpg,train/train_4550.jpg,이 비석에 새겨진 진도-해남 농촌용수 연결사업 기념비를 세운 날짜는 언제인가요?,2020년 3월 20일,2019년 5월 15일,2022년 4월 1일,2021년 7월 12일,c
+3412,train_4110.jpg,train/train_4110.jpg,이 건물에 있는 간판에 적힌 상호명은 무엇인가요?,daiso,emart,muji,lotte,a
+2678,train_3211.jpg,train/train_3211.jpg,이 건물 2층에 위치한 '작심스터디카페' 전화번호는 무엇인가요?,010-8845-5925,010-1234-5678,010-8845-5935,010-8255-5080,c
+132,train_0154.jpg,train/train_0154.jpg,이 건물에 있는 안경점의 이름은 무엇인가요?,돈까스킹,소문난 동태탕,와이케이 안경,역곡오리,c
+2423,train_2905.jpg,train/train_2905.jpg,영수증에 적힌 김밥 가격은 얼마인가요?,"3,500원","8,000원","5,000원","11,500원",a
+3869,train_4654.jpg,train/train_4654.jpg,이 단백질바의 중량은 얼마인가요?,50g,12g,48g,3g,a
+3947,train_4746.jpg,train/train_4746.jpg,음료 캔에 적혀 있는 글자는 무엇인가요?,고향집 식혜,전통 식초,전통 식혜,고향집 식초,a
+3666,train_4419.jpg,train/train_4419.jpg,벽에 붙어 있는 포스터에 적힌 커피와 디저트 가게의 이름은 무엇인가요?,SWEET MOMENTS,COFFEE & DESSERT,TWO SOME PLACE,PREMIUM COFFEE,c
+4941,train_5968.jpg,train/train_5968.jpg,이 안내문에 따르면 어디에서 만날 수 있다고 적혀 있나요?,홍대입구역점,강남역점,명동역점,영등포역점,d
+3095,train_3732.jpg,train/train_3732.jpg,이 이미지에서 노란색 간판에 적힌 문구는 무엇인가요?,네일빛깔라,네일빚깔,네일빚깔라,네일빛깔,d
+1078,train_1299.jpg,train/train_1299.jpg,이 부동산 중개업소의 대표 이름은 무엇인가요?,박승수,최준호,김영희,이민호,a
+6512,dev_1553.jpg,dev/dev_1553.jpg,사진에 보이는 간판 중 'KARAOKE'가 적혀 있는 장소는 몇 층에 있나요?,5층,10층,6층,2층,a
+1721,train_2071.jpg,train/train_2071.jpg,사진 속 제품은 무엇을 처리하는 기기인가요?,로봇 청소기,음식물 처리기,세탁기,공기 청정기,b
+4172,train_5027.jpg,train/train_5027.jpg,선비꼬마김밥에서 진행하는 포토네컷 콘테스트에서 1등에게 주어지는 신세계 상품권 금액은 얼마인가요?,30만원,50만원,100만원,10만원,b
+7046,dev_2481.jpg,dev/dev_2481.jpg,스무디 머신을 이용할 때 컵 상단에서 제거해야 하는 것은 무엇인가요?,컵 뚜껑과 빨대,플라스틱 뚜껑과 필름,필름만,뚜껑만,b
+2865,train_3446.jpg,train/train_3446.jpg,이 경기에서 두산 베어스 투수 '이영하'가 기록한 시즌 승리는 몇 개인가요?,3,5,4,2,b
+712,train_0852.jpg,train/train_0852.jpg,이미지에 보이는 광고 문구는 무엇인가요?,GUINNESS for everyone,GUINNESS is the best,GUINNESS is good for you,GUINNESS tastes great,c
+332,train_0396.jpg,train/train_0396.jpg,이 건물에 입점해 있는 상점의 이름은 무엇인가요?,Salvatore Ferragamo,Gucci,Louis Vuitton,Prada,a
+1616,train_1955.jpg,train/train_1955.jpg,이 그래놀라 제품의 특징으로 옳은 것은 무엇인가요?,무설탕 그래놀라,저당 렌틸 오트 그래놀라,고당분 그래놀라,고지방 렌틸 오트 그래놀라,b
+496,train_0586.jpg,train/train_0586.jpg,가게 간판에 적힌 상호명은 무엇인가요?,다시다 대흥상회 다시다,장죽 문어구이 식혜 구매,일반 식혜 단호박 식혜,미니멜츠 구슬아이스크림,a
+6243,dev_1102.jpg,dev/dev_1102.jpg,이 피규어가 전시된 곳에서 판매 가격은 얼마인가요?,"32,000원","100,000원","64,000원","45,000원",c
+3154,train_3804.jpg,train/train_3804.jpg,이 간판에 적힌 음료의 종류는 무엇인가요?,리얼 수박주스,리얼 포도주스,리얼 사과주스,리얼 오렌지주스,a
+2189,train_2621.jpg,train/train_2621.jpg,이 책은 어떤 기업의 온라인 인적성검사 준비를 위한 기본서인가요?,현대자동차,CJ그룹,삼성전자,LG전자,b
+1438,train_1741.jpg,train/train_1741.jpg,사진 속에 보이는 브랜드 이름은 무엇인가요?,HARRY WILSON,HARRY WINSTON,HARRIS WINTON,HARVEY WINSLOW,b
+1075,train_1295.jpg,train/train_1295.jpg,이 티셔츠 판매대에 걸려 있는 티셔츠의 가격은 얼마인가요?,"\29,900","\39,900","\49,900","\19,900",a
+2098,train_2506.jpg,train/train_2506.jpg,이 사진 속 푸른색 아치 구조물에 적힌 글귀 중 옳은 것은 무엇인가요?,유성 온천,서울 타워,부산 해변,제주 올레길,a
+3053,train_3682.jpg,train/train_3682.jpg,이 게시판에 붙일 때 사용하면 안 되는 것은 무엇인가요?,일체의 테이프 및 접착제,끈,핀,자석 이용,a
+3353,train_4043.jpg,train/train_4043.jpg,'후라이드 참 잘하는 집'에서 후라이드 방문포장 가격은 얼마인가요?,"8,000원","15,000원","12,000원","10,000원",c
+3231,train_3898.jpg,train/train_3898.jpg,이 닌텐도 스위치 박스에 적힌 모델 이름은 무엇인가요?,Nintendo Switch OLED 모델 스플래툰 3 에디션,Nintendo Switch OLED 모델 마리오 에디션,Nintendo Switch 라이트 모델 스플래툰 2 에디션,Nintendo Switch 기본 모델 젤다 에디션,a
+308,train_0367.jpg,train/train_0367.jpg,이 음식점의 이름은 무엇인가요?,용호전골,송도낙지,낙곱새,용호낙지,d
+2080,train_2487.jpg,train/train_2487.jpg,영수증에 적혀 있는 바닐라라떼 가격은 얼마인가요?,"6,000","4,500","5,500","5,000",c
+2223,train_2663.jpg,train/train_2663.jpg,이 가게에서 제공하는 와이파이 비밀번호는 무엇인가요?,1811BANAPRESSO,BANAPRESSO1811,18111111,BANAPRESSO,c
+6805,dev_2025.jpg,dev/dev_2025.jpg,이 건물 4층에 위치한 공간의 이름은 무엇인가요?,컴포즈 커피,EM 영어전문학원,어반피크닉 워터파티룸,미르 24 스터디 카페,c
+2689,train_3223.jpg,train/train_3223.jpg,'SNACK | 스낵' 메뉴에서 즉석구이오징어의 가격은 얼마인가요?,"5,000원","5,500원","6,000원","4,500원",b
+2045,train_2444.jpg,train/train_2444.jpg,이 행사 이름은 무엇인가요?,Summer Beach Festival,Water Music Pool Party,Ocean Dance Night,Blue Wave Concert,b
+3535,train_4259.jpg,train/train_4259.jpg,이미지 속 태그에 적힌 '체크 소프트 헤어리 머플러'의 색상과 가격은 무엇인가요?,"SKY BLUE, 39000원","RED, 45000원","WHITE, 40000원","BLACK, 35000원",a
+2226,train_2666.jpg,train/train_2666.jpg,이미지 속 안내문에서 폐토너통을 꺼낼 때 어떻게 해야 한다고 적혀 있나요?,천천히 꺼내야 한다,한 번에 꺼내야 한다,빠르게 꺼내야 한다,힘을 줘서 꺼내야 한다,a
+3181,train_3838.jpg,train/train_3838.jpg,이 술병 라벨에 적힌 이름은 무엇인가요?,참이슬,청하,한라산,맑은린,d
+4526,train_5463.jpg,train/train_5463.jpg,이 모기채 제품에 대해 설명한 내용 중 맞는 것은 무엇인가요?,헤드는 본체에 고정되어 있지 않다,간편한 건전지 타입이 아니다,버튼을 동시에 눌러야 작동한다,AAA 건전지 4개가 필요하다,c
+3307,train_3986.jpg,train/train_3986.jpg,이 이미지에 있는 상가 임대 안내에서 1층의 임대 면적은 얼마인가요?,160㎡,304㎡,200㎡,158㎡ + 20㎡,d
+534,train_0634.jpg,train/train_0634.jpg,이 장소의 Wi-Fi 비밀번호는 무엇인가요?,c0428236699,Wi-Fi 비밀번호,I D,CongAL_KT_5G,a
+2317,train_2773.jpg,train/train_2773.jpg,이미지 속 중앙에 있는 선수의 유니폼에 적힌 글자는 무엇인가요?,チ?ズ,メグミルク,ロッテリア,グリコ,d
+6137,dev_0949.jpg,dev/dev_0949.jpg,이 건물에 있는 간판 중 전화번호가 적힌 가게는 어디인가요?,바다 PC,크라운,J원 도나츠 & 과배기,사랑으로 3동,c
+865,train_1049.jpg,train/train_1049.jpg,만년닭강정 가게의 영업시간은 언제부터 언제까지인가요?,오전 10시부터 오후 10시까지,오전 9시부터 오후 11시까지,오전 11시부터 오후 12시까지,오전 8시부터 오후 9시까지,b
+1789,train_2151.jpg,train/train_2151.jpg,이 식당에서 전문으로 하는 음식은 무엇인가요?,냉면,비빔밥,찌개,석쇠구이,d
+1677,train_2022.jpg,train/train_2022.jpg,이 편의점에서 사용할 수 있다고 안내한 지원금은 무엇인가요?,농업 지원금,고유가 지원금,교육 지원금,청년 지원금,b
+996,train_1200.jpg,train/train_1200.jpg,호두과자의 13개 가격은 얼마인가요?,"6,000원","12,000원","10,000원","3,000원",a
+87,train_0105.jpg,train/train_0105.jpg,이 표지판에 따르면 TOEIC 영어 말하기·쓰기 시험은 어느 층에서 치러지나요?,3층,1층,10층,5층,c
+2778,train_3332.jpg,train/train_3332.jpg,이 사진에서 보이는 도로명 표지판에 적힌 길 이름은 무엇인가요?,청담동로,테헤란로 34길,강남대로,삼성로,b
+6304,dev_1206.jpg,dev/dev_1206.jpg,이 초콜릿 포장지에 적힌 브랜드 이름은 무엇인가요?,LINDT,CADBURY,HERSHEY'S,BEN & JERRY'S,d
+4756,train_5740.jpg,train/train_5740.jpg,이 사진에서 보이는 건물 이름은 무엇인가요?,메디타워,서울타워,코엑스,테헤란로 빌딩,a
+1022,train_1232.jpg,train/train_1232.jpg,정품 등록 혜택으로 제공되지 않는 것은 무엇입니까?,제품 구매 후 60일 이내 등록 시 추가 혜택 제공,"제품 수리, 액세서리 구매, 아카데미 수강 할인 쿠폰 제공",다양한 이벤트 및 출사 혜택,1+1 무상수리 제공,a
+3388,train_4084.jpg,train/train_4084.jpg,이 사물에 붙어 있는 숫자는 무엇인가요?,342,432,243,234,c
+2034,train_2433.jpg,train/train_2433.jpg,이 사진에 보이는 큰 초록색 표지판에는 어떤 부대 이름이 적혀 있나요?,제55보병사단,제54기계화사단,제56보병사단,제55기계화사단,a
+5325,train_6453.jpg,train/train_6453.jpg,위 이미지에서 '건강하고 맛있게 보관이 가능한' 용기의 재질은 무엇인가요?,종이,금속,플라스틱,유리,d
+1786,train_2148.jpg,train/train_2148.jpg,이미지에 걸려 있는 티셔츠에 적힌 문구는 무엇인가요?,매일의 기록,데일리 베이직 - 코튼 티셔츠,한라산,숲 속 산책,b
+2399,train_2875.jpg,train/train_2875.jpg,이 컵밥 제품 중에서 '진짬뽕밥'에 대해 어떤 문구가 적혀 있나요?,종이컵,국산쌀 100%,옛날 누룽지,20% UP,d
+1149,train_1389.jpg,train/train_1389.jpg,이 과자의 1회 제공량 당 열량은 얼마인가요?,176 kcal,350 kcal,112 kcal,22 kcal,c
+1921,train_2305.jpg,train/train_2305.jpg,이 건물에서 3층에 위치한 기관은 무엇인가요?,CURE PILATES,필라테스 아카데미,한국인재교육원 행정실,트레이닝 아카데미,d
+1033,train_1247.jpg,train/train_1247.jpg,'らくらく定食'의 가격은 얼마인가요?,1500円,950円,1800円,1200円,a
+5283,train_6397.jpg,train/train_6397.jpg,이 케이크에 붙어 있는 상호명은 무엇인가요?,CHEFCHO,DOW'S,2020,PORT,a
+1352,train_1635.jpg,train/train_1635.jpg,이 사진에 보이는 간판에 적힌 문구는 무엇인가요?,MUSIC IS LIFE.,LISTEN TO MUSIC.,"NO MUSIC, NO LIFE.",TOWER RECORDS FOREVER,c
+5964,dev_0689.jpg,dev/dev_0689.jpg,"이미지 속 냉장고에 붙어 있는 안내문 중, 사용 후 반드시 해야 하는 것은 무엇인가요?",사용 후 반드시 문을 닫기,사용 후 반드시 시건장치함,사용 후 반드시 청소하기,사용 후 반드시 온도 확인하기,b
+6803,dev_2019.jpg,dev/dev_2019.jpg,왼쪽 티셔츠에 적힌 문구는 무엇인가요?,I want whisky,I want water,I want tea,I want coffee,d
+5368,train_6506.jpg,train/train_6506.jpg,이 영화 '건국전쟁2 프리덤파이터'의 전국 개봉일은 언제인가요?,8월 15일,12월 25일,10월 9일,9월 10일,d
+4235,train_5101.jpg,train/train_5101.jpg,이 건물의 간판에 적힌 기관명은 무엇인가요?,국민연금,국민건강보험,국민은행,국립중앙박물관,a
+5281,train_6395.jpg,train/train_6395.jpg,오리온에서 판매하는 '참 붕어빵' 한 박스에는 몇 마리가 들어 있나요?,5마리,12마리,30마리,18마리,d
+230,train_0273.jpg,train/train_0273.jpg,이 지하 주차장 입구에 적혀 있는 차량 높이 제한은 얼마인가요?,2.5M,3.0M,1.5M,2.0M,d
+763,train_0918.jpg,train/train_0918.jpg,사진 속 안내판에서 '팩 렌즈 특별가' 행사는 어떤 품목과 관련이 있나요?,콘택트 렌즈,안경 렌즈,안경 닦이,안경테,a
+742,train_0894.jpg,train/train_0894.jpg,이 이미지에 보이는 간판 중 '코인 노래 연습장'이 적힌 곳의 상호명은 무엇인가요?,프렌즈,코인 노래 연습장,Fabulas de Coco,천문,a
+3651,train_4403.jpg,train/train_4403.jpg,이 부동산 중개사무소의 전화번호는 무엇인가요?,987-6543,721-7558,123-4567,555-1234,b
+6885,dev_2200.jpg,dev/dev_2200.jpg,사진 속 과자의 종류 중 '화이트하임'에는 어떤 크림이 들어있나요?,헤이즐넛 크림,초코 크림,딸기 크림,바닐라 크림,a
+6236,dev_1089.jpg,dev/dev_1089.jpg,에드워드 리 셰프 컬렉션 햄버거 중에서 이미지에 체크 표시가 되어 있는 메뉴는 무엇인가요?,불고기버거,치즈버거,싸이버거,베이컨버거,c
+5940,dev_0648.jpg,dev/dev_0648.jpg,이 가게의 전화번호는 무엇인가요?,070-8153-4770,02-501-7669,010-5334-8808,031-1234-5678,a
+5362,train_6500.jpg,train/train_6500.jpg,이 도로 표지판에 표시된 도로 이름은 무엇인가요?,강남대로,삼성로,테헤란로,역삼로,c
+1046,train_1263.jpg,train/train_1263.jpg,사진 속 간판에 적힌 상호명은 무엇인가요?,casamia,CASAMIAL,PET FRIENDLY ZONE,GLASS GARDEN,a
+5993,dev_0735.jpg,dev/dev_0735.jpg,이 대기 화면에서 2인석 대기 팀 수는 몇 팀인가요?,0팀,3팀,12팀,9팀,d
+3024,train_3646.jpg,train/train_3646.jpg,이 건물의 2층에 위치한 부동산 사무소의 전화번호는 무엇인가요?,123-4567,755-2400,010-1234-5678,02-987-6543,b
+4213,train_5076.jpg,train/train_5076.jpg,이 광고판에 등장하는 PLAVE는 GS25와 어떤 관계인가요?,GS25는 PLAVE의 제품을 판매하지 않는다,GS25에서 PLAVE를 만날 수 있다,PLAVE는 GS25의 새로운 이름이다,PLAVE는 GS25의 경쟁사이다,b
+5303,train_6422.jpg,train/train_6422.jpg,이 약품의 용량은 얼마인가요?,10mL,5mL,20mL,14mL,d
+2112,train_2525.jpg,train/train_2525.jpg,사진에 보이는 고양이 사료 봉투에 적힌 무게는 얼마인가요?,10KG,25KG,20KG,15KG,c
+95,train_0113.jpg,train/train_0113.jpg,이 광고판에 나오는 야구 선수의 등 번호는 무엇인가요?,7,17,27,71,b
+6035,dev_0798.jpg,dev/dev_0798.jpg,이 칠판에 적힌 'Share of Salt Bread'에 관한 설명 중 올바른 것은 무엇인가요?,빵의 바깥쪽은 부드럽고 안쪽은 바삭하다.,부풀어 오른 부분은 바삭한 식감을 가지고 있다.,조합된 식감이 버터 향을 느끼게 한다.,좁은 꼬리 부분은 풍부한 식감을 가지고 있다.,c

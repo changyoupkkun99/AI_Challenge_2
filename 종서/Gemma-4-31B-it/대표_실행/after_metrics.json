@@ -1,0 +1,41 @@
+{
+  "run_id": "20260925T124050809287Z-gemma4-31b-full-bf16",
+  "stage": "after",
+  "role": "local",
+  "profile": "full",
+  "model_name": "google/gemma-4-31B-it",
+  "quantization": "none",
+  "dtype": "bf16",
+  "checkpoint_signature": "b0af170f1a526c24525f5b092e6e885274aa746ff843de9326f382f899eeebd4",
+  "eval_signature": "99a1aea2234c74b2aeba15969090ce7de0b7d9de56a4219ee58904fa9a7a2d15",
+  "template_sha256": "1ae50c25a46588b30b82c4d519360cb8e8184b621b32213710ee40e600bea5b5",
+  "timing_signature": "20d4206326ce0bf7334843f6477e331153a7ea887755dd9ee9c378f8173d3457",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "n": 1434,
+  "correct": 1400,
+  "accuracy": 0.9762900976290098,
+  "failures": 0,
+  "format_failures": 0,
+  "run_failures": 0,
+  "latency_p50_ms": 391.1186830000588,
+  "latency_p95_ms": 394.31089499958034,
+  "peak_allocated_gb": 59.31649303436279,
+  "peak_reserved_gb": 59.478515625,
+  "memory_measurement": "PyTorch allocator, evaluation phase only; not total GPU VRAM",
+  "adapter_sha256": "573747f4681761a20af768b40efde0770c0d478a5bc2430a392e524647970f1d",
+  "label_policy": "Train original labels retained only for saved included verdicts. Dev labels are AI visual pseudo-labels, not official ground truth.",
+  "accuracy_by_source": {
+    "dev_pseudo": {
+      "n": 311,
+      "correct": 282,
+      "accuracy": 0.9067524115755627,
+      "failures": 0
+    },
+    "train_original": {
+      "n": 1123,
+      "correct": 1118,
+      "accuracy": 0.9955476402493322,
+      "failures": 0
+    }
+  }
+}
