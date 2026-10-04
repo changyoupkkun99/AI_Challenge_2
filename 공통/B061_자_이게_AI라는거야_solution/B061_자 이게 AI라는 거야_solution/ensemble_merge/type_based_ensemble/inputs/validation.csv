@@ -1,0 +1,1097 @@
+id,question,answer,label_source,image_group,model_01,model_02,model_03,model_04
+train_0002.jpg,이 식당 '오봉집'에서 판매하는 대표 메뉴는 무엇인가요?,a,train_original,97da18b9f8e39ea30b62587d334731f90fb96383ac58e477d35979cad0d6b328,a,a,a,a
+train_0010.jpg,사진 속 영수증에서 결제된 금액은 얼마인가요?,d,train_original,109ae2af0840ca36366c8f9aaeec387a79b7cb088f8acfe098bee06f74ab0e1d,d,d,d,d
+train_0022.jpg,사진에 보이는 대형 글자들은 무엇이라고 적혀 있나요?,c,train_original,aa82efb8b5d9a299b307f1395f749b49c0911130e683cc64957dbeea9a45e8b3,c,c,c,c
+train_0028.jpg,이 김밥 가게에서 가장 저렴한 김밥은 무엇인가요?,b,train_original,9b772f1afa6fffbe529f02d23afe04a0085145ddbea7698029101995bf95e5ce,b,b,b,b
+train_0035.jpg,이 가게의 이름은 무엇인가요?,b,train_original,246229bc0cfc525321dfb5c7ddf28095f49188df14b98afcd3194d7955db5759,b,b,b,b
+train_0045.jpg,이 자판기에서 '윤무차' 한 잔의 가격은 얼마인가요?,b,train_original,737eec945dceaf9013e670a70a3184c244e5bd0a45c7b2041071eab322df8756,b,b,b,b
+train_0051.jpg,녹색 박스에 적힌 과자의 맛은 무엇인가요?,a,train_original,a050f9ef4cdf68c93cd7604b141a31bb8bb0c0cdd148e5d36f4febe87af940ea,a,a,a,a
+train_0061.jpg,이 화면에서 축하 메시지와 함께 보여지는 무기의 이름은 무엇인가요?,b,train_original,e11d9909d426be1a67d52df67ccdc14c2bf0062b3627660f35d02e1a7b891c3f,b,b,b,b
+train_0076.jpg,상자에 적힌 텍스트는 무엇을 의미하나요?,b,train_original,24f5e9d1c4b8c414c166f5a4165156b44573ca38318c8b301822df64045bfa68,b,b,b,b
+train_0085.jpg,이 안내판은 어떤 캠퍼스의 배치도를 보여주고 있나요?,a,train_original,0fe9a478fd78bf3c7e142d80bbb42e50f08de6322bf212090bfaeda2f5e9df32,a,a,a,a
+train_0091.jpg,이 가게의 이름은 무엇인가요?,b,train_original,aee2e1cdfe7996b9fcf0dd6ca7f697c89898d1edd604df70f6da087f2617c457,b,a,b,b
+train_0094.jpg,마우스 패드에 적힌 문구 중 'SSAFY' 바로 아래에 적힌 내용은 무엇인가요?,d,train_original,559fe66363b179e7d3bd9d008ebea634356dae53fab0885851124004201a2603,d,d,d,d
+train_0101.jpg,사진 속 병에 적힌 술 이름은 무엇인가요?,b,train_original,b2b9e9954b8eddc4f83bc959dfb14d08478ae1e54729dc55379837113646907a,b,b,b,b
+train_0107.jpg,이미지에 보이는 제품 중에서 '100% PURE'라고 적혀 있는 것은 무엇인가요?,a,train_original,354628ed06f232db791bc84e53614314b9a47131bd871aeb9db62f3fff15bbdd,a,a,a,a
+train_0122.jpg,이미지 속 광고에서 '예쁘고 슬림한 바디라인 만들기'를 위해 강조하는 시술은 무엇인가요?,b,train_original,9ce4532e6f967a70a3277ab7cf4426c1c3cacf921200dd68e6325ba74733af2d,b,b,b,b
+train_0150.jpg,이 건물에 있는 '알앤 비성형외과'의 위치는 어디인가요?,d,train_original,944a059e6d0e91a6c6f5608503c9beccab8845886ab6377d0906510e83d75dd3,d,d,d,d
+train_0161.jpg,메뉴판에 따르면 '메가에이드'의 가격은 얼마인가요?,c,train_original,dc8604f8314e64163688b19e9f4eae5604fe89425f0d5397a4318148fb194167,c,c,c,c
+train_0162.jpg,이미지의 전광판에 적힌 내용은 무엇인가요?,b,train_original,b68e33d0dafe89df2d7172bf3c1370f86a04e510b16e42a3228a7ca74357a923,b,b,b,b
+train_0167.jpg,이 그림 속에 보이는 간판에 적힌 식당 이름은 무엇인가요?,b,train_original,b91500db9add97f5b3ad6043d4ef1a2c4e839ffa074d6fcf879e7afbbbcbd43e,a,a,b,b
+train_0172.jpg,이 건물의 주소는 무엇인가요?,d,train_original,1495852c223cd225a1b48cd194d531567d4bda17726918eed473d836d27e8780,d,d,d,d
+train_0185.jpg,이 가게에서 제공하는 와이파이 비밀번호는 무엇인가요?,c,train_original,a2572650f469b08d09b672307a01c8e98cff7ee472371d0957deaf71edf6bf17,c,c,c,c
+train_0195.jpg,이 간판에 적힌 문구의 내용은 무엇인가요?,c,train_original,0c5df89f59a070f08050f494231f496f30fa72d43d1aaa591966a090186132d0,c,c,c,c
+train_0203.jpg,냉장고 안에 있는 '달밤 장수 막걸리'의 가격은 얼마인가요?,c,train_original,8d82cf5df84601ef0f1e374e7ce8c1b2168ecca5d0396c2ca4651e37d515b166,c,c,c,c
+train_0206.jpg,이 건물의 이름은 무엇인가요?,c,train_original,48378b56794a9f81bfe361f5a056a3e78743c7a52dfa82e38b53f99a3a53a121,c,c,c,c
+train_0214.jpg,SPAO 건물 내 3층에 위치한 곳은 어디인가요?,a,train_original,4766c01f493d8d5feb7e31988ea74d1d7036ca1fe626440949b51375ede61089,a,a,a,a
+train_0216.jpg,이 만화책 시리즈의 제목은 무엇인가요?,c,train_original,6e6545fdf3efe003beee3e9b6290c101438698fefb3141d5f27e752840c9e480,c,c,c,c
+train_0226.jpg,사진 속 간판에 적힌 업종은 무엇인가요?,b,train_original,e08ef2bd6a7a032c5a1ba549447ce5c6c75dceeda602e79a62a6253369c1db69,b,b,b,b
+train_0227.jpg,이 건물에 위치한 은행의 이름은 무엇인가요?,b,train_original,a298af83c646839688365192e926deff2dbcd14c969ceba36acef620132f23cd,b,b,b,b
+train_0248.jpg,광복 80주년 기념 전시회의 제목은 무엇인가요?,a,train_original,8e96ef90b5377f39715b7bb7c32db22b1f77368301a47dd125badb3224dd5084,a,a,a,a
+train_0249.jpg,이 주유소에서 경유 가격은 얼마인가요?,d,train_original,906456c0d64bfa3856a07e00e58a7b7fa849ba7ac47766bc2ab040c2f5966184,d,d,d,d
+train_0258.jpg,이 건물 입구 위에 걸려 있는 현수막에 적힌 내용은 무엇인가요?,b,train_original,56823cc511b27803320f561dfe271e118b5afebae7621e0bd162db707c0e0d77,b,b,b,b
+train_0271.jpg,이 건물에 위치한 이비인후과의 이름은 무엇인가요?,a,train_original,16482102ba0ac3973ecfe6abd26bca00e16e1718de3b168b881de8717af3a5eb,a,a,a,a
+train_0282.jpg,이 빵집에서 '에그타르트'의 가격은 얼마인가요?,b,train_original,c29f990c8ef35b13317ffe834327229f2682f775f27ed45e4d03a9eca9a1436f,b,a,b,b
+train_0299.jpg,사진 속 문구 중 '반대편 사람 주의!'가 적힌 표지판은 무엇을 경고하고 있나요?,b,train_original,690278f8ad2dd8712049ad47da8c67a9dae1bd6c0e1dc958d69346829fb19488,a,b,b,b
+train_0307.jpg,이 옷 태그에 적힌 셔츠의 가격은 얼마인가요?,c,train_original,980bd2b56779224534a6d5bd186d57d00a91fd08f8660ae7c9fad43386e96d5b,c,c,c,c
+train_0308.jpg,사진 속 간판 '풍년 참숯 갈비'에서 강조하고 있는 고기의 특징은 무엇인가요?,d,train_original,daf50c46e360cd8a30b4684ad1fdc43a1c6aba145b876d04f5a2072b05b65645,d,d,d,d
+train_0314.jpg,이 표지판에 적힌 '세계문화유산 수원화성'은 무엇을 의미하나요?,c,train_original,a7cc97ec87bdc59356e2cea8d70d51312baf0da013d74ab5acf7794169f7bdba,c,c,c,c
+train_0317.jpg,2026 한강 밤샘 캠핑 행사는 어디에서 열리나요?,c,train_original,fb4d2d510cf4d8ae56eccf2a47f8c4485fe3865269fc0f618e38f16d62122d30,c,c,c,c
+train_0350.jpg,이 가게의 이름은 무엇인가요?,c,train_original,2de5bd9ae4a5d2e94731cee354245fa917a025517cc0adebd56628c8a38b6019,c,c,c,c
+train_0352.jpg,이 건물과 트럭에 공통으로 적혀 있는 회사 이름은 무엇인가요?,a,train_original,2eca063f1c2c9ced3cb13719e4dc8360b604387140b7dbaf670b1c1b7faeba74,a,a,a,a
+train_0355.jpg,이 카페의 이름은 무엇인가요?,b,train_original,c2916b1d35c0ed9a5a682db8030c116e1d8acfcd2d3880d3d70de59fcb0127a4,b,b,b,b
+train_0366.jpg,이 장소에서 금연구역 관련 위반 시 부과되는 과태료는 얼마인가요?,c,train_original,264ad570299dc2dafc2fa6a8df6c7b0f2f58d8eccab5867aa4da6289dee075c0,c,c,c,c
+train_0368.jpg,이 건물에 위치한 교회의 이름은 무엇인가요?,b,train_original,3e604576e2ef4dcc4c27430d4e5fb0b342fb9380f81af0782f7bb4fc27c64e3b,b,b,b,b
+train_0375.jpg,이 제품의 이름과 주성분은 무엇인가요?,b,train_original,eae521e3145ca1f68e2597b475a1c1871f4bb0618acde1a4dc37c7bcdb54f312,b,b,b,b
+train_0377.jpg,사진에 보이는 소주 병 라벨에 적힌 브랜드 이름은 무엇인가요?,a,train_original,2ecbac8fd98b84cc82581c4a11b476d91afb35762b710275644cafd2c0905bac,a,a,a,a
+train_0382.jpg,이 표지판에 안내된 시험장의 이름은 무엇인가요?,d,train_original,a87b51cef9c1087694a6e3df05981addfbd6dc9e1e0b648d542000c7c05a4524,d,d,d,d
+train_0385.jpg,사진 속 PC방 이름은 무엇인가요?,d,train_original,5891006d395a902d118779348dcbcb56c6bd932901780cd17ae0bfdc94bc56f8,d,d,d,d
+train_0388.jpg,이 건물 벽에 붙어 있는 여러 표지판 중에서 금연 구역임을 알리는 표지판에는 어떤 문구가 적혀 있나요?,c,train_original,f0119a1fb28d25ec176b7c90fa31c5461a6b2f74879b9f0ac6b8c82483c04b0a,c,c,c,c
+train_0390.jpg,이 가게의 이름은 무엇인가요?,a,train_original,baf922ea0523e8ccd1964eef45b36e4cab61941cf586c5378bb1a13dd5a1d20b,a,a,a,a
+train_0400.jpg,사진 속 약국 이름은 무엇인가요?,a,train_original,cbadbfce73d3de40242684f7059986f0562271d01c3ebdea552e74106cf0ca12,a,a,a,a
+train_0403.jpg,사진에 보이는 '강남구' 문구 바로 아래에 적힌 문구는 무엇인가요?,c,train_original,163c2b5f21d3dd0c702b9929f3ab940e73810785bf9d185607c6fce627be2432,c,c,c,c
+train_0411.jpg,이 표지판에 적힌 문구 중 올바른 내용은 무엇인가요?,b,train_original,bcc433a293be3c1fbb9e0c8c3b196f8d439e122c1bfe8c1c8a308b7d6f155ed4,b,b,b,b
+train_0413.jpg,사진에 보이는 '원메이드' 간판에 적힌 전화번호는 무엇인가요?,a,train_original,0159ac61bff50b859ab4407d0918781a261519819917f61c43cdde391d9bfd1f,a,a,a,a
+train_0418.jpg,이 아이스크림 포장지에 적힌 맛은 무엇인가요?,d,train_original,32a60c271f3ad7cfa81a7113e1e30abc1784fe5649ebb33080b1166214424880,d,d,d,d
+train_0430.jpg,다음 중 '구움과자 LIST'에 포함된 과자가 아닌 것은 무엇인가요?,c,train_original,5bf03c7868369baebf63915111a079d41f2d6e0c87ffadeb8921821580da20e6,c,c,c,c
+train_0431.jpg,사진 속 우편물 보관함에 적혀 있는 우체국 번호는 무엇인가요?,a,train_original,cf20eacf962f59d581589134ee6c7078e7270fded8878ad17e7527176b0db705,a,a,a,a
+train_0434.jpg,사진 속 간판에 적힌 상호명은 무엇인가요?,d,train_original,bcd9d63bbcc6ff3b1019b96a0dcf0fceec3bc42c43425ad8f2a87876037adec5,d,d,d,d
+train_0439.jpg,이미지 속 메뉴판에 적힌 가격은 얼마인가요?,d,train_original,9f8c9232092981645c54d39072b921a275c19571a62f52fc75ac339a2eee5ff5,d,d,d,d
+train_0442.jpg,사진 속 간판에 적힌 상호명은 무엇인가요?,c,train_original,4fc2b8539259b5927e18c5ba36de74b2cbe33fda942af52232257975a738f7e4,c,c,c,c
+train_0444.jpg,이 음식점의 이름은 무엇인가요?,c,train_original,0ce2de4b2deb239e8122160b0cf9542107f3ede0e3f72a20c1c7fe1cf017b30b,c,c,c,c
+train_0449.jpg,이 사진에 있는 조형물 하단에 적힌 문구는 무엇인가요?,a,train_original,e5d0d86ee64ca757db3003e254a9ae781967b4d3ee95266db58c68a3a3713905,a,a,a,a
+train_0450.jpg,이 건물 외벽에 적힌 '농구교실' 전화번호는 무엇인가요?,b,train_original,c66c4e2e5039f6ef8bd2879ca08a51def185d4b4f69e3dcecd9f253f148f4031,b,b,b,b
+train_0451.jpg,이 표지판에 적힌 '불 끄기'의 영어 번역은 무엇인가요?,c,train_original,fe54c26b65f9963098e5cb86283eeb759c7f92b589538449d9751dc7e2c14a60,c,c,c,c
+train_0455.jpg,"삼성청년 SW·AI 아카데미(SSAFY) 안내문에 따르면, 식당은 어느 층에 있나요?",b,train_original,732ff41cfe3709dc406c7ed2346296561a645d49a7f4f8cd4e55f33ea2554809,b,b,b,b
+train_0460.jpg,이 사진에 보이는 간판에 적힌 글씨는 무엇인가요?,d,train_original,5c6dfb27589c46713de8a3c6d76b53ebdf4d2e857bcb42c263ef77eea6cee308,d,d,d,d
+train_0461.jpg,이 공항의 셀프 수하물 위탁 서비스 안내문에 적힌 문구는 무엇인가요?,d,train_original,0fca79ef54a8ae90a567febf52a2eb8d6b4bf95fbd95fa8e34128556863c316d,d,d,d,d
+train_0469.jpg,이 사진에 보이는 CU 편의점 앞에 적혀 있는 문구 중 맞는 것은 무엇인가요?,c,train_original,6e8024ca045cfb86c01764e3e29c686d5f814a6c90a7571273981fecba2547fe,c,c,c,c
+train_0470.jpg,시티버스 운행 시간표에 따르면 1회차 안목발 시각은 몇 시인가요?,a,train_original,16f3c5fa7f003eea461ab7a0db4942346bbc4fd4de88ab4771e732f840f47756,a,a,a,a
+train_0471.jpg,이 도로 표지판에서 제한 속도는 얼마로 표시되어 있나요?,a,train_original,377f84b02738726b09ff0cfc8ce20dd7f010b71277ed15da06f2d26b3a924b7d,a,a,a,a
+train_0479.jpg,2026 학하동 주민총회는 몇 월 며칠에 개최되나요?,d,train_original,c57f35e11d195e60fd69839b360860efa45c06a2a625a2354e5470ecf1be38d4,d,d,d,d
+train_0480.jpg,사진 속 타이어 가게에서 진행하는 행사 중 '3+1' 이벤트는 어떤 품목에 적용되나요?,d,train_original,db4c90e9fcc619be2805b8a32a135cae5b026e529eef623d3080f5391a604b66,d,d,d,d
+train_0484.jpg,이 문에 붙어 있는 안내문에 적혀 있는 번호는 무엇인가요?,c,train_original,467d84b492cdfc1a6cadab69c24512db04baf8c40ecad8b1517fe50c5c5a64b0,c,c,c,c
+train_0509.jpg,이 매장에서 판매하는 '아리 모던누들' 14종의 가격은 얼마인가요?,b,train_original,4cb9ce782f0f040d556a5cfc1f6c9f555540b50904dd9ee7937197c89e35291e,b,b,b,b
+train_0543.jpg,CU 편의점에서 판매하는 고구마 가격은 얼마인가요?,c,train_original,51f6bbb13d5b55bdbfa4dca119e37a70def296b8513db35727a429c008474815,c,c,c,c
+train_0547.jpg,사진 속 제품들의 이름 중 옳은 것은 무엇인가요?,c,train_original,f7a407ebf0fb0bd329a9a8e615567f5bc026a3d9bdba28859fc734d3adb986b0,c,c,c,c
+train_0551.jpg,이 사진에 보이는 경기장 이름은 무엇인가요?,d,train_original,e067f9a753d214f320586aae7ebb042a5e78d0bea16f3bc275124a09cb793627,d,d,d,d
+train_0554.jpg,이 가게에서 '손+발' 관리 비용은 얼마인가요?,d,train_original,54712b6ea313c840bda0e57631d8a30384c76d3d5de25ca94c8b41d0c33df054,d,d,d,d
+train_0557.jpg,사진 속 신호등 아래에 적혀 있는 파출소 이름은 무엇인가요?,d,train_original,07c4c929ffdc7ce87ca79d74ed1b293eea3300fbc40cfd6ecfdc64f7bb21cf1a,d,d,d,d
+train_0566.jpg,목재문화 & 목조건축 페스티벌이 열리는 장소는 어디인가요?,c,train_original,7061bd96c31cad726d6616f18d8734f1de3419463d45994c7fc7a2b16558beca,c,c,c,c
+train_0572.jpg,이 이미지에 적힌 '더벤티' 아메리카노 쿠폰을 받기 위해 해야 할 일은 무엇인가요?,b,train_original,f2765a94c3dfb131335210e660b61221926ef5c498b20fd45d074e5208369224,b,b,b,b
+train_0574.jpg,감나무식당의 영업 마감 시간은 언제인가요?,b,train_original,8b04e930f87f15180183023da11cac153411700288f986672ff256f5c25ba89f,b,b,b,b
+train_0579.jpg,이미지에 안내된 공공와이파이 비밀번호는 무엇인가요?,c,train_original,3ff7a0b0b0d340a4c56cede40447448057cfda7c195f63e566355ba5c24ebee2,c,c,c,c
+train_0585.jpg,이 3D 프린터의 모델명은 무엇인가요?,b,train_original,01a08ce573e8e67ad68726fee0474e9c0dd25fe1d47b83dd8399a552b58c0f3b,b,b,b,b
+train_0586.jpg,가게 간판에 적힌 상호명은 무엇인가요?,a,train_original,a8c03ec5b74b39a07b832f9b2a040bf06d7a6528740b348c05d9472db48c3e87,a,a,a,a
+train_0594.jpg,이 항공권의 출발지와 도착지는 어디인가요?,b,train_original,7265e39ce1c6367c3a7b0a602e4e5cc2b8730692a7e00cda4c248f53e0f45a2f,b,b,b,b
+train_0607.jpg,이 안내문에 따르면 백화점 가는 이동 통로는 언제 폐쇄되나요?,c,train_original,70f7ef1c48c58d7f8d6f1a53f342880ab5dc8a55443db7162d6cf55a3d40b171,c,c,c,c
+train_0609.jpg,FIVE GUYS 매장의 영업시간은 어떻게 되나요?,c,train_original,a19bfdbdc7e33e90c024ce986ba47279dd1b3673f472bec72a549dc9388b4f3d,c,c,c,c
+train_0619.jpg,이 책의 제목은 무엇인가요?,b,train_original,44e1f3a1008a63af64e925167e3e92893dacc76b4de05e631f7bf820d01ac85c,b,b,b,b
+train_0621.jpg,이 이미지에 나온 캐릭터들이 표현한 음식 중에서 '중토로'라고 적힌 것은 무엇인가요?,d,train_original,0355c3e2c92ff8d8a5830c010d38bd855f7d5448745f90e29ef89c8ee3067b63,d,d,d,d
+train_0642.jpg,사진 속 담배갑에 적힌 경고 문구는 무엇인가요?,b,train_original,2c2c29d4d9d30d2d816f6da30f54301add0b9c90a29c1a41e4acde68fd5398a3,b,b,b,b
+train_0644.jpg,이 문구는 무엇을 요청하고 있나요?,b,train_original,397162929c563941a8d8dc2653ec14d41c130c20521c9b1374087c2b4237e910,b,b,b,b
+train_0650.jpg,빙그레 더단백 다크초코 250ml*18입의 가격은 얼마인가요?,b,train_original,88c83637d8e61fdb244b4bab2c9f535dee4ce3a6a614db4703056d19e5319542,b,b,b,b
+train_0657.jpg,GS25에서 하겐다즈 전상품을 2개 이상 구매하면 받을 수 있는 최대 할인율은 얼마인가요?,d,train_original,ef64614fb96bc30db6024005cfd4ee07fe06ec137a6046b9bd2b615ba2beb818,d,d,d,d
+train_0665.jpg,이 자전거 앞에 붙어 있는 푯말에 적힌 글자는 무엇인가요?,b,train_original,88e484000b36d8e5067222b2359080ab11a6db37bc47f8d392a0034d9bf3cccd,b,b,b,b
+train_0672.jpg,이 식당의 간판에 적힌 이름은 무엇인가요?,a,train_original,2025433ab84317a727800f9319162de398df5cda2df48a83d6180532045101d7,a,a,a,a
+train_0686.jpg,이 담배갑에 적혀 있는 경고 문구는 무엇인가요?,c,train_original,e9dde5c6b5ac2082834536e9f8eb4f6fc81a5523c9df372de36fd2348254e871,c,c,c,c
+train_0688.jpg,이 건물의 주택재개발정비사업조합이 위치한 층은 어디인가요?,d,train_original,9804ff39df4504452cb76523d951bf58880e89289ef322d8a95d909b1a236e53,d,d,d,d
+train_0697.jpg,이 건물에 입주해 있는 가게 이름으로 옳은 것은 무엇인가요?,c,train_original,1d242bf2fd0988795ddd5e4e6069f5067fbf1affcdfd72d59c0f5cae5adfe95b,c,c,c,c
+train_0707.jpg,이 공연은 언제 어디에서 열리나요?,a,train_original,fb9dae1e063aa98bdef8d68968bee2c15aef1d0b2c81f22ff0d3a94ecf7cbd8d,a,a,a,a
+train_0715.jpg,이 건물 1층에 위치한 식당에서 판매하는 주된 메뉴는 무엇인가요?,d,train_original,273af78f7af7d64b192e22ddcf4d75bf10f242fab6d9467222b3a256d38d5be1,d,d,d,d
+train_0719.jpg,이 방의 간판에 적힌 가게의 업종은 무엇인가요?,c,train_original,5f8fe04020c82353fed37c8ef67c9d1eba2f58db133fb082b8b79586e9dbf9c4,c,c,c,c
+train_0721.jpg,사진 속 붉은색 포장지에 적힌 문구 중 올바른 것은 무엇인가요?,a,train_original,c1f52caf73b44ecf8b4c37168e8d9d6b555e24f8db8fbcbba5517facdb26d90b,b,a,a,a
+train_0723.jpg,이 사진 속 현수막에 적혀 있는 장소 이름은 무엇인가요?,c,train_original,3bf273f35397c55deeaecbea764a734d1200427d57c7b4d6b5ad9ae4cf4812af,c,c,c,c
+train_0725.jpg,사진에 보이는 상자에 적힌 브랜드명이 아닌 것은 무엇인가요?,c,train_original,b73b0ccb4805c19bd4c88f13cc74d651025acbbcd4c8fe0dfcb8afd5cc90e551,c,c,c,c
+train_0728.jpg,메이타왕 에그타르트 가게에서 사용한 재료 중 한 가지로 적절하지 않은 것은 무엇인가요?,b,train_original,16164a847c437bf817edde951d978e5cd8c4bde0abbcea9611cbb51680155d6d,b,a,a,b
+train_0733.jpg,사진 속 한글 문구 중 '내가 원하는 모든 고기가 있는 곳'이라는 문구는 어떤 종류의 가게를 나타내고 있나요?,c,train_original,69efac5939b5e3be703e348cdd99a355aefc97a82ce8f0c4f6c868e8baa50c88,c,c,c,c
+train_0734.jpg,창문에 붙어 있는 종이에 적힌 내용은 무엇인가요?,b,train_original,998426684ca00119ce6d50e6bd56977d6babcb801de6ddeda069ce9b11a91768,b,b,b,b
+train_0739.jpg,이 노트 표지에 적힌 문구 중 올바른 것은 무엇인가요?,c,train_original,4319ad5183c01ce66e84995ea786bd8f98126ca9d19b5a5f5ba1be130d6b6dfb,c,c,c,c
+train_0740.jpg,이 보쌈세트에 포함되지 않은 메뉴는 무엇인가요?,c,train_original,52865a0612c7d5c62fe8a2df063305989e03bd02823be63e3490f8011434aa2e,c,c,c,c
+train_0745.jpg,이 건물에 있는 '골프존파크' 연락처는 무엇인가요?,a,train_original,17ee333e213d75751877dbad3cbec6de27afd49c31cc8841b5f596a9c96aebd0,a,a,a,a
+train_0751.jpg,위 사진에서 '희망배달마차'가 나누는 음식은 무엇인가요?,c,train_original,a95f45d2d47011cad22b85324c617077d7ffc504fb536138abe141347fc69350,c,c,c,c
+train_0753.jpg,이 건물에 입주해 있는 의료기관 이름은 무엇인가요?,d,train_original,80db025bd360841b16fc3bf4278013510c34777e9e5123caaa81f1d90c2da929,d,d,d,d
+train_0778.jpg,유튜브 채널 'hellossafy'의 싸피티비 영상 제목 중 올바른 것은?,b,train_original,0392e57d8bcad315c640082dcccb7b2a72367850348ca19243338c1b91c2d996,b,b,b,b
+train_0784.jpg,HOLLYS 커피 매장에서 블랙프라이데이 행사 기간은 언제인가요?,a,train_original,0e98c6bac60070a9c796b013172c44175592ab8580fe9926c88385a631289966,a,a,a,a
+train_0788.jpg,이 건설 현장 가림막에 적혀 있는 구청 이름은 무엇인가요?,c,train_original,86ad39fc29d64c545094e1a83779f5f2d4e0b39f9e545ba42c7a96c658c2a2b6,c,c,c,c
+train_0792.jpg,이 식당의 이름은 무엇인가요?,d,train_original,2ef327f3d8959b529d0f35f78261e3e207dda0af4da05ed24b689d0affd50958,d,d,d,d
+train_0793.jpg,'작전명 알파 클러치' 미션에서 제한 시간은 얼마인가요?,d,train_original,48cf994be1a678bffdcd47ba579511b7cdee936b69bb13e1e0d1ae3126096926,d,d,d,d
+train_0795.jpg,포스터에 소개된 음료 '초당옥수수커피'의 가격은 얼마인가요?,a,train_original,9019a2f974eab02e9605ba61a140390b1bedb437b6f3343672f6fff0800b3950,a,a,a,a
+train_0797.jpg,건물 외벽에 붙어 있는 대형 포스터에 적힌 문구 중 맞는 것은 무엇인가요?,b,train_original,21d7e1398d9d84e3bbd571fb968b9b85316d5281715d092c0c5f766c841324fa,b,b,b,b
+train_0798.jpg,이 건물 1층에 있는 식당 이름은 무엇인가요?,d,train_original,164072fcb8bd252fa7afedf6fe5eef911f5d4f5bc0ca0a89395d4a074e682db1,d,d,d,d
+train_0799.jpg,이 가게의 상호명은 무엇인가요?,d,train_original,2e5a002e6ef665bafa828c0c15b312b509eceed3d4c8dc8ff49674f5f013dd2e,d,d,d,d
+train_0803.jpg,이 건물 2층에 있는 업종은 무엇인가요?,c,train_original,5e1acf49ee67e16a189d01f0ff08382526f9da9b98d4624b14457b30d6cd66c6,c,c,c,c
+train_0806.jpg,이 간판에 적힌 상호명은 무엇인가요?,c,train_original,9d01dcb0909515583be7d530ff6552445344233fff109088aad54ba5c05a4e72,c,c,c,c
+train_0815.jpg,이미지에 보이는 '오뎅 떡볶이' 가게에서 매운 떡볶이의 가격은 얼마인가요?,d,train_original,a5dd4c83c82477da1bfc588cf7b2c43e50c7b2fe20fc617d9794c6fa9bdad55f,c,a,d,d
+train_0835.jpg,이 건물의 이름은 무엇인가요?,c,train_original,974ec56d7805c168064b9ee7c2a252f070ff97fecf54b01280a0b3c585b01762,c,c,c,c
+train_0848.jpg,이 사진에 보이는 가게의 주된 판매 품목은 무엇인가요?,d,train_original,d9917674fba003f0e1016af0daaf45614abad72218a68d0f13e0580caaf29136,d,d,d,d
+train_0863.jpg,'용감한 쿠키의 편경' 점수 순위에서 3등의 점수는 얼마인가요?,c,train_original,16df5af4dc21d2b69e69af8b1f887b6a57a1b639cc4eaff945cda993f41afc0e,c,c,c,c
+train_0865.jpg,위 이미지 속 세탁세제 제품 중 '1.2 kg' 용량으로 표시된 제품의 이름은 무엇인가요?,b,train_original,aa73ab08f6e6b63396a99d56522f1f869b8cb4cbb149ebd838a4ed227fdfbb67,b,b,b,b
+train_0873.jpg,해태 프리츠 발효버터(지함)의 1개 가격은 얼마인가요?,c,train_original,d1dac7beb0e0bd8310306d0d6538f3bab66b140bdf5116631931914d0ceb5d19,c,c,c,c
+train_0879.jpg,이 이미지 속 보드게임 카드에 적힌 단어는 무엇인가요?,d,train_original,990878dc1c186fb23ecd94e940922b860f0119a86aafd777773373d520c18278,d,d,d,d
+train_0884.jpg,이 거리에서 'AL SEEF HERITAGE SOUK' 간판 아래에 적힌 곳은 어디인가요?,d,train_original,2f1c42dbc7394ed618ccec3e043857cc0b06178bcfa99ffd95be6a9d981e9fa0,d,d,d,d
+train_0886.jpg,이 마스크 상자에 적힌 마스크 종류는 무엇인가요?,c,train_original,95438f796d05ff1b50c1390fe4dfd79c1741733b7c403165fe00197d740c9a63,c,c,c,c
+train_0887.jpg,장보자닷컴 회원가입 시 받을 수 있는 혜택이 아닌 것은 무엇인가요?,c,train_original,f9ec8fbaea74a02a6b3051bdb0598de752724c1935d5da1701ce7a148b6357f5,c,c,c,c
+train_0888.jpg,이 건물에 있는 식당의 간판에 적혀 있는 주요 메뉴는 무엇인가요?,c,train_original,7f486207c6eaca999d44bd1b340d2cbc479ee48f5c2ac1b839cde3369dac62c2,c,c,c,c
+train_0895.jpg,이 가게 앞에 걸려 있는 큰 현수막에 적힌 문구는 무엇인가요?,d,train_original,406fc367267a94303fe68df0f225c31d49ab153154ca96d7c03509a07eb8d18c,d,d,d,d
+train_0897.jpg,이 건물에 입점해 있지 않은 업종은 무엇인가요?,d,train_original,2f3ea8e032b10341bc15758d8afe3fbd2ed5b96bd3e7f55e06993f2cb16d2a3d,d,d,d,d
+train_0900.jpg,2층(2F)에는 어떤 종류의 상품이 있나요?,d,train_original,4d63ce960d55f339dd754375a8c25ffe2d54a36b518d3bf6f236533f976cd77e,d,d,d,d
+train_0901.jpg,이 가게의 상호명은 무엇인가요?,c,train_original,d8a8dd192a7a7ee9e4c69a998d6ba3385d8898ea5dbd6b39edc6c69e483ff62b,c,c,c,c
+train_0904.jpg,이 노래방 화면에서 부른 노래의 제목은 무엇인가요?,a,train_original,ad82f0c7ccb998c46a3d73d0ba82e8740c674c7f39220b7a1584435cb9e16cc8,a,a,a,a
+train_0910.jpg,연극 '헤어지는 기쁨' 대구 공연 티켓에 적힌 공연 시작 시간은 언제인가요?,b,train_original,e542f8e4b10f4987387c44cdc92b01a1e72a20e8c5f5db423dfdd22cb9dac2f6,b,b,b,b
+train_0911.jpg,이 마라톤 표지판에 표시된 거리는 얼마인가요?,b,train_original,e5115818dfea9ff59bf44995c1eeffe7f6898d0078f05db1203629f9bf379f97,b,b,b,b
+train_0919.jpg,이 사진 속에서 '현금자동지급기'는 어떤 서비스를 제공하는 기계인가요?,b,train_original,ab70aa61cad096b4a08723c7bb9321b1784751a480bccd9ee2cd65581b9df1a0,b,b,b,b
+train_0924.jpg,"이 사진 속 바나나 안내판에 따르면, 'Eat now'에 해당하는 바나나를 언제 먹는 것이 좋다고 되어 있나요?",b,train_original,110f131c9edc2c21619271bf3416c14999cca26f3a8b459f08636f12f1ce9865,b,b,b,b
+train_0925.jpg,"다음 중 메뉴 가격이 4,000원인 음료는 무엇인가요?",b,train_original,4de525d888486b2973c9097e33bcbfb00d1b3fb920a165dfedd7141f403d7030,b,b,b,b
+train_0928.jpg,오른쪽 병 라벨에 적힌 '群主'의 뜻으로 가장 알맞은 것은 무엇인가요?,c,train_original,1401ddab1bdba888e530fc6ebc2edc8cc8a29be04e46fd77d9e6f6106295293d,c,c,c,c
+train_0939.jpg,이 건물의 2층에 위치한 곳의 이름은 무엇인가요?,b,train_original,9b73b3c62e75d0d7e4f888765bb188b277c93c5d21329f3c1aec368f9d97e2e0,b,b,b,b
+train_0941.jpg,이 이미지에 나온 2023년 하반기 대규모 신입사원 채용을 진행하는 회사 이름은 무엇인가요?,a,train_original,73a4b406209abda094406b12ba588b5f400c3a70f3dc1b229732e619bb80a800,a,a,a,a
+train_0945.jpg,4번 승강장의 평일 운영 시간은 언제부터 언제까지인가요?,a,train_original,d99808cc96f19a06e97bfa229b0cfba371095eb1a3e7b1bd3c9d2f2947f73acb,a,a,a,a
+train_0949.jpg,사진 속 간판에 적힌 문구는 무엇인가요?,d,train_original,5da5e211d74b6627171346e8d8d5bde0d32066937f93d4ed2d2936adbc5e292a,d,d,d,d
+train_0956.jpg,화면에 표시된 시각은 무엇인가요?,b,train_original,070509bf20b3671e6e7b2fe48a0e1908a9d6814b3106056e2cdc154721ad49b0,b,b,b,b
+train_0962.jpg,이 사진 속 간판에 적힌 가게 이름은 무엇인가요?,c,train_original,8ee0335212b35e0b532d0e059e2fdbf6cc68e737e784911907adec43e21c368e,c,c,c,c
+train_0969.jpg,"이 이미지에서 보이는 """"Agentic AI""""의 주된 기능은 무엇인가요?",c,train_original,5421bef5729a7c1de962dc259ef1d82dbe5c8948d55f9f155209a9637916bf77,c,c,c,c
+train_0987.jpg,이 배너에서 소개하는 와플의 종류로 올바른 것은 무엇인가요?,a,train_original,3f49a30d0642b68ce5366076a97a8195dc9873a924ff7bd27e1b25964a55cbeb,a,a,a,a
+train_0991.jpg,사진 속 간판에 적힌 음식 이름은 무엇인가요?,d,train_original,ad713a1354669333cc9d17c909f16c2aa024f5117337834a2726bc984975fcbd,d,d,d,d
+train_0996.jpg,사진 속 물티슈 두 개의 가격은 각각 얼마인가요?,d,train_original,156ce5a122e23a034152b907ed7df170e2007f77abca65a9bf5ad36d871765b4,d,d,d,d
+train_1015.jpg,이 과자의 맛은 무엇인가요?,c,train_original,c67b95aa6d58ce408c4895a257aee0446adfa920ad191863cb7c93f2ef0643a4,c,c,c,c
+train_1021.jpg,병뚜껑에 적힌 글자는 무엇인가요?,a,train_original,8e239d0da5e4adbd3c8da56fcfc2ddef422c87b0a2f786e79d5f9cb8f374f640,b,a,a,a
+train_1024.jpg,이 서가의 상단에 적힌 문구는 무엇인가요?,d,train_original,41b719dbeaa0be10a1156160af1db05ac297783a56a9ce7d34a5033042318b38,d,d,d,d
+train_1025.jpg,이 건물 외벽에 적혀 있는 간판의 글자는 무엇인가요?,d,train_original,8534d91937ca770ea03ac910a4912d2adb563a894ce8334fca4911426a8cb62a,d,d,d,d
+train_1026.jpg,이 식당이 영업하는 시간은 언제부터 언제까지인가요?,d,train_original,42c0407e1b3b2c9c8db440a06a49e593850f56c88d79f5c5e98884ff1030a079,d,d,d,d
+train_1028.jpg,주차장으로 가려면 어떻게 해야 하나요?,a,train_original,9694b0285ae16bac67ae783b2b73da8b58f326dd8945abb6d084a71d8d10bfc1,a,a,a,a
+train_1031.jpg,이 마우스 패드에 적힌 문구 중 올바른 것은 무엇인가요?,a,train_original,28c1c0a192166fa29448fb39f56b6b04540f46e9a33e986fb5042882425763e5,a,a,a,a
+train_1035.jpg,이 가게 간판에 적힌 글씨 중에서 가게의 주 메뉴를 나타내는 단어는 무엇인가요?,b,train_original,b666844cce0f1a371642106084866c1e565acb8983e6115cf7c83c1f7f0db4f3,c,b,b,b
+train_1037.jpg,이 포스터에 적힌 할인 혜택은 무엇인가요?,b,train_original,4e9465e3f058327197ce91b324b26f973d0e7bd5fa8006de7dfb0f5da8d3015a,b,b,b,b
+train_1040.jpg,이 슈퍼마켓 진열대에 붙어 있는 상호명은 무엇인가요?,b,train_original,4afd775f76bd410c0f944f3fb20af2d82b20008a848409f0842f7e6a90cbe947,b,b,b,b
+train_1046.jpg,더벤티네 키친에서 판매하는 매콤 소보로밥의 가격은 얼마인가요?,a,train_original,26944136da1db6ad98114abb1cb5093b3c2451051a15f0136b361082df676b1d,a,a,a,a
+train_1048.jpg,다음 중 붕어빵의 종류와 가격이 올바르게 짝지어진 것은 무엇인가요?,c,train_original,042463d0d03435cb08a7a1782880a1eef6c0bc35de1a689691d7475c287f6f26,c,c,c,c
+train_1052.jpg,이 소주 병에 적힌 브랜드 이름은 무엇인가요?,c,train_original,7dc4d69c70efad2ae40572c9495c708698cdce7ab5b3a438925b9caa274365b8,c,c,c,c
+train_1063.jpg,이 건물 2층에 위치한 곳은 무엇인가요?,d,train_original,a28c31230c2eadc724356b484778a92b74a99048bad90a897ffa2f1789c964f8,a,a,d,b
+train_1071.jpg,이 종이에 적힌 오늘의 운세 내용은 무엇인가요?,d,train_original,16f86b9e0a4795d15b88944181f3aeb48bfe44ac6f8f8d52a679326533cbe3f2,d,d,d,d
+train_1074.jpg,이 건물 외벽에 적힌 전화번호는 무엇인가요?,b,train_original,fbc00a7d856054d8dcf0ed6813a0cbb1abde0fbc5d1c49d07f3aa6c1c6f3b5ef,b,b,b,b
+train_1082.jpg,"이 사진에서 'SUPER """"DRY""""'라는 문구가 쓰인 제품은 무엇인가요?",c,train_original,6c0811f5b215d1ee54491b16b649aa740477550f2ff2d069843db90de7175eef,c,c,c,c
+train_1083.jpg,이 경기장의 전광판에 표시된 팀 이름은 무엇인가요?,a,train_original,9dd2276668e95caec502d29fa2ae80f6efbcc576fb84f5a84eef2cfe83329358,a,a,a,a
+train_1088.jpg,이 거리에서 볼 수 있는 SPAO 매장에 관한 설명으로 옳은 것은 무엇인가요?,b,train_original,604a841a32bf2e1ed855d8dce4a26f5f26622aaf3190a359a01a9e1120a360d0,b,b,b,b
+train_1091.jpg,이 시공 표지판에 적힌 가스 공급자의 이름은 무엇인가요?,a,train_original,53422e13ffe5eef362fbc805446dff436266e619d4ae675d4973f77d25e8f24b,a,a,a,a
+train_1098.jpg,이 가게의 이름은 무엇인가요?,d,train_original,9f3ce8dc0ec293b944b310f0e16274e8ce839c37759bf207eabd5436974e0cca,d,d,d,d
+train_1104.jpg,이 주차 구역은 누구를 위해 예약된 공간인가요?,c,train_original,c9c30624aa129df30aad029ccbd5beefb30a35e3a240a848de281dd2c940814a,c,c,c,c
+train_1108.jpg,다음 중 '블루베리 딜라이트 요거트' 음료의 가격이 맞는 것은?,c,train_original,cb7fdaeb25d686a55c671a00b566b674a6913091d3fb488db753910b08e4875d,c,c,c,c
+train_1118.jpg,포스터에 따르면 '기후에너지 일자리 박람회'가 열리는 날짜는 언제인가요?,d,train_original,60197ccdc4bc59544b0262398e26429f2ada2d301a7c839698c9bb72eb0bd2e5,d,d,d,d
+train_1123.jpg,사진 속 간판에 적힌 24시간 영업하는 곳은 무엇인가요?,b,train_original,293016ab4c916847a48ff2cac6170a1c4ae4d242301e60b43a222c2a3c21199e,b,b,b,b
+train_1124.jpg,"법무법인 프로스 광고에 따르면, 이 법무법인은 어떤 경력을 가진 사람들로 구성되어 있나요?",a,train_original,07970bf86b88ded89d51fe005965f1e78dba1c709dbdf1ce7b694bb22e1e1876,a,a,a,a
+train_1126.jpg,이 버스 정류장의 정류소 ID는 무엇입니까?,a,train_original,78bfc4c5ec7bd2ec0fb3bb196cc31b27e98a3e1ecaa1a5365f1a608bd228a833,a,a,a,a
+train_1136.jpg,SSAFY 共 : ZONE 이용 수칙 중 식사 중에 금지된 행동은 무엇인가요?,c,train_original,35e2c660e7fbcee156d5894becbe9b6c507c6a760ec2a90f63aafc67cc2a1398,c,c,c,c
+train_1155.jpg,치매 예방수칙 3·3·3 중 '3권 즐길것'에 해당하지 않는 것은 무엇인가요?,b,train_original,4d7622db4135fb8189827181f587cf26be7329bbf2ad7707bae7121304ab6772,b,b,b,b
+train_1157.jpg,사진 속 지하철 역사 벽에 붙어 있는 안전 관련 포스터에 적힌 내용은 무엇인가요?,d,train_original,f5dceda03d552adaad88a2f2b147589e8d7f85b06f5cd2997da1d83a728ef156,d,d,d,d
+train_1158.jpg,사진에 보이는 민트향 껌의 브랜드명은 무엇인가요?,b,train_original,1426c5953b2d963b93110eda01797097c638ccd1cc94006c60c02c81569cdc19,b,b,b,b
+train_1159.jpg,이미지 속 고기 제품 브랜드 이름은 무엇인가요?,c,train_original,5311c405a1945e7c3a8534e78bd9ae98a585dd9e22e31b19eb62512995b5da46,c,c,c,c
+train_1162.jpg,이 이미지에 보이는 'SSAFY'의 풀네임은 무엇인가요?,c,train_original,beaeebbaed208fdcf4fc2073a01db47fe5a4bb2c5503dbbc84cda387942fcbc8,c,c,c,c
+train_1172.jpg,사진 속 손에 들려 있는 물건에 적힌 글자는 무엇인가요?,d,train_original,bb8fd201c715ca80c2d80fe5824cf46d1741544831f23efb899aa411bf0a6c0e,d,d,d,d
+train_1178.jpg,이 사진에 보이는 가게 'lalavla' 간판 아래에 적힌 문구는 무엇인가요?,b,train_original,25125ee085a20eb2c415141f0d0050b95b6e0ab349707608d55cb1e15b521585,b,b,b,b
+train_1179.jpg,다음 중 사진에 보이는 담배 패키지에 적힌 경고 문구는 무엇인가요?,d,train_original,f58e505dd139d6263bb3a99e03fc4ffc6d7cf603d21139ac468dc537bcd017b9,d,d,d,d
+train_1180.jpg,이 가위들에 적힌 제조국은 어디입니까?,c,train_original,6ba691589b535c708625fcd11c177f7c85b442d5157dce79e3e6e88e3d45b54a,c,c,c,c
+train_1181.jpg,사진 속 모텔 간판에 적힌 모텔 이름은 무엇인가요?,a,train_original,f70d10bac02436a173cfb4611e1bf049f35797e4f798fe35b5170572b226a958,a,a,a,a
+train_1187.jpg,이 계단 벽에 붙어 있는 광고판에 나온 전시회 이름은 무엇인가요?,b,train_original,1551cf4453ad828764fbaa2b2560af50ea9be465c979fe8522b95489cb416ae7,b,b,b,b
+train_1191.jpg,'Danchive' 앱에서 팀 생성 후 다음에 진행되는 순서는 무엇인가요?,b,train_original,c08b55f4c40c6a48ee23bdbbb20ea91c27cf857d371b263fd36cf7603de5a4b3,b,b,b,b
+train_1195.jpg,이미지 속 'BABY SHARK' 유튜브 채널이 받은 실버 버튼 개수는 몇 개인가요?,c,train_original,dc020d5f6e9678b5aacf81b22fa543aa65372d179db34fea124daaab6a8a4494,c,c,c,c
+train_1203.jpg,이 가게에서 표시한 계좌번호에 적힌 예금주 이름은 무엇인가요?,a,train_original,9bcdc0309d6d429a2712263df42777b021b4cb328371d06dab5d0584dabb6352,a,a,a,a
+train_1206.jpg,이 가게의 이름은 무엇인가요?,b,train_original,911084924d4f47a071bce9e54cf42422ba96aeb5a373cf9ac7d1b2e18e1f5e75,b,b,b,b
+train_1210.jpg,이 간판에 적힌 오늘의 메뉴는 무엇인가요?,c,train_original,a37598096f7ff2ac215fa0cef7058b81e645b9f2c11143d978298c370abf2009,c,c,c,c
+train_1211.jpg,이 제품의 이름은 무엇인가요?,b,train_original,95eaaa3e51346c595dac6310b775d18d46026a7933fc3448b898724c8aae76a9,b,b,b,b
+train_1216.jpg,이 책의 제목은 무엇인가요?,b,train_original,b0c2a14a6dc840ffa2fb0519b760caf0732e865504d5d03b4b1c654c0a8ce373,b,b,b,b
+train_1217.jpg,유니큐 미술학원에서 강조하는 미술 교육의 핵심 요소가 아닌 것은 무엇인가요?,a,train_original,79495ab56b444786c99cac5418523542a0cf0de7fbb7647237a5e8109f131f41,a,a,a,a
+train_1219.jpg,미카도스시 광주동천점에서 모든 접시의 균일가는 얼마인가요?,c,train_original,6f3d23aec238b707d2492a8a1db8697a8a766abf313354caf6bd3899ad584314,c,c,c,c
+train_1227.jpg,이 곳에서 판매하는 음식은 무엇인가요?,d,train_original,73ed356277fc4cf85861a1fb3c7bce87c6fcd430d4c09a756f1995f0ed5d89fe,d,d,d,d
+train_1237.jpg,이 간판에 적힌 한글 상호명은 무엇인가요?,b,train_original,5af1f5402e76702d3310aeba69a5c62b3d03884529762880e077c62f34a753cd,b,b,b,b
+train_1247.jpg,'らくらく定食'의 가격은 얼마인가요?,a,train_original,91c965b64f2159055afcf54f1f5f38bba452933a828d080c6e8aaed1e49ab7e1,a,a,a,a
+train_1263.jpg,사진 속 간판에 적힌 상호명은 무엇인가요?,a,train_original,ce766d7c6c2ad09b5ecd49d8b068e10958bd99100941521fdee3262b73f3b7f6,a,a,a,a
+train_1264.jpg,편의점 출입문에 적힌 문구는 무엇인가요?,a,train_original,4a0d4fe1b6707dcf968d037f357e2de483b00a3d5420c50fc5a42d528813bc23,a,a,a,a
+train_1272.jpg,이 음식점이 매주 쉬는 날은 언제인가요?,b,train_original,a1de5a1df556302b9de7fd93858f239169530fc7c6b4c55df22889e8f6b93045,b,b,b,b
+train_1278.jpg,이 승강기 문에 붙어 있는 흰색 안내문의 내용은 무엇인가요?,b,train_original,af7e3cda15891210c64a95fa517ad48af099584b5f3480c8a3e96a51fa97983e,b,b,b,b
+train_1284.jpg,이 사진 속 간판에 적힌 연구 센터의 이름은 무엇인가요?,b,train_original,6286855299d8abbf59232a601ba65bd2ef7ce739521d229557641e907555143b,b,b,b,b
+train_1286.jpg,NEO NEO60 CORE 레트로 화이트 세트의 스위치 품목 중 가격은 얼마인가요?,c,train_original,c27f1cf024d4c394f996cef9d5c90b9cf17ee3b95890dced3563f250869f5aae,c,c,c,c
+train_1289.jpg,문 손잡이에 적힌 문구는 무엇인가요?,c,train_original,6b66df0361842880b32ab54595664b6589318bf0906f2b5c8f47d991ac846ee8,c,c,c,c
+train_1290.jpg,메뉴판에서 '콜드브루 아인슈패너'의 가격은 얼마인가요?,c,train_original,422ed694cd15f6521e12786b2cf2c79642feef38e6e27275661f2e3e858b2aad,c,c,c,c
+train_1296.jpg,이 가게의 이름은 무엇인가요?,a,train_original,f00a36c708531ca0a48461a604aa2f511bca73c0e0696c14910336f65e5a8e8a,a,a,a,a
+train_1299.jpg,이 부동산 중개업소의 대표 이름은 무엇인가요?,a,train_original,28aad2d043520d05c6fdb1ae8e881d909bd5019680e5fb05f812a1f703d1c69c,a,a,a,a
+train_1304.jpg,뮤지컬 '데스노트'에서 '야가미 라이트' 역을 맡은 배우의 이름은 무엇인가요?,d,train_original,52599c23b2d75f9830b0b70c71e68412d6223dfd089dbe74bb7f273f6941bd23,d,d,d,d
+train_1313.jpg,사진 속 '빼빼로' 초코쿠키 제품의 가격은 얼마인가요?,c,train_original,53d9c8b2e194d5a668ceb09adfd3610b82143c0918ade0da54d66c7b8abe1e25,c,c,c,c
+train_1319.jpg,이 가게 간판에 적힌 가게 이름은 무엇인가요?,d,train_original,44cce4a6ed97c2fce9a4c74deb50f20ee9f53492bd0e82eeefa5f4d141c19b59,d,d,d,d
+train_1321.jpg,사진 속에 보이는 건물의 4층에서 체험수업을 할 수 있는 것은 무엇인가요?,b,train_original,d68eacfd9cf7c8adcfd09bb7947a22c88056a85b329c2e2417559a1a1c60adea,b,b,b,b
+train_1327.jpg,영화 '미키 17' 포스터에 반복적으로 적혀 있는 문구는 무엇인가요?,c,train_original,4e99092688c8885d62447f4e33117e1139f78645c20ad914782be3b083c75cb7,b,d,c,c
+train_1334.jpg,이 공기청정기 제품의 모델명은 무엇인가요?,b,train_original,eefd3df89fb8967c001aace051b97d5d9139982a3618f9cb72fd843bf37c681e,b,b,b,b
+train_1343.jpg,사진 속 선크림 제품의 자외선 차단 지수(SPF)는 얼마인가요?,b,train_original,81424203b1889e22ffc10ea8810db2f1697655218a7ec4b733835eb760bf5621,b,b,b,b
+train_1347.jpg,사진에 보이는 보드게임의 이름은 무엇인가요?,d,train_original,577dbc25a31e973fd0ee8d23f98e2a83a2fcf89001ecf1170fc68722b5492c66,d,d,d,d
+train_1355.jpg,이 물품 보관함의 이용 시간은 언제부터 언제까지인가요?,a,train_original,3b74cd076d8c8ef3ab1f7fd64b78ef76f0e51d884d8af025ca9a5088d7e83aae,a,a,a,a
+train_1370.jpg,사진 속 상자에 적힌 제품의 주요 재료는 무엇인가요?,b,train_original,5803394413e05d8564ee662bb7448844dd5320e28c00a2d6a05ab8ad42f5f5f1,b,b,b,b
+train_1379.jpg,엘리베이터 문에 붙어 있는 '주의' 표지판 중 '손대지 마시오'라고 적힌 표지판의 색상은 무엇인가요?,a,train_original,9e886d4bb89ae67f378ba04dc037713f2a0c9e468834da071486723c7d1f4dd5,a,a,a,a
+train_1386.jpg,이 그림에서 미키마우스와 함께 적혀 있는 문구는 무엇인가요?,c,train_original,e695e8a28b369156bfc329c2267b37541613f3c191799d54acca81a20fafc4d7,c,c,c,c
+train_1390.jpg,SEATTLE COFFEE HOUSE에서 아메리카노 가격은 얼마인가요?,b,train_original,1f358319c28cb991646b7b205d6825dd17dccbb99ce52b86022c3cbc9dd0fbd1,b,b,b,b
+train_1392.jpg,이 화면에서 '실격'이라는 단어 옆에 적혀 있는 문구는 무엇인가요?,d,train_original,ad0c7842874fea4e4d293d1629927116acf074bb056c2df484ea530f23b8f0f6,d,d,d,d
+train_1398.jpg,포장 용기에 적힌 두 가지 음식 이름 중 하나가 아닌 것은 무엇인가요?,c,train_original,5ab37d4e55667e624c8d1dab80748ea6566f2b98a5c5b1b98c851d2c3e5a03ed,c,c,c,c
+train_1401.jpg,이 이미지에 적힌 와이파이 무선랜 암호는 무엇인가요?,b,train_original,b9dcba8d5f2a792da3403294f7423ab3eb4605a973899aef9ce59c34e4c1162a,b,b,b,b
+train_1411.jpg,이 가게 유리문에 적힌 '상가임대' 안내문에 적힌 전화번호는 무엇인가요?,b,train_original,d424b57c3d9c3f64b9cbcf5df5c281915c4729ff6e3ebc652e56efd1d7aff1c3,b,b,b,b
+train_1418.jpg,이 사진에 보이는 초록 매실 음료의 1+1 행사 가격은 얼마인가요?,d,train_original,bdef561317a955128f23677f7c98cc3dc6a0a321c757b5a7ad895fab88a3224a,d,d,d,d
+train_1421.jpg,이 상품의 가격은 얼마인가요?,a,train_original,ae43cef850943138dd02287b73a67f19fcbbeba88ee31176453a506a379eb0e1,a,a,a,a
+train_1426.jpg,이 명찰에 적힌 이름은 무엇인가요?,d,train_original,342b29d9afaf860ce02c50884eecc3df83b0d1c2dd86b89a9760f40a9377be7e,d,d,d,d
+train_1428.jpg,이 지하철역 안내판에서 '나가는 곳'을 영어로 어떻게 표기했나요?,b,train_original,b6aa445cd0a89d26effe85ea05fa390ce41df07d14c466ed996d909b2fa774d1,b,b,b,b
+train_1429.jpg,이 식당 메뉴판에 없는 음식은 무엇인가요?,b,train_original,f92db0f8d1a61540179c286dc9798645797baecc80f3f269c6642a5dd17756c5,b,b,b,b
+train_1438.jpg,이 라면 포장지에 적힌 맛은 무엇인가요?,b,train_original,a027279da583a0641de1c7589bde03992b7e622d6f40e466e3d8522adae2461a,b,b,b,b
+train_1445.jpg,이 버스 정류장 광고에 나온 제품 이름은 무엇인가요?,b,train_original,79f756aca11dbbbaba1d7a2c197ec6fe200cdffd95e3037c9397890cbedb0b44,b,b,b,b
+train_1448.jpg,이 게시물에서 인터뷰 진행 시 촬영된 사진과 영상은 어떻게 활용될 수 있다고 안내하고 있나요?,b,train_original,d9a7a52fe24d7cd2d39eabac03ee443f3fa00ab232ef39b97f2bfd6230fb2461,b,b,b,b
+train_1458.jpg,이 건물 입구에 걸린 현수막에서 모집하는 회원은 어떤 종류인가요?,c,train_original,2ff94123e1a9529fe58bc1c157adc341750b2277a831bc05ac5652522d89a46c,c,c,c,c
+train_1459.jpg,이 건물에 있는 상호명 중 '핑크 아로마 테라피'와 함께 적힌 전화번호는 무엇인가요?,b,train_original,c35dc45df309e7bccc3d2b4df0953f6f5bbba982f3a66d007ea654925b5f83a9,b,b,b,b
+train_1463.jpg,미나리의 효능으로 옳지 않은 것은 무엇인가요?,a,train_original,c53bb1aa4846e50b429cf5ed431de63f5c3a09474d116581792ba9719c56344a,a,a,a,a
+train_1465.jpg,이 표지판에 따르면 이 지역에서 금지된 행위가 아닌 것은 무엇인가요?,a,train_original,070081f770ef03cf98b558138dd3df95b9b9ae58ce50f7b872eed9677af56538,a,a,a,a
+train_1466.jpg,이 장소의 도로명 주소는 무엇인가요?,d,train_original,df6db75d062a8a7d889050420bad4572db7f106b1171576ff8666261ec409178,d,d,d,d
+train_1470.jpg,포스터에서 '파이썬 아주 그냥 죽여死 버려!'라는 문구가 적혀 있는 곳은 어디인가요?,b,train_original,db2920badce0bcc1700a51e6efa381250c6392096fa76032b096f306c76b03e5,b,b,d,b
+train_1473.jpg,이 사진에 보이는 광고판 중 '리쥬란' 광고 문구로 옳은 것은 무엇인가요?,a,train_original,affbef8855686b4b2ce9618cc86a0dc0e36edbe1783eb78f746f6f9bb3da6cdf,a,a,a,a
+train_1481.jpg,이 마스크 팩 제품의 가격은 얼마인가요?,b,train_original,c87ba760b3da1798f40b9f25ff09e040654ad95f3b46d245240b4f1b0bb8035f,b,b,b,b
+train_1485.jpg,이 편의점 출입문에 붙어 있는 노란색 안내문의 주요 내용은 무엇인가요?,c,train_original,1411db9557decdf73f3abec41b6b725bc81c267be9bda810f91e46503c9a9659,c,c,c,c
+train_1487.jpg,이 건물에 있는 식당의 이름은 무엇인가요?,a,train_original,78a5071f2fcfdc99158257d7f641dc2a4b73b9499e0d01dd1e67f9592a89eab0,a,a,a,a
+train_1493.jpg,사진 속 상점의 간판에 적힌 '백세라이프'가 의미하는 것은 무엇인가요?,c,train_original,dbb6ae564ba465f50cfdb9a2765acdbdd7c62a2207b7e9af12f9ee2ed2e69574,c,c,c,c
+train_1503.jpg,이 건물에 위치한 '제일안과' 병원은 몇 층에 있나요?,b,train_original,8fa56aa650574b3cc4fa7bea7b45bba8ac549b0ceb777d5c8e7a1a1324390519,b,b,b,b
+train_1507.jpg,현재 재생 중인 노래 제목은 무엇인가요?,b,train_original,6744b9e9b48f5f23bf46b2303c962326c3b1899908ab50f6102e5fd24efc75c7,b,b,b,b
+train_1525.jpg,이 간판에 적힌 카페 이름은 무엇인가요?,b,train_original,39fd22a2bae1cb400720828f0dc6f6807e297d3d017e32c266dd5f2bfe663df8,a,b,b,b
+train_1534.jpg,현수치킨에서 낮 타임 대박 이벤트로 제공하는 것은 무엇인가요?,b,train_original,a6c2a6c99ea98cff98992bfe6346cccb3a760150ff4010f37a8ddd9f6fc92bcc,b,b,b,b
+train_1535.jpg,이 이미지에 보이는 휴대폰 케이스 중 '아이폰 15 프로 맥스 호환용' 제품의 가격은 얼마인가요?,a,train_original,3a8fc374f737155c6b5edb637f61cbcf9138ccc70b777684cf982845e390bee8,a,a,a,a
+train_1542.jpg,이미지 속 '콘푸레이크 천마차' 상자에 적힌 가격은 얼마인가요?,b,train_original,229eb0b0783f4dbe59acf7410a8a5af076e39a634f7dc826d7d1050051c6f72a,b,b,b,b
+train_1551.jpg,사진 속 커피 전문점 'Now Coffee'에서 아메리카노 가격은 얼마인가요?,c,train_original,745cd53a08fd4b9b6a63cafa24767e86e111d4bb35eaed17853a447b4114b1c3,c,c,c,c
+train_1552.jpg,사진 속 'BUSAN XYLITOL CANDY' 제품 중 레몬 맛으로 적힌 것은 무엇인가요?,a,train_original,74e2f70177537f3be612c33dc4ce023f989985d55d6182aabe8cd9c1e36a227a,a,a,a,a
+train_1568.jpg,해금강 횟집 민박에서 제공하는 메뉴가 아닌 것은 무엇인가요?,a,train_original,72ea949fa2aa33596c653a9b99200b98bf67f205bd783c807429a75e0141c7b6,a,a,a,a
+train_1573.jpg,이 제품의 맛은 무엇이라고 적혀 있나요?,b,train_original,2d1fc17edc608bee1a3801d6c56b50fbaef8953ea1539baa1f7783e1cb0981f1,b,b,b,b
+train_1574.jpg,이 시장의 이름은 무엇인가요?,b,train_original,210f2c4d9fd93171e58be49479b754efc8052ffd921034dc91be0202593ff24d,b,b,b,b
+train_1580.jpg,이 이미지에 적힌 문구에서 2026년을 맞이하여 어떤 메시지를 전달하고 있나요?,a,train_original,7fc87ddbccfa212f508acc8789c90aa9e2cddd66587cd21f17ba38f0339d98af,a,a,a,a
+train_1599.jpg,6th Avenue 커피 전문점 입구 앞에 '여기가 커피 맛집'이라고 적힌 표지판에 적힌 문구 중 맞는 것은?,d,train_original,a7f9a4a94f8b73907e946d927d158584c38394643d76781edd0d8528583659e3,d,d,d,d
+train_1601.jpg,이 사진에서 보이는 미용실의 이름은 무엇인가요?,a,train_original,eb1d45a75f635e7c94d18230f1855511ccb5fe1b45a5b6e0db1a194150c11b73,a,a,a,a
+train_1606.jpg,사진 속 파란 벽에 붙어 있는 금속 상자에 적힌 글자는 무엇인가요?,b,train_original,c2dc473fe37e88e81a839cf1df3d8d80a61b5f4edbb569c23b3aa0d6894f7ee2,b,b,b,b
+train_1608.jpg,이 가게 출입문에 붙어 있는 안내문에 따르면 어떤 음식의 반입이 금지되어 있나요?,b,train_original,5ef9b4334f9a2b685da630cb20cbcaaa631a98e40733034dc9d0f1dd7034ea91,b,b,b,b
+train_1613.jpg,"이곳에 세워진 안내판에 따르면, 어떤 행위가 금지되어 있나요?",c,train_original,33c0d69040bc5bed4b803ac65c757208fd52c4a26436a31b3020a0d931924836,c,c,c,c
+train_1616.jpg,사진 속 표지판에 적힌 '경성대학교'의 영어 표기는 무엇인가요?,c,train_original,eb5929e6cc5f0e929717ee6b55b5a425ea1a1843835105654dba8855d9f42698,c,c,c,c
+train_1619.jpg,이 사진의 마스크 제품 중 할인된 가격은 얼마인가요?,a,train_original,66494400d162bbb1ed996ec6907371e473fe4eb1c1faceb810a9252c8d04c108,a,a,a,a
+train_1634.jpg,이 자동차의 번호판에 적힌 번호는 무엇인가요?,c,train_original,48ee18f03383d5e757ca7965430c7e34c47414dd79b6c64e9ce1bd54259579ee,c,c,b,c
+train_1641.jpg,이 포스터에서 아메리카노 할인 혜택이 최대 얼마라고 안내하고 있나요?,d,train_original,f319d5db901fc6631e6b0b1b41bcd6dba473c62ce57f4baafe1376db19234776,d,d,d,d
+train_1642.jpg,왼쪽 텀블러에 붙어 있는 라벨에 적혀 있는 닉네임은 무엇인가요?,d,train_original,96432f7613c7551209bf6ca6b2c36fb3f253dbfd29063d21e7b09a7442198e3c,d,d,d,d
+train_1649.jpg,이 표지판에서 '절대 주차금지'가 적용되는 대상은 무엇인가요?,a,train_original,bd0d1315287070c78223ee2a3d470bf52d7c52481e720d207424158d64e2ffef,a,a,a,a
+train_1655.jpg,"책 제목 '아들아, 시간을 낭비하기에는 인생이 너무 짧다'의 부제는 무엇인가요?",a,train_original,721b1f82abb8e94c556e3c3c41481fdec9ef884c7353dd9af27274280f11ea55,a,a,a,a
+train_1657.jpg,이 안내문에 따르면 소득을 목적으로 한 시간이라도 일했을 때 반드시 해야 하는 것은 무엇인가요?,d,train_original,88ed686a27515316c2d5f39739c4f191e6174f35989a66cccca52ea97caad808,d,d,d,d
+train_1659.jpg,'오지마 포차' 가게에 붙어 있는 안내문에 적혀 있는 문구는 무엇인가요?,c,train_original,7a56f0a0bcd5cebf6b0782c76d8dc68d1816eed84d98119ed60210ac4e4b66bc,c,c,c,c
+train_1667.jpg,사진 속 식당의 전화번호는 무엇인가요?,d,train_original,e132c60153d99ad6aea8b0acf8ba2c82579c24e805d2e76e627ec222aed53e6d,d,d,d,d
+train_1672.jpg,이 벽화에서 'HELLO!!'라는 말풍선은 어떤 색 배경 안에 적혀 있나요?,b,train_original,17d0ac2c07b47972a503dec9c9c5ab283f65ffe1b2cd1ad3698e05d912123d3c,b,b,b,b
+train_1673.jpg,이 책의 제목은 무엇인가요?,c,train_original,c33b203851bce30c05cdaf9edab7b1f4e6490cfb305cecb52853a5ff8503dfc1,c,c,c,c
+train_1676.jpg,이 세탁기에서 '표준세탁' 모드로 설정하려면 어떤 다이얼 위치를 선택해야 하나요?,c,train_original,f1f2555c7b0d202249c82e6bee80d3727cfb6dc8bab0be2844041087ba969e15,c,c,c,c
+train_1679.jpg,이 제품의 원재료 중 함유량이 가장 높은 것은 무엇인가요?,d,train_original,f8d4588d75a580f7524bced9a23118d79483eaf75af14a321e74fd18abe77f54,d,d,d,d
+train_1681.jpg,이 명함에서 'Sam House'가 제공하는 서비스는 무엇인가요?,d,train_original,8c0fa5e7d0e5f72617d049e1834465467758c9c6a3fd109479d7d2743d86e49b,d,d,d,d
+train_1687.jpg,"""""RAYMOND"""" 가게 간판에 적힌 문구 중 올바른 것은 무엇인가요?",c,train_original,f902f081aff153b95aa15a7d31327ae935ad506c5f8bdf9c1648e41420891be2,c,c,c,c
+train_1702.jpg,사진 속 간판 중에서 '매운탕'을 판매하는 음식점 이름은 무엇인가요?,d,train_original,ed8c868f72a2011bc553fec9ecec12ccc9dd2d36399413aa22d0fd299be8b930,d,d,d,d
+train_1709.jpg,이 건물의 간판에 적힌 명칭은 무엇인가요?,d,train_original,86753299d105d5a0d9f826ce531a59efdf045daaa1acaee6c03c02d9ed92ae93,d,d,d,d
+train_1711.jpg,사진 속 '액티플루 노즈' 제품에 해당하지 않는 증상은 무엇인가요?,c,train_original,05436e01e4fb01686623e92bac6fb661b421ad38c51a161bf2cef446863d3eef,c,c,c,c
+train_1717.jpg,사진 속 '청정원 Aglio olio' 파스타 소스의 가격은 얼마인가요?,b,train_original,437facf8a5a58a7135038776a1c4f2a49f7f6e58969943f268bc5b10652d024e,b,b,b,b
+train_1720.jpg,프로젝터 화면에 표시된 노래 제목은 무엇인가요?,a,train_original,6b349c9b849c7f5384dd912f51b6f26884128c2ed6696275c3816b1b280681d8,a,a,a,a
+train_1724.jpg,파란색 통에 적힌 글씨 중 올바른 문구는 무엇인가요?,b,train_original,ba5459d77e5c11167146731e28eb72e073a5aae79e943a85e810cfa4e6f83b3c,b,b,b,b
+train_1729.jpg,이 건물의 주소는 무엇인가요?,d,train_original,40469a855692a7cd0834bc0b2a310d5cec56ede3ad015121e8ff7870ddf1f732,d,d,d,d
+train_1733.jpg,사진 속 수학 학원에서 문의할 수 있는 전화번호는 무엇인가요?,b,train_original,1c0bcb64e364884f4337631135f1c23457db49c5d53355c2e13b1d75647e766e,b,b,b,b
+train_1739.jpg,'삼성청년SW·AI아카데미'에서 제시한 10가지 성공 수칙 중 '기본 에티켓을 충실히 지킨다'에 해당하는 행동은 무엇인가요?,c,train_original,47504ffbd8ccf2ace070ac4e205b29d5079ec510f7a06e2b7ba1aad58db018b1,c,c,c,c
+train_1748.jpg,이 표지판에서 경고하는 내용은 무엇인가요?,b,train_original,7ed74ffb396ee50ec2292b16f9cd913d4fb5d3a4fa43164ea9e62fe90e3dca0c,b,b,b,b
+train_1755.jpg,이미지에 적힌 안내문 중에서 '교육생 수기 장부'에 관한 설명으로 옳은 것은 무엇인가요?,c,train_original,6715bc8a9b836180fd33779f2d9c9355f2f7e29fb50756e0df03da27b37e4b3e,c,c,c,c
+train_1773.jpg,이 표지판에서 자전거와 킥보드 이용자에게 어떤 행동을 요구하고 있나요?,a,train_original,a1439e81ff33306e9bbb1ad2927424caafa53884b440ecfa2ef3847297a9c6d6,a,a,a,a
+train_1793.jpg,이 영화 포스터에 적힌 개봉일은 언제인가요?,a,train_original,009354ff89e7cbcc2e768e676450586c6c110bf0a86771c93a093b4fcdac19e5,a,a,a,a
+train_1796.jpg,노란색 간판에 적힌 병원 이름은 무엇인가요?,b,train_original,f5c6f4508186559efcf17f355bd5694f6f00e9cb8732ffa5e5faa82ea8707838,b,b,b,b
+train_1815.jpg,녹색 책 표지에 적힌 도널드 노먼이 설명하는 책의 주제는 무엇인가요?,c,train_original,b24f0ba9298dcbd0bdebf5c6eb307cfe429b9dde0d4bf715ecc8e8923ecdb543,c,c,c,c
+train_1817.jpg,이 식당의 전문 메뉴는 무엇인가요?,c,train_original,285c2b5917380730b312a574848898a2e0196bdd8c26475bf4accad1b2a5a323,c,c,c,c
+train_1823.jpg,이 자판기에서 아이스 캐모마일을 주문할 때 기본 선택된 포장 방법은 무엇인가요?,b,train_original,47094ac5b79863c5de8d5c490d3e71a2cb7ecd947e4cf959da1d2b52f810d442,b,b,b,b
+train_1828.jpg,이미지 속 뉴욕(New York) 번호판에 적힌 번호는 무엇인가요?,b,train_original,bf50e3304e9d5fc01fd64d174aded5c5e46942b317f1b36e09fdfd4172eeffc3,b,b,b,b
+train_1841.jpg,사진 속 노란색 카카오톡 안내문에서 제공하는 혜택이 아닌 것은 무엇인가요?,d,train_original,7b3e090f9deedf30582215d8c329c7e76c32e216721076f68030a8151459ebf8,d,d,d,d
+train_1847.jpg,사진 속 'MADE MUSE' 제품 박스에 적힌 내용은 무엇인가요?,b,train_original,56bd4ecf1f17d7d1b673e348d11b66ff61ccd8b4886094ec76af2a86a3e3f1f7,b,b,b,b
+train_1857.jpg,이 가게의 이름은 무엇인가요?,a,train_original,2497c49a100041489fe61de38b63646b453f266f67a62a0db6844f9e0b2636d8,a,a,a,a
+train_1866.jpg,이 글에서 등(背)을 보여주는 것은 무엇이라고 설명하고 있나요?,a,train_original,eeeb51f93eb19063ca6a09a1d6c78957e2fd4801a67e254244756041f7d82cb3,a,a,a,a
+train_1872.jpg,이미지 속 떡도리탕 강남본점의 웨이팅 현황에서 2~4인 팀과 6인석 팀의 대기 인원은 각각 몇 팀인가요?,d,train_original,fa3f933170dea38dd1dcdde3bc22d87bd07d8a0450153ffa2ab82b1b882d03b8,d,d,d,d
+train_1874.jpg,"'CONVERSATION PLATES' 카드에 따르면, 다음 중 'HAY579'가 의미하는 것은 무엇인가요?",a,train_original,c5f4f85de58a36bc60625c04ed17866a777bfae8c345d36d6b6855d158e7d5e7,a,a,a,a
+train_1882.jpg,이곳에서 제공하는 와이파이의 ID는 무엇인가요?,c,train_original,202bee212652ee743b405bc017444462298f4b50051725b519a3e7128a6df72b,c,c,c,c
+train_1883.jpg,사진 속 도로 표지판에 안내된 '테헤란로'의 길 번호 중 가장 작은 숫자는 무엇인가요?,b,train_original,3c3afdd10c47ec078a9b4df22c173e00318960de11585cd20d93e7be6a6f606b,b,b,b,b
+train_1884.jpg,이 가게의 오늘 메뉴에 없는 음식은 무엇인가요?,a,train_original,f8b55817e9bc0ac76c6f064b1215ca918ff9b443859121cfd261439b187f6a9e,a,a,a,a
+train_1887.jpg,이 광고에서 임플란트 고민이 있는 사람에게 권하는 방법은 무엇인가요?,d,train_original,056c8f307a9ea06b33ed71dfbc3896d68eb9a60341a2b75a9cea497f0f25d338,d,d,d,d
+train_1898.jpg,2026년 주민등록 사실조사 비대면 조사는 언제까지 진행되나요?,a,train_original,9681ff933827b92dbd9f8e003fd271b25f6e4fff1a016f7437efcd7488348260,a,a,a,a
+train_1901.jpg,분리수거 기본규칙에서 빈 플라스틱을 어떻게 해야 한다고 적혀 있나요?,a,train_original,aba05bd53c4514ea0d242a4aff6b80a9c2ede9b7f452e1ab00d31cbc828f1f80,a,a,a,a
+train_1902.jpg,이 이미지에 나온 SSAFY 14기 전시발표회에서 1등을 차지한 부문은 무엇인가요?,d,train_original,fc2d5a25b4fd7c034375982f964015596f1c61dad85b8207506bd560cc29a2dd,d,d,d,d
+train_1906.jpg,모드코프S 목감기 약의 복용 방법으로 올바른 것은 무엇인가요?,b,train_original,6af03a8ee21717e94852db345945f36888042eecdb72840e348a39d264ce35f1,b,b,b,b
+train_1912.jpg,이 식당에서 주문을 하려면 어디로 가야 하나요?,c,train_original,eb65d44987ad2d05cfb6d9add31d34a4ab3070f6ed60b870297caf487bc8d095,c,c,c,c
+train_1914.jpg,사진 속 아이스크림과 냅킨에 적힌 카페의 이름은 무엇인가요?,d,train_original,72819fbe5084b04f37803a26ee3cf6e466a0d861294ce52b35a118b0471c643e,d,d,d,d
+train_1915.jpg,이 자전거 주차장에 붙어 있는 안내문에 적힌 문구는 무엇인가요?,b,train_original,3401835e444994b6a22fea01a8097e88505fe882ccc3dc0fdddc60882e80854e,b,b,b,b
+train_1936.jpg,사진 속 오리온 카스타드 제품 상자에 적힌 문구 중 옳은 것은 무엇인가요?,d,train_original,eca3daaab6a5b6e784a7a3d58b9947eeb4b232c98fb83f141b32b6df09d3c1e6,d,d,d,d
+train_1938.jpg,이 도로 표지판에 적혀 있는 내용은 무엇인가요?,d,train_original,0fff13a13d4cf40dd2a193aa550bafa03dec6557795384d756443f100e603a89,d,d,d,d
+train_1940.jpg,이 사진 속 노란색 경고문에 적힌 내용으로 올바른 것은 무엇인가요?,a,train_original,bb71fdb3721695ff611dad4b65ded630f21b47848616094a64437d1b74bd22ee,a,a,a,a
+train_1946.jpg,이미지에 보이는 식당 중 '이자카야'라는 단어가 쓰인 간판의 상호명은 무엇인가요?,d,train_original,40c32d2bbeeb80d648a69092474ddcc0fde2028ae0049543867304dc344587ca,d,d,d,d
+train_1953.jpg,이 음식점의 상호명은 무엇인가요?,a,train_original,10bed9bbb5742f7c89f1ec2e21d8574e1ab67479ca2d0d33adf318a4376dcc98,a,a,a,a
+train_1957.jpg,홍천샌드 가게에서 아메리카노 커피의 가격은 얼마인가요?,d,train_original,fa6d2e2122f01f29e1c19d1f92d5482e2b000aa65bd36fdd6f2b207577a63409,d,d,d,d
+train_1969.jpg,이 가게의 간판에 적힌 상호명은 무엇인가요?,d,train_original,146561ed37fcbbd0208a3344402a1678ed8063f1b8ac1d403e84df0d30a72847,d,d,d,d
+train_1978.jpg,이 화면 메뉴에서 선택된 항목은 무엇인가요?,b,train_original,dc27d0b4a2e0dc968cc39f56f11cece2c87ceb430296f2db4f122200c8caf845,b,b,b,b
+train_1980.jpg,이 사진에 보이는 매장의 상호명은 무엇인가요?,c,train_original,cb4fcf0c125c4bb6a23af78fa775501e32803a8269e8e69d0db1b1c8fe1e7c34,c,c,c,c
+train_1985.jpg,이 종이 쇼핑백에 적힌 브랜드 이름은 무엇인가요?,c,train_original,83a55bb0c33198d309efc4e182e28b1642e15be047f1601bd08b0371572e26ab,c,c,c,c
+train_1992.jpg,CU 출입문이 어디에 있다는 안내문에 적힌 내용은 무엇인가요?,a,train_original,89c3612574976cb6f3d74abaf49e63a3d7d360bda23988bce38d32414c27d058,a,a,a,a
+train_1998.jpg,이 건물에 있는 가게 이름 중 '파리바게뜨'와 같이 빵이나 커피를 판매하는 곳은 무엇인가요?,a,train_original,d06ed312007452bcf9d7971ad8b4b2227e641d6937378c0405cbf5fd61245ebb,a,a,a,a
+train_2005.jpg,사진 속 '인동 한의원'에서 월요일과 수요일에 하는 진료는 무엇인가요?,c,train_original,f26e71911072edc681092b8570d90afce5b0b4e8f7981bec05009d11cbf16c87,c,c,c,c
+train_2010.jpg,사진 속 책 제목 중 '처음 부모'라는 문구가 적힌 책의 제목은 무엇인가요?,b,train_original,44eb1c36f4620cd3dcf05ec78809c67dc66f21be415a4c9fa9e74cfb369e92db,b,b,b,b
+train_2012.jpg,도원빌딩 5층에는 어떤 종류의 클리닉이 있나요?,c,train_original,5afca6c250195ff27a2ffcf6f7757dcab56c9a8298bfd06f2a67b023754cae99,c,c,c,c
+train_2013.jpg,이미지에 보이는 교회 건물의 이름은 무엇인가요?,a,train_original,72fd6e6350a3531d40ce734c9245c798cd12ad6ef5e274bd7c98dcb003edff21,a,a,a,a
+train_2020.jpg,이 노래의 제목은 무엇인가요?,d,train_original,6160bb4db743387d90a4f72f91785e638668141c355115b7a8c956bf5da12687,d,d,d,d
+train_2021.jpg,사진에 보이는 'BK' 간판 아래에 적힌 글자는 무엇인가요?,c,train_original,c114696835c7b21715de543429be4c526198b45db85d216e3866e00365abb71d,c,c,c,c
+train_2025.jpg,에스컬레이터 앞에 설치된 노란색 표지판에 적힌 문구는 무엇인가요?,d,train_original,10d66e5fe977e6f6a9c6227a4c56bc59f05ada46c6e6e6bed33f76f0800bc4fe,d,d,d,d
+train_2031.jpg,이 카페에서 아침 11시까지 판매하는 모닝커피 가격은 얼마인가요?,a,train_original,49e424b719ec49d4a325c72a05505fcdd444e777f85ab9c4e3544e4d2676b4d4,a,a,a,a
+train_2032.jpg,이 사진에 보이는 '연의 편지' 포스터에 적힌 개봉 예정일은 언제인가요?,d,train_original,80eaad046ae356388f70946eedf16be1e4c8a7426d554c5ab9b80825917da0d8,d,d,d,d
+train_2036.jpg,이 건물에 있는 식당 이름은 무엇인가요?,b,train_original,cdeaa7c1f6d903fc8e148a7a9d21a8d815b5e80089f9746e5b3b3f3c96cab9f2,b,b,b,b
+train_2066.jpg,왼쪽에 놓여진 책 제목은 무엇인가요?,d,train_original,81b2628ce34ccadd4f4dc8f99b2741895b487ad4dc2ec0f1f8d510275149dfa5,d,d,d,d
+train_2070.jpg,책장에 있는 책 중 'C++ 기초 플러스' 책의 판수는 몇 판인가요?,b,train_original,30e9c4ce405163108057e6e51fbfc4fa7faf2282beb755dd3585c96c2148bb26,c,b,b,b
+train_2082.jpg,이미지 속 'BioGrafting' 시술에 대해 설명한 내용 중 옳은 것은 무엇인가요?,d,train_original,26cfc9f1870c288a42e1ea6b97261d1ba7600d5b3aac2d479ebdc02967f6e13f,d,d,d,d
+train_2092.jpg,"사진 속 상품 중 1,000원에 판매되는 제품은 무엇인가요?",b,train_original,28b8886f8868eee1444a8dd397174bbca858642c90415ab192df230c7df8d40f,b,b,b,b
+train_2093.jpg,이 소화전 사용법 중 3단계에 해당하는 것은 무엇인가요?,d,train_original,c60bb91afd734a4349a7484da3913acb5c3a333849e295a3d01de527fa00bba9,d,d,d,d
+train_2094.jpg,이 머그컵에 적힌 문구는 무엇인가요?,a,train_original,2d9697eb82f4d6658cb6c66e54184d560043000562b79c8ceaf677b83ed280a5,a,a,a,a
+train_2105.jpg,이 사진 속 전광판에 적힌 '구두수선·광택'은 어떤 서비스를 의미하나요?,c,train_original,6a6c59773b243a70589f730522cb7e7417996dd4c21d8c6036cfc19d6782dd2f,c,c,c,c
+train_2120.jpg,이 건설 현장의 출입문에 적힌 번호는 무엇인가요?,c,train_original,8cbc66ff08fdc405ac4f7af5383f765a56fd66bd1951208a3dcf6ede263319a4,c,c,c,c
+train_2123.jpg,이미지에 보이는 결제 화면에서 총 상품 개수와 결제 금액은 얼마인가요?,d,train_original,9667b069660b725cd64543431f813317d6adb15cd4480f8b481f45cb02ea6fde,d,d,d,d
+train_2124.jpg,이미지에 적힌 시 '부부'의 저자는 누구인가요?,d,train_original,7cf8c45dde5e5c026f3dec186de377092aad4662a6ea6129660f955df6a0837d,d,d,d,d
+train_2126.jpg,이 화면에 나오는 만화 제목은 무엇인가요?,a,train_original,5751fed9dbccdcce0e732996c8002f188b26f719406f2987ce92f603f4755250,a,a,a,a
+train_2132.jpg,위너축구교실에서 취미반은 주 몇 회 수업이 진행되나요?,c,train_original,660cd1199affc8c93a204bf8d8c512c10980a73e5912b370871730c1f659cef0,c,c,c,c
+train_2142.jpg,사진에 보이는 '5번가' 간판에 그려진 여성은 어떤 소품을 들고 있나요?,c,train_original,dddae8e13904297e52f0ac4f84b14446b719e605ba5d2e5bbe30c70cccbf526f,c,c,c,c
+train_2143.jpg,이 가게 앞 칠판에 적힌 내용에 따르면 소금빵은 언제 다시 판매되나요?,d,train_original,99fb25c8553498266d95367e650637552d6aaac4f201104763be934f08926e87,d,d,d,d
+train_2147.jpg,사진에 보이는 옷 포장지에 적힌 '위너또또브이크롭 반팔티'의 색상은 무엇인가요?,b,train_original,062792dbd6ff2c025a0bd81de7bcacec1adccb48e628d9fa23a1a7c197c5dcd6,b,b,b,b
+train_2149.jpg,이 가게에서 떡볶이 가격은 얼마인가요?,d,train_original,f9a63bfaebd99cccd044110322080280bab594a4a5ceb835b639fdf332b447f5,d,d,d,d
+train_2156.jpg,"다음 중 이미지에 보이는 제품의 가격이 6,500원인 것은 무엇인가요?",c,train_original,52852fb692fe21caa6e2eac53301403f456a5f7d25653a954bbafaae2059f8f2,c,c,c,c
+train_2164.jpg,"다음 중 가격이 1,500원인 상품은 무엇인가요?",d,train_original,ee485b9e4af488225f1000c444b7668fcf2a32ab62eb7c5fe9faee027c5e10b5,d,d,d,d
+train_2168.jpg,사진 속 도로 표지판에 적힌 '양보'의 의미는 무엇인가요?,d,train_original,e0b6d21cd318322bed38b8c9a1020cf2270f7b8866d7153eef3f5ddb16e7040c,d,d,d,d
+train_2172.jpg,벽에 붙어 있는 표지판에 적힌 플랫폼 번호는 무엇인가요?,d,train_original,96b72c85b8e6245bb97af2b4a7d8228daa97715ddb7810abb8c80e8d03db60ae,d,d,d,d
+train_2173.jpg,이 사진에서 매장 입구에 세워진 안내판에 적혀 있는 문구는 무엇인가요?,c,train_original,375365af35b2e21d217b73c066c2491eb519aa68b191ca85ee8be5e4fe307a68,c,c,c,c
+train_2178.jpg,이 TV 뒷면에 붙어 있는 노란색 경고 표지판에 적힌 글자는 무엇인가요?,d,train_original,00c14204c61b74aa10c6c503be9a64d0a30da8250f3d15855e0fcbbb13b28aab,d,d,d,d
+train_2179.jpg,이미지에 적힌 문구 중에서 '지금 어디에 있나요?'라는 질문에 해당하는 영어 문장은 무엇인가요?,a,train_original,a6f369f9169afe86929ac2fba8d2a5e0090593209fab7cce51dd7226a22241ba,a,a,a,a
+train_2182.jpg,이 이미지에 벽에 붙어 있는 문구 중 올바른 것은 무엇인가요?,c,train_original,eff4081acea812400db45d08cc0b0516035a5e98cd7a24a51d421a3768327c5b,c,c,c,c
+train_2191.jpg,"버스 문에 붙어 있는 안내문에 따르면, 하차문 승차에 대해 어떤 내용이 적혀 있나요?",b,train_original,a9bf4a6de5eeb08f0af2ab7ad631c2476e65a395ebc82598ff2fb29d31d8e6a1,b,b,b,b
+train_2198.jpg,이 배너에 적힌 'Rubber Duck Project Seoul 2022' 행사의 기간은 언제인가요?,a,train_original,b2719284b3256b24e3caae0340bfacc2723e94019263fb9ed7727ecea264e4ff,a,a,a,a
+train_2207.jpg,이 건물의 몇 층에 해당하는 곳인지 표시된 숫자는 무엇인가요?,c,train_original,77daf04ec76d1655cf7af1ce6536e068c2353865c3d5109a5448f275514c818f,c,c,c,c
+train_2208.jpg,이 간판에서 판매하는 주 메뉴는 무엇인가요?,b,train_original,6ba71183964f203b7e2c17b9a6cae9fabaaf23dc4ced5ccc5ab903629f55278f,b,b,b,b
+train_2211.jpg,이 카페 메뉴판에 적힌 에이드 종류 중 가격이 다른 것은 무엇인가요?,b,train_original,25c512135a71fdc4b134005d615af50cfcbd46540d4482537b0da29cd721e44e,b,b,b,b
+train_2213.jpg,이 건물에 입주해 있는 병원 중 정신건강의학과 의원은 어디인가요?,d,train_original,18952b8d1ee96697fa7b6b376f617dfff587f486fda3118bb71c5868e9b28528,d,d,d,d
+train_2214.jpg,다음 중 '우유 생크림 도넛'의 가격은 얼마인가요?,c,train_original,8e43e3c3591d1dc1f0c496c0a55ad7bd15cbf7fcae1fd480a5582916f8ffd872,c,c,c,c
+train_2215.jpg,이 건물에 적힌 전화번호 중 교육상담을 위한 번호는 무엇인가요?,c,train_original,dd669e0f7d5ae5a09256c151c8a6550c186580bf6e2e55f82d64d73a93e9a384,c,c,c,c
+train_2216.jpg,롯데 ABC 초코 72g의 1개 가격은 얼마인가요?,d,train_original,c4c094d3a343d6071c98b187a430b801f3aee8bfb41ff35cb3ccdb98a1329b11,d,d,d,d
+train_2226.jpg,이 건물 2층에 위치한 가게의 이름은 무엇인가요?,d,train_original,7fc09163467a2f610e30ba6fc8d2d4288fef3caa3d384f062f1f98f5e2783b73,d,d,d,d
+train_2232.jpg,이 이미지 속 노란색 상자에 적힌 제품 이름은 무엇인가요?,d,train_original,44ea6a2fcb2a70b8269271783d735cca775fdf6b21b18bb6c79b73eeb7372a35,d,d,d,d
+train_2238.jpg,이미지 속에 보이는 한글 글자는 무엇인가요?,d,train_original,b0e76291a6bc07e2e373eb73556735d2bcb31528d27c6da9503b7b3422deb4ba,d,d,a,c
+train_2242.jpg,사진에 보이는 두 개의 '마이쮸' 사탕의 맛은 각각 무엇인가요?,a,train_original,ad938b2e01d5f593a4113c9e2c2a9bc714c359159d771b01cc1ce5a4656eef48,a,a,a,a
+train_2244.jpg,이미지 속 신발 모델 이름은 무엇인가요?,a,train_original,1f09620eaaf28b278e2fd78affa18fceddbffc4310eac3f3324a90e75b23ea4e,a,a,a,a
+train_2258.jpg,이 전광판에 표시된 다음 역 이름은 무엇인가요?,b,train_original,dbc1304f0cf488c48ea0081e7f46facc1239eebbbf309c2b6311bf4851e23199,b,b,b,b
+train_2286.jpg,이 사진 속 간판에 적힌 PC방 이름은 무엇인가요?,c,train_original,f1739b35aadc3323d0f2e99e5b7b7513885f2bc0eb8a731dd5ef154505d284c5,c,c,c,c
+train_2287.jpg,사진 속 여성용 양말 중 2개들이 세트 가격은 얼마인가요?,d,train_original,0a5f9d8b21793736dc505a403553de440f6fd86baf6eef1e139ebaa47e105b5d,d,d,d,d
+train_2289.jpg,이 문구가 적힌 장소는 어디인가요?,d,train_original,64ca28e1f989b3a98267bf27f469adead7ba09ef02654c6bee8cae230d226581,d,d,d,d
+train_2294.jpg,사진 속에서 '버터향에 이슬' 소주 한 병의 가격은 얼마인가요?,a,train_original,b4830c51d5d7a01915035083b7bc60846f323ca5cee679ed823e3027ef2cd3d0,a,a,a,a
+train_2305.jpg,이 건물에서 3층에 위치한 기관은 무엇인가요?,d,train_original,66ea1ee7cded7ddd314cd9461cceaf178c2c830d2e1441e12ed27affafe433e9,d,d,d,d
+train_2318.jpg,이 사진 속 간판과 문에 적힌 커피 브랜드 이름은 무엇인가요?,b,train_original,c3593d3b5ee7f64b316dc5572a007377362d267202fbc363109c756f1f7b38ac,b,b,b,b
+train_2328.jpg,올바른속내과의 위치는 몇 층인가요?,a,train_original,2f01facef5b2288cc9f546033485040f44823b2cf902a1389cfdc09d21f7bae6,a,a,a,a
+train_2335.jpg,이 도로 표지판에 적힌 '사당역' 방향으로 가려면 어떤 도로 번호를 따라가야 하나요?,c,train_original,22cc823c3e1004856d6c85fa6d1739455f74b0c74d762fa996d7d48f7e6c9fa1,c,c,c,c
+train_2342.jpg,이 맥주 캔의 용량은 얼마인가요?,a,train_original,46c40ec219348604d74226e00ac2dbfdf133f1110b20a2c2c41dd776ff4ba5f3,a,a,a,a
+train_2344.jpg,'CREAKETER' 동아리 모집 기간은 언제인가요?,b,train_original,3a32f07f84ccb3c70c959ddfed26eccaf9fa5316e3d2c891b20738d870ebb17b,b,b,b,b
+train_2360.jpg,이 커피 자판기에서 제공하는 커피 종류는 무엇인가요?,a,train_original,ef30682202f55935caeefdf1e85fc152377a1083fda61eea779c2aaac33d3caa,a,a,a,a
+train_2363.jpg,이 리프트 탑승 시 주의해야 할 사항은 무엇인가요?,b,train_original,865c9cdc08df1208359f902f5e57f630c116610d5dbf87437682bd556713b02c,b,b,b,b
+train_2368.jpg,이 장소에서 임대 문의 가능한 업종으로 옳은 것은 무엇인가요?,c,train_original,e02d4b3669208b6f100dfb4ca54b0a55dead301bc631b26d5ad6baab64d3b1bb,c,c,c,c
+train_2369.jpg,사진 속 파란색 버스에 적힌 노선 번호는 무엇인가요?,c,train_original,d2214cdbc777437034d39b25cf92e860f5a056e83e2bbfe2e52d923c0dc9305b,c,c,c,c
+train_2370.jpg,이 지도는 어느 테마파크의 안내도인가요?,d,train_original,b0a8ff8193c0babf1a6cfb49c063c0eca4a904b029bcb89fbff03b99413c6143,d,d,d,d
+train_2374.jpg,이 식당의 영업시간은 언제부터 언제까지인가요?,a,train_original,5e06bea9a3f464bd1875ece510359f2e3b2b991daff2cee7eef3504a79bf50c9,a,a,a,a
+train_2382.jpg,싸트너십(SSARTNERSHIP) 제휴 플랫폼을 통해 SSAFY 구성원들이 할 수 없는 것은 무엇인가요?,b,train_original,91ac086c49d2f269244d94e535ca1eeb70f502209e3de837c7d8131dcfe15b0a,b,b,b,b
+train_2386.jpg,사진 속 빨간색 표지판에 적힌 문구는 무엇인가요?,a,train_original,bcb71f0fe78015d77d4fb39c4d7937cf7c9b2b98fc4a804b8729a36fc58bf810,a,a,a,a
+train_2389.jpg,이 사진 속 빨간색 표지판에 적힌 문구는 무엇인가요?,a,train_original,fcb9f025b794ba4c06ea30f32cbaa980d3f02ff7cfbeba94faf2ca98edd92e7e,a,a,a,a
+train_2393.jpg,이 승강장 표지판에 표시된 노선 중에 포함되지 않은 도시는 어디인가요?,d,train_original,775933401d2e95601d3520ae95e6f56c99124ce78d6e547141d2b5bcd0103660,d,d,d,d
+train_2403.jpg,이 사진 속 가게 간판에 적힌 전문 음식은 무엇인가요?,d,train_original,70b58c2775d074657813d86c623804a3802b899c77546bb1e3530040ab49e6ad,d,d,d,d
+train_2409.jpg,이 건물에 있는 약국의 이름은 무엇인가요?,a,train_original,fde4c50ec69394a36370bf07e3461dbb5884df92766ae0ee70344b367d3845bc,a,a,a,a
+train_2416.jpg,이 제품의 이름은 무엇인가요?,c,train_original,79e2e504477b1c3391f9e748a51baaee07f7f2c7ad48532c53ae84eac8675e81,c,c,c,c
+train_2425.jpg,오른쪽 노란색 안내문에 적힌 주의사항은 무엇인가요?,b,train_original,ef36cb135847966325d270be3db0a4952029e373bb30e3159c714eb640354032,b,b,b,b
+train_2430.jpg,이미지 속 파이썬 코드에서 'answer' 변수에 더해지는 값은 무엇인가요?,c,train_original,8183ed1b6c21e6567cc4eafb2e44749c60773ebc3af4bbf9a6bfa1078e59957a,c,c,c,c
+train_2434.jpg,이 사진 속 빨간색 표지판에 적힌 문구는 무엇인가요?,b,train_original,493f60d363e0e78b14855462018af0533324ef1f28e1ef1cbc2d5fe6224a5e8a,b,b,b,b
+train_2438.jpg,이 이미지에 보이는 컵라면 브랜드는 무엇인가요?,b,train_original,bac90476ba7f90bf637b37afe83c5a215041e68cbe722d27778794a2f2aee6bb,b,b,b,b
+train_2439.jpg,이 제품 박스에 적힌 렌즈의 초점 거리와 조리개 값은 무엇인가요?,b,train_original,eec057fdd4a42f2c8fbc33ee14b8681922c4cbe8da491f7f742ffc9c29a82ded,b,b,b,b
+train_2444.jpg,이 행사 이름은 무엇인가요?,b,train_original,8119c02f0b9c317e74806811a76d6800f02400fa6381a40f691425d32b836fce,b,b,b,b
+train_2448.jpg,책꽂이에 꽂힌 책 중에서 '모비 딕(Moby Dick)'의 저자는 누구인가요?,c,train_original,c7bd919057290c7d214e2abc3a2d053e8a58e7c94af59023e96f7aa7d9d641d5,c,c,c,c
+train_2449.jpg,건물에 적혀 있는 '장림어촌계'는 어떤 지역과 관련이 있나요?,c,train_original,f5f4e4aab543bcbdbedad092063a48fd07bf16fcb10d3e678a5b20966e18f5fe,c,c,c,c
+train_2457.jpg,SPAO 건물 내 3층에 위치한 곳은 무엇인가요?,d,train_original,4766c01f493d8d5feb7e31988ea74d1d7036ca1fe626440949b51375ede61089,d,a,d,d
+train_2475.jpg,이 가게의 이름은 무엇인가요?,b,train_original,abac3f3bfd63d65975fc76000cc99c461b0d9f79b6a46713bad552ff99a52ddb,b,b,b,b
+train_2483.jpg,이 이미지에 보이는 제품 브랜드명은 무엇인가요?,d,train_original,d47af556e04bf9d3c3a85bf6cb733267816945639c16b3f4fa98773d3f94903a,d,d,d,d
+train_2489.jpg,이 도로 표지판에 따르면 '창동문화체육센터'는 어느 방향에 있나요?,a,train_original,19e46a78e84fc3832746189174ec0f882afd719e74c7adde97c117583d65b60d,a,a,a,a
+train_2494.jpg,사진 속 '곰 항균 행주' 제품에 적힌 설명 중 올바른 것은 무엇인가요?,d,train_original,b2b3f1eb19fe58bb898d210ae3f651ee5e3eff12e2d190b1b9e570c20de90788,d,d,d,d
+train_2496.jpg,이 주유소에서 주유 거래 시 주차 자리에 대해 어떤 안내를 하고 있나요?,d,train_original,0e48c728f8fe41321e8f8135f7c4b9ab1aaca27132ee28272628bf4e6a9ea598,d,d,d,d
+train_2500.jpg,이 가게에서 수리하지 않는 항목은 무엇인가요?,a,train_original,eda9f81b71712e2c76d1397ee7224c24768b695f303f1fcb426b7865325419bb,a,a,a,a
+train_2504.jpg,이 사진에 보이는 건물의 간판 중 '왕성철강(주)'은 어느 쪽에 위치해 있나요?,d,train_original,8699eb8cdfd9b083f272e616c23d6b0a9f9da5e61c09c47f8ea970c71788176e,d,d,d,d
+train_2507.jpg,책상 위에 놓인 책 제목 중 '내가 틀릴 수도 있습니다' 책의 표지 색상은 무엇인가요?,d,train_original,6019056c5aca904ab8fd301908473564b63bff0bd91954f6c7a25cb427b13fe6,d,d,d,d
+train_2516.jpg,이 초콜릿의 브랜드 이름은 무엇인가요?,b,train_original,1719e78b067e9d8450e93c74b579c0097d9e7e9919e1c675d0939c1005955379,b,b,b,b
+train_2519.jpg,이 락커에서 '1-9' 번호가 붙은 락커는 어디에 위치해 있나요?,a,train_original,6f9a663d7a386b417a07d9737cbf8a5d8fc7c90b6e95e06f61e0d5e73cd46cc8,a,a,a,a
+train_2529.jpg,이 티라미수 제품의 칼로리는 얼마인가요?,a,train_original,96b00dd0592023d45ead7f8a6b4ee255755676b0fe9c23f98f020361bd50de48,a,a,a,a
+train_2536.jpg,아래 제품 중 '센카 퍼펙트 휩'과 관련된 문구로 올바른 것은 무엇인가요?,d,train_original,5d51965ac349779603dd413e97eb5aef62e82911ea03a078698b7976249d5420,d,d,d,d
+train_2546.jpg,이 자동차 번호판에 적힌 번호는 무엇인가요?,b,train_original,c403e694e6a0a9929698000d04c19eb874dfa39d865bb2bdb70cfce311ea3c13,b,b,b,b
+train_2549.jpg,사진 속 음료와 디저트에 적힌 브랜드 이름은 무엇인가요?,d,train_original,26913908efebc0bb71f9ea98847209072b4fd8f9bb44ed5f8cfcc34d210decd6,d,d,d,d
+train_2554.jpg,이 약국의 이름은 무엇인가요?,b,train_original,94ccf8bfa08d02dab789dbf9a9c12d390f00edf6d51b5e03adbe297187cf8561,b,b,b,b
+train_2563.jpg,THE BODY SHOP 제품 중 'BRITISH ROSE' 샤워 젤의 용량은 얼마인가요?,d,train_original,32550db75b6041258203bae6579a802d8b7de50aeaa8f69e103b94e5bfe99d81,d,d,d,d
+train_2565.jpg,사진 속 오토바이 번호판에 적힌 번호는 무엇인가요?,a,train_original,b5896159ffbf80a96d83e293ff9e1d9d48c9f4388559c90abfc8fd2f4b3820fa,a,a,a,a
+train_2567.jpg,이 전신주에 부착된 장비를 관리하려면 어디에 연락해야 하나요?,c,train_original,8bf295edc9b16dde742c5b5254b174737797b1274d78bd751e81c8c625395450,c,c,c,c
+train_2568.jpg,이 건물 앞에 걸려 있는 간판에 적힌 가게 이름은 무엇인가요?,b,train_original,ccc0f823880a5173d09844155fdb3d243aca48c156a43f227342e5c630a7fb68,b,b,b,b
+train_2578.jpg,이 광고판에서 진행하는 2023 연말 빅세일 최대 할인율은 얼마인가요?,d,train_original,2764512cc7f3e71bf1ca9b2ad35012fd677c92c1f339522f6237549c41aaa262,d,d,d,d
+train_2587.jpg,사진에 보이는 식당 간판에 적힌 가게 이름은 무엇인가요?,a,train_original,d5fd33903fba47067405e46eeb26a191ee13e4856085793b5d835fa8ddb48139,a,a,a,a
+train_2596.jpg,이 건물에 적힌 상호명 중 올바른 것은 무엇인가요?,a,train_original,b06c2e4ef3e52ad983d054528a00856811fd37fee8dae2584a906c2455028790,a,a,a,a
+train_2597.jpg,이 표지판에 적힌 내용 중 '경기 도중 선수에게 욕설을 하거나' 다음에 오는 행동은 무엇인가요?,a,train_original,0893d56de6db1b1857be378f7cdff7f4ea5c22a97ff136aa5e8b6f28678456a1,a,a,a,a
+train_2615.jpg,이 사진 속 노란색 표지판에 적힌 문구는 무엇인가요?,b,train_original,500431f9547ccd330f5cd932ad1ca2026604cff3e881ddea09e7fd59addff684,b,b,b,b
+train_2616.jpg,이 건물 2층에 있는 곳은 무엇인가요?,a,train_original,e7692218932e6e151329195e7e8c19154c70ad198052f10ee22519da46a35742,a,a,a,a
+train_2619.jpg,"이케아 레스토랑에서 시즌 한정 디저트 중 가격이 6,900원인 메뉴는 무엇인가요?",c,train_original,dcb1750e9031b9892c41b110109ae0e7d4b38701efdbfa9976832f1566609b14,c,a,c,c
+train_2628.jpg,이 행사는 언제 시작된다고 안내하고 있나요?,a,train_original,837f3c43fd21351ac79679a0ae70dd2d2fc47c093df7b42710e538e0ab85e6df,a,a,a,a
+train_2636.jpg,이 가게의 간판에 적힌 가게 이름은 무엇인가요?,d,train_original,9e789d426feab112aa4180a9f7803dba7a4d22188553fcb9a0b5443f70af7517,d,d,d,d
+train_2641.jpg,사진 속 'CUZ' 바버샵의 영업 시간은 어떻게 되나요?,c,train_original,94e0599198d549750bf87fb5be08681f1ffdfd5afeba528cae56cd8488fe8083,c,c,c,c
+train_2652.jpg,코리아보드게임즈 POP-UP 행사 기간은 언제까지인가요?,c,train_original,936fdc12420d1af09ad48f25ba6cf81abbabd065da6bf47502183f15f4ce8340,c,c,c,c
+train_2659.jpg,이 건물 벽에 적힌 '우체통 거리'의 영어 표현은 무엇인가요?,d,train_original,a7e89c43b0145def0f40e8dfb389e9378bdafda4c8d74ba550dc88a9b4dcb605,d,d,d,d
+train_2665.jpg,이 병에 적힌 술 이름은 무엇인가요?,b,train_original,f21e7c77e0361dac6f596207c8faedd7d541809bf03773e39b04fa19f5defa1d,b,b,b,b
+train_2678.jpg,이 소화전 사용 방법 중 두 번째 단계는 무엇인가요?,b,train_original,96be2742b95b9d68483e4b6bc8c6e7ebd447e93f23efe38a294c3fd53cd0d672,b,b,b,b
+train_2679.jpg,이 엘리베이터 안내 화면에 표시된 아카데미 이름은 무엇인가요?,c,train_original,8521c5588d6b9420415866e259bfca265574a78725722bd11250bdc6280c61a9,c,c,c,c
+train_2684.jpg,이미지에 적힌 'dust box'는 무엇을 의미하나요?,a,train_original,71c574e6767dda5b10c81577e50c1d76e3897281aaa38f720693b41d0f9d85bb,a,a,a,a
+train_2690.jpg,다음 중 메뉴판에 적힌 커피 종류와 가격이 올바른 것은 무엇인가요?,c,train_original,cecdaa3fc052de56487fc4a8ccc4672a9d7dd9ae33d844775fac57a068497ba8,c,c,c,c
+train_2695.jpg,사진 속에 놓여 있는 도시락에 들어있는 음식은 무엇인가요?,b,train_original,1c5d6df1895b05c846b12fa897599a1c9b2e2a0668cbc796272d141d8030f63c,b,b,b,b
+train_2699.jpg,이 영화 입장권에 적힌 상영관 종류는 무엇인가요?,d,train_original,850e9d9c17dcbafec4f1cef90da766dc8cedcbc916fe6c6d24818b2908a379e0,d,d,d,d
+train_2701.jpg,이 건물에 있는 영어학원의 층수는 몇 층인가요?,c,train_original,477cae4d0a0b43a524cfc2b47d89327781a2d4cdf57e29b9813da4a63e2ead13,c,c,c,c
+train_2718.jpg,이 가게가 전문적으로 판매하는 품목은 무엇인가요?,d,train_original,dd8822af0e5fe45fbd52824d5c80f06959dde79c2ddae1285f1ff45e189bfa0d,d,d,d,d
+train_2724.jpg,밤에 찍힌 이 사진에서 가장 크게 보이는 간판에 적힌 내용은 무엇인가요?,b,train_original,e5a916da03d8adc0643a0b1a502874cd89c6f4d932ef733bb5c566841b79a28a,b,b,b,b
+train_2727.jpg,사진에 보이는 간판 중에서 PC방 이름은 무엇인가요?,b,train_original,1c794127301505cbff9042ea2dfadb25f00277de60cb617f8eccfc2ea7058dc6,b,b,b,b
+train_2744.jpg,냉장고 안에 진열된 음료 중에서 코코넛 주스의 가격은 얼마인가요?,b,train_original,15e63e746fb7a97a4cbf25506599bb4db48db6377021cfbcabb50834bcae4b22,b,b,b,b
+train_2748.jpg,이 치킨 가게의 이름은 무엇인가요?,b,train_original,88d3d6faee66f85d5426a78f1d7d1a5451029d49e63a8c149844033392945cec,b,b,b,b
+train_2753.jpg,이 트럭에 적혀 있는 회사 이름은 무엇인가요?,a,train_original,62ae4db811c51ddd55ed5061076afb505a17c469c1f7c66639810062c6e66ebc,d,d,a,a
+train_2760.jpg,사진 속 '포톤 스트로베리 크림' 사탕 봉지에 적힌 내용으로 옳은 것은 무엇인가요?,c,train_original,67fa4feaa9859faac1c9e385dcd0237b0cb7e45a901be719f5a5ca7f7578ba66,c,c,c,c
+train_2776.jpg,이 화면에 표시된 오류의 정지 코드(Stop code)는 무엇인가요?,a,train_original,ff03bdec0d4f849d068c4347e52207f2e918b28916868fab7c43f79077a5cbf3,a,a,a,a
+train_2780.jpg,이 전시회에 나온 작가의 이름은 무엇인가요?,b,train_original,d8490a399a3e5ef80e9c9bbc54516cb3aa3d252358bd883ab01d285490b7e366,b,b,b,b
+train_2781.jpg,이 조형물에 적힌 단어 중 가장 아래에 적힌 것은 무엇인가요?,a,train_original,dc6bcce1fb40771f7872cdf60921c8336e7649c00692fba408a2134b2b202be9,a,a,a,a
+train_2789.jpg,왼쪽 손에 들려 있는 노란색 박스에 적힌 빵 이름은 무엇인가요?,d,train_original,c3b5920f926ca609b8e4727d8b73e7c0548adbd3d0d619ad79645eabc1a5f820,d,d,d,d
+train_2793.jpg,"3층 안내판에 따르면, 3층에 위치한 곳이 아닌 것은 무엇인가요?",a,train_original,b1aebdce474dccb5bad7645c5e2caa2820b8e6b3d43c4eadd3c285491df2432a,a,a,a,a
+train_2807.jpg,이 방수용 기구함과 소화전에서 화재 시 소화전 사용 방법으로 올바른 순서는 무엇인가요?,a,train_original,eba0e6a64ae311242f0a6e1d98d8eefc7e8c0ddb1c6446f33f10a6ab6a2d2301,a,a,a,a
+train_2812.jpg,이 안내문에 따르면 식당 출구로 가기 위해 먼저 어디로 이동해야 하나요?,a,train_original,91e503e529edb6866f885a1a3e9981b8d5e1b990c6eadfcf2f200bbf9834753f,a,a,a,a
+train_2814.jpg,사진에 보이는 2층 간판 중 '1:1 PT 전문'과 관련된 내용으로 옳은 것은 무엇인가요?,b,train_original,3ab88cc035573d808394079439e41e38fc5861ccd51f9443ce6cabb679629ce5,b,b,b,b
+train_2826.jpg,이미지에 나온 'G-STAR 2021' 국제게임전시회는 언제 개최되었나요?,a,train_original,a227a2a25828697782814c162377e85044ee73f8ac3c965df18ad6410d425c1e,a,a,a,a
+train_2840.jpg,'라흐마니노프의 가을' 공연이 열리는 날짜는 언제인가요?,d,train_original,cddf8133701bcf9c901e0c94a2e70244415628a0d2fa24fd70c30821258f3ef3,d,d,d,d
+train_2841.jpg,이 이미지에서 가장 크게 보이는 흰색 글자는 무엇인가요?,b,train_original,b94782379c42e8a0108971ad10df0c9f049810f5c71bd98c7df70063283191fa,b,b,b,b
+train_2850.jpg,요가 관련 배너에 적힌 프로그램 중에 없는 것은 무엇인가요?,b,train_original,cf4b467518e95dbdd00b66139f532e04b38fe16625561de468e4860a151e749a,b,b,b,b
+train_2851.jpg,벽에 붙어 있는 노란색 표지판에 적힌 문구는 무엇인가요?,b,train_original,ec0431a7f7be977fffcde619bad1590342ddf95a2c2f226886f8f23fb838aa17,b,b,b,b
+train_2857.jpg,이 이미지를 촬영한 장소의 이름은 무엇인가요?,b,train_original,08159c6b13453efd4c5db69e2971371bbdb668f1e7412bddf6f17e69bd0df534,b,b,b,b
+train_2880.jpg,"이 식당에서 1인분 가격이 18,000원인 메뉴는 무엇인가요?",d,train_original,f04e9c094e133fc38e12087c16a288d51df5315e1ad1159f26dd07e2c948a974,d,d,d,d
+train_2883.jpg,이 건물에 입주한 금융기관의 이름은 무엇인가요?,a,train_original,5686f00025fd55ecfc6f317c26b2f2ccb6ba81b4315654b16039a422e229ab71,a,a,a,a
+train_2888.jpg,방수용 기구함 사용법 중 세 번째 단계는 무엇인가요?,a,train_original,01684845aa76a0fb197163bfe96d748bc953309c17b66c96ab987f46c0cfee4f,a,a,a,a
+train_2899.jpg,"이 락커 사용 안내에 따르면, 락커 운영 시간은 언제부터 언제까지인가요?",a,train_original,dd1ded73a6d0ff3db3bc6fe28ecedaab67fbd4923b89b961542931f1ba67c1ab,a,a,a,a
+train_2913.jpg,응급환자가 발생했을 때 연락해야 하는 사내 방재센터 전화번호는 무엇인가요?,a,train_original,7a5ad1ba1c0cb1f7efee8adfbabf414921038c50a84fad5e53b251fedb952e41,a,a,a,a
+train_2914.jpg,이 건물에 입주한 업체의 업종은 무엇인가요?,d,train_original,2f3b66a5def291bf268cb20606ff90a914c931004e55c2cad351f4b64c5019cc,d,d,d,d
+train_2916.jpg,이 장소에서 주차가 금지된 이유는 무엇인가요?,c,train_original,0bdb28568078ba71cb4d5f472f75a75637e115c0330b5c67da285a515d29be9b,c,c,c,c
+train_2922.jpg,3CE 드롭 글로우 젤의 현재 할인된 가격은 얼마인가요?,b,train_original,e688dd2691229d6b39b7abb6a4e1844f889574f1cc08e6c320409ccda5421088,b,b,b,b
+train_2940.jpg,이 음식점의 위생등급은 무엇인가요?,d,train_original,e105a06cea180000fa474939f7c0a0abca41e933203d685bd0b85ff7d9df71d4,d,d,d,d
+train_2944.jpg,이미지의 술 진열대 위에 적힌 'SPIRITS' 아래에 쓰인 한글은 무엇인가요?,d,train_original,1d4bcbe0b6df47639d0dfe4354889ad1c9bf8a5d8fe0a1c2e7399aa6eeb559f6,d,d,d,d
+train_2945.jpg,이 사진에 보이는 책 중에서 '밤의 군대들'의 저자는 누구인가요?,a,train_original,033d142cd0b4ae5e15381b1d73f20d25cbf5de642ea967ce3aca4c824c7e66db,a,a,a,a
+train_2949.jpg,이 가게의 이름은 무엇인가요?,b,train_original,ac21c8bfa6b233bdbccc009ccb72c90bfbb3a1551f8b7ff911bb0da931c136e0,b,b,b,b
+train_2952.jpg,이 사진 속 MIZUHO 건물의 큰 광고판에 적힌 금액은 얼마인가요?,b,train_original,c53099151238c9d1604a7759ed66ed1a1ce137c5c39cb0a7c230643033f525e4,b,b,b,b
+train_2954.jpg,기본메뉴에 있는 튀김 가격 중 3개 튀김의 가격은 얼마인가요?,b,train_original,e3705c0f6895602109e290bee81c61a1cbfdecc719e26f505395cdbd3831b28b,b,c,b,b
+train_2955.jpg,오늘통닭 가게 앞에 있는 메뉴판에서 '오늘통닭 신메뉴'에 포함된 음식은 무엇인가요?,a,train_original,9d0041388d30eed143b01f17907281d4d8ce73147a2627cb8819353085941f62,a,a,a,a
+train_2960.jpg,사진 속 노란 안내판에 적힌 내용 중 '집밥' 가게까지의 거리는 얼마인가요?,b,train_original,058e5d068477024813b0a898f2d998606c02cabaa2dccfdb6d974067dc6b317d,b,b,b,b
+train_2961.jpg,이 건물에 적힌 병원 이름은 무엇인가요?,b,train_original,12b160187f359c2cabd7394b72aaf04406290c6bee990d741bd0669ad94252db,b,b,b,b
+train_2964.jpg,이 사진 속 레코드 앨범의 제목은 무엇인가요?,a,train_original,fc162b935211975df0616391ca1ba583949c55389464ddbe59d062d177233000,a,a,a,a
+train_2970.jpg,이 사진에서 'pie room' 매장 입구에 적힌 작은 간판에 적힌 문구는 무엇인가요?,a,train_original,8e0c5f9338863cce5bfd684cf7cca64245c3113590e623b744406c2a2882078b,a,a,d,a
+train_2981.jpg,화이트보드에 파란색 펜으로 적혀 있는 문구는 무엇인가요?,a,train_original,438be77101ac48db6700be20d5cee4a791d3d48681ee663e12a5ddeadfa2c9c2,a,a,a,a
+train_2983.jpg,사진 속 메뉴에서 '지금이 가장 맛있는' 음식은 무엇인가요?,d,train_original,274a1a2f5ea140ee7681e75a5992955c95d81f6f6e402cfd715e987068e7c1ac,d,d,d,d
+train_2986.jpg,사진 속 두 티 박스에 적힌 차 종류는 무엇인가요?,b,train_original,088c511d88e344d33eb4e3c1db6a24fb6450c21a8f869b55e92c8fb769f2dd94,b,b,b,b
+train_2988.jpg,이 방의 벽에 붙어 있는 5반 무야호 포스터에 적힌 내용이 아닌 것은 무엇인가요?,a,train_original,36487fcc7d1a7fc170dc037836da9770843c603f09744a11b9997c66ed939441,a,a,a,a
+train_2989.jpg,이 건물 입구에 적혀 있는 이름은 무엇인가요?,a,train_original,55784d02e6ee42fac7f7450bfd9aec3df64c626778c57485ddcd36930c604848,a,a,a,a
+train_2991.jpg,이미지 속 옥수수 주물럭의 가격은 얼마인가요?,d,train_original,4e18d1e8bbb75844945453ebfa5fe69194b534a86db05812a803679731ddf948,d,d,d,d
+train_2992.jpg,노란색 표지판에 적힌 내용으로 맞는 것은 무엇인가요?,d,train_original,625943f9314ac0bbe4cb9696cc1b0c913111dfa35f68becae2c84f071c25f363,d,d,d,d
+train_3003.jpg,get coffee 매장에서 즉석 원두커피 가격 인하 행사 중입니다. ICE 아메리카노 XL의 가격은 얼마인가요?,b,train_original,a7f61f732c49dd1a85319fcb2391f4647a5f4355d89e94cb0cf7bfb5b57680a9,b,b,b,b
+train_3010.jpg,이 제품의 이름은 무엇인가요?,b,train_original,7358b3b117959eb20d27fd61e2bb5f3ab879db2942a2f3fd61c82d6794e19107,b,b,b,b
+train_3020.jpg,다음 중 초록색 포장의 아이스크림 이름은 무엇인가요?,d,train_original,944c9db2879db3762b1479b5b34151bd44d70b1ea90792598230f9b7e82830aa,d,d,d,d
+train_3031.jpg,이 전시회 포스터에 따르면 전시 기간은 언제부터 언제까지인가요?,b,train_original,a62430ea5a073b1950aa46cada9f83ca58542d3b008b67ba2a10a59e4e97f6d3,b,b,b,b
+train_3034.jpg,이 건물에 입원실이 있다고 안내하는 곳은 어디인가요?,b,train_original,5bca6fb91d6736587033f7b2dc749702ac39c84ab904f5526fe5c0922a8cf85e,b,b,b,b
+train_3043.jpg,이 문구는 어느 층 EPS실에 해당하는가?,d,train_original,fa5b6477d0ad47c85521e9684b04659e64c7ba62ae974d25a730c1760c7d4ad0,d,d,d,d
+train_3044.jpg,사진 속 건물 옆 간판에 적힌 업종은 무엇인가요?,b,train_original,210dbdd95a7e7ea95a8ea49e899d73760f494dc08ac6bd1f328150868c8f78b1,b,b,b,b
+train_3046.jpg,이 제품의 정격 전원은 무엇인가요?,d,train_original,cb8c0fb4cd2f843e130d785623438bc7040bd9248c2a3be5972619428f2c7aa5,d,d,d,d
+train_3054.jpg,이 건물 옆에 적힌 회사 이름은 무엇인가요?,d,train_original,5c5f93a9229d6a65fe11e68591fd1d6ae1de365bbd8be84690c9b427c7724ad7,d,d,d,d
+train_3058.jpg,이 문에 붙어 있는 경고문에 적힌 내용은 무엇인가요?,b,train_original,ed9ac9e35be817c8ddcb8134fbc171d78ad85d158ed7abcd2ccede0ec45f30b3,b,b,b,b
+train_3067.jpg,이 간판에 적힌 글자는 무엇인가요?,c,train_original,96de7527a867e0bc62094612e3b7a1afc75ec1087b016471cdac72139a6fc8eb,c,c,c,c
+train_3078.jpg,이 제품의 맛은 무엇인가요?,d,train_original,0fc27e619adc55d2e198b7cc9275abc339795f8bffd88ce16f768ff90ed7ddb5,d,d,d,d
+train_3079.jpg,굿윌치과병원에서 턱관절 치료와 관련하여 제공하는 서비스는 무엇인가요?,c,train_original,939d01f494e2337a598ac8e370477f79ee7d2cda6afe858af10fb83ae362569f,c,c,c,c
+train_3083.jpg,이 글에서 '항상 긍정적인 태도로 임하기'는 몇 번째 항목인가요?,a,train_original,87f8fba97352c69c9e53961d7da774f9d3e821d1a312dbfe59f833e7533452d3,a,a,a,a
+train_3087.jpg,이 곳에서 금연 구역임을 알리는 표지판에 적힌 문구는 무엇인가요?,c,train_original,04dc9cde8c207345927e1a136385425560c0d839e110ef68ecc9ea0fd78299c7,c,c,c,c
+train_3088.jpg,"지하철 벽에 붙은 법무법인 프로스 광고에 따르면, 이 법무법인의 변호사들은 어떤 경력을 가지고 있나요?",d,train_original,07970bf86b88ded89d51fe005965f1e78dba1c709dbdf1ce7b694bb22e1e1876,d,d,d,d
+train_3089.jpg,이 글에서 임승균 작가는 어떤 재료를 주로 사용한다고 했나요?,a,train_original,5aff2750fe11fa964ec82272c8571332602b690938c81daa71f60cc555662eaf,a,a,a,a
+train_3099.jpg,이미지 속 마우스 패드에 적힌 문구 중 올바른 것은 무엇인가요?,b,train_original,5dd238275b2774e1d6f0f3fe33c2b5b546b7127a8bb11a46641a9ee8fc2f13a3,b,b,b,b
+train_3100.jpg,이 버스정류장에 정차하는 버스 노선 중 번호가 700번대인 것은 무엇인가요?,a,train_original,ff62753f232e7882104ecde1ca0f9c0c98c3e5e5085bbd609c19139e78b3c3b1,a,a,a,a
+train_3102.jpg,이 순위표에서 경기가 35경기인 팀은 어느 팀인가요?,b,train_original,a9838747076f7fab44031f92a724f63e8848141ce5bca8915de6dd8cf4c5b8f8,b,b,b,b
+train_3103.jpg,엘리베이터 안전수칙에서 '반려동물'에 대해 안내한 내용은 무엇인가요?,d,train_original,025c1ba255193ba1faccd759ad1a1792959268a7acc94b9d4074bb7e23d15157,d,d,d,d
+train_3104.jpg,이 자전거 공기주입기 보관함에 적힌 문구는 무엇인가요?,a,train_original,554ea68f08731589bda044e28e4c632c33d17c1d73d6edc70816b64de7fad28b,a,a,a,a
+train_3107.jpg,다음 중 이미지에 보이는 만화책 시리즈 이름은 무엇인가요?,a,train_original,e6f91fdc6e1951fb805a8563676009e012ccd77549949e61d377b2c70caddd97,a,a,a,a
+train_3123.jpg,사진에 보이는 '강남미소약국' 간판 옆에 붙어 있는 주황색 안내판에는 어떤 내용이 적혀 있나요?,b,train_original,977063a466a301f4b509190bc0ddbcdbf975622d82eaf1e4b92569af34cb4e03,b,b,b,b
+train_3128.jpg,이 건물에 있는 치과 이름은 무엇인가요?,a,train_original,39a85a0f95fd16209bd159266b6a55447a7e5559ad1507e5516a21a33d2e0296,a,a,a,a
+train_3130.jpg,사진 속 노란색 표지판에 적힌 문구는 무엇인가요?,b,train_original,36c2f9236d25b570199357113d562641d018991d7b4fb4722abb0211fa8c2561,b,b,b,b
+train_3131.jpg,사진 속 도로 표지판에 적힌 '주정차금지'의 의미로 알맞은 것은 무엇인가요?,a,train_original,d2a1624103eb6167831f2c48fecf9c4fdda68e091fda6dd9accfa0bcc09fb0d5,a,a,a,a
+train_3135.jpg,이 이미지 속 입국장 입구 위에 적힌 문구는 무엇인가요?,b,train_original,d981b3717ca0d2aecf9266fbda29648613a747f1d89f7c7f1a63ca4c2398fe65,b,b,b,b
+train_3147.jpg,이 샴푸의 주요 효과로 맞는 것은 무엇인가요?,c,train_original,3b422fb2e614a061cd88de6c44a25e6349a9d41752ce4bbc5151959598ef7f99,c,c,c,c
+train_3157.jpg,이 교차로 표지판에 적혀 있지 않은 곳은 어디인가요?,c,train_original,1858676dd64a204c822ef8c84155830e33efd272d3f12ce37d853ee9b85ec3d7,c,c,c,c
+train_3170.jpg,이 건물 1층에 입점해 있는 음식점은 무엇인가요?,a,train_original,585892f9d8dcc6c2751bf3fabb36dda004c65fce22d19bfec7529807a850ec8b,a,a,a,a
+train_3172.jpg,사진 속 두 개가 나란히 놓여 있는 제품의 이름은 무엇인가요?,c,train_original,054be142b84d1cf7342f052480c90fda2a7130896604bf3f3dee769ac8f243fe,c,c,c,c
+train_3182.jpg,이미지 속에 보이는 햄버거 제품의 이름은 무엇인가요?,a,train_original,be4b9f3fbc43d08dffc0ebc5062f0b826c21fdad0a7706436f6a11d9ceeeaf13,a,a,a,a
+train_3184.jpg,이 사진 속 주유소에서 휘발유 판매 가격은 얼마인가요?,c,train_original,fb7f9246e5dc93c8995d3257e26dc0da0eaf87f718ba4238a959253f50baeb3f,c,b,c,c
+train_3187.jpg,이 사진에 보이는 큰 글씨는 무엇이라고 적혀 있나요?,a,train_original,0494fbacc45b7d619ffbcfa0139a737553ed7f5f7bcd1d42d0521f192194c67c,a,a,a,a
+train_3191.jpg,명일우성아파트 재건축사업 관련 현수막에서 축하 메시지를 전한 회사가 아닌 곳은 어디인가요?,a,train_original,6662e4cca06ba8269204e7d60865a98d016098c72c4cceda155ed1e72d08e130,a,a,a,a
+train_3192.jpg,사진 속 책장에 적힌 '허브깃'이라는 글자 옆에 적힌 숫자는 무엇인가요?,c,train_original,fc5a9d26003f006e2fb4faefedfd8c1f54e92f04f6b4968729ab26d2df02971f,c,c,c,c
+train_3194.jpg,이 제품들 중에서 '글루타치온'이 함유된 제품의 가격은 얼마인가요?,b,train_original,3710ccc68a54a0f73a0ac3d070ce9bafbb51d748643e4d16fb7e839e3eb8fba3,b,b,b,b
+train_3209.jpg,이 이미지에 보이는 파란색 표지판에 적힌 문구는 무엇인가요?,c,train_original,3d55bb52866968241bebcd958802fcf1fa5de86cfd5d0b5f8d34dbf7318aa6c9,c,c,c,c
+train_3213.jpg,오른쪽 액자에 적힌 시의 제목은 무엇인가요?,d,train_original,717b51d89877d3589abd057e32d3d76fbd9bcbb617cf0cc78f52c75e5695f593,d,d,d,d
+train_3224.jpg,사진 속 간판에 적혀 있는 음식점 이름은 무엇인가요?,d,train_original,187a41bee3f555a790b76d795fc17320fc2750bcb60518ab5bb8908dc49d3365,d,d,d,d
+train_3228.jpg,포스터에 소개된 '추억의 수박화채 마빙'의 가격은 얼마인가요?,c,train_original,989a0ec15bffe4264f1394056913d4ff5c793d341ef5d0122bb406d64e281382,c,c,c,c
+train_3230.jpg,사진에 보이는 파란색 아크릴 물감 튜브에 적혀 있는 문구는 무엇인가요?,c,train_original,3bfc8a696f44ae7edbea0cc7e63efbc2277a80a9fbc466458381e8da26552070,c,c,c,c
+train_3240.jpg,이 전시회의 제목은 무엇인가요?,a,train_original,12223db602798e31d3f98ab8e1e5906b090235386c624df74d2536be35663d91,a,a,a,a
+train_3241.jpg,이 사진은 어떤 천문 현상을 보여주고 있나요?,b,train_original,2f38be3b4672d9b41e63969a3f6acd8f44e3900c11f17f64203e276d8c45d1f4,b,b,b,b
+train_3244.jpg,이 과일 가게에서 사과 한 상자의 가격은 얼마인가요?,a,train_original,21750f69d25713f45e7314a2c2dd5f19f6076be56316acce125776c96319a428,a,a,a,a
+train_3249.jpg,사진에 있는 '다크 초콜릿' 포장지에 적힌 칼로리는 몇 kcal인가요?,d,train_original,d95e56a445c01ca5b9ecf555c6e39d7ed1192b18ccfa63383c84027f9bbed0a7,d,d,d,d
+train_3260.jpg,이 건물에 들어온 노래방 이름은 무엇인가요?,c,train_original,65d2686fe36cf0102548936dfb192c95f2498e7850c9f02200d4907f53d2f80c,c,c,c,c
+train_3261.jpg,사진 속 '프로메가' 제품의 주요 기능으로 올바른 것은 무엇인가요?,b,train_original,9aaeb0ef155fa4af1ad2988d0f90d2ac0a44dfb805ca8307dda63a0fa1f4553a,b,b,b,b
+train_3265.jpg,이 건물의 이름은 무엇인가요?,d,train_original,d08b46ed838133b9624f44c84b567349494f47b7a103612a3313c8b0d762c406,d,d,d,d
+train_3276.jpg,이마트에서 판매 중인 펩시콜라 500ml 5병의 묶음 가격은 얼마인가요?,c,train_original,f5a9a94ce886e1d96db8415ef1f09d97acad2670d18c75247f0a7821de62eef9,c,c,c,c
+train_3285.jpg,휘트니스 출입 시 지문인식 시스템이 잘 작동하지 않을 경우 안내문에 따르면 어떻게 해야 하나요?,a,train_original,aa32c8ccd350620fc6289dee983cdb16238b81e9683c9490ab06e177c35d27bf,a,a,a,a
+train_3293.jpg,다랑쉬오름 표지석에 적힌 이름은 무엇인가요?,b,train_original,02ba6ac44d7d2a2bd52186ab2bd0dd9b881b40a3f75a4a018c77c1fe899b2f03,b,b,b,b
+train_3299.jpg,이 영수증에 적힌 맥도날드 매장의 영업시간은 무엇인가요?,b,train_original,d01a9d6de89ebae1ba356d2b2aedfe9061f06dae7884914adcd9c7f2fca66460,b,b,b,b
+train_3311.jpg,이 건물 3층에 위치한 서비스는 무엇인가요?,a,train_original,e34c891f6c3558a182e9b8f636492fa8899b296be3a9d83241da0534cb7500d2,a,a,a,a
+train_3320.jpg,"'간짜장' 메뉴 설명에 따르면, 간짜장의 특징으로 옳은 것은 무엇인가요?",a,train_original,5291cca30ce2c09841ed29b13b0bfd8dd4d9b0c0f6d3ec2c370fb3d3f5ee037c,a,a,a,a
+train_3346.jpg,이 문서에 명시된 '금지 표지'에 해당하지 않는 내용은 무엇인가요?,a,train_original,16a19fe80cfb1f1fe0ed203eccf52d6a76346c69732a71b3f5933c21149816c4,d,d,a,a
+train_3352.jpg,이 표지판이 안내하는 한옥마을의 이름은 무엇인가요?,c,train_original,e9e9e22e830491afabcb50c351a199c7f4f635492f9b5b137f5e51f0578c79c2,c,c,c,c
+train_3367.jpg,이 노선도에서 M27 역의 이름은 무엇인가요?,a,train_original,af94ce5f029c1479ef6590d5610a7b87f14a42325cdf6fe9e50833df029330f7,a,a,a,a
+train_3368.jpg,이 마트의 간판에 적혀 있지 않은 문구는 무엇인가요?,d,train_original,59f6de4ea8332002c08e68baef14c9ab8fcd25d92931d92ef59b4d2d60c74dc3,d,d,d,d
+train_3374.jpg,이 가게 '영희네 반찬'의 전화번호는 무엇인가요?,a,train_original,59457391c21dde6e1f39ab625f3f68ebe04abaefd8b131877f98e24913bf2896,a,a,a,a
+train_3376.jpg,이 가게의 이름은 무엇인가요?,a,train_original,2e5a10272fdffcf7ed292bcfc1a3c80613501887a50662140adeff884dd5df0d,a,a,a,a
+train_3379.jpg,화이트 초콜릿 블루밍 머그의 가격은 얼마인가요?,d,train_original,3f0c96fe44248c566f4c810fb5dc3a54dace5ab70669535be71038654aae5a01,d,d,d,d
+train_3381.jpg,이 사진에 보이는 '부산영화체험박물관'은 어느 방향으로 얼마만큼 가야 하나요?,a,train_original,96f64f3fedd89a322c073eecda07d3c6a6b2647c5f12e7cba43bae96f458ca27,a,a,a,a
+train_3386.jpg,사진 속 파란색 네온사인에 적힌 맥주 브랜드 이름은 무엇인가요?,c,train_original,e2442cc24d21e266487d38aaf3dcca6b578751503d8c2362900c886ed9a07861,c,c,c,c
+train_3387.jpg,이 이미지 속 상점에서 판매하는 것은 무엇인가요?,c,train_original,6a55b9cdb23f568e733efd7860ea12dab9a3ec63782ddf0c4f3a86c131af7f1e,c,c,c,c
+train_3394.jpg,이 전광판에 적힌 문구의 내용은 무엇인가요?,a,train_original,79c82c1749b5090f05f55ef8f6aea23b1a046a9f9b4c462d93a1bd19af327602,a,a,a,a
+train_3397.jpg,이 가게 간판에 적혀 있지 않은 것은 무엇인가요?,d,train_original,6603f25012df91be1e1b9de552b15466d11f9d3be4520e509c17d93174156886,d,d,d,d
+train_3410.jpg,이 건물의 이름은 무엇인가요?,a,train_original,1b04c4bcb16e3af6f655729b84c117a467eee3b9b0a534d4e8d11050f080aeaf,a,a,a,a
+train_3412.jpg,이 박물관 안내도에서 '기획전시실'은 몇 번으로 표시되어 있나요?,c,train_original,da71b082994426d0c991aac64d1de2d65b48ea970db7fe61b67c1a4b38b4e96b,c,c,c,c
+train_3414.jpg,"이미지 속 안내문에 따르면, 케이크를 포장할 때 몇 종류를 골라야 하나요?",d,train_original,fe3332b57ff14385f07daada502bfeabbda018e7e8859e50615e1e52028a4669,d,d,d,d
+train_3420.jpg,이 책상의 명찰에 적힌 이름은 무엇인가요?,a,train_original,71fb2493c4663802691503c0257cfceafbbfa58e297cad97c4df02ca4f923502,a,a,a,a
+train_3424.jpg,이 사진에 있는 안내문 중 '출입 금지'라고 적힌 곳은 어디인가요?,d,train_original,42edac4087945c1e296e4b9ca918e174c60e605379a71c76fe8a96c08bae0835,d,d,d,d
+train_3425.jpg,음료 컵에 적힌 문구는 무엇인가요?,a,train_original,aff8c776d5e37c5c42045e352f1e6c7591675e2e7b58ea7d64133c0997a6cf3b,a,a,a,a
+train_3432.jpg,사진 속 안내문에 따르면 비산먼지 저감을 위해 연결된 것은 무엇인가요?,a,train_original,20cc31283260e1c2790a4c592f5b82a6da05dd3748e87f0e1f5c4fd5bcecc994,a,a,a,a
+train_3451.jpg,'보존식'에 대한 주의사항으로 맞는 내용을 고르세요.,c,train_original,dca0f84798985709002d55aadebcd7db91fc3f0bb798fc4d411fc65757a243c3,c,c,c,c
+train_3459.jpg,이 건물 입구 앞에 세워진 표지판에 적힌 문구 중 맞는 것은 무엇인가요?,c,train_original,b0deebf97618b32fc1ee4e78aae0715cbd7be79221e92e38f601c022acb5dcc6,c,c,c,c
+train_3475.jpg,이 음식점 간판에 적힌 음식 이름은 무엇인가요?,c,train_original,d84e1a78a85bd3dea668cce54345afe53560832f73c1719d36ec81abc9ffd90e,c,c,c,c
+train_3487.jpg,이 사진 속 간판에 적힌 숙박 시설의 이름은 무엇인가요?,c,train_original,a6b75ec95dfe067228d05041c2ed594157ed90be12fa41a5a5e57885de89a245,c,c,c,c
+train_3491.jpg,이 건물에 있는 식육점의 이름은 무엇인가요?,c,train_original,4f3fbe55a3415fade96d6256d06b0091132d42ab1fd426a4e09cf7eb5d9fb8bc,c,c,c,c
+train_3504.jpg,벽에 적힌 문구 중 '성공의 비밀'에 대해 무엇이라고 말하고 있나요?,b,train_original,da26fc9427f72f83d340bacab23f01390caf5143046cf1954ea50e75625f2d67,b,b,b,b
+train_3507.jpg,"청춘 꼬마김밥 가게의 영업시간 안내에 따르면, 어떤 요일이 휴무인가요?",d,train_original,31c5fa1ee2755918630317a307f9d0f9c3af5d5d20ee1099aef67b55732d9443,d,d,d,d
+train_3509.jpg,이 가게의 이름은 무엇인가요?,b,train_original,198fba12ef4668a38523bac48bab83512bc6c08d4a7a669a2ccf9361949b6504,b,b,b,b
+train_3522.jpg,이 이미지에 등장하는 영화의 제목은 무엇인가요?,c,train_original,2e985698998905fc81749e7413210f0bbc40dd9497ed89f216d9c3182ff290dd,c,c,c,c
+train_3526.jpg,사진 속 누전차단기 중에서 정격전류가 20A인 제품의 형식명은 무엇인가요?,d,train_original,e124c0b1eb1d3309adf947534a257c51ef6585b4676ca035be2465bd67426aad,d,d,d,d
+train_3527.jpg,이 지하철역 승강장 스크린도어에 적힌 경고 문구는 무엇인가요?,c,train_original,133007856a5d73a114a673ecf61f8ce22b07eb8c2e4fcda0056b4748d8bcefa7,c,c,c,c
+train_3541.jpg,방수용 기구함과 소화전 사용 방법에서 두 번째 단계는 무엇인가요?,a,train_original,0aefd085c12137eb9ec8d3d3eaadbd3255f890a40c08d3f4db2386c8c8a886f8,a,a,a,a
+train_3543.jpg,소화전 사용법에서 화재 시 두 번째로 해야 할 일은 무엇인가요?,b,train_original,a5767e91041b744cabd8a053f49a395ce8e080162866337ffebbac84aae22fde,b,b,b,b
+train_3544.jpg,사진 속 과자 '에이스'의 내용량은 얼마인가요?,d,train_original,c05647b10fd74971aa6089f55e64e75d6318cce3374f5eaf19ef3e641219e6be,d,d,d,d
+train_3547.jpg,이 식당에서 '직화 무뼈 닭발'을 먹을 때 제공된 김에 닭발을 올리고 찍어 먹으라고 안내된 소스는 무엇인가요?,c,train_original,957281753cc510cf16d8708b9c0e550f059e8842ad9f1ef26dc9473b9e5c2834,c,c,c,c
+train_3554.jpg,빨간 배경에 있는 말풍선 중 '인생은 아름다운 것...'이라고 적힌 문구는 무엇이라고 시작되나요?,a,train_original,f037ae612b2e2a564ec3896ea7dccf8daf99dd6cff24f1e09fe3c52dcbfe4702,a,a,a,a
+train_3556.jpg,이 건물의 이름은 무엇인가요?,c,train_original,0f963681be69a6a0b4e957cc13bbe3531ca95fdfd368a3db444790b5cf81d2e1,c,c,c,c
+train_3562.jpg,이 벽에 적힌 글에서 '어찌하여 우리는 헤어지고 생각나는 사람들입니까?' 다음에 나오는 문장은 무엇인가요?,c,train_original,835fbfb563b813a0e66d5037580fe339a4d46da263038ad7d125243cd14a12fd,c,c,c,c
+train_3567.jpg,카페 온화에서 오늘의 추천 메뉴는 무엇인가요?,a,train_original,314f9529cf0ff8ff6eed18f6986d15ed057d9e0dab5ff85162a236718a2a120a,a,a,a,a
+train_3575.jpg,이 승차권은 어디에서 어디까지 가는 티켓인가요?,c,train_original,a01521d921b5d016fc642944cbfa42f4a207de1da3effbc645b9582aec6a7e51,c,c,c,c
+train_3588.jpg,이 가게 '투다리'는 무엇을 주로 판매하는 곳인가요?,a,train_original,bac49d47149ce4ebdccb2c85f3ae94c316a8d2358458b3743ab02b99f803c4be,a,a,a,a
+train_3592.jpg,식당 출구를 이용하려면 어떻게 해야 하나요?,b,train_original,a338b0889f12dc88263a91799f4e908fe662791cf3127384aa9f5988fd9d1802,b,b,b,b
+train_3593.jpg,이 사진에서 보이는 응급차의 전화번호는 무엇인가요?,d,train_original,cde9ec49809402fd5e46c2bdcbd5d1b571d9734cf71f76959f4194a09e03cd95,d,d,d,d
+train_3598.jpg,다음 중 이미지에 보이는 한의원의 이름은 무엇인가요?,a,train_original,61bd6bbd2e2ca9e1609348cec64fbaad651899ee17861f7e64b3d6deeb8cb2ed,a,a,a,a
+train_3601.jpg,사진 속 사과주스 상자에 적힌 칼로리는 얼마인가요?,a,train_original,1788cd136f608d9772e28421ce8b417e56933ba53f5bc81040744aa4745d3f4d,a,a,a,a
+train_3605.jpg,이 건물에 입주해 있는 기관이나 업체 중 '법무법인'이라는 명칭이 붙은 곳은 어디인가요?,d,train_original,44b7ad20af5cf1d0d67a0dc5825ed02333fc5755f166883715374e17a2678ebf,d,d,d,d
+train_3607.jpg,이 전광판에 표시된 현재 접근하는 열차의 목적지는 어디인가요?,a,train_original,c8c4f25e4f2008b604cb114a7c6af62cd16588ba0959637f21e2e9985a7cb945,a,a,a,a
+train_3612.jpg,이 과자 제품의 맛은 무엇인가요?,c,train_original,4604e057ff2f81d5ad262a85ed7baac5b8cc7751a606a1434d407390b0e45812,c,c,c,c
+train_3620.jpg,서울 암사동 유적 표지판에 적힌 내용 중 '서울 암사동 유적'을 영어로 올바르게 표기한 것은 무엇인가요?,b,train_original,f3a6d8b4c8151868bec5a781f47cef2c8cafc73ba8680e37303e5300d6b80168,b,b,b,b
+train_3630.jpg,이 음료의 이름은 무엇인가요?,c,train_original,70ff544729b4123d8b9d354841c2ad408268e1fcbadc04a7f98910e38ea53834,c,c,c,c
+train_3634.jpg,계약 단계별 전세사기 예방 체크리스트에서 '계약서 작성' 단계에 포함되지 않은 항목은 무엇인가요?,a,train_original,dbbfad8ca333eb91a233c355769d48f6cbc62ad9d8e3655e5d687ff6034e757f,a,a,a,a
+train_3635.jpg,제이숲 셀프클리닉 손상모 샴푸 2X 기획 제품에 포함된 추가 증정 용량은 얼마인가요?,d,train_original,cc82b36d2a9ceb8af38cc576c6b22ec3b5355dc177afd30b1079facbf9b119b4,d,d,d,d
+train_3636.jpg,이 건물의 4층에 위치한 병원 이름은 무엇인가요?,d,train_original,3d2dc0242bbc4d153fb5c3bf8ccf53cb97f86ab058598e7c206c65fed8218a85,d,d,d,d
+train_3638.jpg,이 건물 옥상에 적힌 사무실 임대 월세 금액은 얼마인가요?,a,train_original,53d803abe943e17d0b34c44f3129657700e67ab95340ab6d44a69f0da72199c2,a,a,a,a
+train_3639.jpg,이 벽화에 쓰인 문자는 무엇인가요?,a,train_original,4dfe178f472dc03ae21589bed81f1e72f49836a8909b54103ac747eacdac429d,a,a,a,a
+train_3644.jpg,사진 속 도로 표지판에 따르면 '장덕도서관'이 있는 방향은 어디인가요?,b,train_original,86e4b7d27bece154bf431b320ca80112ced279df4a2e891fb56054d139e144ed,b,b,b,b
+train_3645.jpg,책 표지에 적힌 제목은 무엇인가요?,c,train_original,488a002ff68a32af4735fbf4ed9fa8547ac85db2eccd17c0fa4c31ed09230970,c,c,c,c
+train_3652.jpg,위 두 청소포 제품 중에서 40매가 들어있는 제품의 가격은 얼마인가요?,c,train_original,2fee76c8083f14a37b71d65338cd661b8d8a1b5e483fbf80e12d74f4546b8f9e,c,c,c,c
+train_3660.jpg,이 이미지에 보이는 어린이보호구역 표지판에 적힌 제한 속도는 얼마인가요?,a,train_original,3ee6fc2a6fb8e14ac50796ef694b0b8778f0dc3f55aeea57a91dd3973686ab67,a,a,a,a
+train_3663.jpg,이 과자의 이름은 무엇인가요?,a,train_original,cee54fece08c9339bf03bb247df4f484c151f0171cf5e667f55bfd30bca6d263,a,a,a,a
+train_3667.jpg,이 주차된 차량들에 적힌 전화번호는 무엇인가요?,b,train_original,4f9c347411bc9ae4a82212ff8eb856f1eaef3ddddefe7a36adf3f83c0768b989,b,b,b,b
+train_3674.jpg,이 장소의 이름은 무엇인가요?,b,train_original,02c9e549db8cb7f8671760640aa02ea5dbba962f6a934f10b316fc66bcf37fc4,b,b,b,b
+train_3682.jpg,이 게시판에 붙일 때 사용하면 안 되는 것은 무엇인가요?,a,train_original,244aa39b3d0609a1a54d491fc66362007fbec724466ae31ceb9a0afab350ce0c,a,a,a,a
+train_3683.jpg,이 사진 속 키보드에 적힌 브랜드명은 무엇인가요?,d,train_original,d7e781f20fb55d236406c5ca107bd468d0812d99774cf5620384c6a3aefc82b6,d,d,d,d
+train_3701.jpg,이 이미지에 보이는 그래픽 카드의 모델명은 무엇인가요?,b,train_original,1697b16c5f7a446fad2d2a65b1edadcb2571e112bc5ae650edd80c95939bc037,b,b,b,b
+train_3702.jpg,다음 중 사진에 보이는 네 개의 만화 또는 영화 제목이 아닌 것은 무엇인가요?,d,train_original,250c6ff20f00f60211efed896c2e2de707fc584d8fec954aa856cd1bdb8e945d,d,d,d,d
+train_3707.jpg,이 공사 현장 안내판에 적힌 공사 기간은 언제부터 언제까지인가요?,d,train_original,81a89bf7ebcbf3c2cb2cf6844e31b98889d1a08332641f40ddd6e1193a9f7f66,d,d,d,d
+train_3713.jpg,이 문구 중 '통제구역' 아래에 적힌 문장은 무엇인가요?,b,train_original,a06d70b58dc32a3aea94819a062de6ab26da8b5dd9e5ca35c10013098e4c5728,b,b,b,b
+train_3721.jpg,이 간판에서 제공하는 '매직' 시술의 가격은 얼마인가요?,b,train_original,f070a82d9be3a8daabe61ff16f81f3d4b5d46056f2dbea87f35a07ea1f809761,b,b,b,b
+train_3723.jpg,노란색 경고문에 적힌 내용 중 올바른 것은 무엇인가요?,b,train_original,5d45059e91f1f6499035689c0e30b438ac54d78bcfd52d05c2c9e6de0d521ad0,b,b,b,b
+train_3724.jpg,이 이미지에 나온 문구 중 '하루종일 기운을 잃지 않게 도와' 다음에 나오는 내용은 무엇인가요?,a,train_original,1eb6a041543e6202d08a876338de115bb28dd60d29afb180604a44fcbfaf187d,a,a,a,a
+train_3742.jpg,이 지하철역 출입구의 역 이름은 무엇인가요?,c,train_original,ae0b5fdc3d2db9f753a53ab46c79a01d5e64ed9d3c8c0907c06b7e7be1ec3ddf,c,c,c,c
+train_3744.jpg,이 건물 벽에 그려진 그림에서 주인공이 입고 있는 옷에 적힌 글자는 무엇인가요?,c,train_original,6f06ef18246e831d7340a681d278bc3cfff3e4c0b0e22fb7756936f44ac2b6a1,c,c,c,c
+train_3762.jpg,이 전기 설비에 붙어 있는 경고 문구 중 '특고압 위험' 다음에 적힌 문구는 무엇인가요?,c,train_original,1c216d4379a004d25527b616f4899767b72c1f27f2d7ccc22060cecb5576e6b2,c,c,c,c
+train_3770.jpg,이 건물 임대 문의 전화번호는 무엇인가요?,b,train_original,be54a3ac346a2eb105dd7410f68f416b3ca62a8941e085a577cb54774db2db89,b,b,b,b
+train_3779.jpg,이 건물 외벽에 적혀 있지 않은 브랜드는 무엇인가요?,b,train_original,6c2fb0b011e240089a923461896fa9cdc156798e898907b7d17bf8cee743e9ee,b,b,b,b
+train_3792.jpg,메뉴에 적힌 '캐비어와 달걀' 요리는 추가 비용이 얼마인가요?,c,train_original,f11985e3f0dc0165440ee17ceab2ef7c085dbd69791a58f50facc1b51b984b4e,c,c,c,c
+train_3806.jpg,이 접시에 담긴 재료 중에서 'れんこん'은 무엇인가요?,c,train_original,935babb436b3528b37b267e06715f3462dfdd46405b9e14b734727b5bc98bf8c,c,c,c,c
+train_3812.jpg,사진 속 컵에 적힌 문구는 무엇인가요?,c,train_original,a91f4746dea715097266a61acd8cd22d3c49b823e5d1e1f7173beabdc79d3385,c,c,c,c
+train_3828.jpg,이 조형물에 적힌 글자는 무엇인가요?,c,train_original,874b2e3431e8d85b927f29226e57eb69f5882982d3a8d368ccf5c10af663887f,c,c,c,c
+train_3843.jpg,민방위 훈련이 전국 동시에 실시되는 날짜와 시간은 언제인가요?,b,train_original,b61179d5557af52d8ecec505cedeca0f59e69bec0edc9b2c1b4eb2a881a41afb,b,b,b,b
+train_3848.jpg,이 가게에서 현금 인출 시 수수료는 얼마인가요?,a,train_original,67d5d1a008155e16629ccb9cf1a9200d782f2fd2e53341a837e22f9efdf0e70e,a,a,a,a
+train_3849.jpg,건물 입구에 있는 부동산 간판에 적힌 전화번호는 무엇인가요?,b,train_original,bfd26e6f6b8d2494c6ce9e84f1085e42e4171feb6d1b8ab7a9144046ce631f08,b,b,b,b
+train_3850.jpg,이 건물에 입주해 있는 치과 이름은 무엇인가요?,b,train_original,28d529c899f1f6fde1fc824ad714c58da09b151848a917b16385c2c25c2b786b,b,b,b,b
+train_3851.jpg,이 버스정류장 이름은 무엇인가요?,c,train_original,e7f6bd744d64d31feb0c4dfc9f1cbbaed7cca7a4e66ffb52de545b8efed1c1d3,c,d,c,c
+train_3856.jpg,이 박스에 적힌 제품 이름은 무엇인가요?,c,train_original,f4bca0ec369b91331476a59cfaa1f49fea22da799e127b2136fc919c50ea0b59,c,c,c,c
+train_3857.jpg,이 태양광 발전 현황판에 표시된 '현재발전량'은 얼마입니까?,c,train_original,879842ca864419406414adb60504df8a26a5706d5b8c2edbde54d4b2d3fe54f5,c,c,c,c
+train_3858.jpg,이 사진에 보이는 놀이기구의 이름은 무엇인가요?,c,train_original,ca9dfe98737ec722a1e2910d5ff9615fa43c9fb0940aa8a79cfe18d290aa9a72,c,c,c,c
+train_3866.jpg,노란 바탕의 세로로 쓰인 큰 글씨는 무엇을 광고하고 있나요?,d,train_original,b60e9af5e9c51e8f7790b307829acd33329bf75671aebab16077047982b9d207,d,d,d,d
+train_3869.jpg,롯데 자이언츠 경기 중단 사유는 무엇인가요?,c,train_original,0df113cbe57fd752487be026e139caf19269ba6b8d94cc22549583f20cfe373b,c,c,c,c
+train_3874.jpg,사진 속 책장에서 '기억' 시리즈 책은 몇 권이 있나요?,c,train_original,66da172c401871624645c3d9c9ceeb9d6c3facd0d32daf666fee83516e0985d8,c,c,c,c
+train_3875.jpg,이 책 판매대의 할인 행사 조건은 무엇인가요?,a,train_original,c3259cdd0a066440f5b41b4058d811bd5d8a784463a1197c7a1acd1a6a26ca5d,a,a,a,a
+train_3882.jpg,생활 쓰레기 수거가 휴가로 인해 중단되는 기간은 언제부터 언제까지인가요?,d,train_original,5351f7ed276cfff2155eb538d9939227dab62cd605a034b50964be37baf04e7f,d,d,d,d
+train_3884.jpg,이미지에 보이는 '본가 밀면 전문점'에서 판매하는 밀면의 종류로 올바른 것은?,d,train_original,a4f8c0fa26cce698dca04632bde4b6049ac5f4c335140acbb69672606bdd49d6,d,d,d,d
+train_3891.jpg,'막창천국' 가게 간판에 적힌 내용 중 맞는 것은 무엇인가요?,d,train_original,bfa42092dea2081bb15a99979744df15e7d621d919b05151c72e33dc834ac46f,d,d,d,d
+train_3896.jpg,사진 속 상호명 중 'APT 리모델링' 서비스를 제공하는 곳은 어디인가요?,c,train_original,df03a779c5c47b958653c68e703cbe891609337ef0fa708e7180f22062f44258,c,c,c,c
+train_3919.jpg,이곳은 어느 구를 나타내는 표지판인가요?,c,train_original,16aa5fe7643ff514f0506cc9b290257d6516b98b576fdfe20e04180bbdd9e0f0,c,c,c,c
+train_3924.jpg,이 건물 입구 벽면의 금연구역 표지판에 적힌 내용은 무엇인가요?,a,train_original,0ababbc592e106d94c30728cead5e3937c727c8cb61f7fb9e8cbe8de19020a83,a,a,a,a
+train_3929.jpg,이 표지판에 적힌 주의사항은 무엇인가요?,d,train_original,361e83686dcd44e40f12bb49345b7e13bc12f0bb4776c343166a201dbe63387d,d,d,d,d
+train_3941.jpg,"화면에 적힌 내용 중, ① KPI에 해당하는 질문은 무엇인가요?",c,train_original,e392aacad8cc3388ffdf1832770440308f2c4fe6f213112e07f0151473aacf0f,c,c,c,c
+train_3944.jpg,이 건물에 입점해 있는 학원 이름으로 옳은 것은 무엇인가요?,b,train_original,17f4ef3180ea9657e0b162019f4779c6b4d7a953236a13fc67acf9dc35d38b0e,b,b,b,b
+train_3945.jpg,이 건물 입구에 적힌 관리실 위치는 어디인가요?,b,train_original,500a248a518b0a651e4badedcec5a320d29e96db9c1d99fab37963fae30f8f74,b,b,b,b
+train_3953.jpg,이 행사에서 Sony Interactive Entertainment Korea의 대표로 소개된 사람의 이름은 무엇인가요?,d,train_original,9a00627d2ac6af4d167114f5bf4f73b5e1540f50334e10d46ebb0c512229d739,d,d,d,d
+train_3961.jpg,이 건물의 간판에 적힌 호텔 이름은 무엇인가요?,c,train_original,c0331d1bd652fbe2a9c1a8e2472cde039aad27fe68e79978ffcda678eca4666e,c,c,c,c
+train_3962.jpg,사진에 보이는 큰 현수막에 적힌 문구 중 올바른 것은 무엇인가요?,d,train_original,270bcb01b34ef55daadc5def8960b91edef7376fcf4b2c95b4c79b60fd3ecb87,d,d,d,d
+train_3964.jpg,레이즈 클래식 감자칩 한 봉지의 무게는 얼마인가요?,a,train_original,e05ab5cbcdb90b408c3c5ef479fd07036397cddd7b2011cff57e4928accc0362,a,a,a,a
+train_3972.jpg,이 가게에서 제공하는 서비스는 무엇인가요?,b,train_original,1af6a7f3f669c6141599201e78d438133030f23e970efd34a0aecba35315f5f3,b,b,b,b
+train_3975.jpg,이 카페에서 제공하는 무료 Wi-Fi의 ID는 무엇인가요?,c,train_original,547dd5e8e19a094b0755ff68f6a39d8dd8993900c518515d45aef8eb67038372,c,c,c,c
+train_3985.jpg,사진에 나온 '베트남 쌀국수' 가격은 얼마인가요?,a,train_original,adda8d50924da4ff8725cb153a4ac3ead5fbd4f49cd9cc9e672b790e079d2d66,a,a,a,a
+train_3998.jpg,이미지 속 원형 종이 받침에 적힌 문구는 무엇인가요?,a,train_original,cedf34bfea48e213773efc01cb1a8d31c6938dad2d98a1d1be80dac4ba0f3660,a,a,a,a
+train_4015.jpg,이 광고판에 적힌 문구 중 '제로 슈거'와 관련된 문구는 무엇인가요?,c,train_original,da3e0df50984c9ccb452c516389ebbb0213b2af7e327e69dcaf1bde9799b4356,c,c,c,c
+train_4016.jpg,이미지에 보이는 건강기능식품 중에서 '면역애 아연츄어블'의 1일 섭취량 당 아연 함량은 얼마인가요?,c,train_original,af0d553fd09286d601f3f107145152e8ac993ca2f1926a82de9399c9bb4b1568,c,c,c,c
+train_4022.jpg,이 벽화에 나오는 조선 시대 인물들이 타고 있는 탈것은 무엇인가요?,b,train_original,70273563713fccb8d715a79045f7f99292e3ddefd7f98e2f014953578a696799,b,b,b,b
+train_4023.jpg,엠지씨 텀블러의 가격은 얼마인가요?,d,train_original,d184925bdf414c7266a965694a5430ced7b33aab647d2a127247584cf4a8995e,d,d,d,d
+train_4045.jpg,이 건물에 위치한 병원 이름은 무엇인가요?,b,train_original,66ec97a8040a296dc55fc393d56db4c4aa160d4188cc2dabe580c74c3cd67ed5,b,b,b,b
+train_4048.jpg,이 사진은 어느 공항의 출입국 심사대인지 텍스트를 보고 알 수 있는 것은 무엇인가요?,d,train_original,7f9b27df5179edf71e66b834fb1eacade8adc742305586887ba7e9727af3cfcf,d,d,d,d
+train_4073.jpg,사진에 보이는 두 과자의 공통된 맛은 무엇인가요?,d,train_original,9753c0546995e47d281e08f7d1c27ba5a6de32afbd8a67f716ef2b520a744cc3,d,d,d,d
+train_4074.jpg,이 사진에서 1층으로 올라가는 곳과 주차장으로 내려가는 곳은 어디에 있나요?,d,train_original,8ca1db3035243909a948f6da8f0aec56846963f436f43772685fc8270c6c78eb,d,d,d,d
+train_4093.jpg,"이미지에 나온 버스 노선 안내에 따르면, 직행 2번 버스의 정류장 위치는 어디인가요?",d,train_original,427990a8d2bcfd29a52cfd326e0a86e5cdad7297035b2df1778f51edec65a82b,d,d,d,d
+train_4113.jpg,온치과의원은 어느 층에 위치해 있나요?,b,train_original,87ff207b6f8e0b75298ae1aedb2473efc1c90294f59219c36883f590b589f138,b,b,b,b
+train_4114.jpg,이 간판에서 '광양본가' 예약문의 전화번호는 무엇인가요?,c,train_original,26385d6c9554e389ea5b9e4e4b122bd23af950f8b73d9d8778854109a5ea4d9f,c,c,c,c
+train_4121.jpg,이 건물에 입주한 식당의 이름은 무엇인가요?,c,train_original,ece2cd89911e06904b926e7fe3749bfaacbdd7f4a6a9c1f1fb7b4c77645a2336,c,a,c,c
+train_4125.jpg,이 건물 외벽에 크게 적혀 있는 브랜드 이름은 무엇인가요?,a,train_original,bbbe6876e7ec21eeb23f3d6d41b4e02953e6219f468a9c7d6195428c55217088,a,a,a,a
+train_4156.jpg,이 경기장에서 은퇴식을 가진 롯데 자이언츠 선수의 등번호는 무엇인가요?,a,train_original,ed4de953c5ba0d7b4bc25805d4aaf1301590f581bf902a19bb961e6fc7306f95,a,a,a,a
+train_4167.jpg,사진 속 고투명 특수비닐 중형(2m x 2.2m)의 가격은 얼마인가요?,c,train_original,8063d44c90e13aabe1eac47723da2382d7c554f40fd3bb1958a49e8ab425c666,c,c,c,c
+train_4171.jpg,이 건물 2층에 위치한 학원의 이름은 무엇인가요?,d,train_original,a41b4e76165304b3d2a2801a77877516e92d9f836e3fca8cd42bf631ccab8f82,d,d,d,d
+train_4173.jpg,이 공기청정기의 정격 전원은 무엇인가요?,a,train_original,7d4760a270fb55126fe60d71211243bcb5169cf59f7df03f8ae1965800518493,a,a,a,a
+train_4174.jpg,왼손에 들고 있는 과자 포장지에 적힌 맛은 무엇인가요?,d,train_original,d3967db8fbca61c361431b3df5343c0e3f901ec288188f066730b1f65a77a2fa,d,d,d,d
+train_4180.jpg,ICCES2026 컨퍼런스에서 점심 식사가 제공되는 장소는 어디인가요?,d,train_original,29aab0b18fe29faa76f09da1b6cb1c6a8e01a0dc9c5d08033b1e09db3a111bd6,d,d,d,d
+train_4182.jpg,다음 중 이 냉장고에 진열된 크림 치즈 종류가 아닌 것은 무엇인가요?,a,train_original,2e769ef9786087114fab4d3367824893edf1e5fe281fa0ff84bf84493e367284,a,a,a,a
+train_4185.jpg,사진 속 상가 임대 광고에 적힌 전화번호 중 하나가 아닌 것은?,a,train_original,448081ecfe43928f5b4c86334cee57aa27dec3b4b4195e12a632075f14149467,a,a,a,a
+train_4190.jpg,이 공간에서 제공하는 무료 와이파이 접속 ID는 무엇인가요?,c,train_original,0f07453ec0f50f11769d98bb574c6306cee59e3457690dbbbd64c0f81ed2853b,c,c,c,c
+train_4196.jpg,사진 속 컵에 붙어 있는 노란색 스티커에 적힌 문구는 무엇인가요?,b,train_original,7fd4831445ac52cef254ea0dd6eaafdd00718a9a44bb2a96e8102c33edbe8ba4,b,b,b,b
+train_4198.jpg,이 건물에 있는 상호명 중 '치과'와 관련된 상호명은 무엇인가요?,d,train_original,074760d3073b7300682ec6f32bca447c0fa20ca1b9d8bcf62bbf6a8c5304b04a,d,d,d,d
+train_4199.jpg,이 제품 'Insect World'에 들어있는 곤충 모형의 개수는 몇 개입니까?,d,train_original,c7d409d5877df51b28d5b5842ce37acc4f26cbf5347156f3aba188ab7f8c07e8,d,d,d,d
+train_4204.jpg,이 건물에 위치한 학원 중 일본어 회화를 전문으로 하는 곳은 몇 층에 있나요?,d,train_original,80cd78dcbe523c74830a918474916f5cf3101dc1606165848331fb1d1f1e67e4,d,d,d,d
+train_4209.jpg,건물에 있는 '굿윌치과병원' 간판에서 안내하는 진료과목은 무엇인가요?,b,train_original,aeb215165a55a1b16027793853fdcf89cd74b71715edff18b70996661915f7f4,b,b,b,b
+train_4210.jpg,"이 건물의 6층 비상 대피 안내문에 따르면, 이 안내문은 어떤 층의 대피 계획을 나타내고 있나요?",a,train_original,05b58c9fe68e13014b8b9ed4bd82db0173d1753bd30649312fa7d1ac147ad6fd,a,a,a,a
+train_4214.jpg,이 가게의 상호명은 무엇인가요?,a,train_original,d9f194a8503cd2e65483c4abec275002a172cf7091a9ac4fa54abc1e2369ba08,a,a,a,a
+train_4219.jpg,다음 중 이 도로 표지판에 적힌 방향이 아닌 것은 무엇인가요?,c,train_original,95a6e3df04d9cec9543f46584066c4c9686b21ff96ec8397f76dfe6571568936,c,c,c,c
+train_4220.jpg,사진 속 'Oishi Pillows' 과자 봉지에 적힌 맛은 무엇인가요?,d,train_original,e086469efd5b58aa6de92c5bdaffaf0141bddda66f75cc67062a4b4c4a1fcaf0,d,d,d,d
+train_4221.jpg,서진프라자 건물에 적혀 있는 전화번호는 무엇인가요?,a,train_original,7622168caef900dc64189de7deeb9b6ff5d5f034b744e54134ed21d54b9af6a9,a,a,a,a
+train_4224.jpg,2026 서울 마라톤과 관련된 행사는 언제 열리나요?,a,train_original,491ac75e720fa0a244be4db9b5398ec1b0a8e12ca6d1c176c1deb71e9662f08f,a,a,a,a
+train_4227.jpg,사진 속 가게 이름은 무엇인가요?,d,train_original,b2cc06b1ce64ebb42d47e95c5382e30c3b396b49c8e7aec1c247b04f596f0443,d,d,d,d
+train_4231.jpg,다음 중 '마그비 액티브' 제품이 개선하는 증상이 아닌 것은 무엇인가요?,c,train_original,b0d4c28b97934e60722df0d241b2abf1c0ae5b8a2118385cfe464b6ed0bd551d,c,c,c,c
+train_4246.jpg,이 포스터에 따르면 '서울야외도서관'은 어느 기간 동안 운영되나요?,d,train_original,24a663147d98f4927dad554c57b7b79edc1af73c9c169f1c60b34cc00034f5fc,d,d,d,d
+train_4249.jpg,Amazon Bedrock AgentCore가 직접 서버 관리를 필요 없게 하는 기능은 무엇이라고 적혀 있나요?,c,train_original,10409eac3db4e64239593de828fb056342bc24e027d47add939a58a106949326,c,c,c,c
+train_4262.jpg,사진 속 노란 간판에 적힌 약국 이름은 무엇인가요?,c,train_original,1abe6650aadaae2737bc438e5f271fcb8a83209fb66134199598babbf3c2058d,c,c,c,c
+train_4264.jpg,이 건물의 가게 이름은 무엇인가요?,b,train_original,bfd89883b25bd6d1ec7f464bf744e5af2173aa6358b547eabd2f41b8bc655512,b,b,b,b
+train_4294.jpg,주차장 입구에 적힌 제한 높이는 얼마인가요?,b,train_original,38b1dbeb487fa9732453f94964ac91987c01eef4b673c9ff3911d02b444977d5,b,b,b,b
+train_4298.jpg,이 간판에 적힌 가게 이름은 무엇인가요?,d,train_original,5424fc08a4a8783e4cfa0db93ec4df3a0b6c4ebf30fba02c472f0dfbf3bfe6a3,d,d,d,d
+train_4322.jpg,이 도로 표지판에 적힌 글자는 무엇인가요?,d,train_original,48251ab5332e58a6c694576bee83d5fa4832652b239b445140ce98387ffbacbc,d,d,d,d
+train_4324.jpg,이 사진에 보이는 편의점 이름은 무엇인가요?,b,train_original,fd5147a2315879d3f871be38b93d311557c845549a0cc432dd560859b0755be6,b,b,b,b
+train_4328.jpg,이 컵에 적힌 음료 주문 내역 중 포함된 재료가 아닌 것은 무엇인가요?,c,train_original,77e40a908f16f84f8b805861c8dbd7bfba46c01fb2be736d857666589db4fee7,c,c,c,c
+train_4333.jpg,건물 1층에 위치한 '아이나비' 매장의 전화번호는 무엇인가요?,b,train_original,75d3082ba8ae2b2018d89490ba7e2c0e52cab59d6fe1860603fb43b3c0d861bb,b,b,b,b
+train_4336.jpg,사진 속 손목에 찬 팔찌에 적힌 그룹 명칭은 무엇인가요?,b,train_original,19046c1a40f338c82d39994ebf4eb45021730bc30a655f7c794b91475457d70f,b,b,b,b
+train_4337.jpg,이 식당의 간판에 적힌 이름은 무엇인가요?,d,train_original,d2fd1d29117b8e9e062940cb8f9bda9681b5418dbd18c21a17000fb654c11e8a,d,d,d,d
+train_4339.jpg,이 장소의 이름은 무엇인가요?,d,train_original,33f6438fab46f8056c3b28e6528a2fbaf4bb64ddc079c9218874ef9dcecf0c95,d,d,d,d
+train_4341.jpg,사진 속 흰색 배너에 적힌 글귀는 무엇인가요?,c,train_original,c565f957c320cbaa3fab92483542712a816bbfd197b82e54e8169c7f1ea864a3,c,c,c,c
+train_4345.jpg,'복싱 GYM'이 위치한 층과 호수는 무엇인가요?,d,train_original,aea9bdcdc58b054de5ddf77ae12cbae5daeecbf224ddbf774c1660d5bf9c7109,d,d,d,d
+train_4354.jpg,녹산산단 바른어린이집에서 운영하는 어린이집의 운영시간은 언제인가요?,c,train_original,6ef3df389db609f2e9d8d80def97b7c0569e46df5a353b1a0c8c1b8bd7a4213e,c,c,c,c
+train_4360.jpg,이 사진 속 김밥집에서 판매하는 만두의 가격은 얼마인가요?,b,train_original,40adf4580ce750aba003e5c9cb13196886dd4d7ff0b8cc72864fdaa8603627e9,b,b,b,b
+train_4363.jpg,이 명찰에 적혀 있는 이름은 무엇인가요?,d,train_original,d26fac12edef1c732ab3bee6f3f5f096a8744e14c75eef0f078d1bfea4f242b5,d,d,d,d
+train_4368.jpg,사진에 보이는 '태흥 목욕탕' 간판 아래에 적힌 전화번호는 무엇인가요?,d,train_original,279bf7e357794ca454792b887dad4aeb19db338f54f1e4ad241196955067f803,d,d,d,d
+train_4370.jpg,이미지 속 허브티 상품 중 '페퍼민트' 허브티는 어떤 색상의 상자에 담겨 있나요?,b,train_original,37ac7a12c5fc07fb1253b3f9370045613ab54ecad9825f2ad50dee0ca5c06cd4,b,b,b,b
+train_4379.jpg,사진에 보이는 약국의 이름은 무엇인가요?,a,train_original,7a3f0ee88e849ce2184d5fd7d7053e5eb6bfdaf2660658a183512bcaf5f271e9,a,a,a,a
+train_4390.jpg,"사진 속 문에 붙어 있는 문구에 따르면, 출입하기 위해서 무엇을 해야 하나요?",b,train_original,8ecc9b9bbee8abec015e82d86122345dcfd42b6f7cdafaa3a794e9af6abf7497,b,b,b,b
+train_4394.jpg,이 거리에서 볼 수 있는 간판 중 '달밤포차'라는 상호는 무엇을 의미하나요?,c,train_original,3e0c39fd105f52ba4c6bdf30120ef2f3bbfdb23e5a16ac758843442cdc4e89fa,c,c,c,c
+train_4399.jpg,사진 속 하나은행 광고판에 적힌 세 가지 준비 사항 중 '목돈마련'과 함께 적힌 다른 준비 사항은 무엇인가요?,c,train_original,2ec2b85afb3eb21dbb76cd3c04d7eaa5dec86f1148a1f21453fe00d65acbe65f,c,c,c,c
+train_4403.jpg,이 부동산 중개사무소의 전화번호는 무엇인가요?,b,train_original,64d7b4ab166f08834f372e0de8f0159819503e16ee2c0d4e86752102d75643ab,b,b,b,b
+train_4405.jpg,피난계획도에 따르면 화재 발생 시 무엇을 먼저 해야 하나요?,d,train_original,3507938a6033476a3b6335dbff0026fcaff1c9dd20521a45929ebf494daa6be4,d,d,d,d
+train_4408.jpg,사진 속 가게에서 판매하거나 서비스하는 브랜드는 무엇인가요?,c,train_original,6d0aaa93e5a8970f0708dbdde40a936421e93a52952ef0cddcec018b30cf1299,c,c,c,c
+train_4412.jpg,이 사진에서 '피난계획도'는 몇 층을 안내하고 있나요?,b,train_original,fefbf24369641ce0af11fb35a45fd6e67b6d2dba5597a3da7b14ccbe503aaa4c,b,b,b,b
+train_4413.jpg,이 표지판에 적힌 문구 중 올바른 내용은 무엇인가요?,c,train_original,9901fe47005036b4d05bd028d13ce5aa46ffa58eec1ec88090d88c51a7969616,c,c,c,c
+train_4414.jpg,이 간판에 적힌 전화번호 중 예약 문의 전화번호는 무엇인가요?,b,train_original,0422fed522ecfc4db65d6db9ff271c547c87e8c3ad4ed8b98214a5ac54cb5b44,b,b,b,b
+train_4415.jpg,사진 속 건물 2층에 위치한 '차이나' 식당에서 판매하는 음식은 무엇인가요?,c,train_original,1012f39ad7d17f2e71407e705d002514c351f2882f6848cb901d757ac8bbed2f,c,c,c,c
+train_4425.jpg,이 사진 속 파란색 표지판에 적힌 강 이름은 무엇인가요?,a,train_original,8b7e9ffaf55f8bb13d2227452f2ddd849c85f5a65a40733792375a59441851bb,a,a,a,a
+train_4433.jpg,이 이미지에 적힌 'HELLO KITTY' 아래 문구는 무엇인가요?,d,train_original,b9aa412bfdb819260e7cea0c6957d7fa8b71e8ac48059c7545ed3743f0ca316f,d,d,d,d
+train_4437.jpg,다음 중 이미지 속에 있는 두 가지 빅 에그의 이름으로 옳은 것은 무엇인가요?,b,train_original,bf3ce2add45b20cb0dee928cbc9e3978adad949e94275d93ca377c35bf77b913,b,b,b,b
+train_4449.jpg,이 카페 메뉴판에 적힌 '케키트'의 카페 가격은 얼마인가요?,b,train_original,3d3669f5e876ee970b53e74baad35f2c399c21a5738ea2f3a4afba723e65ee3e,b,b,b,b
+train_4465.jpg,이 점수판에서 25C의 최종 점수는 얼마인가요?,d,train_original,56184de29cafe7dc236796b71cbbea9bbd7f28d0eb1a48130e4c61460a2a6d14,d,d,d,d
+train_4480.jpg,사진 속에 보이는 과자의 이름은 무엇인가요?,c,train_original,b9d2b09b83ba1f39edb4e1cdb08d850085a29cc26b8c63d048a959b55458fce3,c,c,c,c
+train_4482.jpg,사진 속 간판에 적힌 음식점 '금성'에서 전문으로 하는 음식이 아닌 것은 무엇인가요?,a,train_original,cb059249ec0f377edeb9aac21624e219df21d30af8b370934b6e4b652cbb29ea,a,a,a,a
+train_4493.jpg,다음 중 '닭 동 가 리' 가게에서 판매하는 음식이 아닌 것은 무엇인가요?,c,train_original,2c4bd069a3354ac2bff03403816e52db3e66524649cd71c8adc626019d944a5a,c,c,c,c
+train_4497.jpg,사진에 보이는 선반 제품 OMAR의 가격은 얼마인가요?,d,train_original,995c91cad888c5abb10006f9b970805c815aad3d24106dfdf685bd696cbbf97a,d,d,d,d
+train_4504.jpg,다음 중 산림 내에서 금지된 행위는 무엇인가요?,c,train_original,465ee00de55cc47dd67208fd99e6876a5371a816d4f28b46fb80f29c38989b70,c,c,c,c
+train_4508.jpg,자전거에 붙어 있는 안내문에 적힌 민원신고 전화번호는 무엇인가요?,a,train_original,f7303b5cc8c29322c40ab8d1dfcc6b746fff27a55ba726b0d6a727f1f72c1b8d,a,a,a,a
+train_4514.jpg,이 사진에 보이는 간판 중 2층에 위치한 가게의 이름은 무엇인가요?,b,train_original,2c5010c2b1d1dd15c3764a9de4fdf00e27485e99b5715d9ca52610c2e0cac437,b,b,b,b
+train_4519.jpg,왼쪽 가게 간판에 적힌 음식은 무엇인가요?,c,train_original,02c5bc8456a1218c00d45e1ade0a62ad18b6d4a6a797a2fc4bcd5527c53e4048,c,c,c,c
+train_4523.jpg,사진 속 전철 승강장에 붙어 있는 경고문에는 어떤 내용이 적혀 있나요?,a,train_original,5d375350dce8d094f9ba6b312437bbd3360064ca0ef1807d2f79154bbce24dce,a,a,a,a
+train_4526.jpg,사진 속 라면 진열대에서 '짜파게티' 라면의 올리브유 버전 가격은 얼마인가요?,b,train_original,6d1e19456d4f38be9a3fa8660f7b8cc7b12ecbfab12412c0685f4c544775c168,d,b,b,b
+train_4529.jpg,이 건물에 있는 학원의 주요 과목으로 올바른 것은 무엇인가요?,d,train_original,e16cb315e4807e3255e1cab7d39146bcf0808e5d9bae16acb141eced38f0cc74,d,d,d,d
+train_4535.jpg,이미지에 보이는 'SALON DE MIGNON' 간판 밑에 적힌 작은 글자는 무엇인가요?,a,train_original,a864cd2891b500e8b80d35f83e8a4755eb2dec2675ecacc998fc86f2dd78c9c7,a,d,a,a
+train_4543.jpg,사진 속 나무판에 적힌 글귀는 무엇인가요?,d,train_original,a635186165ef3d8e6340bc464569248e15ec338d96b337d7006c83342f11ae5a,d,d,d,d
+train_4547.jpg,이 사진 속 빨간색 원형 표지판에 적힌 문구는 무엇인가요?,b,train_original,c4fd94afeaef1a1aca5c42bfb5f7a01ab4619c6c0285d9dbcf138feefdb08af1,b,b,b,b
+train_4548.jpg,사진 속 제품 중에서 '3 PACK'이 표시된 과자는 무엇인가요?,b,train_original,cbecfe18e7a8c9a8ec6265a950c23c3e088a4ccf31df855dc2182c2d13b31bd5,b,b,b,b
+train_4549.jpg,이 책 제목은 무엇인가요?,d,train_original,0b5306194093b030249ddb9a2121dc8f5b0bc672027035e43ccf26a3013aadad,d,d,d,d
+train_4553.jpg,이 키보드 제품 박스에 적힌 모델명은 무엇인가요?,d,train_original,3881d832e761b8d11e6f46f159d17031f8d39768f4bce88fcc0f8ee746c44f40,d,d,d,d
+train_4556.jpg,이 장소의 이름은 무엇인가요?,c,train_original,73a661ab95931264dc1eff6e2b89025622173bd5b355daefb00d3b011a099d42,c,c,c,c
+train_4563.jpg,이 광고에서 '압구정 탑라인'이 보유하고 있다고 한 지방흡입 케이스는 몇 건 이상인가요?,a,train_original,5593e49eacfe410cd9a14c016934a9b0c76f49b90a0b045b53d3778f525b3152,a,a,a,a
+train_4566.jpg,이 표지판은 어디로 안내하고 있나요?,c,train_original,43fb3436eb59bef05b53e7a4dc67740c437d00a90126855787c441053f2ee5f9,c,c,c,c
+train_4567.jpg,사진에 보이는 책 제목 중 '한국의 ___'에 들어갈 단어는 무엇인가요?,d,train_original,f692f499cef2401eb33ce88cbe1f257a00fe6b89b60107497672a6ca7c0bf3c2,d,d,d,d
+train_4577.jpg,이 건물 입구에 적힌 호텔 이름은 무엇인가요?,a,train_original,3328a4e0ad07f067b5a4432cfffc4aaba7297a5417f51136608c33f8ddd847ee,a,a,a,a
+train_4586.jpg,사진 속 흰색 옷에 적힌 글자는 무엇인가요?,c,train_original,4e7d023ac09c8e688d4f2dde78ae720884e6e0f8c7a5a8c00346a2e894ce9411,c,c,c,c
+train_4593.jpg,이 건물 3층에 위치한 센터의 이름은 무엇인가요?,c,train_original,d1110b6f1e346fafa62ab1bf8d0b1e4458605798a5d321f76db0ed523620b432,c,c,c,c
+train_4595.jpg,이 간판에서 제공하는 음식 종류는 무엇인가요?,b,train_original,22ad7b9d0c72a402e53582b10a4d60d2f9f396cd01615a53a7817769e1ea7594,b,b,b,b
+train_4598.jpg,사진 속 서랍에 보이는 과자 봉지 중에 '초코파이'가 적힌 과자는 어떤 색 봉지일까요?,a,train_original,4fec45cc5574f40dfd7d3b1322aacac78be4a5906b2cbb0fdab3614ccfd1cd4b,a,a,a,a
+train_4601.jpg,이 문구에서 '관계자외 출입금지'라는 의미는 무엇인가요?,d,train_original,91b01ae4b875d181c6e538348bcd81fedc6a764b9d6a0ed2c86e755ecdd2b606,d,d,d,d
+train_4605.jpg,사진 속에 보이는 'Sh 수협은행'의 해양플라스틱 예금 이자율 중 가장 높은 것은 얼마인가요?,c,train_original,a6478c9b091afeb8e59170304785a351a7d76fcbab7043b85c5d63be53637986,c,c,c,c
+train_4607.jpg,사진 속에 보이는 붉은색 표지판에 적힌 문구는 무엇인가요?,c,train_original,819c644d05bc290ff1179c5d35bf04e1ade69fcd91493a1d0409d3f5ee4172fc,c,c,c,c
+train_4615.jpg,이미지 속 제품 중 'LACTO PORE LIFTING' 제품의 용량은 얼마인가요?,d,train_original,7b780aac08d33ac13e9f5dbbf378f85c36df025a94cabd3ccded0bf7d20ab9db,d,d,d,d
+train_4635.jpg,"사진에 보이는 표지판에 따르면, 한밭대학교 수련원은 어디에 있나요?",c,train_original,43b2cae623f6a637f50d287a68414a4ff555c1261d88308b0132c5a21f646d0d,c,c,c,c
+train_4644.jpg,사진 속 간판에 적힌 '구미 가구몰'의 크기는 몇 평이라고 적혀 있나요?,a,train_original,286565d83ccd3f5a05d80e66a866e6b1360b96d94dfb72e03ae3bc23a08faf9e,a,a,a,a
+train_4646.jpg,이 도로 표지판에 적힌 문구는 무엇인가요?,c,train_original,078b1c6c5b41c01c4850f2ba5ea3195f605d5c3abe89f32ef5cd3eb1d72a3e18,c,c,c,c
+train_4647.jpg,이 역에서 3번과 4번 승강장이 향하는 방향으로 올바른 것은 무엇인가요?,b,train_original,93b4e57f5c2e10826bcb9cc2da6383f67889702eaff802dfd4fc0541950ba262,b,b,b,b
+train_4648.jpg,사진에 보이는 간식 중 '홈런볼' 초코맛의 포장지 색깔은 무엇인가요?,b,train_original,34b0fb1f7d9915c23421efb0a59bec94135ff1c2abe43d93ec374fa9006a0bff,b,b,b,b
+train_4658.jpg,방수용 기구함에 적힌 화재 시 소화전 사용 방법 중 첫 번째 단계는 무엇인가요?,d,train_original,87e2b90e32a2da6571ee9a60865eb79a10238e7a3fd7c88f291e8c299cb73917,d,d,d,d
+train_4664.jpg,이 사진 속에서 '탁월한 물기제거 유리닦이'의 가격은 얼마인가요?,b,train_original,80fb065ab9ed0216cace6bce0cc993a0e96388ea6b17a629d286807aa01e1272,b,b,b,b
+train_4665.jpg,사진 속 상자들 중에 'TOKYO BANANA'라고 적힌 상자의 색상은 무엇인가요?,c,train_original,62330af8a1a8f646dce6dfd3f90a6c575ebeea915bc5e7cb4c94f08e98f6d055,c,c,c,c
+train_4673.jpg,꼬깔콘 과자 중에서 매운맛이 나는 맛은 무엇인가요?,a,train_original,5280f3987b798360e680034c6ebf71095b38516d0281ae16a88ee5d039627a8b,a,a,a,a
+train_4683.jpg,이 건물에 있는 '스터디카페'의 운영 시간은 어떻게 되어 있나요?,a,train_original,b5faf6f68a6790fb934cf56917ae1c18edc39dc4e01ae6f8b02d7239f6caf3f0,a,a,a,a
+train_4697.jpg,사진 속 보습제 라벨에 적힌 숫자는 무엇인가요?,d,train_original,be55547050592853705e69b916088ee7ce70d6352378cc25dd15f0b0a59d1cd7,d,d,d,d
+train_4705.jpg,이 야구장에 적혀 있는 구단 이름은 무엇인가요?,b,train_original,88e8e78de5d07bdc299f6cbc752c2060c13a104f70f70858666b9c7474719ea4,b,b,b,b
+train_4717.jpg,이 카페의 이름은 무엇인가요?,b,train_original,e0138821e1848dbe43ccb410b86461e17429b60652f62a18c511c313a622381a,b,b,b,b
+train_4730.jpg,요거트 찹쌀떡을 구매한 후 바로 드셨을 때 느낄 수 있는 가장 좋은 점은 무엇인가요?,a,train_original,26287fda627fc9a15a1d0eb456c33af118714c5fdba1ae1b946adde364ba90dc,a,a,a,a
+train_4751.jpg,이 장소에서 찾으려는 캐릭터의 이름은 무엇인가요?,d,train_original,00588847d90b4a918010496248623d21e832210aa733adeb2d073747a9a70230,d,c,d,d
+train_4752.jpg,이 자동차의 번호판에 적힌 번호는 무엇인가요?,c,train_original,8203ba88e86e4f6b2f3c075aa817b924e20dc7d2f052367661d5d50da439147f,c,c,c,c
+train_4758.jpg,이 건물에 입점해 있는 음식점 중 랍스터와 스테이크를 제공하는 곳은 어디인가요?,b,train_original,15680ea551890130f4c00c09344ce9d46f558aea2a8f2ceffdc6c910505a1650,b,b,b,b
+train_4763.jpg,이 돌에 적힌 글자는 무엇을 의미하나요?,d,train_original,38579f8c46a167d179ffd04c0c79a733efcfb994cccd3e35e27b8014c8f1649d,d,d,d,d
+train_4766.jpg,이 냉동 아이스크림 코너에서 '쭈쭈' 아이스크림의 가격은 얼마인가요?,c,train_original,166cf7b69825711ce543b5e762ee7228f9772e4957bc4dd720b772946335143d,c,c,c,c
+train_4768.jpg,이미지에 보이는 '스팸 마일드' 제품의 유통기한은 무엇인가요?,b,train_original,99cf80a01a772cdcbef8538c69d4263285448e151ff1885c9bc74cf6e32c7487,b,b,b,b
+train_4774.jpg,이 게시판에 적힌 커피 메뉴 이름은 무엇인가요?,b,train_original,c5e1975759fa991a9df23f12a5c6ccc9246c772b35549350860f880a877f912c,b,b,b,b
+train_4778.jpg,이 간판에 적힌 문구는 무엇인가요?,d,train_original,fe1e12f143df19629950371acc296a37231d2bbd5c13be12b6bc5de24fcbca47,d,d,d,d
+train_4780.jpg,사진 속 '고리형 칫솔케이스'의 가격은 얼마인가요?,b,train_original,a838d8083cf0d71f206399923246916e8319ab0680452b6cc4d698c8913996bf,b,b,b,b
+train_4793.jpg,왼쪽 제품 포장지에 적힌 가격은 얼마인가요?,a,train_original,fddd87928e308a40a59d195760adafda6c18b8d4cbe447ce58aaf6dff4d394bd,a,a,a,a
+train_4795.jpg,이미지에 나오는 'Codex' 설명 중 맞는 내용은 무엇인가요?,d,train_original,3b7f6d846db5fcd4acbd1f55ea28303c71b857aca9e9ca3a7be978338aaa44c3,d,d,d,d
+train_4797.jpg,화이트보드에 적힌 맛 투표 항목 중 2번은 무엇인가요?,c,train_original,d78e57b874e1eb7f91fcaf2246b0b07c1879f1529aa68ec4e88d2d7756da8964,c,c,c,c
+train_4810.jpg,사진 속 쇼핑백과 선물백의 가격은 각각 얼마인가요?,a,train_original,c8ee5635bd82acaa9df6ca6808fc4b6abf6eb2e973cd9760ad5b2ae58372cdc8,a,a,a,a
+train_4825.jpg,사진 속 소주병 라벨에 적힌 도수는 얼마인가요?,d,train_original,bf6cf71db5145aa8e21a367118cec6396f774b219e7ee3a3536587f8625f6140,d,d,d,d
+train_4837.jpg,삼성청년SW·AI아카데미 SSAFY 15기 모집 기간은 언제부터 언제까지인가요?,d,train_original,dd72676364c43233839a734a453ce51c77e3287728fbc2d22230b8d34a61bbae,d,d,d,d
+train_4842.jpg,이미지에 보이는 인센스 스틱 패키지 중에서 'LEMON GRASS' 향의 인센스는 어떤 색상 박스에 담겨 있나요?,a,train_original,be7ef81f4e91267bd380dc319e280b54290c025c3678201e34ef38512a75cd0a,a,a,a,a
+train_4849.jpg,이 건물의 이름은 무엇입니까?,a,train_original,50ebd16e5a3b670c557f8e8fefb4a43815ec24b30d14e4bdc9d49ebd3d86d4ec,a,a,a,a
+train_4853.jpg,이 거리에서 볼 수 있는 상호명은 무엇인가요?,d,train_original,0acc8873de5944c2269f0cd05707f06afdc7dc39e54d26df11f9e282da3a1b4c,d,d,d,d
+train_4856.jpg,이 건물에 설치된 CCTV의 촬영 시간은 언제인가요?,d,train_original,aa4a08bff2d2537306e4f76d42dcb74791234244a104cafb1264bf8b8b894705,d,d,d,d
+train_4866.jpg,다음 중 이미지 속에서 볼 수 있는 과자 이름이 아닌 것은 무엇인가요?,c,train_original,14699892eb3e178c0fd3458669ea053569c439f2460eab727c40f0bc93ce8702,c,c,c,c
+train_4870.jpg,'플레인 크로찌' 홍보 문구 중 옳은 것은 무엇인가요?,c,train_original,600757ed384a32f66d05c7f2e1bfa84db6e07519a41256a784136d5d66052700,c,c,c,c
+train_4883.jpg,이 건물에 입주해 있는 네일샵의 이름은 무엇인가요?,c,train_original,cec1e35fca359d8972fb3c873971ba6081a769f604d2a60c974ca7043c875897,c,c,c,c
+train_4888.jpg,스크린에 나온 LED.ART 서비스가 제공하는 주요 기능은 무엇인가요?,b,train_original,0ab1e01df8ffa59f45a8e5dc3a03ecbdfadef7e74a0eb1ea4f2361da72163d68,b,b,b,b
+train_4891.jpg,왼쪽 그림에서 곰이 들고 있는 케이크 위에는 어떤 것이 놓여 있나요?,a,train_original,f209637ee91bf0859f83ea341daf598052b8413bc6cfa66d165e7391cf8fbcef,a,a,a,a
+train_4892.jpg,이 장소에서 와이파이 비밀번호는 무엇인가요?,a,train_original,e965ae863a48e88da2943cd9c16087ea6a1c65acef13ec47c052416c2d2fcb92,a,a,a,a
+train_4896.jpg,사진 속 'Salady' 간판 아래에 적힌 전화번호는 무엇인가요?,d,train_original,decd937509f2b59536ccaf5b88f8ae94b9b2996061758865dfd224907e265e2b,d,d,d,d
+train_4901.jpg,'나눔문화 확산 프로젝트' 포스터에 소개된 기부 시스템은 무엇인가요?,b,train_original,b33685b10abf121dfd07e1c0060ff41107f80a9b6650555b2af51c83b76fa1c1,b,b,b,b
+train_4911.jpg,이미지에 있는 파란색 열쇠고리에 적혀 있는 글자는 무엇인가요?,d,train_original,0a5671e7ad7cbc40e9d2bf16f02f99e4f607967838301697d0bcc3226eea4090,d,d,d,d
+train_4918.jpg,이 책 제목 '냉장의 세계'에 대한 설명으로 맞는 것은 무엇인가요?,b,train_original,e122bd61a085a81b0d6ea61b992b11103f79ff9e9434225a3767d0015ee6a46e,b,b,b,b
+train_4929.jpg,이 사진에서 '소화기 사용방법' 안내문에 적힌 첫 번째 단계는 무엇인가요?,a,train_original,ef2f5f321001736b2287b4189f711aee274f5f341bbf8eca289c10bd8aa2769b,b,a,a,a
+train_4936.jpg,이미지 속 나주배 한 상자의 할인된 가격은 얼마인가요?,c,train_original,b589fdd8b66660c29c14f7018e7a4c8fd81bba3ec69f57634668e3b88457e8d2,c,c,c,c
+train_4941.jpg,햇반 렌틸콩 현미밥 한 개(190g)에는 단백질이 몇 그램 포함되어 있나요?,d,train_original,1941b86e8a85e2180b994d3515211da7e9cdbcf165fcedb6d4510b5588298462,d,d,d,d
+train_4949.jpg,사진 속 위스키 병의 브랜드 이름은 무엇인가요?,c,train_original,e3941250dfcc1c1effa2039884c75e97bc60b0309d01da542f06dc90f4753647,c,c,c,c
+train_4953.jpg,"이 출입문에 적힌 안내문에 따르면, 매주 어느 날이 휴관일인가요?",a,train_original,035f431a39f014afdf3cb3b738ac3c3fea7ea4c6e60569a33d5d6e19c9f61f41,a,a,a,a
+train_4980.jpg,이 식당에서 제공하는 라면 메뉴 중 하나는 무엇인가요?,c,train_original,053c357c690170abd25f6c7afd0618d3fbd5d7b10774d7868c3ff3e01dd44454,c,c,c,c
+train_4986.jpg,이 현수막에 적힌 경고 내용은 무엇인가요?,b,train_original,4641a3ef4a3d31ac17fa5c997ae5c967edb89c415ece55bdf41eeb5338e61254,b,b,b,b
+train_4987.jpg,이 가게의 간판에 적혀 있는 가게 이름은 무엇인가요?,a,train_original,b3fba51b76b9767fbea7e55af2e9d0a04a6a50da0b498a71b6d55f7f11c3eec4,a,a,a,a
+train_4990.jpg,하얀 쟁반 위에 놓인 물건들 중에서 'BROWN'이라는 글자가 적혀 있는 것은 무엇인가요?,c,train_original,3451331bcc9fccb113766f9a86ffc2b3f2475f1c1397e1d9463e065191cebbeb,c,c,c,c
+train_4995.jpg,도원빌딩 5층에 입주해 있는 클리닉의 이름은 무엇인가요?,a,train_original,c773012c9bc7ce365628a3273718942411941f155484fa8af1aa390f0c34df98,a,a,a,a
+train_5001.jpg,노란색 트럭에 적힌 회사 이름은 무엇인가요?,b,train_original,32e6633ce9eefed5bd103b7c75517c07389530bec634493ed1e17ecf23e6acfc,b,b,b,b
+train_5010.jpg,이 미용실 간판에 적힌 서비스 중 포함되지 않은 것은 무엇인가요?,b,train_original,10b2f901998ca8d3508f18962e343afa6f26d82ac346e7e7fc5831b25b82922f,b,b,b,b
+train_5017.jpg,이 게임 결과 화면에서 '플레이어' 이름과 함께 표시된 정보가 아닌 것은 무엇인가요?,c,train_original,2fad76525fea149ea714e89f3540e9ee2f8e1939956161c5d6178671c6d2a16e,c,c,c,c
+train_5021.jpg,이 사진에 보이는 지하철 출입구는 몇 번 출입구인가요?,d,train_original,d6ab2cacfeac2be6efcccf455cdf6255119cbbb83488e612e80a2d6a89f86252,d,d,d,d
+train_5024.jpg,이 사진 속 금연 안내문에 적힌 내용 중 옳은 것은 무엇인가요?,a,train_original,65bc722ebfdaa3315a5f269b179916e989b0c7b6f0c475658b4b01f73cc52764,a,a,a,a
+train_5026.jpg,이 편의점의 이름은 무엇인가요?,c,train_original,31254f283b1260b67dcaaea6af8eb9bacd5d8069dc01ea1cc4b6408425e153be,c,c,c,c
+train_5029.jpg,사진 속 '열광집' 간판에 적힌 설명 중 올바른 내용은 무엇인가요?,b,train_original,453e886e95c7d32be8c485c196449ec6a9dec5d9179f5fcdd70f379c5611aa38,b,b,b,b
+train_5035.jpg,이 이미지에 보이는 가게 이름은 무엇인가요?,a,train_original,294e784342e865d183a4c94d0bd365c857f3c13d58e575cc6d187e84157d65ac,a,a,a,a
+train_5040.jpg,이 제품의 맛은 무엇인가요?,a,train_original,c5945c0f5742e8ed7758aa61d1f8de629239a0adbb294e79a6c206c32436200b,a,a,a,a
+train_5042.jpg,사진에 보이는 노란색 구조물에 적혀 있는 문구는 무엇인가요?,c,train_original,28c4a30ba3536af393f078bc6ee3c98ec93601bd2d58b949f90aad6752d65acf,c,c,c,c
+train_5047.jpg,소화기 사용법 중 올바른 첫 번째 단계는 무엇인가요?,c,train_original,94e6ebfe4ac7026bc1ae53ef56d47a39ea717bdcee9200d5f64c47a6a201c3b1,c,c,c,c
+train_5054.jpg,건물 2층 창문에 붙어 있는 '임대' 안내문에 적힌 전화번호는 무엇인가요?,c,train_original,d8a72adf2c771be7ea4fc467aaba1e5e0f93dc59910dc879b9002e8f1eefa4e6,c,c,c,c
+train_5063.jpg,이 식당의 간판에 적힌 전화번호는 무엇인가요?,d,train_original,84006ee5f08cee5b26124d5b9dd76524a37554e26c85d4ea53d37b7601f1a5b9,d,d,d,d
+train_5067.jpg,이 세면대 위에 놓인 세제의 브랜드 이름은 무엇인가요?,c,train_original,e5c45fd7434b0dfeececde8952e024def6ebac5bca3ee142b0ae3f78b5cecc64,c,c,c,c
+train_5069.jpg,이 건물 3층에는 어떤 종류의 가게가 있나요?,d,train_original,a69a0c047484908224d549d2837ab5f7688c2d9df021ae2f5fc3326decf85f0d,d,d,d,d
+train_5093.jpg,이 버스 정류장에서 금연 구역으로 지정된 범위는 어느 정도인가요?,c,train_original,5ae21efb7948c35fa142cfd8036783c2245c068add0b3ea3776a98e4910ba8f2,c,c,c,c
+train_5100.jpg,이 버스 정류장 10번 승강장의 목적지는 어디인가요?,d,train_original,3999071093af3c0af03d55fe2386bcb13fefa3f891fc4a7761569a2cde9b74b8,d,d,d,d
+train_5101.jpg,이 건물의 간판에 적힌 기관명은 무엇인가요?,a,train_original,bb8c9c8c065ba97db2e9a2506ada44334aaf3e50d799bb0ec39e5efef2982ca9,a,a,a,a
+train_5103.jpg,이 간판에 적힌 가게 이름은 무엇인가요?,c,train_original,ed146af99ca77e8d695adaa6e864fcf3cf6d18e370c6aa1ef463f2aa6c65ed63,c,c,c,c
+train_5110.jpg,이 타일에 적힌 문구의 내용으로 알맞은 것은 무엇인가요?,c,train_original,1b40565ca5826474578b7af0b4cb21e8a3d64cd04c8bd8d7d7215d7c50481582,c,c,c,c
+train_5117.jpg,라멘 맛집 간판 아래에 있는 메뉴판에 적힌 문구 중 옳은 것은 무엇인가요?,a,train_original,15d47aba1a9d08c283e08ba8831705ef20925ed906492901e647b18f7f88ddb2,a,a,a,a
+train_5142.jpg,사진 속 머그컵에 적힌 문구는 무엇인가요?,c,train_original,b3a8d8efab3c21260e30d1a32209360f7b62113f249d107e971ef323d6b54ceb,c,c,c,c
+train_5143.jpg,"이 이미지에 따르면, 할인 금액이 4,690원인 상품의 결제 가격은 얼마인가요?",c,train_original,a300d2aed03712c732f9f1d3c555319e8dc8b6ca0a80c38f025bb181011cf53d,c,c,c,c
+train_5145.jpg,사진 속 금연구역 안내판에 적혀 있지 않은 문구는 무엇인가요?,b,train_original,134341cb39bc173092aba89f75ea21ddd482498c30044710837c608be3ad3451,b,b,b,b
+train_5151.jpg,벽과 우체통에 적혀 있는 상호명이 무엇인가요?,b,train_original,d9e421bef48c00c16e5659e220acacc3219d4c30901374b82cf6c508fbaaf6ed,b,b,b,b
+train_5154.jpg,2026 대한민국 목재산업 박람회가 열리는 장소는 어디인가요?,d,train_original,635abdd45eac13fced14839416857a3e4887a38daa8eb0d93f59ba522531ddd4,d,d,d,d
+train_5157.jpg,이 책의 제목은 무엇인가요?,d,train_original,13e949b32afba51f6a3c58920a0e6335e092e92b1eb1d73831137ad691c84d0e,d,d,d,d
+train_5168.jpg,왼쪽 책 표지에 적힌 책 제목은 무엇인가요?,d,train_original,106e65683b7d02fec21e6890f6a6f2aeb962feae96b1515d90100ae7a0e85fd7,d,d,d,d
+train_5183.jpg,사진 속 가게 간판에 적힌 가게 이름은 무엇인가요?,b,train_original,f40cad8f566a907ad7275f34a42fde51e99da2f56ffbbb8546dc87e33e2ec7dd,b,b,b,b
+train_5185.jpg,테이블 위에 놓인 음료수 중에서 'PEPSI'라고 적힌 제품은 어떤 모양인가요?,c,train_original,a3ad2446ed34066cbb0703359d369502220a8bdc87d3b1b59e661bb55096ffdc,c,c,c,c
+train_5187.jpg,이 건물 6층에 위치한 곳은 무엇인가요?,b,train_original,fc5c267ae86f565424cfe918bb4072902644a4b385ba7eebbf805ad9d51066fa,c,a,d,d
+train_5189.jpg,이 버스정류장 표지판에서 'N109'는 무엇을 의미하나요?,c,train_original,f62ac0e3141c531eef46b4f825498f93f3b69f77184aa9bdb1911a4108cd4880,c,c,c,c
+train_5196.jpg,운명 상담소 간판에 적힌 예약 및 문의 전화번호는 무엇인가요?,c,train_original,2904bf8fee1fd0abf080fc2f3c6d081ad237bd19db1377a02a2a082ae535d9c7,c,c,c,c
+train_5198.jpg,이 건물 3층에 위치한 센터의 이름은 무엇인가요?,d,train_original,09eebe1bc476d2c416489e4933d979e76d12df53de36b0c9824fce5c894ba595,d,d,d,d
+train_5203.jpg,사진 속 버스 정류장 7번 승강장에서 갈 수 없는 목적지는 어디인가요?,b,train_original,be391c407e80da2c7a9eeaa2f2fff676c3ac4875be43e603e0f0bcf5b44dbd98,b,b,b,b
+train_5217.jpg,"냉장고 문에 붙어 있는 안내문에 따르면, 사용 후 반드시 해야 할 일은 무엇인가요?",a,train_original,1f1ccca2455bb768f0e8a6c4c924c93a6bd4a36471d99cdd4db42ccd2fa8595d,a,a,a,a
+train_5219.jpg,이 제품의 6본입 한 박스 가격은 얼마인가요?,d,train_original,52e7260b486f70fb14b44c3ac4f337cb9f8ffcd7c7b5334a5914843e2b2f6bc4,d,d,d,d
+train_5235.jpg,이 이미지에 보이는 손 선풍기 손잡이에 적힌 글자는 무엇인가요?,d,train_original,4be0fdd16a980a9ffd7ba0cbd6fa54571ddc62615efc3089f65b80d431de0aa4,d,d,d,d
+train_5239.jpg,사진 속 간판에 적힌 전화번호는 무엇인가요?,d,train_original,aaf4304425c491a376c24d8a369665ae185f6283023c0eb9a451feca9ae343c6,d,d,d,d
+train_5240.jpg,이 라벨에 적힌 구입금액은 얼마인가요?,d,train_original,29def77b9a3d16a214d35a0693d1125937d5071e1592ce0d580ecc71dbc7f5d1,d,d,d,d
+train_5244.jpg,이 사진에 보이는 편의점 상호명은 무엇인가요?,c,train_original,4b051bf3a93f6d96fb56a33f638002f5b13fb39d3b74983521266434be45b8e8,c,c,c,c
+train_5246.jpg,사진 속 상자에 적힌 '에탄올 83%'의 설명으로 옳은 것은 무엇인가요?,d,train_original,f8765c9e2358fe5ca28e83d9252fba930ec47a221f1b17d0bef9b4637901c414,d,d,d,d
+train_5250.jpg,주차장 내에 금연구역임을 알리는 표지판에 적힌 내용 중 올바른 것은 무엇인가요?,d,train_original,9480634ae95bee04146767eb6fbc1376dad17caab50c86035f824877629b59ad,d,d,d,d
+train_5257.jpg,이 비석에 적힌 '사업명'은 무엇인가요?,a,train_original,5bac8b2769ad9b97ceb89f700a23121b6e287e55d8d92514c40c45029f936977,a,a,a,a
+train_5265.jpg,이 버스 정류장에서 107번 버스가 도착 예정인 시간은 얼마입니까?,d,train_original,0c9dfbd3ec0ad02935c63dd71b040afe1d4620393b3ddec54c80ca03e6993f3d,a,d,d,d
+train_5266.jpg,안랩 방문객은 안내를 받기 위해 어느 층 안내 데스크로 가야 하나요?,d,train_original,e7f3a8ce2eb4ecfefc96d2f9c06b3b2909e0569b85fbd452b512a2b818d8bf22,d,d,d,d
+train_5267.jpg,이 종이컵 쌓기에서 가장 위에 적힌 글자는 무엇인가요?,a,train_original,341294639bd1b9752e62fdfbd76c7a8811cdf1f7900788d0cab0b31a3b44fdc1,a,a,a,a
+train_5272.jpg,사진 속에 적힌 문구의 내용은 무엇인가요?,c,train_original,fa3baf380035bcd60d98c35672cd18ccad222d29c7955e9fe2e9bf3704962b34,c,c,c,c
+train_5286.jpg,이 식당 '자매 감자탕'의 전화번호는 무엇인가요?,a,train_original,4970bc00cc8b70b94e3890d58062b12994be111e45f499a20f6bdf90976e4803,a,a,a,a
+train_5300.jpg,이 주차장 건물에 입점해 있는 매장이 아닌 것은 무엇인가요?,d,train_original,0150c03c00b28af1188ae5c3378935522aff73b91d27f59278be70f385a959fb,d,d,d,d
+train_5305.jpg,이 사진에서 쥐 모양 인형이 앉아 있는 상자에 적힌 문구 중 맞는 것은 무엇인가요?,b,train_original,2028111268a0a656c92d1ee24c1d194480036fd8802633283ae1a2c7cf6cd01d,b,b,b,b
+train_5308.jpg,이 선크림 광고에서 'Top Pick'으로 소개된 제품은 무엇인가요?,a,train_original,37ac06e18cd02ead0463af24fe46619d4c064a396f36e244b424069ccd57aa61,a,a,a,a
+train_5326.jpg,사진 속 교재 이름은 무엇인가요?,d,train_original,ed54217950f125c1c90033e3b2e2402725672c99d9fc6773ec329547f7e08f2e,d,d,d,d
+train_5348.jpg,사진 속 간판에 적힌 김밥집 이름은 무엇인가요?,d,train_original,0627ecdc3d29d595ad6c85fb68f259b81a6abcf8d4d4df0d9c444aeb062a87e6,d,d,d,d
+train_5369.jpg,이 건물의 이름은 무엇인가요?,b,train_original,1300ae1b0ed138aff73a66e7535e4a21e392c609399d314a8f20ecf99b04fd5a,b,b,b,b
+train_5370.jpg,이 기계 화면에 적힌 문구 중 맞는 것은 무엇인가요?,c,train_original,c92a0c00a21426406fbd5305f65c82b5583d55bfee8a8be7a2779979488cda77,c,c,c,c
+train_5387.jpg,이 건물 2층에 위치한 '율핏'에서는 어떤 서비스를 제공한다고 적혀 있나요?,a,train_original,0ef5fd5f518c76074c187b717386f52d67eabfa4593ae570ae3379540b5ce346,a,a,a,a
+train_5389.jpg,이 병원 건물 앞에 설치된 현수막에 소개된 장비는 무엇인가요?,c,train_original,3a618b5b053c2f6bdd4b84505bd8cd4b73b46d55c05b6b3cbd4c77d32a47325e,c,c,c,c
+train_5393.jpg,"우시라멘 메뉴 중에서 가격이 10,000원인 음식은 무엇인가요?",a,train_original,93e31acbd1dba6f5ba69dfb1350479249bf29de177325b64fd4e2bbb6abc307b,d,d,a,a
+train_5398.jpg,터미널에 출력된 'k=3'일 때 x의 값은 무엇인가요?,b,train_original,e10cb8d4a65334a420d48a7768621ecdca3fb50621c92d906d260a22d404f0d4,b,b,b,b
+train_5401.jpg,이 버스 정류장의 관리번호는 무엇인가요?,b,train_original,041a3f8597088d7bd2cfa1072927824954cb3ae7cae58e3be8569e5a31ab5a60,b,b,b,b
+train_5402.jpg,"사진 속에 적힌 문구 중 """"비오는 날""""에 관련된 내용은 무엇인가요?",c,train_original,2b07cd00d1c98b618895f97c685171cbfeba383810e34abe09d3c0d59aa025e5,c,c,c,c
+train_5409.jpg,사진에 보이는 간판에 적힌 은행 이름은 무엇인가요?,d,train_original,17731150e9e8e7758677d1d6f66766db48b1d30fa989b8e43ed39759cabda710,d,d,d,d
+train_5410.jpg,이 길가에 세워진 노란색 표지판에 적힌 제한 속도는 얼마인가요?,c,train_original,151a806a2f6dc84520fee77951d65dc96e9588c4be087fe0cb8c8330e49b02a4,c,c,c,c
+train_5420.jpg,이 가게 점심 메뉴 중에서 '셰프 추천 코스'의 가격은 얼마인가요?,c,train_original,dc9b2ed6bad53fe0b350be2d924e1e87aeb4dd18430111c047b291a4367e2e2a,c,c,c,c
+train_5423.jpg,이 가게의 이름은 무엇인가요?,a,train_original,f52d5b58d2e6312020b15b7ab1acfeedf9349f0a729db90726f9a9730ef7dbf4,a,a,a,a
+train_5434.jpg,사진 속 커피숍 간판에 적힌 이름은 무엇인가요?,a,train_original,67043e7db4a1c6c8904e2f6b79c30ccf5b063f4bbe713bb91fa9622fe895e50a,a,a,a,a
+train_5436.jpg,이 골든 티켓에서 당첨 등수는 무엇인가요?,b,train_original,0b8cff6a260ebbca662234f58b4250237c4bcaea87efcd351103c07a201cb574,b,b,b,b
+train_5439.jpg,"이 현수막에 적힌 내용 중, 전동 킥보드 이용자에게 어떤 행동을 권고하고 있나요?",a,train_original,cd93ba413184ae6a5fe43feca433fb8656c9ce77fe650b34b4b0531ec38b05ed,a,a,a,a
+train_5452.jpg,오리온 촉촉한 초코칩 쿠키의 중량은 얼마인가요?,a,train_original,87c565fe401e2799757f1209b9521ba08f6f28682439d816137a062004fad3d9,a,a,a,a
+train_5456.jpg,이 이미지에 보이는 캐릭터와 함께 적힌 문구는 무엇인가요?,b,train_original,5b7c9734766d5be3b86e24515dbf80410dbe57d58ebbecfee5587ae5ddd6b6ac,b,b,b,b
+train_5457.jpg,다음 중 두 번째 현수막에 적힌 내용으로 올바른 것은 무엇인가요?,d,train_original,8a088fb37b2fb3dd13fe82e6aa0f50edb32d9fbd163c8365e4de6ec59182204a,d,d,d,d
+train_5461.jpg,다음 중 이 도로 표지판에서 오른쪽 방향으로 안내하고 있는 장소는 무엇인가요?,a,train_original,417339ea8e456e1e9ccd38394b5165e2cf406eb8024c0c5b35cc664d26e2a81a,a,a,a,a
+train_5469.jpg,이 안내문에 따르면 KTX 10호차는 어디에 대기해야 하나요?,c,train_original,fd001dda1374eeb2068fcdddb939c3c46720136d9cac61c1c1a509ebd5cf5bbd,c,c,c,c
+train_5470.jpg,이 건물 입구에 적혀 있는 건물 이름은 무엇인가요?,a,train_original,ba4c44c9c925eed6fdce11efa1e99dde65393b81e0ac60ed12249ce7a5fb5332,a,a,a,a
+train_5473.jpg,인성 영화 감상문 공모전의 공모기간은 언제부터 언제까지인가요?,d,train_original,261b5d45b1465505f0fde2807ceed602c6fa3f48c5c1064e334f0cc59faf31ba,d,d,d,d
+train_5480.jpg,건물 3층에 임대 중인 공간의 용도는 무엇인가요?,b,train_original,494ea71c9a4556b99bc653098a0d4d58c9f3ce414d7589227f5d5b4e1cbc3cca,b,b,b,b
+train_5491.jpg,이 안내문에 따르면 에스컬레이터가 정비 중일 때 이용하라고 권장하는 것은 무엇인가요?,c,train_original,e380cc866135c9ec892fa266b4a08d294e5e4e3f1b07da745a29c4b6f64e09b4,c,c,c,c
+train_5503.jpg,사진 속 문구에서 '꿈을 현실로 만드는' 다음에 이어지는 단어는 무엇인가요?,b,train_original,b6069e61b73e2393148fbd44e4693b95d24871ac5c5c25f899d90c40dbfe694a,b,b,b,b
+train_5509.jpg,이 광고문구에서 소개하는 서비스는 무엇과 관련이 있나요?,c,train_original,801604acf7f273584b55158f9181a8465ab5c13b22775e63453a31d972c147a4,c,c,c,c
+train_5518.jpg,이 메뉴판에 적힌 '아샷추 아이스티'의 가격은 얼마인가요?,b,train_original,4c5e3b06cd3c552da838b843d8f29f5fcc17f9301b278a29492375fc813669f6,b,b,b,b
+train_5538.jpg,사진 속 타로 카드 중 'ACE of CUPS' 카드에는 어떤 그림이 그려져 있나요?,d,train_original,364248f93d28d3ca5b3aef34ee708e17ba694766da545c9141ff249fe3fe927e,d,d,d,d
+train_5541.jpg,이 간판에 적혀 있는 문구는 무엇인가요?,a,train_original,4c4a5da406c5b1b90575dd2f0b7d34569905fac3db5d6bb8fd1693ffdbbc9cbb,a,a,a,a
+train_5553.jpg,이 건물의 이름은 무엇인가요?,a,train_original,b7e9d8346053836e219398fadac8bc1dabff57b80280a9949fd9293948f3e9d4,a,a,a,a
+train_5560.jpg,"이 금연구역 표지판에 따르면, 금연구역 내에서 흡연할 경우 부과되는 과태료는 얼마인가요?",c,train_original,9fa2340e31b5f5fd124877d87e7729a060a1f4fbd1926dc15e93f4eb2d908919,b,d,c,c
+train_5563.jpg,이미지 속 중앙에 적힌 문구는 무엇인가요?,b,train_original,5e113db0da7c3b9e7566dc4413a69aefa807d0f8e56cf53316aced95bbbeefe2,b,b,b,b
+train_5571.jpg,이 상품의 이름은 무엇인가요?,a,train_original,c87d66f76f217a3e7d376da5f845626b4e863f9d9a439cd4ba7f55e7df9a1be8,a,a,a,a
+train_5585.jpg,이 사진에서 보이는 현수막에 적힌 문구는 무엇인가요?,b,train_original,7446d4d26655e026258ef431cf756bfb0f2ad9046766f57c959e94e4e7970789,b,b,b,b
+train_5593.jpg,이 건물에서 '강진숯불갈비'는 어느 층에 위치해 있나요?,a,train_original,48ade276d962fd2fe45f542298e3fe27101be17fceac7aac709bcca7e2ccaf66,b,b,b,a
+train_5601.jpg,사진에 보이는 카페의 이름은 무엇인가요?,c,train_original,b805d792b5b83f10471396688269a5137e28188b7f9ab7a33ed0df5794008bcd,c,c,c,c
+train_5607.jpg,이 이미지에 보이는 돈까스 제품 이름은 무엇인가요?,c,train_original,c3c88f108842235b506fc42b734371e382f914bc665a5b32fa50acc17403a12c,c,c,c,c
+train_5610.jpg,이곳은 어떤 종류의 공간인가요?,c,train_original,0d1095b80de0315ac6e01c52b869c3b98c704af0c98865d1ed7fe82c46511ec9,c,c,c,c
+train_5611.jpg,가게 간판에 적힌 문구는 무엇인가요?,b,train_original,37530c2abec6b86a3bc1646d266c30d72f29d4230485259a33ac4af2957a04dd,b,b,b,b
+train_5620.jpg,사진에 보이는 바다 근처 공원에 설치된 조형물에 적힌 글자는 무엇인가요?,a,train_original,c95f3a1d884228d5561bd7c681d91d926dfde3f59aa68112d92cadfbf860ccea,a,a,a,a
+train_5626.jpg,건물에 적힌 대학 이름은 무엇인가요?,b,train_original,3cc90b27bd1698dd34bcd9abea12acd9c0304ae4068daa60fbab7a46ac33014e,b,b,b,b
+train_5634.jpg,이미지에 보이는 책 중에서 '취업성공 후기집'이라는 제목의 책을 제공하는 곳은 어디인가요?,d,train_original,e07932f2fe7245435d50812d01e9ba639f69b9998611850f92f748e68f11e6b4,d,d,d,d
+train_5641.jpg,이 건물에 입주한 병원 또는 클리닉 중 '성형외과'가 적힌 곳은 어디인가요?,d,train_original,12736a023eb425489f4fdaedb1ce0028deb94fc3bc946e78a8e287f8bce22a71,d,d,d,d
+train_5649.jpg,이 영화관의 이름은 무엇인가요?,c,train_original,b4d57e8fd219a0c6ab29e7a8d589c9010016ebb35e84fef18bde12564d4afb04,c,c,c,c
+train_5650.jpg,이 사진 속 에어컨 실외기 브랜드는 무엇인가요?,d,train_original,868b9f95d3e50c5eb27746299f2d81e4bb5c338751f4b9864a51317b0417f4b5,d,d,d,d
+train_5660.jpg,이 사진에 보이는 간판의 상호명은 무엇인가요?,b,train_original,c44acd27216e2456067bbd1f47c362634b4ff0e1155b302adeb00ce566acd19c,b,b,b,b
+train_5666.jpg,이 건물의 2층에 위치한 내과 병원의 이름은 무엇인가요?,a,train_original,daa0050119e1927b5d8eba7fbfa151b12228d83129d9349e3b45dff294740f8a,a,a,a,a
+train_5667.jpg,'아이&아이' 무인할인점에서 24시간 판매하는 상품이 아닌 것은?,c,train_original,87196f8b3de635bb2377a8fc1eb4fc27e54902c435aa98c1f700b386de1128ce,c,c,c,c
+train_5668.jpg,이 공인중개사 사무소 간판에 적힌 전화번호는 무엇인가요?,d,train_original,54079bcdadcdf036d8b4a66bea36b9f138cf4e95ef577aff503f5bbdf728ebab,d,d,d,d
+train_5676.jpg,이 안내문에서 '발빠짐 주의'라는 문구가 의미하는 것은 무엇인가요?,d,train_original,e7aa376bb2f7532b7ebe38ba91a177a5f8551b05f6bb867a4541dbf3c30802c3,d,d,d,d
+train_5679.jpg,이 사진에서 보이는 큰 길 입구에 있는 문은 무엇이라고 적혀 있나요?,a,train_original,5c2bfe904bccfcb2a2499bb9c508c8fcd441d0561281c0fd99d73accfa669454,a,a,a,a
+train_5680.jpg,이 건물의 7층에 위치한 치과의 이름은 무엇인가요?,a,train_original,3c522ef639fe9d56ae084f872dfeefb89307f607353bc22da900919da79ab109,a,a,a,a
+train_5683.jpg,이 건물의 1층에는 어떤 업종이 입주해 있나요?,b,train_original,0a0186dc3ef124f420d5e25a8ba7eb38794f977bee33e144974022dbf7004552,b,b,b,b
+train_5687.jpg,이 가게의 Orange Bagel은 어떤 재료로 만들었나요?,c,train_original,cf424829e619d7ee5570fc986af81e8031c62c687b609fcab291702a6e2fb45b,c,c,c,c
+train_5691.jpg,이 이미지에서 레몬 맛 젤로(JELL-O)의 가격은 얼마인가요?,b,train_original,051150bca7161fd9da8bd97db9f82d855089077147fb96ed054351bf5367bbf2,b,b,b,b
+train_5702.jpg,이 안내문에서 과실수 병해충 예방을 위해 사용한 것은 무엇인가요?,c,train_original,e3b5e581ca1714ef9ab6ea22c2ab1fa7f56e43d71cdd89e970573443c0d907e8,c,c,c,c
+train_5710.jpg,이 건물 입구에 적혀 있는 노래방의 이름은 무엇인가요?,c,train_original,57e0a6b6a3dc96273b6a462d2bf07ac74f593db7373aac15400ea3499d266cf9,c,c,c,c
+train_5716.jpg,이 건물에 적힌 간판 중 '진성정밀' 간판에 적힌 내용으로 맞는 것은 무엇인가요?,b,train_original,59d9a8c881f275aae63990dab37a4c5f5cbff171ef6ccb66dd91357e933d18ae,b,b,b,b
+train_5724.jpg,기둥에 붙어 있는 포스터에 적힌 문구는 무엇인가요?,a,train_original,fcadccf760fe612bc936842ef711f76b21291a6fbd57dda680153f44dd42d7b9,a,a,a,a
+train_5728.jpg,사진에 보이는 '허니뻥이요' 과자의 가격은 얼마인가요?,b,train_original,a8e133baa3a6f6b7d2ea72e12816813146d9c8f761300f06c32a165f82286774,b,b,b,b
+train_5729.jpg,이 사진에 나온 대한지방행정공제회의 2026년도 신입직원 채용 필기전형 시험 날짜는 언제인가요?,a,train_original,734f0f69a5023f1d11966d4f6b582c1df82ccce01da881dbc7ac25b9f12dfb5c,a,a,a,a
+train_5731.jpg,이 건물 3층에 위치한 병원의 진료과목은 무엇인가요?,b,train_original,44500b6f9e64e451675c0a565dccf65ab56d8ba2c3cd5db76f72020b57c18c7d,b,b,b,b
+train_5749.jpg,사진 속 'ma:n'yo' 제품의 종류는 무엇인가요?,a,train_original,8e8e597bec726fa5e01a8d670f54a6524ef888e957b764da68c9cc29d75c5ff0,a,a,a,a
+train_5765.jpg,이 매장의 브랜드 이름은 무엇인가요?,b,train_original,a0588b23d3e3a7e42845c54329009244cabbb37a0f3f0fe03a1670ef67db8a12,b,b,b,b
+train_5768.jpg,이 이미지에 보이는 퍼즐의 브랜드 이름은 무엇인가요?,a,train_original,6ef6077b1ac7198f8a5d8bcad9e05859b85cf1488db95c3846a28745d4212e05,a,a,a,a
+train_5769.jpg,냉장고에 들어있는 캔 음료의 브랜드 이름은 무엇인가요?,b,train_original,f58271a396b487c4bfd5bbc8cabd5392c3d22117ee93fc3622198e7bcc4eef6b,b,b,b,b
+train_5779.jpg,이 건물에 입점해 있는 카페의 이름은 무엇인가요?,c,train_original,8845bcecc65b238e85d6fe5541363d7eea0b81ce88d88da2b23e34617f4e6a94,c,c,c,c
+train_5790.jpg,대전시립미술관 3-4전시실에서 진행되는 전시 기간은 언제부터 언제까지인가요?,a,train_original,eaa0e1464f99749323da90a707c0786c0dcbf8a895d71dc1485b540d61030407,a,a,a,a
+train_5800.jpg,이 간판에서 'PRESENT' 글자 중 빨간색으로 표시된 글자는 무엇인가요?,a,train_original,898db8e82df15bd23abe7b422d81df56fbf30ed14821a0b4f5ff69ffa07555aa,a,a,a,a
+train_5813.jpg,사진에 보이는 건물 입구에 적힌 글자는 무엇인가요?,a,train_original,7bd4216eb3d66d359031f22c6d4e65a80783ed054f44320d7be3ef87e4075119,a,a,a,a
+train_5816.jpg,이미지에 적힌 수수께끼의 답은 무엇인가요?,d,train_original,aad6513c8b5a19c6e06d67ac2c82388b2d141bb0fd55ebf41615a65eaab700d4,d,d,d,d
+train_5817.jpg,다음 중 이미지에 보이는 음료의 이름과 가격이 올바르게 짝지어진 것은 무엇인가요?,c,train_original,608ff0c9803874cd18b8324611a85dd5683d9c182548506f62fc84b56bbd4f1f,c,c,c,c
+train_5819.jpg,이 술병에 적힌 위스키 이름은 무엇인가요?,b,train_original,868bf33eb991ff1b8a8413be67c97897e30945240e6a6eb90441d5c994d1ff62,b,b,b,b
+train_5821.jpg,이 경기에서 두산 베어스의 24번 선수 이름은 무엇인가요?,b,train_original,bffb9a8bc6ab25fd5d8edc7527f0b6b499e4745af3d4445d0ffd1b6dd42e5d5e,b,b,b,b
+train_5822.jpg,이 가게에서 결제 가능한 모바일 결제 서비스가 아닌 것은 무엇인가요?,a,train_original,eb63d30bf9d690d1e22cd40bd800d35e1dc6c6598f4788a54751773ca0c8932b,a,a,a,a
+train_5829.jpg,메뉴판에 적힌 '복숭아 아이스티'의 가격은 얼마인가요?,d,train_original,6cc67e789f9746e3d6a51eda2390c584dc2c72c446687f6c68932076660b7f15,d,d,d,d
+train_5831.jpg,이 건물에 있는 핑퐁장 이름은 무엇인가요?,d,train_original,4c93b02c92e14d04b7acb239f60885b86ed30330e845ad4e968e9a029ce104b5,d,d,d,d
+train_5835.jpg,이 사진에 있는 표지판에 적힌 도로명은 무엇인가요?,a,train_original,6a9c574fc24376a9518a84d185ce03e5b63696c8ad330a0da19ebf609fc95de5,a,a,a,a
+train_5842.jpg,이 건물 2층에 위치한 식당의 이름은 무엇인가요?,c,train_original,fa46b0c0908bf9d4f5182a5ba48c445566cb10a5ee97928919c4f04db8fc17bd,c,c,c,c
+train_5857.jpg,참치뱃살에 함유된 영양소 중 어패류 중 최고라고 설명된 것은 무엇인가요?,c,train_original,0c5ea0e34fa6d182e8ccb80b28dec23f21fdaa911d29c7eb225f2c9d96a20034,c,c,c,c
+train_5858.jpg,이 티켓은 어떤 전시회의 입장권인가요?,b,train_original,85aaa92cec6bad346083ae90ff5eedff2ee277ffbfb8a481ab5e8dab2f3f55ab,b,b,b,b
+train_5864.jpg,제로당식당에서 설탕 사용에 대해 어떤 점을 강조하고 있나요?,b,train_original,aac3f55cfb58f12db1bd441417a47a4cafafcbd12f40e45a249e804767c0ca32,b,b,b,b
+train_5872.jpg,사진 속에 보이는 '천하제빵' 명패 아래에 적힌 문구는 무엇인가요?,a,train_original,8243ea20c009baf42524b01c5933ebc4cc223b2adcfff71d2a5b4ad92e690aba,a,a,a,a
+train_5892.jpg,"사진 속 텍스트에 따르면, '브런치 카페'는 어떤 이미지로 다가오는가요?",d,train_original,69faed071b3df06f000f66b9f58a9db4faf2f376a87dd8f8e0fb3bc2b6d34de4,d,d,d,d
+train_5896.jpg,이 사진 속에 보이는 깻잎의 가격은 얼마인가요?,a,train_original,cfd572bc8fb359c9f2d75319b291a9bdf6125ea0a8951d9891cdae3d26e75192,a,a,a,a
+train_5917.jpg,사진 속 간판에 적힌 '화평교회'는 몇 층에 위치하고 있나요?,d,train_original,bde6122157c229e7cf0bf1d9ce1b5827875840c573099547961a7617ce8dad79,d,d,d,d
+train_5932.jpg,이 프로모션에서 신한 슈퍼SOL로 결제하면 아메리카노 최대 얼마의 혜택을 받을 수 있나요?,b,train_original,95031da41d54353495708f0997cfc8df7e1955149185be6e066c1e56c7b24157,b,b,b,b
+train_5936.jpg,이 이미지에 적힌 문구 중 'SSAFY 16기'와 함께 무엇을 축하한다고 적혀 있나요?,b,train_original,2f43b40e082f33653889a682c589337be8051e8c5b76c0f8e71823b87ca70d9c,b,b,b,b
+train_5938.jpg,롯데리아에서 회원 전용 리워드를 받으려면 어떻게 해야 하나요?,a,train_original,2aa0409b57c3126db5ee262dced00bdfbdc7efbd188618d3c76cb4358f665fb4,a,a,a,a
+train_5952.jpg,이 사진에 보이는 파란색 교통 표지판에는 어떤 내용이 적혀 있나요?,a,train_original,a8aa5e578a6b8bed9999f46cc792cfe259ae31cb8cd77a03e4d0b15a71544659,a,a,a,a
+train_5954.jpg,이 건물의 간판에 적힌 글자는 무엇인가요?,d,train_original,11a16e76ce54eb04fe30f8378dfd805d3885ad6fc21efd6f4b166f0a0c779f9d,d,d,d,d
+train_5955.jpg,사진 속에 보이는 '극세사로 부드러운 동물모양 먼지떨이'의 가격은 얼마인가요?,b,train_original,21755e2c7b79ccab95a278e5d11d1c8263bcded3187407f7dd2b0d05a4cb8898,b,b,b,b
+train_5958.jpg,이 건물 간판에 적힌 한의원의 이름은 무엇인가요?,a,train_original,4562926e6e5005d34c451cc20d4f06263c1037958beedf9642c0327937a44fdb,a,a,a,a
+train_5963.jpg,이 이미지에 있는 프리미엄 에스프레소 머신의 모델명은 무엇인가요?,a,train_original,d5f872063091f20230992f4f8afbf100d871e263af203d26faf356d8b3232230,a,a,a,a
+train_5973.jpg,이 사진 속 양념통 중 'RED PEPPER'라고 적힌 양념통에는 무엇이 들어 있나요?,c,train_original,8138b6c16f9fd837dafb504f27ae69b59d6b3f317fce6bee1dff366d76b1cb80,c,c,c,c
+train_5977.jpg,이 가게의 상호명은 무엇인가요?,b,train_original,c21a35c27401407f29aabcd05cfbbbcc23c4a92663afaa4533284cadff3e67cc,b,b,b,b
+train_5988.jpg,사진 속 흰색 택시 옆면에 적혀 있는 콜택시 브랜드 이름은 무엇인가요?,a,train_original,45ac83c488161af25f919048505ac59c54d51c7c50b8ded44c53c2d8f25c2c67,a,a,a,a
+train_5992.jpg,이 우유 팩에 적힌 내용 중 '1등급 신선한 목장우유'라고 표시된 것은 무엇을 의미하나요?,d,train_original,d469c6d886deb59ac87862a7e358bd3e2ed0d081b0e0f27402985066b360e154,d,d,d,d
+train_5998.jpg,이 책의 제목에 포함된 주요 기술 용어는 무엇인가요?,d,train_original,36fd116024d6d59c9c96103b86847c438983bce3e1e67f84a1e93071c376ecdf,d,d,d,d
+train_6000.jpg,이 자판기에서 뽑을 수 있는 만두는 어떤 모습인가요?,a,train_original,3da3622da0d57600b45c81853a767a249ed4a83927199b636e30ec59b4ec936c,a,a,a,a
+train_6001.jpg,이 건물의 주소는 무엇인가요?,b,train_original,ac542cabe404b570c23d6e944c073f1397d09edcf6b417b5845517be7fda29ad,b,b,b,b
+train_6002.jpg,이 안내문에 따르면 지하철 하차 후 몇 분 내에 재승차하면 기본운임 부과가 면제되나요?,d,train_original,1bc706cc29e85fd5e20aebe7bf1ef9c8327b1c45754f81247ff0fc0abe1062f5,d,d,d,d
+train_6003.jpg,치킨만세 가게 간판 아래 빨간색 리본에 적힌 문구는 무엇인가요?,d,train_original,adb8975078c77730d942fcf215ca3b98140453a747c5b85dc826a5eb7978fc49,d,d,d,d
+train_6034.jpg,이 표지판에 적힌 공사 중인 장소는 도로에서 얼마나 떨어져 있나요?,d,train_original,a27877967b86b3a59ff81ede33a5f3a28d3c22c70b00efc6014aba3c547e8d96,d,d,d,d
+train_6046.jpg,이 식당의 이름은 무엇인가요?,b,train_original,e33f48c696a9cdbbc3235c565f22bab13c5eeb5226fc15e46e0a364c40e8a530,b,b,b,b
+train_6047.jpg,사진 속 달걀 1판의 전단 세일 가격은 얼마인가요?,d,train_original,b0605660b4de6a2d449a8c77d8d7adc1cb1a343fe77ab7d3f5fdf26640d56064,d,d,d,d
+train_6051.jpg,노란색 간판에 적혀 있는 주요 단어는 무엇인가요?,c,train_original,5f0f70ad676a148190bf799d21152754def031eefcce61c0c074740d00eeda74,c,c,c,c
+train_6060.jpg,이 간판에서 가장 크게 보이는 식당 이름은 무엇인가요?,d,train_original,eef3555455cd78bc2d9de78b91c4bb22642bdbad02e50074270b90380bd1e817,d,a,a,a
+train_6068.jpg,이 건물 임대와 관련된 전화번호는 무엇인가요?,c,train_original,ff6b45d0647f2c0ad3f169853ab127fc2f794181cab3de5d083f2a9e767f7499,c,c,c,c
+train_6069.jpg,이 가게 창문에 적힌 문구 중 맞는 것은 무엇인가요?,b,train_original,4a2ffc42afb7fab68fa0559820efde20368a664c68090e9d4af686a38bad0bea,b,b,b,b
+train_6079.jpg,이 문이 위치한 곳은 어디인가요?,a,train_original,b5752231f7e7f3b05ed5b058fbb576d01ac3e3ee234745c0476b2b075dbc90a1,a,a,a,a
+train_6081.jpg,이 가게의 이름은 무엇인가요?,d,train_original,86d0494b0ab7e08a0d02ffea97cf937063c1260440852372f2ac3b505b87db01,d,d,d,d
+train_6084.jpg,테이블 위에 놓인 빨간색 종이에 적힌 문구는 무엇인가요?,d,train_original,02d59585f63c55adf2cf2fcf5f4e1ed6ee5e36cc239d0e9ad5a1dd7d1826508c,a,d,d,d
+train_6095.jpg,모니터 받침대에 적혀 있는 브랜드 이름은 무엇인가요?,a,train_original,48c50c94a6d4ed929dd9b1061f286135306f4dd98db40b89f40f807afc22120d,a,a,a,a
+train_6103.jpg,이 식당 간판에 적힌 상호명은 무엇인가요?,a,train_original,3f197518d4db18ad24f18098c1bec52633e235ca2158023c3f96ebd40bdba635,a,a,a,a
+train_6105.jpg,이 버스 정류장의 이름은 무엇인가요?,d,train_original,afa6b794aee5e17f0ea4275ed4786015416e3e71c87ca2c07b5ebe2072c87dae,d,d,d,d
+train_6113.jpg,사진 속 부동산 관련 간판에 적힌 부동산 이름은 무엇인가요?,a,train_original,2ee35a5c2a6b0c87bd15669650c0b0cd8c382143ceec54f910b1367130bc2aaf,a,a,a,a
+train_6114.jpg,이 엘리베이터 문에 붙어 있는 빨간색 안내문에 적혀 있는 내용은 무엇인가요?,c,train_original,266a0d56c0c20aba262c1380885aadef1e214e3f69612348a91e1a3287d92416,c,c,c,c
+train_6119.jpg,컴포즈커피의 스페셜티 블렌딩 커피는 주로 어떤 원두를 베이스로 사용하나요?,c,train_original,c1b7adcd852310f21592ae704abf023cb76b74f5e4fb661c0491a9569808f571,c,c,c,c
+train_6120.jpg,이 표지판에 적힌 내용 중 올바른 것은 무엇인가요?,b,train_original,35467ff8a76aab2369c84e16bbe9f29d07b28a604ec2ebc3fb999706b98b17d9,b,b,b,b
+train_6124.jpg,이 사진에 보이는 도로명 표지판에 적힌 도로명은 무엇인가요?,a,train_original,537380cfbcd8986ee580292396c4f83e26f0b41c64bb05e54396ac4d01d1a786,a,a,a,a
+train_6129.jpg,이 표지판에 적힌 한글 단어는 무엇인가요?,a,train_original,63adebfea1bf2966a321051fb5a5f0cc90412cd9941d7b9ba76e195b338eb933,a,a,a,a
+train_6143.jpg,이 건물에 입주한 은행의 이름은 무엇인가요?,a,train_original,3e207dcc77be9b34b6ea593bf51d6e61f80e94952eae1f59a30757073c0c6210,a,a,a,a
+train_6162.jpg,트램펄린 운동이 자녀에게 어떤 도움이 된다고 적혀 있나요?,a,train_original,dafb0f9311bc12a1de3379c7a59fc7c80c6d4a555ffb02f6e561b67554b60310,a,a,a,a
+train_6170.jpg,이 카페의 와이파이 비밀번호는 무엇인가요?,a,train_original,4d18853e9254ebf893e14d38ea5a8c6d6e66a8763ec26a11a88f9d27cf9651d2,a,a,a,a
+train_6181.jpg,이 가게에서 전문적으로 수리하는 서비스는 무엇인가요?,a,train_original,888fa9c2dcec6378f0a89121e90ebf9c29c5312f385bc5e7bab64b51ec42bc83,a,a,a,a
+train_6190.jpg,이 건물 2층에 위치한 곳의 종류는 무엇인가요?,b,train_original,28d3af54720fc1fcaa2d3d7f2b7292b892eb30bc0058e598260a07f837907ef0,b,b,b,b
+train_6201.jpg,이 가게의 '크마세트' 가격은 얼마인가요?,c,train_original,dc57731afb67bdfecdfbb52720a0995c4777ee02b208b1e8e4437a7f3d21200b,c,c,c,c
+train_6202.jpg,이 현수막에서 공모전의 주제는 무엇인가요?,b,train_original,d45d8dc5ca210a19c0ca0a523f3900b9d5fab7ff0e4c498aadb1091aa0932c29,b,b,b,b
+train_6203.jpg,이 건물의 빨간색 간판에 적힌 음식은 무엇인가요?,b,train_original,a5e44c7399016facf72dc6d093fb1d06655b17e322b18a17cba46671988b1a2a,b,b,b,b
+train_6206.jpg,오뚜기 진라면 컵 65g*15입 세트의 할인 전 가격은 얼마인가요?,c,train_original,0dddc8f08c975900de6ab39153557e57fae97bc9d80c7517b1ea56c60e57163a,c,c,c,c
+train_6207.jpg,이 밥솥에 적혀 있는 기능 중 '재가열'과 함께 표시된 단어는 무엇인가요?,c,train_original,e7199a0f67c0852c7d7d26e183c986f230f0b9091a1dc3d6ea07b6bd138795f1,c,c,c,c
+train_6213.jpg,책상 위에 놓인 휴대용 선풍기에 적힌 글자는 무엇인가요?,b,train_original,f4a92636a871071d5f2602a31b02c7ee9545ee47533e4bf4313b70aa57414e35,b,b,b,b
+train_6222.jpg,이 사진에 보이는 '출구 OUT' 표지판은 무엇을 나타내고 있나요?,b,train_original,e80ed4c9ab4268b2abb2a1868794a84c71bafe30032fee877ed9018e60bb778d,b,b,b,b
+train_6227.jpg,이 가게의 상호명은 무엇인가요?,c,train_original,75aa3dc929d2f0d2549787514aa8f2cfa4b83aa2e9572b9ef75a78a9eb173c2d,c,c,c,c
+train_6228.jpg,이 도로 표지판에 적힌 하천 이름은 무엇인가요?,a,train_original,88b379b4fb24903ba69726feba62e14e402ea93d7fa7c47da715dce09f1ba576,a,a,a,a
+train_6233.jpg,사진 속 간판에서 '양진석검도관'은 어느 층에 위치해 있나요?,b,train_original,3744d817e2df6ee00ffcde8854e28ed6e6db20571a29454026d4980a02b1fd5f,b,b,b,b
+train_6239.jpg,이 병원에서 제공하지 않는 서비스는 무엇인가요?,a,train_original,52cf433d5278e38e0d99f4bdd718d90ac7b603e60bfa23aea06870c6d54fab98,a,a,a,a
+train_6240.jpg,노란색 안전 펜스에 적힌 문구는 무엇인가요?,a,train_original,41c1106e2fa40a23de3dffda5bb3f324189ab8dd5a26393cdf086ba92a74f090,a,a,a,a
+train_6241.jpg,이미지 속 만화에 나오는 문구 중 맞게 적힌 것은 무엇인가요?,d,train_original,9491dd686391239c4eb06956313c86402a74f6ba43ff6730b8f570d6a3139d4f,d,d,d,d
+train_6244.jpg,'로로네 빵 나오는 시간'에 관한 정보 중 옳지 않은 것은 무엇인가요?,c,train_original,31c128e18accb09d3a04ef549037867dac14b1ac4ff50ce2d344159bd31cdec0,c,c,c,c
+train_6247.jpg,사진 속 상자에 적힌 문구 중 올바른 문장은 무엇인가요?,b,train_original,a1fc054236871aabdffce7a2b5bd110572a010615409133d1db5ede0dbe27ac5,b,b,b,b
+train_6251.jpg,이 사진 속 포스터에 적힌 투어 이름은 무엇인가요?,a,train_original,c1c0ddd77f30f3dc4945c8c8ebdab70a8067e31d05db0bd55190e6339fe4ace0,a,a,a,a
+train_6253.jpg,대박 떡볶이 가게에서 세일 중인 어묵 3개의 가격은 얼마인가요?,d,train_original,252a40eaf409b992b54a553ec68674ceda45882574d09efe501a0ad1fe7b08a3,d,d,d,d
+train_6259.jpg,이 전기 설비에 붙어 있는 노란색 경고문에 적힌 내용으로 알맞은 것은 무엇인가요?,d,train_original,dbcb704802faa8547ea3cfc8bec5e929bf28972fad9109e3dcb28c30131547ab,d,d,d,d
+train_6271.jpg,BALLANTINE'S 17년 위스키의 가격은 얼마인가요?,b,train_original,17ec160b32f67236d722bc61faf994e24b5d57f7f118f92f3c53bff28cdcf615,b,b,b,b
+train_6274.jpg,이 화면에서 '선불요금'으로 적힌 금액은 얼마인가요?,b,train_original,8f636fb8f1ab28ab249198bc952cec9dab2f11db1a536b2859dc9464977805f8,b,b,b,b
+train_6279.jpg,이 간판에 적힌 가게 이름은 무엇인가요?,b,train_original,4da17dba877ce3a669ca250000391f22c8552c81ec4708ad61208032f960b8c3,b,b,b,b
+train_6280.jpg,회의실 벽에 적힌 문구는 무엇인가요?,c,train_original,e85ecb9210f4fefac96f97af6c3bf4d96c37e520932c4e4c668c1abcd5743535,c,c,c,c
+train_6294.jpg,이 표지판에 따르면 5번 출구 방향은 어디인가요?,c,train_original,31f9fcc30415da8a77ed61e9160220467a5a9b35593f07beb5f345bad3ef81c4,c,c,c,c
+train_6306.jpg,사진 속 술병 라벨에 적힌 술의 도수는 얼마인가요?,c,train_original,a493bfd2c250b0eb5eefdc7da7949798a0f85458e4763433117c253f42a93778,c,c,c,c
+train_6312.jpg,9월 12일 금요일 메뉴 중 식권 금액은 얼마인가요?,d,train_original,68aaf7d89fd73b8bead35800b85f30f3eb0b90cbc80c9df0a37aad50ee7fd262,d,d,d,d
+train_6313.jpg,"메뉴판에 따르면, '구운 한우교자 (올리브유)' 350g의 가격은 얼마인가요?",c,train_original,1f90dd3c8f8e81aa02ed9588adb2f6888ecee7a500dddb46b61e7654acc589fa,c,c,c,c
+train_6318.jpg,우유 버터 카스테라 신메뉴 할인 이벤트에서 할인 전 가격은 얼마인가요?,b,train_original,9694051e05a341a80387353d333b561077123b37071d8dc08885465194f92981,b,b,b,b
+train_6322.jpg,이 카페에서 아메리카노의 가격은 얼마인가요?,c,train_original,b7e79692a057b851a77505397c907e5b1dba5826bc2d81a6975d880fd6bf0443,c,c,c,c
+train_6323.jpg,이미지 속 종이컵에 적힌 문구 중 옳은 것은 무엇인가요?,a,train_original,b5d748c31e00454035d95ba21011d5bcba0ce077a07671f16baa5a5f9c8ccdc4,a,a,a,a
+train_6324.jpg,사진 속 가운데에 있는 책자의 제목은 무엇인가요?,d,train_original,12e0801d7b4e6263f03e17309e42f769f380edb2c18b3f2c62a1babb97c9c951,d,d,d,d
+train_6326.jpg,사진 속 인물의 주요 경력 중 '18년 ~ 20년' 기간에 있었던 직장은 어디인가요?,d,train_original,7051db121bbe86e2b4d2ae45a8750ba074efb4258bd4f7c5ac73fed8cb29deb2,d,d,d,d
+train_6350.jpg,이 가게의 이름은 무엇인가요?,a,train_original,5696b8c09382247eaaaa043e0f36dc483a9ae89bf47d122cab6f029d682cd1a9,a,a,a,a
+train_6361.jpg,이 편의점에서 수입 맥주 4캔의 가격은 얼마인가요?,c,train_original,2cd4f452a0106fb62798e58cc606d22cf52010a6334d5e034028ce9e07e4840f,c,c,c,c
+train_6368.jpg,캐리어 배송 수령처의 운영시간은 언제인가요?,b,train_original,619f4e78e36f435063a6f46e8b87968fe030343ff25ce67ed52ca175d065c6d8,b,b,b,b
+train_6369.jpg,생곱창집 가게 앞 세로 배너에 적힌 서비스 내용은 무엇인가요?,c,train_original,c0256d82c375f505c7c1c16b7cd790a0736ecb46e22ca993be860b7817809f0e,c,c,c,c
+train_6371.jpg,대전 한화생명 볼파크 전광판에 나온 투수 이교훈 선수의 생일은 언제인가요?,d,train_original,61cbba087dfbc03dd07a4e849e74351df2ce2b4677b6bcc66b6e465d3765d0a0,c,d,d,d
+train_6379.jpg,"SSAFY 소개 글에 따르면, 삼성청년SW·AI아카데미(SSAFY)의 주요 목표는 무엇인가요?",b,train_original,dd01754953a3fd0d633c8696e1612f39a3607a7a2b02a7822882392bef326802,b,b,b,b
+train_6381.jpg,사진 속 건물의 이름은 무엇인가요?,c,train_original,10f7df0185e7dc0d89927e017912a6956ad308e4516316d0e523f655cba15360,c,c,c,c
+train_6382.jpg,이 상자 안에 들어있는 음식 브랜드 이름은 무엇인가요?,c,train_original,bb25c79a946c3d1e3cca244d1b875160122f055d6431d04b0b7d8153773efe1f,c,c,c,c
+train_6383.jpg,이 제품의 포장 개봉 방법으로 올바른 것은 무엇인가요?,d,train_original,750eee6c5dedc55d3e989dd0a43245d72e7a30fe621b3115f231bf30e60b5075,d,d,d,d
+train_6384.jpg,이 건물 3층에 위치한 학원 이름은 무엇인가요?,d,train_original,5a88025925025850923225267cd983181cf85eb858cab714cfc215b347b91b0c,d,d,d,d
+train_6389.jpg,이미지 속 휘트니스엠 롯데캐슬점 5월 이벤트 가격은 얼마인가요?,a,train_original,617908196f40ad2a38e4787a47b906b5d04d2b12f8da0b0e8bdde615cf987337,a,a,a,a
+train_6400.jpg,이 삼각김밥의 종류는 무엇인가요?,a,train_original,d53ac0f67e071aff09f038b85c1c04591952166a8da46dd517ecd913bf174e8a,a,a,a,a
+train_6415.jpg,사진에 보이는 '만석군'은 어떤 종류의 음식점인가요?,b,train_original,58aae713b80b6fef0a9e91f1aabdbaf89a0be6c1367caacb521f7398d9506d60,b,b,b,b
+train_6420.jpg,미래치과의원의 진료시간은 언제인가요?,a,train_original,d03d9efec7079440df972bb807eac2ae69a2b82a44ca4d1628bdcc380684418e,a,a,a,a
+train_6423.jpg,이 부스의 주제는 무엇인가요?,a,train_original,8e83e28e0ca7200850fdc0d4ebbb69f2744243972d4f41e69f84cee005624cbd,a,a,a,a
+train_6424.jpg,이 공간 벽면에 적힌 글자는 무엇인가요?,b,train_original,ea2426bbf7ec3ff0a11800aaf8c8e0e0f3b12a86a1d9b66841082cd100689d64,b,b,b,b
+train_6425.jpg,이 가게의 전화번호는 무엇인가요?,a,train_original,062402ebc5707279626c0339fb18701dfaf72864f0424a4b63c695f701c8ec2c,a,a,a,a
+train_6426.jpg,이 매장의 브랜드 행사 내용으로 옳은 것은 무엇인가요?,b,train_original,7557c51d3e61b9ccc5dcabeb897df28f5ef4d7dc4a3bcc2a026bf4d940817f8f,b,b,b,b
+train_6436.jpg,세탁기용량 20kg 기준으로 표준코스의 세탁 요금은 얼마인가요?,a,train_original,fdddb33278cfdd458795831df84d09819136a36e957694f3939e40e09b0a0578,a,a,a,a
+train_6441.jpg,이미지에 보이는 'EUTHYMOL' 제품은 무엇과 관련된 것인가요?,b,train_original,7d0c4001458b0123d94f7529ebd70ddb1eeb6964394ad2141ab790a99b6b09fd,b,b,b,b
+train_6450.jpg,이 경기에서 뉴욕 닉스(New York Knicks)와 클리블랜드 캐벌리어스(Cleveland Cavaliers)의 현재 점수는 무엇인가요?,d,train_original,93017ed24c8d299c5c08d6f63d6f46d170125bccc7471d7eff4e53db23c8ff77,d,d,d,d
+train_6462.jpg,이 제품의 맛 종류 중 초콜릿 맛은 무엇이라고 적혀 있나요?,d,train_original,8c63622a70d5e91f0b699abc52afed61a4ed90bb58461d77cdfb9664b3d660b7,d,d,d,d
+train_6466.jpg,이 제품의 이름은 무엇인가요?,a,train_original,9eac8a9ca74cec490fcbe47b83364a2cd5d19c0bcd1bf37dfdb529803753762f,a,a,a,a
+train_6467.jpg,이 계산서에서 '생맥주500 (0.45L)'의 총 금액은 얼마인가요?,a,train_original,e3fb0f5389382445ab6d1388c4192de5045efd72bc780e4ba646a20eb9071909,a,b,b,b
+train_6470.jpg,이 사진에 보이는 한의원의 전화번호는 무엇인가요?,a,train_original,480b054957f215926842b004ee4027b446bb96951cd40a4ec200732ad14bcad3,a,a,a,a
+train_6471.jpg,이 건물의 간판에 적힌 기관명으로 옳은 것은 무엇인가요?,c,train_original,5afa8cdce9125b8a1557d3315f35f88c2ce163d5ac0c3248bfcaa563cffdac64,c,c,c,c
+train_6490.jpg,이 게시판의 이름은 무엇인가요?,a,train_original,bc5f001dbbd18b8035a758f2c4c520b90d8b2e57f0fc26f97737d3d27187891a,a,a,a,a
+train_6493.jpg,이 교육과정 자판기에서 '인공지능'과 '빅데이터' 교육과정을 받으려면 어떻게 해야 하나요?,d,train_original,c6f0611afbab28ae67a2b5b3d7ee5c693c9dbf73c548ccd08bc0aa4f34942958,d,d,d,d
+train_6499.jpg,2026 국립광주과학관 사진 특별전의 전시 기간은 언제부터 언제까지인가요?,a,train_original,0b9fbeb2706d11371326b1fc61aede8121a2026ed77618e8165361c5e3e962d3,a,a,a,a
+train_6500.jpg,이 도로 표지판에 표시된 도로 이름은 무엇인가요?,c,train_original,3cdde9b5e90480be0b78ba35fe60dcf83259f96947cce3b3ea296548701f5578,c,c,c,c
+train_6504.jpg,이 야구 경기에서 한국과 대결하는 상대 국가의 국기는 무엇인가요?,d,train_original,23c996e9224a44b75213c6211665424c0dc20c6ef941028ab9d9191ca42898d8,d,d,d,d
+train_6509.jpg,이 이미지에 보이는 야시장의 이름은 무엇인가요?,b,train_original,d42803472b87d25701f381ae09505af2e93a103ab499a53c73a28217b2fcd3c9,b,b,b,b
+train_6510.jpg,이 매장의 와이파이 비밀번호는 무엇인가요?,d,train_original,5689d02ce0b5820fcec73a456f657d55a85719912c4aa23535749e8b26b2396b,d,d,d,d
+train_6512.jpg,이 튀김 가게에서 '수제 고급 어묵' 4개를 사면 얼마인가요?,b,train_original,6404bd5c20af7545aa8a568f246753c9a895e9a077d9ec27bd2367639363a67e,b,b,b,b
+train_6513.jpg,이 가게의 이름은 무엇인가요?,c,train_original,b8f87fd4de1586c378f8c291f93ddef590ae537f3a6821903d14ccf9ef917aaf,c,c,c,c
+train_6515.jpg,이 노트에 적힌 문구 중 'SSAFY 생활을 ___하는 하루'에서 빈칸에 들어갈 단어는 무엇인가요?,d,train_original,299dc34b307e75ce387baeefbdd0c2286276fcf1fa4b5364936dd34d25ed4185,d,d,d,d
+train_6527.jpg,이 안내문에 따르면 '세븐테마카페'는 몇 층에 위치해 있나요?,d,train_original,aa72889a782657f7a1eddf3657a17d88f88b724c86bc71250b2844cf3048b05e,d,d,d,d
+train_6528.jpg,'슬림형 탄산정수기'의 주요 특징으로 올바른 것은 무엇인가요?,b,train_original,61e54f379b5ad3c638f380c7ad1c21c4084489dd836c22ee85ac89455730a145,b,b,b,b
+train_6533.jpg,이 인형 뽑기 기계에서 한 사람이 뽑을 수 있는 경품 개수는 몇 개인가요?,b,train_original,4b1575722511948da6f8deafa5e7c3a8e2afbdbc04d9018d00885e4954477a97,b,b,b,b
+train_6536.jpg,이 행사에서 축하하는 대상은 무엇인가요?,d,train_original,e657aab147f64a2bae7e470649d2618a9245106e22f037c758ec290e10ef3055,d,d,d,d
+train_6547.jpg,사진 속 건물에 적힌 병원 이름은 무엇인가요?,b,train_original,21175e73696d8699a5bfcfbe02f630a1a5d9c6cc230df26971a73f3e3f2ee0a0,b,b,b,b
+train_6548.jpg,이 술병 라벨에 적힌 브랜드 이름은 무엇인가요?,b,train_original,4f672db15de4116408fb3dad5324991c8f36e68af0f2feb319e66cf2aed4cee3,b,b,b,b
+train_6550.jpg,사진 속 카페의 이름은 무엇인가요?,d,train_original,35d85447b0b0ef51a6527a029bd685f78af9746527ec26a67265e4e2cf86bd79,d,d,d,d
+train_6559.jpg,이 가게의 간판에 적힌 상호명은 무엇인가요?,d,train_original,94f2fbc5cb55a7d677979db435b708539c55efd6ab487a8a4c24d8e8280a7cff,d,d,d,d
+train_6566.jpg,이 이미지에 보이는 영어 단어는 무엇인가요?,c,train_original,8f452d391df285d9c28cc3c98ccd4d120db753146b5615eb3cf3534f75e5417a,c,c,c,c
+train_6567.jpg,이 부동산 중개소 간판에 적힌 전화번호는 무엇인가요?,d,train_original,3c1e263d5acc1e2f67b4cd06a76739ad4809d2f7176c3d9d8f6c7bde31e8f1e2,d,d,d,d
+train_6581.jpg,이 가게의 간판에 적힌 음식 종류는 무엇인가요?,c,train_original,ba7edabf114e696eb60ab373081abc35b48ceb8b7c0bf9b7b2518bfbf3525ef8,c,c,c,c
+train_6597.jpg,이 사진에서 보이는 '가고싶은섬 생일도'라는 문구는 어디에 적혀 있나요?,b,train_original,a798a2e5f74f0262ecee1f7e79bfc596db82de54539e7bd9b320d4e8e1759566,b,b,b,b
+train_6602.jpg,이미지에 보이는 간판 중에서 '봉구스밥버거' 옆에 적힌 영어 문구는 무엇인가요?,b,train_original,ee1e5fd46ea17127989c7d704156b7dd1a6c7241bbb119cad4ad483df0fd794c,b,b,b,b
+train_6603.jpg,이 건물에 위치한 필라테스 전문 스튜디오의 전화번호는 무엇인가요?,a,train_original,83bc4fa137012719fcc5266bae7f79b796c3a168ff7c69bbfcb09ad863d98686,a,a,a,a
+train_6611.jpg,컨테이너에 적힌 경고 문구는 무엇인가요?,d,train_original,14b4530cdc8df90135cf18c029d558c9b2bd59a447dfbf9b102043415b384353,d,d,d,d
+train_6637.jpg,이 엘리베이터 내부에 적힌 비상호출 버튼 위 문구 중 올바른 내용은 무엇인가요?,c,train_original,9cd5fafa3fd9a567d568c59deb8fc41ecccd73b3e827723282d6d3340af49dc6,c,c,c,c
+train_6640.jpg,사진 속의 'DREAM CACAO' 제품에 적혀 있는 카카오 함량은 얼마인가요?,b,train_original,358557bedaac9460e5d877875d7dabe72d8ee3edea4358d32dc895064afeacec,b,b,b,b
+train_6645.jpg,이미지에 보이는 간판 중 '청미나리 농장'과 관련된 전화번호는 무엇인가요?,c,train_original,55ca3ce687e4c621d405d51948c339dc2da09490d30a00ce58e98c116251a412,c,c,c,c
+train_6651.jpg,사진 속 커피 메뉴 이름은 무엇인가요?,a,train_original,765440dc9c92169ff7821975bf618420c4eade562b3a54503a120171f63fa7e4,a,a,a,a
+train_6654.jpg,순후추 나쵸 과자의 가격은 얼마인가요?,b,train_original,e2801aa7fb8d06ffbb963fa54a4e853e8cf09b13db8be088df5d4f4f00559af3,b,b,b,b
+train_6660.jpg,포켓몬 초코롤 과자에 적힌 유통기한은 언제인가요?,d,train_original,381f7772ac14cbf2608c97f468fc87e9cc6df27cd87bb75a7d5b3fea24180ce0,d,d,d,d
+train_6664.jpg,이 사진에 보이는 편의점의 이름은 무엇인가요?,a,train_original,90ae2e9a21a09603e0998f9d66e67e0e5b551521d39e97bfe0e4708a33c5e73e,a,a,a,a
+train_6666.jpg,이 영화 포스터에 적힌 영화 제목은 무엇인가요?,c,train_original,e00c59d4abcb03ecdcab60fabe5a6a7ae781a5eeef45f2047ff46143319bde7a,a,a,c,c
+train_6674.jpg,이 광고판에 소개된 건강기능식품 브랜드 이름은 무엇인가요?,a,train_original,cb93df2825b42eb38106501732170b911cda59a20789ad97eb0f9555cb42a3a7,a,a,a,a
+train_6677.jpg,이 제품 포장지에 적힌 브랜드명은 무엇인가요?,c,train_original,2be96101b0ecb603e10fb222e4b6d99dd309833b9a80f85083c6afabe4832c23,c,c,c,c
+train_6680.jpg,사진 속 '족발의 효능' 중 3번째로 적힌 내용은 무엇인가요?,a,train_original,39e943f79732bc7635315e8d18aeb23208f352ea1be89a56188037b532d3fdef,a,a,a,a
+train_6683.jpg,이 사진에 보이는 역 이름은 무엇인가요?,b,train_original,ec91476682c1d572497504fabaf2c68c8b2b420afe027d88abf2eeb2d10c1b00,b,b,b,b
+train_6687.jpg,영등포시장으로 가려면 어느 방향으로 가야 하나요?,d,train_original,dcbb69ae0c310ed488c9b3fd33dd37dddf9dae59b269ed0ace042076e7588671,d,d,d,d
+train_6692.jpg,이 식당의 이름은 무엇인가요?,b,train_original,d7970e3ea35f994ff7b6890d86b15ef069170ceb8bf18d042ce11b155badbdb6,b,b,b,b
+train_6698.jpg,이 약국의 이름은 무엇인가요?,d,train_original,ecaf0571f2126fc077ca6db64edb2a0a50f8d9d940480428f79fcc1963cd703a,d,d,d,d

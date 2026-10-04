@@ -1,0 +1,55 @@
+{
+  "built_at": "2026-09-27T22:37:06.588691+09:00",
+  "common_official_rows": 1096,
+  "train_csv_sha256": "83b31c210e42f9c47aa992960dfb5e5519cc2fdea089c82158ed2d73b1fa985b",
+  "test_csv_sha256": "95063b713a853153d80d7c10df95a5be2bac93bb87cb6a7fe6172c479dc1bb97",
+  "models": [
+    {
+      "model_key": "model_01",
+      "run_id": "20260921T001126826670Z-full-none",
+      "source_prediction_sha256": "6df12b7474173a5ca6f682287e4c0433a137be5c487313acdd873d9ace203c58",
+      "source_split_sha256": "3ac2fd699d861e136e5f577f184b5a4ce6136d726f10bbf0f6115553b2c54f34",
+      "original_validation_rows": 1343,
+      "official_train_rows": 1343,
+      "all_saved_predictions_in_validation_split": true,
+      "no_prediction_ids_in_training_split": true,
+      "recorded_correct_recomputed": 1284
+    },
+    {
+      "model_key": "model_02",
+      "run_id": "20260925T102849954716Z-full-low_lr",
+      "source_prediction_sha256": "74e41695e0f4db6b197fe8df4707d7f10ea51523d69d44943f12be615a762467",
+      "source_split_sha256": "8b606248a8052f9cc8dbbf258cef21e34c58877345b0165fbc714f650c61cce6",
+      "original_validation_rows": 1434,
+      "official_train_rows": 1123,
+      "all_saved_predictions_in_validation_split": true,
+      "no_prediction_ids_in_training_split": true,
+      "recorded_correct_recomputed": 1364
+    },
+    {
+      "model_key": "model_03",
+      "run_id": "20260922T002054858922Z-gemma4-full-bf16",
+      "source_prediction_sha256": "a63f3199f95985f3bd06a5c83d9850794a945d4df3518d56d7b940ce5a9776f8",
+      "source_split_sha256": "022e2c48632a01bb2dfc7312e5784951043f8a12269d5f9f1bb1309e68dfc670",
+      "original_validation_rows": 1343,
+      "official_train_rows": 1343,
+      "all_saved_predictions_in_validation_split": true,
+      "no_prediction_ids_in_training_split": true,
+      "recorded_correct_recomputed": 1301
+    },
+    {
+      "model_key": "model_04",
+      "run_id": "20260925T124050809287Z-gemma4-31b-full-bf16",
+      "source_prediction_sha256": "d6d0318d9a07f7a8c3ce375459289391efe476d36779f3fb9967551bdc33345e",
+      "source_split_sha256": "8b606248a8052f9cc8dbbf258cef21e34c58877345b0165fbc714f650c61cce6",
+      "original_validation_rows": 1434,
+      "official_train_rows": 1123,
+      "all_saved_predictions_in_validation_split": true,
+      "no_prediction_ids_in_training_split": true,
+      "recorded_correct_recomputed": 1400
+    }
+  ],
+  "test_reference_read": false,
+  "validation_image_groups": 1094,
+  "warning": "Saved validation data may previously have influenced checkpoint/model selection. Cross-fit diagnostic does not constitute a fresh external test."
+}

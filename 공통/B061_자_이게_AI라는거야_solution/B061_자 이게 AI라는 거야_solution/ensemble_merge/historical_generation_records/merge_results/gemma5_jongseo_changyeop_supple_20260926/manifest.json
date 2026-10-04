@@ -1,0 +1,123 @@
+{
+  "created_at": "2026-09-25T16:11:40.823Z",
+  "output": "/Users/yunjongseo/Downloads/submission_gemma5_jongseo_changyeop_supple_weighted.csv",
+  "output_sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+  "inputs": [
+    {
+      "key": "gemma5",
+      "label": "최신 Gemma (5)",
+      "path": "/Users/yunjongseo/Downloads/submission_gemma4 (5).csv",
+      "fraction": [
+        96544,
+        100000
+      ],
+      "basis": "사용자가 알려준 제출 점수 0.96544",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "weight": 0.96544,
+      "normalized_weight": 0.2498611651693463,
+      "scaled_weight": "8713057382400000"
+    },
+    {
+      "key": "jongseo_gemma",
+      "label": "종서 기존 Gemma",
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/jongseo_gemma4_submission.csv",
+      "fraction": [
+        1301,
+        1343
+      ],
+      "basis": "20260922T002054858922Z 검증 1301/1343",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "weight": 0.9687267311988086,
+      "normalized_weight": 0.2507117892235939,
+      "scaled_weight": "8742720000000000"
+    },
+    {
+      "key": "changyeop",
+      "label": "창엽 Qwen3.8-27B",
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/changyeop_qwen3827b_submission.csv",
+      "fraction": [
+        641,
+        672
+      ],
+      "basis": "동일 실행 최고 검증 641/672; 최종 CSV의 shift 설정 미기록",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "weight": 0.9538690476190477,
+      "normalized_weight": 0.24686653925367702,
+      "scaled_weight": "8608630000000000"
+    },
+    {
+      "key": "supple",
+      "label": "supple",
+      "path": "/Users/yunjongseo/Downloads/supple_submission.csv",
+      "fraction": [
+        97587,
+        100000
+      ],
+      "basis": "사용자가 지정한 가중치 0.97587; 기록상 Fuging_last_v13_corrected.csv와 해시 일치",
+      "sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "weight": 0.97587,
+      "normalized_weight": 0.2525605063533829,
+      "scaled_weight": "8807187715200000"
+    }
+  ],
+  "common_denominator": "9024960000000000",
+  "rule": "Exact-fraction weighted sum by answer; tied answer follows highest-weight supporting input, then key.",
+  "row_order": "latest Gemma (5)",
+  "statistics": {
+    "rows": 6714,
+    "unanimous": 6339,
+    "patterns": {
+      "4": 6339,
+      "3+1": 279,
+      "2+2": 67,
+      "2+1+1": 29
+    },
+    "weighted_ties": 0,
+    "changed_from_inputs": {
+      "gemma5": 126,
+      "jongseo_gemma": 101,
+      "changyeop": 188,
+      "supple": 56
+    }
+  },
+  "six_previously_inferred_answers": [
+    {
+      "id": "test_0182.jpg",
+      "inferred_answer": "d",
+      "merged_answer": "c"
+    },
+    {
+      "id": "test_0386.jpg",
+      "inferred_answer": "c",
+      "merged_answer": "c"
+    },
+    {
+      "id": "test_2344.jpg",
+      "inferred_answer": "a",
+      "merged_answer": "a"
+    },
+    {
+      "id": "test_3108.jpg",
+      "inferred_answer": "a",
+      "merged_answer": "a"
+    },
+    {
+      "id": "test_3472.jpg",
+      "inferred_answer": "b",
+      "merged_answer": "b"
+    },
+    {
+      "id": "test_5018.jpg",
+      "inferred_answer": "b",
+      "merged_answer": "b"
+    }
+  ],
+  "limitations": [
+    "Latest Gemma uses user-reported submission score; other weights use validation metrics on different cohorts. Weights are not calibrated.",
+    "Changyeop final CSV shift is unrecorded; weight uses best validation score from its run.",
+    "Two Gemma predictions are correlated; both counted separately as requested.",
+    "No test gold; merged accuracy has not been measured.",
+    "Supple uses user-specified weight 0.97587 and is an existing corrected submission, not an independent model."
+  ],
+  "submitted": false
+}

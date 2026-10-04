@@ -1,0 +1,87 @@
+{
+  "saved_at": "2026-09-27T21:28:42.587301+09:00",
+  "description": "합치기 전 모델별 원본 CSV 전체 10개. 원본 파일명과 내용을 그대로 보존한 복사본.",
+  "file_count": 10,
+  "files": [
+    {
+      "model": "종서 Qwen 4B",
+      "filename": "jongseo_qwen3vl4b_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/jongseo_qwen3vl4b_submission.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "bytes": 114152,
+      "verified_identical": true
+    },
+    {
+      "model": "종서 Qwen 8B",
+      "filename": "yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "original_path": "/Users/yunjongseo/Downloads/윤종서_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "sha256": "dd923adcc570929e41321ba1035a67350b77347b64e0291c678a27a866e10107",
+      "bytes": 107437,
+      "verified_identical": true
+    },
+    {
+      "model": "종서 Gemma 26B",
+      "filename": "jongseo_gemma4_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/jongseo_gemma4_submission.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "bytes": 107434,
+      "verified_identical": true
+    },
+    {
+      "model": "종서 Gemma 31B",
+      "filename": "submission_gemma4 (5).csv",
+      "original_path": "/Users/yunjongseo/Downloads/submission_gemma4 (5).csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "bytes": 107434,
+      "verified_identical": true
+    },
+    {
+      "model": "창엽 Qwen 27B",
+      "filename": "changyeop_qwen3827b_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/changyeop_qwen3827b_submission.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "bytes": 107434,
+      "verified_identical": true
+    },
+    {
+      "model": "창엽 122B",
+      "filename": "122b_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "bytes": 107437,
+      "verified_identical": true
+    },
+    {
+      "model": "소향 Qwen 9B",
+      "filename": "sohyang_qwen359b_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/sohyang_qwen359b_submission.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "bytes": 114152,
+      "verified_identical": true
+    },
+    {
+      "model": "정아 Qwen 4B",
+      "filename": "jeonga_qwen354b_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/selected_submissions/jeonga_qwen354b_submission.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "bytes": 114152,
+      "verified_identical": true
+    },
+    {
+      "model": "Ling3-VL INT4",
+      "filename": "ling3_vl_int4_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/ling3_vl_int4_submission.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "bytes": 107437,
+      "verified_identical": true
+    },
+    {
+      "model": "GLM-4.6V AWQ4",
+      "filename": "glm46v_awq4_submission.csv",
+      "original_path": "/Users/yunjongseo/Downloads/glm46v_awq4_submission.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "bytes": 107437,
+      "verified_identical": true
+    }
+  ]
+}

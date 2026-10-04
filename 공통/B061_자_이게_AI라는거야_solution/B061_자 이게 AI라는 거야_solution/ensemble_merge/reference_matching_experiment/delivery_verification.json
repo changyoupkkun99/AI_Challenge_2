@@ -1,0 +1,14 @@
+{
+  "byte_exact_reference_match": true,
+  "output_sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97",
+  "rows": 6714,
+  "current_source_files_unchanged": 56,
+  "isolated_training_reproduces_saved_rules": true,
+  "portable_generation_without_reference_passed": true,
+  "repeated_generation_and_separate_history_passed": true,
+  "input_tamper_detection_passed": true,
+  "forbidden_filenames": [],
+  "forbidden_content_matches": [],
+  "reference_used_for_training": true,
+  "official_accuracy_measured": false
+}

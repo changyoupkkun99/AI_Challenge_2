@@ -1,0 +1,177 @@
+[
+  {
+    "label": "all_60_scores_feasible",
+    "status": 0,
+    "seconds": 2.682,
+    "objective": 0.0,
+    "bound": 0.0
+  },
+  {
+    "label": "top1_min",
+    "status": 0,
+    "seconds": 2.539,
+    "objective": -1.0,
+    "bound": -1.0
+  },
+  {
+    "label": "top1_max",
+    "status": 0,
+    "seconds": 2.605,
+    "objective": -1.0,
+    "bound": -1.0
+  },
+  {
+    "label": "top3_min",
+    "status": 0,
+    "seconds": 3.191,
+    "objective": -2.0,
+    "bound": -2.0
+  },
+  {
+    "label": "top3_max",
+    "status": 0,
+    "seconds": 2.828,
+    "objective": -3.0,
+    "bound": -3.0
+  },
+  {
+    "label": "top5_min",
+    "status": 0,
+    "seconds": 3.69,
+    "objective": 0.0,
+    "bound": 0.0
+  },
+  {
+    "label": "top5_max",
+    "status": 0,
+    "seconds": 2.686,
+    "objective": -5.0,
+    "bound": -5.0
+  },
+  {
+    "label": "top8_min",
+    "status": 0,
+    "seconds": 3.825,
+    "objective": 0.0,
+    "bound": -3.5915714846623814e-13
+  },
+  {
+    "label": "top8_max",
+    "status": 0,
+    "seconds": 2.291,
+    "objective": -8.0,
+    "bound": -8.0
+  },
+  {
+    "label": "top12_min",
+    "status": 0,
+    "seconds": 4.335,
+    "objective": -2.0,
+    "bound": -2.000000000000002
+  },
+  {
+    "label": "top12_max",
+    "status": 0,
+    "seconds": 2.35,
+    "objective": -12.0,
+    "bound": -12.0
+  },
+  {
+    "label": "top28_min",
+    "status": 0,
+    "seconds": 2.971,
+    "objective": -14.0,
+    "bound": -14.00000000000023
+  },
+  {
+    "label": "top28_max",
+    "status": 0,
+    "seconds": 3.516,
+    "objective": -25.0,
+    "bound": -25.0
+  },
+  {
+    "label": "robust_round_0",
+    "status": 0,
+    "seconds": 2.736,
+    "objective": 2.0,
+    "bound": 1.9999999999999596
+  },
+  {
+    "label": "robust_round_1",
+    "status": 0,
+    "seconds": 2.632,
+    "objective": 1.0,
+    "bound": 1.0000000000003768
+  },
+  {
+    "label": "robust_round_2",
+    "status": 0,
+    "seconds": 2.324,
+    "objective": 0.0,
+    "bound": 0.0
+  },
+  {
+    "label": "robust_round_3",
+    "status": 0,
+    "seconds": 4.099,
+    "objective": 2.0,
+    "bound": 2.0
+  },
+  {
+    "label": "robust_round_4",
+    "status": 0,
+    "seconds": 2.659,
+    "objective": 2.0,
+    "bound": 2.000000000000017
+  },
+  {
+    "label": "robust_round_5",
+    "status": 0,
+    "seconds": 2.08,
+    "objective": 1.0,
+    "bound": 1.0
+  },
+  {
+    "label": "robust_round_6",
+    "status": 0,
+    "seconds": 2.508,
+    "objective": 1.0,
+    "bound": 0.9999999988053647
+  },
+  {
+    "label": "robust_round_7",
+    "status": 0,
+    "seconds": 2.56,
+    "objective": 1.0,
+    "bound": 1.0
+  },
+  {
+    "label": "robust_round_8",
+    "status": 0,
+    "seconds": 2.558,
+    "objective": 1.0,
+    "bound": 1.0
+  },
+  {
+    "label": "robust_round_9",
+    "status": 0,
+    "seconds": 2.449,
+    "objective": 1.0,
+    "bound": 1.0
+  },
+  {
+    "label": "robust_round_10",
+    "status": 0,
+    "seconds": 3.013,
+    "objective": 1.0,
+    "bound": 1.0
+  },
+  {
+    "label": "robust_round_11",
+    "status": 0,
+    "seconds": 2.322,
+    "objective": 2.0,
+    "bound": 2.0
+  }
+]

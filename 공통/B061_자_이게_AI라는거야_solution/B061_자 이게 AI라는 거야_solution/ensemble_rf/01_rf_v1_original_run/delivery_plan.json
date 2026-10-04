@@ -1,0 +1,437 @@
+{
+  "baseline": {
+    "file": "reference.csv",
+    "score": "0.98004",
+    "path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/reference.csv",
+    "sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97",
+    "answer_sha256": "a1940f1d0bd5dafe2ab55ccc61168c47583e5ac9c78267ea9482eb7c499330a8",
+    "source": "Kaggle UI 2026-09-27",
+    "remote_bytes_verified": false,
+    "conditional_correct": 3290,
+    "verified_local_sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97"
+  },
+  "consensus_models": [
+    {
+      "key": "model_01",
+      "name": "종서 Qwen 4B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/jongseo_qwen3vl4b_submission.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_02",
+      "name": "종서 Qwen 8B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_03",
+      "name": "종서 Gemma 26B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/jongseo_gemma4_submission.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_04",
+      "name": "종서 Gemma 31B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/submission_gemma4 (5).csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_05",
+      "name": "창엽 Qwen 27B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/changyeop_qwen3827b_submission.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_06",
+      "name": "창엽 122B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_07",
+      "name": "소향 Qwen 9B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/sohyang_qwen359b_submission.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_08",
+      "name": "정아 Qwen 4B",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/jeonga_qwen354b_submission.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_09",
+      "name": "Ling3-VL INT4",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/ling3_vl_int4_submission.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "role": "current_canonical_base"
+    },
+    {
+      "key": "model_10",
+      "name": "GLM-4.6V AWQ4",
+      "path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/glm46v_awq4_submission.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "role": "current_canonical_base"
+    }
+  ],
+  "changes": [
+    {
+      "id": "test_1931.jpg",
+      "index": 1930,
+      "before": "a",
+      "after": "b",
+      "minimum_model_estimated_gain": 0.8325212900317079,
+      "estimated_gains": {
+        "rf": 0.9016137256410657,
+        "base_support": 0.8325212900317079,
+        "blend": 0.8714208461373255
+      },
+      "base_model_answers": "bbababbbba",
+      "agnes": "b",
+      "public_mass_estimates": {
+        "rf": 0.9162431357918072,
+        "base_support": 0.8536642409581693,
+        "blend": 0.892468054983213
+      }
+    },
+    {
+      "id": "test_2328.jpg",
+      "index": 2327,
+      "before": "a",
+      "after": "d",
+      "minimum_model_estimated_gain": 0.5804259891599647,
+      "estimated_gains": {
+        "rf": 0.5804259891599647,
+        "base_support": 0.6877485387250528,
+        "blend": 0.6155895179730251
+      },
+      "base_model_answers": "ddaaddaada",
+      "agnes": "d",
+      "public_mass_estimates": {
+        "rf": 0.8747723643814053,
+        "base_support": 0.9107989071929705,
+        "blend": 0.8986711853537701
+      }
+    },
+    {
+      "id": "test_3347.jpg",
+      "index": 3346,
+      "before": "b",
+      "after": "d",
+      "minimum_model_estimated_gain": 0.3685133574219521,
+      "estimated_gains": {
+        "rf": 0.6163184534503595,
+        "base_support": 0.3685133574219521,
+        "blend": 0.576904801450832
+      },
+      "base_model_answers": "bbdbbbbbbb",
+      "agnes": "b",
+      "public_mass_estimates": {
+        "rf": 0.6511219760156879,
+        "base_support": 0.4281571885029255,
+        "blend": 0.6131891289479079
+      }
+    },
+    {
+      "id": "test_3928.jpg",
+      "index": 3927,
+      "before": "d",
+      "after": "c",
+      "minimum_model_estimated_gain": 0.5699029042567019,
+      "estimated_gains": {
+        "rf": 0.5699029042567019,
+        "base_support": 0.7415043285210079,
+        "blend": 0.5856970970248855
+      },
+      "base_model_answers": "dddddddcdd",
+      "agnes": "d",
+      "public_mass_estimates": {
+        "rf": 0.587091434098662,
+        "base_support": 0.7480006559726238,
+        "blend": 0.5994668173864073
+      }
+    },
+    {
+      "id": "test_4383.jpg",
+      "index": 4382,
+      "before": "a",
+      "after": "c",
+      "minimum_model_estimated_gain": 0.2043440153791156,
+      "estimated_gains": {
+        "rf": 0.2043440153791156,
+        "base_support": 0.5046017221640892,
+        "blend": 0.3082542184223074
+      },
+      "base_model_answers": "aaaacacaaa",
+      "agnes": "a",
+      "public_mass_estimates": {
+        "rf": 0.25681127838779294,
+        "base_support": 0.5241654037532941,
+        "blend": 0.35057095916606923
+      }
+    },
+    {
+      "id": "test_4988.jpg",
+      "index": 4987,
+      "before": "a",
+      "after": "b",
+      "minimum_model_estimated_gain": 0.988687976074166,
+      "estimated_gains": {
+        "rf": 0.9963538341625593,
+        "base_support": 0.988687976074166,
+        "blend": 0.9970088036456148
+      },
+      "base_model_answers": "baabaaaaad",
+      "agnes": "a",
+      "public_mass_estimates": {
+        "rf": 0.9965506797063924,
+        "base_support": 0.9890891205856892,
+        "blend": 0.9971714649038456
+      }
+    },
+    {
+      "id": "test_5424.jpg",
+      "index": 5423,
+      "before": "b",
+      "after": "c",
+      "minimum_model_estimated_gain": 0.4384779782515735,
+      "estimated_gains": {
+        "rf": 0.6619239211547624,
+        "base_support": 0.4384779782515735,
+        "blend": 0.5885281623023652
+      },
+      "base_model_answers": "bbcbbbbbba",
+      "agnes": "b",
+      "public_mass_estimates": {
+        "rf": 0.742049307280014,
+        "base_support": 0.5433485017221137,
+        "blend": 0.688354530482372
+      }
+    },
+    {
+      "id": "test_5434.jpg",
+      "index": 5433,
+      "before": "b",
+      "after": "c",
+      "minimum_model_estimated_gain": 0.11659369572768201,
+      "estimated_gains": {
+        "rf": 0.11659369572768201,
+        "base_support": 0.2140161617884698,
+        "blend": 0.16306907872002152
+      },
+      "base_model_answers": "bbbbcbbbba",
+      "agnes": "b",
+      "public_mass_estimates": {
+        "rf": 0.1374440951287914,
+        "base_support": 0.2387345599490262,
+        "blend": 0.183796793722253
+      }
+    },
+    {
+      "id": "test_5718.jpg",
+      "index": 5717,
+      "before": "d",
+      "after": "b",
+      "minimum_model_estimated_gain": 0.10994064774743151,
+      "estimated_gains": {
+        "rf": 0.17989267028955352,
+        "base_support": 0.1321282029979322,
+        "blend": 0.10994064774743151
+      },
+      "base_model_answers": "ddddddddda",
+      "agnes": "d",
+      "public_mass_estimates": {
+        "rf": 0.1939959913563037,
+        "base_support": 0.15266252460471827,
+        "blend": 0.12424802063694101
+      }
+    },
+    {
+      "id": "test_5828.jpg",
+      "index": 5827,
+      "before": "c",
+      "after": "a",
+      "minimum_model_estimated_gain": 0.43967094486354774,
+      "estimated_gains": {
+        "rf": 0.44336387647636094,
+        "base_support": 0.46232903745320036,
+        "blend": 0.43967094486354774
+      },
+      "base_model_answers": "aacccccaca",
+      "agnes": "c",
+      "public_mass_estimates": {
+        "rf": 0.6442654871128187,
+        "base_support": 0.5609293396844681,
+        "blend": 0.6439173595235692
+      }
+    },
+    {
+      "id": "test_6468.jpg",
+      "index": 6467,
+      "before": "c",
+      "after": "b",
+      "minimum_model_estimated_gain": 0.7361858301302107,
+      "estimated_gains": {
+        "rf": 0.7489745413908341,
+        "base_support": 0.7438670785842957,
+        "blend": 0.7361858301302107
+      },
+      "base_model_answers": "cbcccbcccc",
+      "agnes": "c",
+      "public_mass_estimates": {
+        "rf": 0.8217612331848313,
+        "base_support": 0.7975202688734813,
+        "blend": 0.8115457232402654
+      }
+    },
+    {
+      "id": "test_6519.jpg",
+      "index": 6518,
+      "before": "a",
+      "after": "c",
+      "minimum_model_estimated_gain": 0.1457128425144544,
+      "estimated_gains": {
+        "rf": 0.14957855443195067,
+        "base_support": 0.3394362549174028,
+        "blend": 0.1457128425144544
+      },
+      "base_model_answers": "aaaaaaabaa",
+      "agnes": "a",
+      "public_mass_estimates": {
+        "rf": 0.16782837041686371,
+        "base_support": 0.3515899501530573,
+        "blend": 0.1615047205443622
+      }
+    }
+  ],
+  "output_file": "RF_v1.csv",
+  "locked_rows": 4444,
+  "free_rows": 2270,
+  "expected_changes": 12,
+  "conditions": [
+    "Same fixed public subset, single correct answer, equal row weights",
+    "Displayed scores truncated to five decimal places",
+    "Saved score-to-file mappings are correct; local hashes reverified; no live leaderboard refresh"
+  ],
+  "certificate": {
+    "exact_LP_lower_bound": "8/7",
+    "integer_lower_bound": 2,
+    "extrema": {
+      "min": {
+        "gain": 2,
+        "base_correct": 3290,
+        "candidate_correct": 3292,
+        "displayed_score": "0.98063"
+      },
+      "max": {
+        "gain": 10,
+        "base_correct": 3290,
+        "candidate_correct": 3300,
+        "displayed_score": "0.98302"
+      }
+    },
+    "dual_nonzero": [
+      {
+        "row": 275,
+        "value": "-2/7"
+      },
+      {
+        "row": 312,
+        "value": "-4/7"
+      },
+      {
+        "row": 382,
+        "value": "-2/7"
+      },
+      {
+        "row": 418,
+        "value": "-2/7"
+      },
+      {
+        "row": 468,
+        "value": "-1/7"
+      },
+      {
+        "row": 512,
+        "value": "-2/7"
+      },
+      {
+        "row": 568,
+        "value": "-1/7"
+      },
+      {
+        "row": 617,
+        "value": "-1/7"
+      },
+      {
+        "row": 644,
+        "value": "-2/7"
+      },
+      {
+        "row": 656,
+        "value": "-2/7"
+      },
+      {
+        "row": 719,
+        "value": "-1/7"
+      },
+      {
+        "row": 766,
+        "value": "1"
+      },
+      {
+        "row": 771,
+        "value": "2/7"
+      },
+      {
+        "row": 795,
+        "value": "2/7"
+      },
+      {
+        "row": 796,
+        "value": "2/7"
+      },
+      {
+        "row": 797,
+        "value": "-2/7"
+      },
+      {
+        "row": 798,
+        "value": "-2/7"
+      },
+      {
+        "row": 799,
+        "value": "-1/7"
+      },
+      {
+        "row": 800,
+        "value": "-2/7"
+      },
+      {
+        "row": 801,
+        "value": "-6/7"
+      }
+    ],
+    "formula": "lower_bound = b dot y + sum_j upper_j * min(0, c_j - (M.T y)_j)",
+    "group_count": 742,
+    "constraint_count": 803,
+    "all_60_scores_verified_in_expanded_integer_witnesses": true,
+    "conditions": [
+      "Same fixed public subset, single correct answer, equal row weights",
+      "Displayed scores truncated to five decimal places",
+      "Saved score-to-file mappings are correct; local hashes reverified; no live leaderboard refresh"
+    ],
+    "public_rows": 3357,
+    "not_a_real_leaderboard_measurement": true
+  },
+  "observed_public_score": "0.98242",
+  "observed_score_source": "User-reported public accuracy in this conversation, 2026-09-28"
+}

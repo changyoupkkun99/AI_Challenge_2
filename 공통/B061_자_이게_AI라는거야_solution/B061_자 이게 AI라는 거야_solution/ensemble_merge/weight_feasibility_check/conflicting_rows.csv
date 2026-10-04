@@ -1,0 +1,57 @@
+source_key,source_name,test_1166.jpg,test_1931.jpg,test_2372.jpg,sum_target_minus_competitor_coefficients
+model_01,종서 Qwen 4B,d,b,a,-3
+model_02,종서 Qwen 8B,d,b,a,-3
+model_03,종서 Gemma 26B,d,a,a,-1
+model_04,종서 Gemma 31B,d,b,c,-1
+model_05,창엽 Qwen 27B,d,a,a,-1
+model_06,창엽 122B,c,b,a,-1
+model_07,소향 Qwen 9B,d,b,a,-3
+model_08,정아 Qwen 4B,d,b,a,-3
+model_09,Ling3-VL INT4,d,b,a,-3
+model_10,GLM-4.6V AWQ4,d,a,a,-1
+history_001,fuking_last_v3_source.csv,d,a,a,-1
+history_002,fuking_last_v4.csv,d,a,a,-1
+history_003,fuking_last_v5.csv,d,a,a,-1
+history_004,fuking_last_v6.csv,d,a,a,-1
+history_005,fuking_last_v7.csv,d,a,a,-1
+history_006,Fuging_last_v13.csv,d,a,a,-1
+history_007,fuking_last_v10.csv,d,a,a,-1
+history_008,fuking_last_v11.csv,d,a,a,-1
+history_009,fuking_last_v12.csv,d,a,a,-1
+history_010,fuking_last_v13.csv,d,a,a,-1
+history_011,fuking_last_v14.csv,d,a,a,-1
+history_012,fuking_last_v15.csv,d,a,a,-1
+history_013,fuking_last_v16.csv,d,a,a,-1
+history_014,fuking_last_v17.csv,d,a,a,-1
+history_015,fuking_last_v18.csv,d,a,a,-1
+history_016,fuking_last_v19.csv,d,a,a,-1
+history_017,fuking_last_v20.csv,d,a,a,-1
+history_018,fuking_last_v21.csv,d,a,a,-1
+history_019,fuking_last_v22.csv,d,a,a,-1
+history_020,fuking_last_v23.csv,d,a,a,-1
+history_021,fuking_last_v24.csv,d,a,a,-1
+history_022,fuking_last_v25.csv,d,a,a,-1
+history_023,fuking_last_v26.csv,d,a,a,-1
+history_024,fuking_last_v7.csv,d,a,a,-1
+history_025,fuking_last_v8.csv,d,a,a,-1
+history_026,fuking_last_v9.csv,d,a,a,-1
+history_027,submission_kaggle_weighted_15.csv,d,a,a,-1
+history_028,submission.csv,d,a,a,-1
+history_029,submission_history.csv,d,a,a,-1
+history_030,submission_jongseo_changyeop.csv,d,a,a,-1
+history_031,submission_primary_gemma_changyeop.csv,d,a,a,-1
+history_032,submission_with_122b.csv,d,b,a,-3
+history_033,submission_with_jeonga.csv,d,b,a,-3
+history_034,fuking_last_v14.csv,d,a,a,-1
+history_035,i_want_sleep_v15.csv,d,a,a,-1
+history_036,i_want_sleep_v16.csv,d,a,a,-1
+history_037,i_want_sleep_v17.csv,d,a,a,-1
+history_038,mori.csv,d,a,a,-1
+history_039,mori_v19.csv,c,b,a,-1
+history_040,supple_A_variant_8.csv,d,a,a,-1
+history_041,supple_B_semantic_13.csv,d,a,a,-1
+history_042,supple_C_exploratory_16.csv,d,a,a,-1
+history_043,fuking_supple (1).csv,d,a,a,-1
+history_044,i_want_sleep_v18 (1).csv,d,a,a,-1
+history_045,supple_submission (1).csv,d,a,a,-1
+history_046,submission_gemma5_jongseo_changyeop_weighted (1).csv,d,a,a,-1

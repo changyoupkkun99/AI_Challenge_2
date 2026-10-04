@@ -1,0 +1,10 @@
+{
+  "mode": "saved_plan",
+  "run_directory": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_rf/runs/20260928T045423_acf0fb5d",
+  "historical_scored_submissions": 60,
+  "status": "completed",
+  "submitted": false,
+  "sha256": "1b353e8a8e2426d10b078c83cdd43d212c63fd007f5639285b2fb4ac10117dfb",
+  "matches_archived_RF_v1": true,
+  "output": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_rf/runs/20260928T045423_acf0fb5d/RF_v1.csv"
+}

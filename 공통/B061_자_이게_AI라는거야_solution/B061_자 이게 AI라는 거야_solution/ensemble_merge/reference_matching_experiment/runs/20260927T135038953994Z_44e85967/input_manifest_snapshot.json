@@ -1,0 +1,568 @@
+{
+  "schema_version": 1,
+  "initial_model_count": 10,
+  "purpose": "Current input snapshots for explicitly reference-supervised selection experiment",
+  "sources": [
+    {
+      "key": "model_01",
+      "name": "종서 Qwen 4B",
+      "group": "initial_models",
+      "path": "inputs/model_01.csv",
+      "source_path": "initial_model_csvs/jongseo_qwen3vl4b_submission.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "previously_recorded_sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_02",
+      "name": "종서 Qwen 8B",
+      "group": "initial_models",
+      "path": "inputs/model_02.csv",
+      "source_path": "initial_model_csvs/yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "previously_recorded_sha256": "dd923adcc570929e41321ba1035a67350b77347b64e0291c678a27a866e10107",
+      "matches_previously_recorded_hash": false
+    },
+    {
+      "key": "model_03",
+      "name": "종서 Gemma 26B",
+      "group": "initial_models",
+      "path": "inputs/model_03.csv",
+      "source_path": "initial_model_csvs/jongseo_gemma4_submission.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "previously_recorded_sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_04",
+      "name": "종서 Gemma 31B",
+      "group": "initial_models",
+      "path": "inputs/model_04.csv",
+      "source_path": "initial_model_csvs/submission_gemma4 (5).csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "previously_recorded_sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_05",
+      "name": "창엽 Qwen 27B",
+      "group": "initial_models",
+      "path": "inputs/model_05.csv",
+      "source_path": "initial_model_csvs/changyeop_qwen3827b_submission.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "previously_recorded_sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_06",
+      "name": "창엽 122B",
+      "group": "initial_models",
+      "path": "inputs/model_06.csv",
+      "source_path": "initial_model_csvs/122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "previously_recorded_sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_07",
+      "name": "소향 Qwen 9B",
+      "group": "initial_models",
+      "path": "inputs/model_07.csv",
+      "source_path": "initial_model_csvs/sohyang_qwen359b_submission.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "previously_recorded_sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_08",
+      "name": "정아 Qwen 4B",
+      "group": "initial_models",
+      "path": "inputs/model_08.csv",
+      "source_path": "initial_model_csvs/jeonga_qwen354b_submission.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "previously_recorded_sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_09",
+      "name": "Ling3-VL INT4",
+      "group": "initial_models",
+      "path": "inputs/model_09.csv",
+      "source_path": "initial_model_csvs/ling3_vl_int4_submission.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "previously_recorded_sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "model_10",
+      "name": "GLM-4.6V AWQ4",
+      "group": "initial_models",
+      "path": "inputs/model_10.csv",
+      "source_path": "initial_model_csvs/glm46v_awq4_submission.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "previously_recorded_sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_001",
+      "name": "fuking_last_v3_source.csv",
+      "group": "historical_results",
+      "path": "inputs/history_001.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_001__fuking_last_v3_source.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "previously_recorded_sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_002",
+      "name": "fuking_last_v4.csv",
+      "group": "historical_results",
+      "path": "inputs/history_002.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_002__fuking_last_v4.csv",
+      "sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "previously_recorded_sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_003",
+      "name": "fuking_last_v5.csv",
+      "group": "historical_results",
+      "path": "inputs/history_003.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_003__fuking_last_v5.csv",
+      "sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "previously_recorded_sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_004",
+      "name": "fuking_last_v6.csv",
+      "group": "historical_results",
+      "path": "inputs/history_004.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_004__fuking_last_v6.csv",
+      "sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "previously_recorded_sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_005",
+      "name": "fuking_last_v7.csv",
+      "group": "historical_results",
+      "path": "inputs/history_005.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_005__fuking_last_v7.csv",
+      "sha256": "9e4fe0acda6e6977aa85387a80ff34c8b10eebc33635a0e711ca91d239e86440",
+      "previously_recorded_sha256": "9e4fe0acda6e6977aa85387a80ff34c8b10eebc33635a0e711ca91d239e86440",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_006",
+      "name": "Fuging_last_v13.csv",
+      "group": "historical_results",
+      "path": "inputs/history_006.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_006__Fuging_last_v13.csv",
+      "sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "previously_recorded_sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_007",
+      "name": "fuking_last_v10.csv",
+      "group": "historical_results",
+      "path": "inputs/history_007.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_007__fuking_last_v10.csv",
+      "sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "previously_recorded_sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_008",
+      "name": "fuking_last_v11.csv",
+      "group": "historical_results",
+      "path": "inputs/history_008.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_008__fuking_last_v11.csv",
+      "sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "previously_recorded_sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_009",
+      "name": "fuking_last_v12.csv",
+      "group": "historical_results",
+      "path": "inputs/history_009.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_009__fuking_last_v12.csv",
+      "sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "previously_recorded_sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_010",
+      "name": "fuking_last_v13.csv",
+      "group": "historical_results",
+      "path": "inputs/history_010.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_010__fuking_last_v13.csv",
+      "sha256": "51805b732d170d8094242a983ffce1e9f05d0230fb30dc50342c2ebceaebcb68",
+      "previously_recorded_sha256": "51805b732d170d8094242a983ffce1e9f05d0230fb30dc50342c2ebceaebcb68",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_011",
+      "name": "fuking_last_v14.csv",
+      "group": "historical_results",
+      "path": "inputs/history_011.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_011__fuking_last_v14.csv",
+      "sha256": "8893e0387ffb3801c9dd1d6a8e3dee8c6302a7e3676edf95bce21414d8a6b7ad",
+      "previously_recorded_sha256": "8893e0387ffb3801c9dd1d6a8e3dee8c6302a7e3676edf95bce21414d8a6b7ad",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_012",
+      "name": "fuking_last_v15.csv",
+      "group": "historical_results",
+      "path": "inputs/history_012.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_012__fuking_last_v15.csv",
+      "sha256": "07c97f28dd082efa23936f1bfd1504f0e762364c390fd3174fcac9538bfcbeeb",
+      "previously_recorded_sha256": "07c97f28dd082efa23936f1bfd1504f0e762364c390fd3174fcac9538bfcbeeb",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_013",
+      "name": "fuking_last_v16.csv",
+      "group": "historical_results",
+      "path": "inputs/history_013.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_013__fuking_last_v16.csv",
+      "sha256": "3de063327559ffcc5bfd48c317be173e3307017c5e7c3ced947ad8dea2a8cd50",
+      "previously_recorded_sha256": "3de063327559ffcc5bfd48c317be173e3307017c5e7c3ced947ad8dea2a8cd50",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_014",
+      "name": "fuking_last_v17.csv",
+      "group": "historical_results",
+      "path": "inputs/history_014.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_014__fuking_last_v17.csv",
+      "sha256": "a193278413d9a1e63a40ab0a265cf41f7d67cfad4ec8c17c76e9983b355976f4",
+      "previously_recorded_sha256": "a193278413d9a1e63a40ab0a265cf41f7d67cfad4ec8c17c76e9983b355976f4",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_015",
+      "name": "fuking_last_v18.csv",
+      "group": "historical_results",
+      "path": "inputs/history_015.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_015__fuking_last_v18.csv",
+      "sha256": "9be62626d5ff003ba47772bb0e2d4a3575e7c92704656f099b2e344c61207c0c",
+      "previously_recorded_sha256": "9be62626d5ff003ba47772bb0e2d4a3575e7c92704656f099b2e344c61207c0c",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_016",
+      "name": "fuking_last_v19.csv",
+      "group": "historical_results",
+      "path": "inputs/history_016.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_016__fuking_last_v19.csv",
+      "sha256": "4d79bdbec33941395afa1248012011a302f2a0080fe58863f109ea49a2453d92",
+      "previously_recorded_sha256": "4d79bdbec33941395afa1248012011a302f2a0080fe58863f109ea49a2453d92",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_017",
+      "name": "fuking_last_v20.csv",
+      "group": "historical_results",
+      "path": "inputs/history_017.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_017__fuking_last_v20.csv",
+      "sha256": "a429afd255efc554c8c432251629e8d15fc3e1c3f3b12a0a9b120ff6866ecb96",
+      "previously_recorded_sha256": "a429afd255efc554c8c432251629e8d15fc3e1c3f3b12a0a9b120ff6866ecb96",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_018",
+      "name": "fuking_last_v21.csv",
+      "group": "historical_results",
+      "path": "inputs/history_018.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_018__fuking_last_v21.csv",
+      "sha256": "63fc3e96e9cb8e96364d7aaba64e81ac3fa6a8e0571395f2a9fecf5a10dc48b5",
+      "previously_recorded_sha256": "63fc3e96e9cb8e96364d7aaba64e81ac3fa6a8e0571395f2a9fecf5a10dc48b5",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_019",
+      "name": "fuking_last_v22.csv",
+      "group": "historical_results",
+      "path": "inputs/history_019.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_019__fuking_last_v22.csv",
+      "sha256": "c68d638dc5852622e0bf754f96d440f17037d2192e394fc692fb8c48275fa1f6",
+      "previously_recorded_sha256": "c68d638dc5852622e0bf754f96d440f17037d2192e394fc692fb8c48275fa1f6",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_020",
+      "name": "fuking_last_v23.csv",
+      "group": "historical_results",
+      "path": "inputs/history_020.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_020__fuking_last_v23.csv",
+      "sha256": "5a57353e36beffa44fd83a5367a9066ef72265c4a6c6795cfd6e306633149f96",
+      "previously_recorded_sha256": "5a57353e36beffa44fd83a5367a9066ef72265c4a6c6795cfd6e306633149f96",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_021",
+      "name": "fuking_last_v24.csv",
+      "group": "historical_results",
+      "path": "inputs/history_021.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_021__fuking_last_v24.csv",
+      "sha256": "dba5191a741849780585720e4e2320596c996f9f55b6188bd9b61806d38e9997",
+      "previously_recorded_sha256": "dba5191a741849780585720e4e2320596c996f9f55b6188bd9b61806d38e9997",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_022",
+      "name": "fuking_last_v25.csv",
+      "group": "historical_results",
+      "path": "inputs/history_022.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_022__fuking_last_v25.csv",
+      "sha256": "8118beea623e19b533479350cbc0e2bb84b0383787b5b34a929bd22285384091",
+      "previously_recorded_sha256": "8118beea623e19b533479350cbc0e2bb84b0383787b5b34a929bd22285384091",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_023",
+      "name": "fuking_last_v26.csv",
+      "group": "historical_results",
+      "path": "inputs/history_023.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_023__fuking_last_v26.csv",
+      "sha256": "ea1e4a8279b50052a0975ed983d312ba844e89904a00597f571729ad24ca1b37",
+      "previously_recorded_sha256": "ea1e4a8279b50052a0975ed983d312ba844e89904a00597f571729ad24ca1b37",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_024",
+      "name": "fuking_last_v7.csv",
+      "group": "historical_results",
+      "path": "inputs/history_024.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_024__fuking_last_v7.csv",
+      "sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "previously_recorded_sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_025",
+      "name": "fuking_last_v8.csv",
+      "group": "historical_results",
+      "path": "inputs/history_025.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_025__fuking_last_v8.csv",
+      "sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "previously_recorded_sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_026",
+      "name": "fuking_last_v9.csv",
+      "group": "historical_results",
+      "path": "inputs/history_026.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_026__fuking_last_v9.csv",
+      "sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "previously_recorded_sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_027",
+      "name": "submission_kaggle_weighted_15.csv",
+      "group": "historical_results",
+      "path": "inputs/history_027.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_027__submission_kaggle_weighted_15.csv",
+      "sha256": "96691043fc505ac27135ccfa742d14773178839e66c5f90462d75d8016b87fc9",
+      "previously_recorded_sha256": "96691043fc505ac27135ccfa742d14773178839e66c5f90462d75d8016b87fc9",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_028",
+      "name": "submission.csv",
+      "group": "historical_results",
+      "path": "inputs/history_028.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_028__submission.csv",
+      "sha256": "d2c23577b2d81faa36d8da737bed757e6ab4477ea7bdeff25df34be795d85340",
+      "previously_recorded_sha256": "d2c23577b2d81faa36d8da737bed757e6ab4477ea7bdeff25df34be795d85340",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_029",
+      "name": "submission_history.csv",
+      "group": "historical_results",
+      "path": "inputs/history_029.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_029__submission_history.csv",
+      "sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "previously_recorded_sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_030",
+      "name": "submission_jongseo_changyeop.csv",
+      "group": "historical_results",
+      "path": "inputs/history_030.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_030__submission_jongseo_changyeop.csv",
+      "sha256": "c121f3e80610544fac4c42fae23a58a7b7c556a9cc877367a4ed477a187e6394",
+      "previously_recorded_sha256": "c121f3e80610544fac4c42fae23a58a7b7c556a9cc877367a4ed477a187e6394",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_031",
+      "name": "submission_primary_gemma_changyeop.csv",
+      "group": "historical_results",
+      "path": "inputs/history_031.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_031__submission_primary_gemma_changyeop.csv",
+      "sha256": "31f68ead5e098ece486f329e99da117e0181907b3cabd78fbec076fcdfbb0491",
+      "previously_recorded_sha256": "31f68ead5e098ece486f329e99da117e0181907b3cabd78fbec076fcdfbb0491",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_032",
+      "name": "submission_with_122b.csv",
+      "group": "historical_results",
+      "path": "inputs/history_032.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_032__submission_with_122b.csv",
+      "sha256": "844b68147df70ad62aa651fbbdd3f025f273d790b86dbab3b6559210796c8c77",
+      "previously_recorded_sha256": "844b68147df70ad62aa651fbbdd3f025f273d790b86dbab3b6559210796c8c77",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_033",
+      "name": "submission_with_jeonga.csv",
+      "group": "historical_results",
+      "path": "inputs/history_033.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_033__submission_with_jeonga.csv",
+      "sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+      "previously_recorded_sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_034",
+      "name": "fuking_last_v14.csv",
+      "group": "historical_results",
+      "path": "inputs/history_034.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_034__fuking_last_v14.csv",
+      "sha256": "ef25a2bd6a6e6c8bca28428e33e88a3d2bf80d722d9dd11f44b8ccb5828a65f3",
+      "previously_recorded_sha256": "ef25a2bd6a6e6c8bca28428e33e88a3d2bf80d722d9dd11f44b8ccb5828a65f3",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_035",
+      "name": "i_want_sleep_v15.csv",
+      "group": "historical_results",
+      "path": "inputs/history_035.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_035__i_want_sleep_v15.csv",
+      "sha256": "7d89e45d9d5a19c8380627ecc78655890884cd6440cf56f6dae800f76749b9ec",
+      "previously_recorded_sha256": "7d89e45d9d5a19c8380627ecc78655890884cd6440cf56f6dae800f76749b9ec",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_036",
+      "name": "i_want_sleep_v16.csv",
+      "group": "historical_results",
+      "path": "inputs/history_036.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_036__i_want_sleep_v16.csv",
+      "sha256": "b41fcfac557babe8ad37f098e698e1cfd5728fd5dd9443a8c4ab62649352dae3",
+      "previously_recorded_sha256": "b41fcfac557babe8ad37f098e698e1cfd5728fd5dd9443a8c4ab62649352dae3",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_037",
+      "name": "i_want_sleep_v17.csv",
+      "group": "historical_results",
+      "path": "inputs/history_037.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_037__i_want_sleep_v17.csv",
+      "sha256": "f8d96b180d212d4cf9879fb3021b21347aa471da85d37cb61090aa21204d7a8c",
+      "previously_recorded_sha256": "f8d96b180d212d4cf9879fb3021b21347aa471da85d37cb61090aa21204d7a8c",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_038",
+      "name": "mori.csv",
+      "group": "historical_results",
+      "path": "inputs/history_038.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_038__mori.csv",
+      "sha256": "824fde8e1374a0a6990a8f857f9c58ac567c2801ce4b97cc214ccb2ad31bed84",
+      "previously_recorded_sha256": "824fde8e1374a0a6990a8f857f9c58ac567c2801ce4b97cc214ccb2ad31bed84",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_039",
+      "name": "mori_v19.csv",
+      "group": "historical_results",
+      "path": "inputs/history_039.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_039__mori_v19.csv",
+      "sha256": "06173efb76ed6dc298679fda6633c7f5b0bc99a47dd48844b58240aabde3f9d1",
+      "previously_recorded_sha256": "06173efb76ed6dc298679fda6633c7f5b0bc99a47dd48844b58240aabde3f9d1",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_040",
+      "name": "supple_A_variant_8.csv",
+      "group": "historical_results",
+      "path": "inputs/history_040.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_040__supple_A_variant_8.csv",
+      "sha256": "5988a87e1b093cdaf587665e927756e380a58e9bfb76750f790f14115ed4560d",
+      "previously_recorded_sha256": "5988a87e1b093cdaf587665e927756e380a58e9bfb76750f790f14115ed4560d",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_041",
+      "name": "supple_B_semantic_13.csv",
+      "group": "historical_results",
+      "path": "inputs/history_041.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_041__supple_B_semantic_13.csv",
+      "sha256": "1c5e8ab5493b128fdfb6666bc1302093e411367f5569facadcbf81b172ae38d2",
+      "previously_recorded_sha256": "1c5e8ab5493b128fdfb6666bc1302093e411367f5569facadcbf81b172ae38d2",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_042",
+      "name": "supple_C_exploratory_16.csv",
+      "group": "historical_results",
+      "path": "inputs/history_042.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_042__supple_C_exploratory_16.csv",
+      "sha256": "376f5bc84f1eb1bbe333ace07bff45a389e1053850d37470bcc8496251b6d8a1",
+      "previously_recorded_sha256": "376f5bc84f1eb1bbe333ace07bff45a389e1053850d37470bcc8496251b6d8a1",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_043",
+      "name": "fuking_supple (1).csv",
+      "group": "historical_results",
+      "path": "inputs/history_043.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_043__fuking_supple (1).csv",
+      "sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+      "previously_recorded_sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_044",
+      "name": "i_want_sleep_v18 (1).csv",
+      "group": "historical_results",
+      "path": "inputs/history_044.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_044__i_want_sleep_v18 (1).csv",
+      "sha256": "7c3a14935e62b12dfc68b07cf20b6d53d638f50107f4005b8fadce4a2ff1644d",
+      "previously_recorded_sha256": "7c3a14935e62b12dfc68b07cf20b6d53d638f50107f4005b8fadce4a2ff1644d",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_045",
+      "name": "supple_submission (1).csv",
+      "group": "historical_results",
+      "path": "inputs/history_045.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_045__supple_submission (1).csv",
+      "sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "previously_recorded_sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "matches_previously_recorded_hash": true
+    },
+    {
+      "key": "history_046",
+      "name": "submission_gemma5_jongseo_changyeop_weighted (1).csv",
+      "group": "historical_results",
+      "path": "inputs/history_046.csv",
+      "source_path": "ensemble_merge/historical_ensemble_csvs/history_046__submission_gemma5_jongseo_changyeop_weighted (1).csv",
+      "sha256": "300bdf57c4420558a44933eb8790d980eefa150b6eb27dcdbb8721bb97052472",
+      "previously_recorded_sha256": "300bdf57c4420558a44933eb8790d980eefa150b6eb27dcdbb8721bb97052472",
+      "matches_previously_recorded_hash": true
+    }
+  ],
+  "snapshot_caveat": "model_02 differs from the original recorded inference hash; test_2337.jpg is c in the current input and was a in the original. This experiment did not modify the source CSV or inference logs."
+}

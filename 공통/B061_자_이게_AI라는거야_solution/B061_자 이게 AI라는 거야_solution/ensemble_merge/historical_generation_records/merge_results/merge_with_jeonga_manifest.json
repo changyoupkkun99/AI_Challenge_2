@@ -1,0 +1,144 @@
+{
+  "inputs": [
+    {
+      "owner": "종서",
+      "recorded_member": "윤종서",
+      "key": "jongseo_gemma4",
+      "model": "google/gemma-4-26B-A4B-it",
+      "run_id": "20260922T002054858922Z-gemma4-full-bf16",
+      "correct": 1301,
+      "n": 1343,
+      "accuracy": 0.9687267311988086,
+      "source": "종서/training_runs/20260922T002054858922Z-gemma4-full-bf16/submission_gemma4.csv",
+      "metrics_source": "종서/training_runs/20260922T002054858922Z-gemma4-full-bf16/after_metrics.json",
+      "linkage": "same_run_test_predictions_verified",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "copied_to": "selected_submissions/jongseo_gemma4_submission.csv",
+      "weight_fraction": "1301/1343",
+      "normalized_weight": 0.2078850967078297,
+      "row_count": 6714
+    },
+    {
+      "owner": "종서",
+      "recorded_member": "윤종서",
+      "key": "jongseo_qwen3vl4b",
+      "model": "Qwen/Qwen3-VL-4B-Instruct",
+      "run_id": "20260921T001126826670Z-full-none",
+      "correct": 1284,
+      "n": 1343,
+      "accuracy": 0.9560685033507074,
+      "source": "종서/training_runs/submissions/윤종서_20260921T001126826670Z-full-none_submission.csv",
+      "metrics_source": "종서/training_runs/20260921T001126826670Z-full-none/after_metrics.json",
+      "linkage": "run_id_and_submission_metadata",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "copied_to": "selected_submissions/jongseo_qwen3vl4b_submission.csv",
+      "weight_fraction": "1284/1343",
+      "normalized_weight": 0.20516868883386113,
+      "row_count": 6714
+    },
+    {
+      "owner": "창엽",
+      "recorded_member": null,
+      "key": "changyeop_qwen3827b",
+      "model": "Qwen3.8-27B (4-bit quantized)",
+      "run_id": "full_20260921_100843",
+      "correct": 641,
+      "n": 672,
+      "accuracy": 0.9538690476190477,
+      "source": "창엽/full_20260921_100843-20260922T052351Z-1-003.zip::full_20260921_100843/submission_final.csv",
+      "metrics_source": "sources/changyeop/tta_combination_sweep.csv",
+      "linkage": "same_run_archive; final_submission_shift_not_recorded",
+      "best_validation_setting": {
+        "method": "arithmetic",
+        "combo": "3"
+      },
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "copied_to": "selected_submissions/changyeop_qwen3827b_submission.csv",
+      "weight_fraction": "641/672",
+      "normalized_weight": 0.20469669394329498,
+      "row_count": 6714
+    },
+    {
+      "owner": "정아",
+      "recorded_member": "이정아",
+      "key": "jeonga_qwen354b",
+      "model": "Qwen/Qwen3.5-4B",
+      "run_id": "20260923T010117229879Z-pilot-none",
+      "correct": 121,
+      "n": 128,
+      "accuracy": 0.9453125,
+      "source": "/Users/yunjongseo/Downloads/20260923T010117229879Z-pilot-none_submission.csv",
+      "metrics_source": "/Users/yunjongseo/Downloads/20260923T010117229879Z-pilot-none/after_metrics.json",
+      "linkage": "user_identified_submission_and_matching_filename_run_id",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "copied_to": "selected_submissions/jeonga_qwen354b_submission.csv",
+      "weight_fraction": "121/128",
+      "row_count": 6714,
+      "normalized_weight": 0.2028604911505119
+    },
+    {
+      "owner": "소향",
+      "recorded_member": "정소",
+      "key": "sohyang_qwen359b",
+      "model": "techwithsergiu/Qwen3.5-9B-bnb-4bit",
+      "run_id": "20260922T055646959320Z-pilot-nf4-lr5e-05-img336-loraattention-ep1",
+      "correct": 107,
+      "n": 128,
+      "accuracy": 0.8359375,
+      "source": "소향/정소_20260922T055646959320Z-pilot-nf4-lr5e-05-img336-loraattention-ep1_submission.csv",
+      "metrics_source": "소향/20260922T055646959320Z-pilot-nf4-lr5e-05-img336-loraattention-ep1/after_metrics.json",
+      "linkage": "submission_filename_run_id",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "copied_to": "selected_submissions/sohyang_qwen359b_submission.csv",
+      "weight_fraction": "107/128",
+      "normalized_weight": 0.17938902936450227,
+      "row_count": 6714
+    }
+  ],
+  "statistics": {
+    "rows": 6714,
+    "model_count": 5,
+    "people_count": 4,
+    "changed_from_original": 89,
+    "changed_from_current_submission": 89,
+    "weighted_ties": 0,
+    "patterns": {
+      "5": 5382,
+      "4+1": 940,
+      "3+1+1": 91,
+      "2+2+1": 69,
+      "3+2": 219,
+      "2+1+1+1": 13
+    }
+  },
+  "weight_rule": "sum validation accuracy for each answer; exact correct/n fractions",
+  "tie_rule": "highest-accuracy supporting model, then lexicographic model key",
+  "row_order": "highest-accuracy input file",
+  "limitations": [
+    "Different validation cohorts and sample sizes; weights used without calibration.",
+    "Changyeop: best validation shift=3; final CSV shift settings unrecorded. Uses model best accuracy as requested.",
+    "No local test gold or original sample_submission; checked against all input IDs and schema.",
+    "Jeonga accuracy is a 128-example pilot validation result."
+  ],
+  "output": "submission_with_jeonga.csv",
+  "output_sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+  "previous_output_sha256": "d2c23577b2d81faa36d8da737bed757e6ab4477ea7bdeff25df34be795d85340",
+  "existing_edits": [
+    {
+      "id": "test_0175.jpg",
+      "original": "c",
+      "current": "b"
+    },
+    {
+      "id": "test_0182.jpg",
+      "original": "d",
+      "current": "c"
+    },
+    {
+      "id": "test_0369.jpg",
+      "original": "a",
+      "current": "d"
+    }
+  ],
+  "existing_edits_applied": false
+}

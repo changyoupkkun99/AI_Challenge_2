@@ -1,0 +1,32 @@
+{
+  "frozen_at": "2026-09-27T21:55:16.428169+09:00",
+  "config_sha256": "95ec46015f4ea39cf7a3c187d241f004905da92c912bd99f94efdffbb37fca40",
+  "inventory_sha256": "fe59a97355dd7f076e47f38ee7d5274397e5a64275c701bb8a4cc7827ebaee76",
+  "merge_code_sha256": "44669747b590bed76b295c4e7e341cd3a36b01b3032e88671e4b66733d4897f5",
+  "initial_models": 10,
+  "unique_historical_csvs": 46,
+  "reference_predictions_read_during_this_merge_task": false,
+  "policy_changes_after_comparison_allowed": false,
+  "original_config_sha256_before_label_change": "c64fa6ee6b39a496affd6ce67cab20bef38f71b043f5d9a52a60f3f3d85156cc",
+  "original_inventory_sha256_before_label_change": "0b86fed767964fea611239139b9578fabf9cf7858b373b4267f6159f1ba44f0a",
+  "label_update": {
+    "updated_at": "2026-09-27T13:22:33.631122+00:00",
+    "scope": "Display labels and package paths only; input bytes, order, groups, weights and tie rule unchanged."
+  },
+  "canonical_input_update": {
+    "updated_at": "2026-09-27T18:01:43.601528+00:00",
+    "reason": "User-designated modified initial model is canonical; current input matches packaged RF-era source snapshot. No weight, source pool, or tie-rule changes.",
+    "previous_config_sha256": "e90f3ac9384e29467e2989a232439c95f0ecfd29fdf59f3f928ae7b4f0718305",
+    "previous_inventory_sha256": "ea6dc35823e81d0a4af22bb4d7b51bf736245036387916838c3f9e833a0b421a",
+    "sources": [
+      {
+        "key": "model_02",
+        "path": "initial_model_csvs/yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+        "old_sha256": "dd923adcc570929e41321ba1035a67350b77347b64e0291c678a27a866e10107",
+        "new_sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+        "old_answer_sha256": "235934505ff93eb2b0e9b05c0936283c01ce902738cf7f6164db84b3cc44ccdd",
+        "new_answer_sha256": "936b3022027cc66fb8466d64954f47105af4dc1cb9969f29b3193d6c5013d757"
+      }
+    ]
+  }
+}

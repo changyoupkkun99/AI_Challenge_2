@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "trained_at": "2026-09-27T13:50:32.310112+00:00",
+  "training_method": "reference_supervised_expert_selection_tree",
+  "training_reference_sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97",
+  "input_manifest_sha256": "2675eff0c50fc09d87daa8d8bf39acb8b4f614decc30da0e845de47d0cbea891",
+  "seed": 42,
+  "consensus_count": 4444,
+  "router_rows": 2270,
+  "row_ids_used_as_features": false,
+  "reference_answer_lookup_at_generation": false,
+  "weights_per_route": "one selected existing source has weight 1, all other sources 0",
+  "expected_output_sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97",
+  "feature_sources": 56,
+  "max_depth": 8,
+  "depth": 7,
+  "leaves": 15,
+  "same_reference_rows": 6714,
+  "different_reference_rows": 0,
+  "tree": {
+    "feature_source_key": "model_10",
+    "equals_answer": "a",
+    "training_rows": 2270,
+    "no": {
+      "selected_source_key": "history_039",
+      "training_rows": 951
+    },
+    "yes": {
+      "feature_source_key": "model_04",
+      "equals_answer": "c",
+      "training_rows": 1319,
+      "no": {
+        "feature_source_key": "history_039",
+        "equals_answer": "c",
+        "training_rows": 1046,
+        "no": {
+          "feature_source_key": "model_03",
+          "equals_answer": "a",
+          "training_rows": 1027,
+          "no": {
+            "selected_source_key": "history_039",
+            "training_rows": 716
+          },
+          "yes": {
+            "feature_source_key": "history_039",
+            "equals_answer": "b",
+            "training_rows": 311,
+            "no": {
+              "selected_source_key": "history_039",
+              "training_rows": 301
+            },
+            "yes": {
+              "feature_source_key": "history_037",
+              "equals_answer": "a",
+              "training_rows": 10,
+              "no": {
+                "selected_source_key": "history_039",
+                "training_rows": 8
+              },
+              "yes": {
+                "feature_source_key": "model_07",
+                "equals_answer": "b",
+                "training_rows": 2,
+                "no": {
+                  "selected_source_key": "history_039",
+                  "training_rows": 1
+                },
+                "yes": {
+                  "selected_source_key": "history_038",
+                  "training_rows": 1
+                }
+              }
+            }
+          }
+        },
+        "yes": {
+          "feature_source_key": "history_029",
+          "equals_answer": "b",
+          "training_rows": 19,
+          "no": {
+            "selected_source_key": "history_039",
+            "training_rows": 18
+          },
+          "yes": {
+            "selected_source_key": "history_038",
+            "training_rows": 1
+          }
+        }
+      },
+      "yes": {
+        "feature_source_key": "model_02",
+        "equals_answer": "d",
+        "training_rows": 273,
+        "no": {
+          "feature_source_key": "history_036",
+          "equals_answer": "a",
+          "training_rows": 270,
+          "no": {
+            "selected_source_key": "history_039",
+            "training_rows": 266
+          },
+          "yes": {
+            "feature_source_key": "model_06",
+            "equals_answer": "a",
+            "training_rows": 4,
+            "no": {
+              "selected_source_key": "history_039",
+              "training_rows": 1
+            },
+            "yes": {
+              "feature_source_key": "model_09",
+              "equals_answer": "c",
+              "training_rows": 3,
+              "no": {
+                "feature_source_key": "model_01",
+                "equals_answer": "c",
+                "training_rows": 2,
+                "no": {
+                  "selected_source_key": "model_04",
+                  "training_rows": 1
+                },
+                "yes": {
+                  "selected_source_key": "history_039",
+                  "training_rows": 1
+                }
+              },
+              "yes": {
+                "selected_source_key": "history_039",
+                "training_rows": 1
+              }
+            }
+          }
+        },
+        "yes": {
+          "feature_source_key": "history_032",
+          "equals_answer": "c",
+          "training_rows": 3,
+          "no": {
+            "selected_source_key": "history_039",
+            "training_rows": 2
+          },
+          "yes": {
+            "selected_source_key": "history_038",
+            "training_rows": 1
+          }
+        }
+      }
+    }
+  },
+  "selected_source_counts": {
+    "model_04": 1,
+    "history_038": 3,
+    "history_039": 2266
+  }
+}

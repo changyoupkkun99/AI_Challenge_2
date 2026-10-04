@@ -1,0 +1,14 @@
+{
+  "packaged_at": "2026-09-28T01:42:53.044503+09:00",
+  "python": "3.12.3",
+  "python_dependencies": {
+    "numpy": "2.0.2",
+    "scipy": "1.14.1",
+    "scikit-learn": "1.5.2",
+    "joblib": "1.4.2"
+  },
+  "javascript_dependency": "@oai/artifact-tool",
+  "javascript_runtime_path": "/Users/yunjongseo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node",
+  "javascript_node_modules_path": "/Users/yunjongseo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules",
+  "note": "Environment inspected during packaging; original model was trained with scikit-learn 1.5.2. Runtime binaries and node_modules are not copied."
+}

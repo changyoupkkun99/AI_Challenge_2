@@ -1,0 +1,170 @@
+{
+  "scope": "Four-model vote only; ten-model consensus gate cannot be evaluated on unavailable validation predictions.",
+  "checkpoint_selection_may_have_used_original_validation": true,
+  "not_an_untouched_external_test": true,
+  "grouped_by_image_hash": true,
+  "folds": 5,
+  "methods": {
+    "all": {
+      "type_weighted": {
+        "n": 1096,
+        "correct": 1091,
+        "accuracy": 0.9954379562043796
+      },
+      "global_weighted": {
+        "n": 1096,
+        "correct": 1091,
+        "accuracy": 0.9954379562043796
+      },
+      "equal_weighted": {
+        "n": 1096,
+        "correct": 1085,
+        "accuracy": 0.989963503649635
+      },
+      "best_global_model": {
+        "n": 1096,
+        "correct": 1091,
+        "accuracy": 0.9954379562043796
+      }
+    },
+    "negative": {
+      "type_weighted": {
+        "n": 47,
+        "correct": 47,
+        "accuracy": 1.0
+      },
+      "global_weighted": {
+        "n": 47,
+        "correct": 47,
+        "accuracy": 1.0
+      },
+      "equal_weighted": {
+        "n": 47,
+        "correct": 45,
+        "accuracy": 0.9574468085106383
+      },
+      "best_global_model": {
+        "n": 47,
+        "correct": 47,
+        "accuracy": 1.0
+      }
+    },
+    "quantity": {
+      "type_weighted": {
+        "n": 6,
+        "correct": 6,
+        "accuracy": 1.0
+      },
+      "global_weighted": {
+        "n": 6,
+        "correct": 6,
+        "accuracy": 1.0
+      },
+      "equal_weighted": {
+        "n": 6,
+        "correct": 6,
+        "accuracy": 1.0
+      },
+      "best_global_model": {
+        "n": 6,
+        "correct": 6,
+        "accuracy": 1.0
+      }
+    },
+    "numeric": {
+      "type_weighted": {
+        "n": 247,
+        "correct": 246,
+        "accuracy": 0.9959514170040485
+      },
+      "global_weighted": {
+        "n": 247,
+        "correct": 246,
+        "accuracy": 0.9959514170040485
+      },
+      "equal_weighted": {
+        "n": 247,
+        "correct": 245,
+        "accuracy": 0.9919028340080972
+      },
+      "best_global_model": {
+        "n": 247,
+        "correct": 246,
+        "accuracy": 0.9959514170040485
+      }
+    },
+    "spatial": {
+      "type_weighted": {
+        "n": 79,
+        "correct": 76,
+        "accuracy": 0.9620253164556962
+      },
+      "global_weighted": {
+        "n": 79,
+        "correct": 76,
+        "accuracy": 0.9620253164556962
+      },
+      "equal_weighted": {
+        "n": 79,
+        "correct": 76,
+        "accuracy": 0.9620253164556962
+      },
+      "best_global_model": {
+        "n": 79,
+        "correct": 77,
+        "accuracy": 0.9746835443037974
+      }
+    },
+    "text": {
+      "type_weighted": {
+        "n": 424,
+        "correct": 423,
+        "accuracy": 0.9976415094339622
+      },
+      "global_weighted": {
+        "n": 424,
+        "correct": 423,
+        "accuracy": 0.9976415094339622
+      },
+      "equal_weighted": {
+        "n": 424,
+        "correct": 421,
+        "accuracy": 0.9929245283018868
+      },
+      "best_global_model": {
+        "n": 424,
+        "correct": 422,
+        "accuracy": 0.9952830188679245
+      }
+    },
+    "other": {
+      "type_weighted": {
+        "n": 293,
+        "correct": 293,
+        "accuracy": 1.0
+      },
+      "global_weighted": {
+        "n": 293,
+        "correct": 293,
+        "accuracy": 1.0
+      },
+      "equal_weighted": {
+        "n": 293,
+        "correct": 292,
+        "accuracy": 0.9965870307167235
+      },
+      "best_global_model": {
+        "n": 293,
+        "correct": 293,
+        "accuracy": 1.0
+      }
+    }
+  },
+  "fold_sizes": {
+    "0": 198,
+    "1": 222,
+    "2": 205,
+    "3": 250,
+    "4": 221
+  }
+}

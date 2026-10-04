@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "key": "negative",
+      "label": "부정·부재",
+      "patterns": [
+        "아닌",
+        "않은",
+        "않는",
+        "없는",
+        "없나요",
+        "제외"
+      ]
+    },
+    {
+      "key": "quantity",
+      "label": "수량·크기 비교",
+      "patterns": [
+        "몇\\s*(?:개|명|대|장|마리|곳|가지|권|병|줄)",
+        "개수",
+        "갯수",
+        "수량",
+        "총\\s*몇",
+        "가장\\s*(?:많|적|큰|작)",
+        "더\\s*(?:많|적|큰|작)"
+      ]
+    },
+    {
+      "key": "numeric",
+      "label": "숫자·날짜·연락처",
+      "patterns": [
+        "전화",
+        "연락처",
+        "번호",
+        "가격",
+        "금액",
+        "요금",
+        "얼마",
+        "몇\\s*(?:원|시|분|년|월|일|층|번)",
+        "시간",
+        "날짜",
+        "기간",
+        "년도",
+        "연도",
+        "숫자",
+        "퍼센트",
+        "할인율"
+      ]
+    },
+    {
+      "key": "spatial",
+      "label": "위치·방향",
+      "patterns": [
+        "왼쪽",
+        "오른쪽",
+        "좌측",
+        "우측",
+        "위쪽",
+        "아래쪽",
+        "상단",
+        "하단",
+        "가운데",
+        "방향",
+        "위치",
+        "옆에",
+        "위에",
+        "아래에",
+        "사이에"
+      ]
+    },
+    {
+      "key": "text",
+      "label": "문자·명칭 읽기",
+      "patterns": [
+        "이름",
+        "상호",
+        "명칭",
+        "문구",
+        "글자",
+        "글씨",
+        "단어",
+        "영어",
+        "알파벳",
+        "적혀",
+        "쓰여",
+        "써있",
+        "써져",
+        "표기",
+        "간판",
+        "브랜드",
+        "메뉴",
+        "문장",
+        "텍스트"
+      ]
+    }
+  ],
+  "other_label": "기타 시각 질문",
+  "classification_uses": "question text only; first matching rule; no reference answers or item-specific rules",
+  "minimum_type_rows": 30,
+  "shrinkage_strength": 30,
+  "integer_weight_scale": 1000000,
+  "cross_validation_folds": 5,
+  "weight_formula": "p_global=(correct+1)/(n+2); p_type=(correct_type+30*p_global)/(n_type+30), fallback to global for n_type<30; weight=round(1e6*max(0,ln(3*p/(1-p))))",
+  "parameter_selection": "fixed before type-level performance or target comparison; no search over these settings",
+  "tie_policy": "seeded hash chooses among maximum-scoring answers only"
+}

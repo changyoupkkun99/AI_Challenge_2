@@ -1,0 +1,11 @@
+{
+  "file": "RF_v1.csv",
+  "path": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/RF_v1.csv",
+  "sha256": "1b353e8a8e2426d10b078c83cdd43d212c63fd007f5639285b2fb4ac10117dfb",
+  "answer_sha256": "38b3e1ffb346f40150ba0454aeec3685034b29448a5397a378252401bd283592",
+  "score": "0.98242",
+  "source": "User-reported public accuracy in this conversation, 2026-09-28",
+  "remote_bytes_verified": false,
+  "conditional_correct": 3298,
+  "public_denominator_assumption": 3357
+}

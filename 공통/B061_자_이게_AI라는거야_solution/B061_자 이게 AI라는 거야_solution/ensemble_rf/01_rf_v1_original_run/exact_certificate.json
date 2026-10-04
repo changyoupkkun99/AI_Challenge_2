@@ -1,0 +1,111 @@
+{
+  "exact_LP_lower_bound": "8/7",
+  "integer_lower_bound": 2,
+  "extrema": {
+    "min": {
+      "gain": 2,
+      "base_correct": 3290,
+      "candidate_correct": 3292,
+      "displayed_score": "0.98063"
+    },
+    "max": {
+      "gain": 10,
+      "base_correct": 3290,
+      "candidate_correct": 3300,
+      "displayed_score": "0.98302"
+    }
+  },
+  "dual_nonzero": [
+    {
+      "row": 275,
+      "value": "-2/7"
+    },
+    {
+      "row": 312,
+      "value": "-4/7"
+    },
+    {
+      "row": 382,
+      "value": "-2/7"
+    },
+    {
+      "row": 418,
+      "value": "-2/7"
+    },
+    {
+      "row": 468,
+      "value": "-1/7"
+    },
+    {
+      "row": 512,
+      "value": "-2/7"
+    },
+    {
+      "row": 568,
+      "value": "-1/7"
+    },
+    {
+      "row": 617,
+      "value": "-1/7"
+    },
+    {
+      "row": 644,
+      "value": "-2/7"
+    },
+    {
+      "row": 656,
+      "value": "-2/7"
+    },
+    {
+      "row": 719,
+      "value": "-1/7"
+    },
+    {
+      "row": 766,
+      "value": "1"
+    },
+    {
+      "row": 771,
+      "value": "2/7"
+    },
+    {
+      "row": 795,
+      "value": "2/7"
+    },
+    {
+      "row": 796,
+      "value": "2/7"
+    },
+    {
+      "row": 797,
+      "value": "-2/7"
+    },
+    {
+      "row": 798,
+      "value": "-2/7"
+    },
+    {
+      "row": 799,
+      "value": "-1/7"
+    },
+    {
+      "row": 800,
+      "value": "-2/7"
+    },
+    {
+      "row": 801,
+      "value": "-6/7"
+    }
+  ],
+  "formula": "lower_bound = b dot y + sum_j upper_j * min(0, c_j - (M.T y)_j)",
+  "group_count": 742,
+  "constraint_count": 803,
+  "all_60_scores_verified_in_expanded_integer_witnesses": true,
+  "conditions": [
+    "Same fixed public subset, single correct answer, equal row weights",
+    "Displayed scores truncated to five decimal places",
+    "Saved score-to-file mappings are correct; local hashes reverified; no live leaderboard refresh"
+  ],
+  "public_rows": 3357,
+  "not_a_real_leaderboard_measurement": true
+}

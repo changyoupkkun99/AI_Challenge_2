@@ -1,0 +1,1374 @@
+{
+  "file_count": 179,
+  "bytes": 14089067,
+  "files": [
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/RF_v1.csv",
+      "packaged_path": "01_rf_v1_original_run/RF_v1.csv",
+      "sha256": "1b353e8a8e2426d10b078c83cdd43d212c63fd007f5639285b2fb4ac10117dfb",
+      "bytes": 107434,
+      "current_packaged_sha256": "1b353e8a8e2426d10b078c83cdd43d212c63fd007f5639285b2fb4ac10117dfb",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/RF_v1_score.json",
+      "packaged_path": "01_rf_v1_original_run/RF_v1_score.json",
+      "sha256": "4d75434a507e1de5f4b39b18f3966e0f2e25466ffef936dacf902a665fd4e9ad",
+      "bytes": 546,
+      "current_packaged_sha256": "4d75434a507e1de5f4b39b18f3966e0f2e25466ffef936dacf902a665fd4e9ad",
+      "current_packaged_bytes": 513
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/build.mjs",
+      "packaged_path": "01_rf_v1_original_run/build.mjs",
+      "sha256": "0181ed47a2d13d1ce66e8d70400c03596ddcf0386d232e873ce1139f6f4e1cd0",
+      "bytes": 3279,
+      "current_packaged_sha256": "0181ed47a2d13d1ce66e8d70400c03596ddcf0386d232e873ce1139f6f4e1cd0",
+      "current_packaged_bytes": 3279
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/candidate_bounds.json",
+      "packaged_path": "01_rf_v1_original_run/candidate_bounds.json",
+      "sha256": "4e01700149f128bee8bb5d3cf1f5f31b12e25583b3331f2732e5a89f0b7b69ed",
+      "bytes": 1784,
+      "current_packaged_sha256": "4e01700149f128bee8bb5d3cf1f5f31b12e25583b3331f2732e5a89f0b7b69ed",
+      "current_packaged_bytes": 1784
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/candidate_rf.joblib",
+      "packaged_path": "01_rf_v1_original_run/candidate_rf.joblib",
+      "sha256": "2054eb89986ded19f97fc2da129f28be565ab0cf025c91b085936582c169b2e4",
+      "bytes": 354089,
+      "current_packaged_sha256": "2054eb89986ded19f97fc2da129f28be565ab0cf025c91b085936582c169b2e4",
+      "current_packaged_bytes": 354089
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/certify.py",
+      "packaged_path": "01_rf_v1_original_run/certify.py",
+      "sha256": "cddae5fee864441488970bcd54d1c2d1bc1612e7a3d62779621d4897934cea57",
+      "bytes": 4677,
+      "current_packaged_sha256": "cddae5fee864441488970bcd54d1c2d1bc1612e7a3d62779621d4897934cea57",
+      "current_packaged_bytes": 4677
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/delivery_plan.json",
+      "packaged_path": "01_rf_v1_original_run/delivery_plan.json",
+      "sha256": "5dd4b984481aadfc10356a2957ff59a10ad2accb3b803a88cffec2951c6a938e",
+      "bytes": 13171,
+      "current_packaged_sha256": "a9e85e23971ab26655328ff16ccf53b9f8a14147910dde61f400bf6008da6929",
+      "current_packaged_bytes": 13189
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/delivery_verification.json",
+      "packaged_path": "01_rf_v1_original_run/delivery_verification.json",
+      "sha256": "19d4afe84cc2a7e9278322733fc811bcc6b6dd2ad5389457be7c34d2d212b893",
+      "bytes": 1435,
+      "current_packaged_sha256": "19d4afe84cc2a7e9278322733fc811bcc6b6dd2ad5389457be7c34d2d212b893",
+      "current_packaged_bytes": 1393
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/exact_certificate.json",
+      "packaged_path": "01_rf_v1_original_run/exact_certificate.json",
+      "sha256": "23365b88642ae62df4f20623f595cbc7f7aeaa0de8d1a7d787cd87ac5793f174",
+      "bytes": 1944,
+      "current_packaged_sha256": "23365b88642ae62df4f20623f595cbc7f7aeaa0de8d1a7d787cd87ac5793f174",
+      "current_packaged_bytes": 1944
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/extreme_worlds.json",
+      "packaged_path": "01_rf_v1_original_run/extreme_worlds.json",
+      "sha256": "5cfbbeb0c4c6db769942114bf2177e28648811e327c1878838d098a3add1865b",
+      "bytes": 107442,
+      "current_packaged_sha256": "5cfbbeb0c4c6db769942114bf2177e28648811e327c1878838d098a3add1865b",
+      "current_packaged_bytes": 107442
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/input_manifest.json",
+      "packaged_path": "01_rf_v1_original_run/input_manifest.json",
+      "sha256": "baa89a0d12a1862cda27690666a280624e27da3e77bc6a0ae718da9623fee095",
+      "bytes": 73948,
+      "current_packaged_sha256": "f5273ca8e26abf0f7efa3bc38f95aa90e788ee89c04f6b10e2df4dfb86c55e0a",
+      "current_packaged_bytes": 73920
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/inputs.npz",
+      "packaged_path": "01_rf_v1_original_run/inputs.npz",
+      "sha256": "258fcc5441a140039450212673c70f3693d056571507edbc020155c459167409",
+      "bytes": 50614,
+      "current_packaged_sha256": "258fcc5441a140039450212673c70f3693d056571507edbc020155c459167409",
+      "current_packaged_bytes": 50614
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/integer_solver_log.json",
+      "packaged_path": "01_rf_v1_original_run/integer_solver_log.json",
+      "sha256": "25b71a96d2a9addd9a46277ce85d214fdd4a1eb5c9d0821c47bb5def2d0ecd05",
+      "bytes": 3022,
+      "current_packaged_sha256": "25b71a96d2a9addd9a46277ce85d214fdd4a1eb5c9d0821c47bb5def2d0ecd05",
+      "current_packaged_bytes": 3022
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/integer_witnesses.npz",
+      "packaged_path": "01_rf_v1_original_run/integer_witnesses.npz",
+      "sha256": "e9d60c78c523459f6cc2062e1dbd83cb01efe9a37afd2f6444f6951ab5c59969",
+      "bytes": 64040,
+      "current_packaged_sha256": "e9d60c78c523459f6cc2062e1dbd83cb01efe9a37afd2f6444f6951ab5c59969",
+      "current_packaged_bytes": 64040
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/priors.npz",
+      "packaged_path": "01_rf_v1_original_run/priors.npz",
+      "sha256": "be6ee5b130f0396f835bc2422d04a824b39eb927d090f9d16dbeb9794feaea1e",
+      "bytes": 79782,
+      "current_packaged_sha256": "be6ee5b130f0396f835bc2422d04a824b39eb927d090f9d16dbeb9794feaea1e",
+      "current_packaged_bytes": 79782
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/projection_log.json",
+      "packaged_path": "01_rf_v1_original_run/projection_log.json",
+      "sha256": "4c31f28760339226922dba37c3f4692f8daba0211658d4ab46a79d17633f1e41",
+      "bytes": 6034,
+      "current_packaged_sha256": "4c31f28760339226922dba37c3f4692f8daba0211658d4ab46a79d17633f1e41",
+      "current_packaged_bytes": 6034
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/ranked_candidates.json",
+      "packaged_path": "01_rf_v1_original_run/ranked_candidates.json",
+      "sha256": "82a2c4995676d756df137a781b8d6bfefb907e5a254eeae9bb2ab33aebbf5149",
+      "bytes": 14321,
+      "current_packaged_sha256": "82a2c4995676d756df137a781b8d6bfefb907e5a254eeae9bb2ab33aebbf5149",
+      "current_packaged_bytes": 14321
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/research.py",
+      "packaged_path": "01_rf_v1_original_run/research.py",
+      "sha256": "63e9d788a5b110b0a1dd080f132c009f501f37a41e865a856128c10fd9c9027b",
+      "bytes": 13013,
+      "current_packaged_sha256": "bf6454c4f26d198734a2bfc38ffda221d47a767c11a9fb7f65bff0b8f750f0c3",
+      "current_packaged_bytes": 13021
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/rf_validation.json",
+      "packaged_path": "01_rf_v1_original_run/rf_validation.json",
+      "sha256": "79ec88257145386fabb527461a3f079046fdff7bb30b29bf3d25b92d778e3a01",
+      "bytes": 1233,
+      "current_packaged_sha256": "79ec88257145386fabb527461a3f079046fdff7bb30b29bf3d25b92d778e3a01",
+      "current_packaged_bytes": 1233
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/robust.py",
+      "packaged_path": "01_rf_v1_original_run/robust.py",
+      "sha256": "ab3aeaccb3f43c4b8023bc49741a0000871cd8efcba1fd4577f2953006c3bc3d",
+      "bytes": 4774,
+      "current_packaged_sha256": "ab3aeaccb3f43c4b8023bc49741a0000871cd8efcba1fd4577f2953006c3bc3d",
+      "current_packaged_bytes": 4779
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/robust_result.json",
+      "packaged_path": "01_rf_v1_original_run/robust_result.json",
+      "sha256": "fff8f9259a5b8c9f6fa2410b614bbc583a6c3cfd15d8b2dd698bd4942004725e",
+      "bytes": 12338,
+      "current_packaged_sha256": "fff8f9259a5b8c9f6fa2410b614bbc583a6c3cfd15d8b2dd698bd4942004725e",
+      "current_packaged_bytes": 12194
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/robust_rounds.json",
+      "packaged_path": "01_rf_v1_original_run/robust_rounds.json",
+      "sha256": "135eb910bfe0556d684b3f30a70f8705ab5656b870a1c0aca72bda8ba05b64a2",
+      "bytes": 4060,
+      "current_packaged_sha256": "135eb910bfe0556d684b3f30a70f8705ab5656b870a1c0aca72bda8ba05b64a2",
+      "current_packaged_bytes": 4060
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/score_conditioned.npz",
+      "packaged_path": "01_rf_v1_original_run/score_conditioned.npz",
+      "sha256": "87f14c15828aa4e3360518c6ec87f53ee7195db0b02748e5a11b36ea1f644611",
+      "bytes": 133251,
+      "current_packaged_sha256": "87f14c15828aa4e3360518c6ec87f53ee7195db0b02748e5a11b36ea1f644611",
+      "current_packaged_bytes": 133251
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/score_holdout.json",
+      "packaged_path": "01_rf_v1_original_run/score_holdout.json",
+      "sha256": "8742c9982c32f7eed95ce0735466a7f32a017612e9be8a0944f54fa3138067e3",
+      "bytes": 11226,
+      "current_packaged_sha256": "8742c9982c32f7eed95ce0735466a7f32a017612e9be8a0944f54fa3138067e3",
+      "current_packaged_bytes": 11236
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/verify_and_report.py",
+      "packaged_path": "01_rf_v1_original_run/verify_and_report.py",
+      "sha256": "3f23b632636348824c96e094ed20ed0c3e0ff8f8cd68a3fc22c57fa5629bd154",
+      "bytes": 9707,
+      "current_packaged_sha256": "04f7253bf30e27a8c72085b2c86fd647843c1606af8093256f7661d341cac520",
+      "current_packaged_bytes": 9655
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/public_score_ensemble_20260928/결과_및_변경근거.md",
+      "packaged_path": "01_rf_v1_original_run/results_and_change_rationale.md",
+      "sha256": "958d4f59905e37a73b2d1dfec4db9d343fab3f48f05e5eef00c4dfbece6d3ac4",
+      "bytes": 8433,
+      "current_packaged_sha256": "958d4f59905e37a73b2d1dfec4db9d343fab3f48f05e5eef00c4dfbece6d3ac4",
+      "current_packaged_bytes": 8381
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/jongseo_qwen3vl4b_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/01_jongseo_qwen3vl4b_submission.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "bytes": 114152,
+      "current_packaged_sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "packaged_path": "02_input_snapshots/initial_models/02_yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "bytes": 107437,
+      "current_packaged_sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/jongseo_gemma4_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/03_jongseo_gemma4_submission.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "bytes": 107434,
+      "current_packaged_sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/submission_gemma4 (5).csv",
+      "packaged_path": "02_input_snapshots/initial_models/04_submission_gemma4 (5).csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "bytes": 107434,
+      "current_packaged_sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/changyeop_qwen3827b_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/05_changyeop_qwen3827b_submission.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "bytes": 107434,
+      "current_packaged_sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/122b_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/06_122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "bytes": 107437,
+      "current_packaged_sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/sohyang_qwen359b_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/07_sohyang_qwen359b_submission.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "bytes": 114152,
+      "current_packaged_sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/jeonga_qwen354b_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/08_jeonga_qwen354b_submission.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "bytes": 114152,
+      "current_packaged_sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/ling3_vl_int4_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/09_ling3_vl_int4_submission.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "bytes": 107437,
+      "current_packaged_sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/initial_model_csvs/glm46v_awq4_submission.csv",
+      "packaged_path": "02_input_snapshots/initial_models/10_glm46v_awq4_submission.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "bytes": 107437,
+      "current_packaged_sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_agnes3_highres1024_tta4.csv",
+      "packaged_path": "02_input_snapshots/auxiliary_models/01_submission_agnes3_highres1024_tta4.csv",
+      "sha256": "e5af8099cb98e3b5b2748804f49d02ca400096760c7d31a01f7cbb7e1050405f",
+      "bytes": 107434,
+      "current_packaged_sha256": "e5af8099cb98e3b5b2748804f49d02ca400096760c7d31a01f7cbb7e1050405f",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/data 2/fuking_last_v3.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/01_fuking_last_v3.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "bytes": 107434,
+      "current_packaged_sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/02_fuking_last.csv",
+      "sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "bytes": 107434,
+      "current_packaged_sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_with_122b.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/03_submission_with_122b.csv",
+      "sha256": "844b68147df70ad62aa651fbbdd3f025f273d790b86dbab3b6559210796c8c77",
+      "bytes": 107434,
+      "current_packaged_sha256": "844b68147df70ad62aa651fbbdd3f025f273d790b86dbab3b6559210796c8c77",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission (1).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/04_submission (1).csv",
+      "sha256": "fe7795408576e1bc083d31a2a54a20402f9a01476c1401bffdc05cd0132697e9",
+      "bytes": 107434,
+      "current_packaged_sha256": "fe7795408576e1bc083d31a2a54a20402f9a01476c1401bffdc05cd0132697e9",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/05_submission.csv",
+      "sha256": "1b3332eab0ddb00fae8e4d345263d3e1db07e805b9bb0cd26576eb3b8b680269",
+      "bytes": 107434,
+      "current_packaged_sha256": "1b3332eab0ddb00fae8e4d345263d3e1db07e805b9bb0cd26576eb3b8b680269",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_jongseo_changyeop.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/06_submission_jongseo_changyeop.csv",
+      "sha256": "c121f3e80610544fac4c42fae23a58a7b7c556a9cc877367a4ed477a187e6394",
+      "bytes": 107434,
+      "current_packaged_sha256": "c121f3e80610544fac4c42fae23a58a7b7c556a9cc877367a4ed477a187e6394",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_primary_gemma_changyeop.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/07_submission_primary_gemma_changyeop.csv",
+      "sha256": "31f68ead5e098ece486f329e99da117e0181907b3cabd78fbec076fcdfbb0491",
+      "bytes": 107434,
+      "current_packaged_sha256": "31f68ead5e098ece486f329e99da117e0181907b3cabd78fbec076fcdfbb0491",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_with_jeonga.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/08_submission_with_jeonga.csv",
+      "sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+      "bytes": 107434,
+      "current_packaged_sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_gemma4 (2).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/09_submission_gemma4 (2).csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "bytes": 107434,
+      "current_packaged_sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/122b_submission.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/10_122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "bytes": 107437,
+      "current_packaged_sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_final.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/11_submission_final.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "bytes": 107434,
+      "current_packaged_sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_gemma4 (1) (1).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/12_submission_gemma4 (1) (1).csv",
+      "sha256": "038fce2db050c68a896d52a0ce832eb5012f4a7bca2988d4eb3be28eca303d59",
+      "bytes": 107434,
+      "current_packaged_sha256": "038fce2db050c68a896d52a0ce832eb5012f4a7bca2988d4eb3be28eca303d59",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/_20260921T001126826670Z-full-none_submission (2).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/13__20260921T001126826670Z-full-none_submission (2).csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "bytes": 114152,
+      "current_packaged_sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/_20260924T030403807440Z-full-full_best_train_submission.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/14__20260924T030403807440Z-full-full_best_train_submission.csv",
+      "sha256": "58ae6c0b23ff9f247e67527d05a43f1c6d22898cc0ffaded6992d83a768e677e",
+      "bytes": 107437,
+      "current_packaged_sha256": "58ae6c0b23ff9f247e67527d05a43f1c6d22898cc0ffaded6992d83a768e677e",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_kaggle_weighted_15.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/15_submission_kaggle_weighted_15.csv",
+      "sha256": "96691043fc505ac27135ccfa742d14773178839e66c5f90462d75d8016b87fc9",
+      "bytes": 107434,
+      "current_packaged_sha256": "96691043fc505ac27135ccfa742d14773178839e66c5f90462d75d8016b87fc9",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v4.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/16_fuking_last_v4.csv",
+      "sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "bytes": 107434,
+      "current_packaged_sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v5.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/17_fuking_last_v5.csv",
+      "sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "bytes": 107434,
+      "current_packaged_sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v6.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/18_fuking_last_v6.csv",
+      "sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "bytes": 107434,
+      "current_packaged_sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v7.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/19_fuking_last_v7.csv",
+      "sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "bytes": 107434,
+      "current_packaged_sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v8.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/20_fuking_last_v8.csv",
+      "sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "bytes": 107434,
+      "current_packaged_sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v9.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/21_fuking_last_v9.csv",
+      "sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "bytes": 107434,
+      "current_packaged_sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v10.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/22_fuking_last_v10.csv",
+      "sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "bytes": 107434,
+      "current_packaged_sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v11.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/23_fuking_last_v11.csv",
+      "sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "bytes": 107434,
+      "current_packaged_sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v12.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/24_fuking_last_v12.csv",
+      "sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "bytes": 107434,
+      "current_packaged_sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/blah2/wlemed.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/25_wlemed.csv",
+      "sha256": "cea0fdfd5171d6f765ae8d6b2ccc367595f3276c7e2d6ddf2d7c860223755735",
+      "bytes": 107434,
+      "current_packaged_sha256": "cea0fdfd5171d6f765ae8d6b2ccc367595f3276c7e2d6ddf2d7c860223755735",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/reference_model_fit_20260927/submission_reference_10models_optimized.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/26_submission_reference_10models_optimized.csv",
+      "sha256": "d166efa0aa0d9604dc0775a0a9f81ae2d06a0304674e8eb765acd7bf9fcf4947",
+      "bytes": 107434,
+      "current_packaged_sha256": "d166efa0aa0d9604dc0775a0a9f81ae2d06a0304674e8eb765acd7bf9fcf4947",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/ling3_vl_int4_submission.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/27_ling3_vl_int4_submission.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "bytes": 107437,
+      "current_packaged_sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/glm46v_awq4_submission.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/28_glm46v_awq4_submission.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "bytes": 107437,
+      "current_packaged_sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/reference.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/29_reference.csv",
+      "sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97",
+      "bytes": 107434,
+      "current_packaged_sha256": "ebcb965aa312ac539192cf92a2eb2a9b3adbc22c2e41af2ff639b3cde2ff1e97",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/zuzu.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/30_zuzu.csv",
+      "sha256": "0f3c88d7d08eef11c46b174c955518edbce6afc6d002ee95436f03871bf2ee86",
+      "bytes": 107434,
+      "current_packaged_sha256": "0f3c88d7d08eef11c46b174c955518edbce6afc6d002ee95436f03871bf2ee86",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/ruru.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/31_ruru.csv",
+      "sha256": "230ae69895f8fe88e96cdaa40d4318df8fb307afbda6c958a25a68c2ee65f855",
+      "bytes": 107434,
+      "current_packaged_sha256": "230ae69895f8fe88e96cdaa40d4318df8fb307afbda6c958a25a68c2ee65f855",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/pipi.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/32_pipi.csv",
+      "sha256": "a3d5d7aa43b68ad6e705a9e9e3c09a37676bae32104434d7d25c13b7bb4bd45d",
+      "bytes": 107434,
+      "current_packaged_sha256": "a3d5d7aa43b68ad6e705a9e9e3c09a37676bae32104434d7d25c13b7bb4bd45d",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/nana.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/33_nana.csv",
+      "sha256": "31e12546b9944a8c3391367ea9bdcfdaa43105b5d05e888de648a19e6ae0b75f",
+      "bytes": 107434,
+      "current_packaged_sha256": "31e12546b9944a8c3391367ea9bdcfdaa43105b5d05e888de648a19e6ae0b75f",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/mumu.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/34_mumu.csv",
+      "sha256": "b04165ffc07780bc9bcc1d842cf435a48b4d9ddedcdc77130a99a1386c4c7915",
+      "bytes": 107434,
+      "current_packaged_sha256": "b04165ffc07780bc9bcc1d842cf435a48b4d9ddedcdc77130a99a1386c4c7915",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/kuku.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/35_kuku.csv",
+      "sha256": "4136aaa1a93b8360e03054d9a7121a9ebae0a4d435ba1e819991b57003282076",
+      "bytes": 107434,
+      "current_packaged_sha256": "4136aaa1a93b8360e03054d9a7121a9ebae0a4d435ba1e819991b57003282076",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/gugu.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/36_gugu.csv",
+      "sha256": "12b940d5ffa54ddbf2a208c4b499be199f29432aa90c2023bfe1c347a0127829",
+      "bytes": 107434,
+      "current_packaged_sha256": "12b940d5ffa54ddbf2a208c4b499be199f29432aa90c2023bfe1c347a0127829",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/agnes_outputs_20260927/bobo.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/37_bobo.csv",
+      "sha256": "3357ce0d07d2653d982b1ed20f1cae7ee85b303feebdc8cede845ec46a326241",
+      "bytes": 107434,
+      "current_packaged_sha256": "3357ce0d07d2653d982b1ed20f1cae7ee85b303feebdc8cede845ec46a326241",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_agnes3_highres1024_tta4.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/38_submission_agnes3_highres1024_tta4.csv",
+      "sha256": "e5af8099cb98e3b5b2748804f49d02ca400096760c7d31a01f7cbb7e1050405f",
+      "bytes": 107434,
+      "current_packaged_sha256": "e5af8099cb98e3b5b2748804f49d02ca400096760c7d31a01f7cbb7e1050405f",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/mori.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/39_mori.csv",
+      "sha256": "824fde8e1374a0a6990a8f857f9c58ac567c2801ce4b97cc214ccb2ad31bed84",
+      "bytes": 107434,
+      "current_packaged_sha256": "824fde8e1374a0a6990a8f857f9c58ac567c2801ce4b97cc214ccb2ad31bed84",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/submission_refit_20260927/submission_mori_v19_refit.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/40_submission_mori_v19_refit.csv",
+      "sha256": "48558b1486f27dd87e2ddcde41e571da81f552d1bf500a3f86d63b08a833f9b2",
+      "bytes": 107434,
+      "current_packaged_sha256": "48558b1486f27dd87e2ddcde41e571da81f552d1bf500a3f86d63b08a833f9b2",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/model_disagreement_20260927/weighted_merge_20260927/weighted_random_category.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/41_weighted_random_category.csv",
+      "sha256": "5793380c51a506543b864081b52b255af5519b83bdcd28ab88805d52f0a12f96",
+      "bytes": 107434,
+      "current_packaged_sha256": "5793380c51a506543b864081b52b255af5519b83bdcd28ab88805d52f0a12f96",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/i_want_sleep_v18.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/42_i_want_sleep_v18.csv",
+      "sha256": "7c3a14935e62b12dfc68b07cf20b6d53d638f50107f4005b8fadce4a2ff1644d",
+      "bytes": 107434,
+      "current_packaged_sha256": "7c3a14935e62b12dfc68b07cf20b6d53d638f50107f4005b8fadce4a2ff1644d",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/i_want_sleep_v17.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/43_i_want_sleep_v17.csv",
+      "sha256": "f8d96b180d212d4cf9879fb3021b21347aa471da85d37cb61090aa21204d7a8c",
+      "bytes": 107434,
+      "current_packaged_sha256": "f8d96b180d212d4cf9879fb3021b21347aa471da85d37cb61090aa21204d7a8c",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/i_want_sleep_v16.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/44_i_want_sleep_v16.csv",
+      "sha256": "b41fcfac557babe8ad37f098e698e1cfd5728fd5dd9443a8c4ab62649352dae3",
+      "bytes": 107434,
+      "current_packaged_sha256": "b41fcfac557babe8ad37f098e698e1cfd5728fd5dd9443a8c4ab62649352dae3",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/i_want_sleep_v15.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/45_i_want_sleep_v15.csv",
+      "sha256": "7d89e45d9d5a19c8380627ecc78655890884cd6440cf56f6dae800f76749b9ec",
+      "bytes": 107434,
+      "current_packaged_sha256": "7d89e45d9d5a19c8380627ecc78655890884cd6440cf56f6dae800f76749b9ec",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/fuking_last_v14.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/46_fuking_last_v14.csv",
+      "sha256": "ef25a2bd6a6e6c8bca28428e33e88a3d2bf80d722d9dd11f44b8ccb5828a65f3",
+      "bytes": 107434,
+      "current_packaged_sha256": "ef25a2bd6a6e6c8bca28428e33e88a3d2bf80d722d9dd11f44b8ccb5828a65f3",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/fuking_supple.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/47_fuking_supple.csv",
+      "sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+      "bytes": 107434,
+      "current_packaged_sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_gemma5_jongseo_changyeop_weighted.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/48_submission_gemma5_jongseo_changyeop_weighted.csv",
+      "sha256": "300bdf57c4420558a44933eb8790d980eefa150b6eb27dcdbb8721bb97052472",
+      "bytes": 107434,
+      "current_packaged_sha256": "300bdf57c4420558a44933eb8790d980eefa150b6eb27dcdbb8721bb97052472",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_gemma4 (5).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/49_submission_gemma4 (5).csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "bytes": 107434,
+      "current_packaged_sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/supple_submission.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/50_supple_submission.csv",
+      "sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "bytes": 107434,
+      "current_packaged_sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/Fuging_last_v13.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/51_Fuging_last_v13.csv",
+      "sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "bytes": 107434,
+      "current_packaged_sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/_20260921T001126826670Z-full-none_submission (3).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/52__20260921T001126826670Z-full-none_submission (3).csv",
+      "sha256": "573fdf91615ccff7ae9c9a7afeed54d9cc218fa61343eebdb023c0f13f1de1fe",
+      "bytes": 114152,
+      "current_packaged_sha256": "573fdf91615ccff7ae9c9a7afeed54d9cc218fa61343eebdb023c0f13f1de1fe",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/submission_gemma4 (6).csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/53_submission_gemma4 (6).csv",
+      "sha256": "d458883be9d7cff46b340c6371a65e07cff361abc46b622eb5bb97289c2d4d40",
+      "bytes": 107434,
+      "current_packaged_sha256": "d458883be9d7cff46b340c6371a65e07cff361abc46b622eb5bb97289c2d4d40",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_01.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/54_wlemed_probe_01.csv",
+      "sha256": "55a2b203cea88c4fae89992512db900e24de3ad4b22eef77d269b29fc17d0cae",
+      "bytes": 107434,
+      "current_packaged_sha256": "55a2b203cea88c4fae89992512db900e24de3ad4b22eef77d269b29fc17d0cae",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_02.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/55_wlemed_probe_02.csv",
+      "sha256": "1d954b82ac61063bc5816f213351336e46cf2ac130a4e38af7038b3b5cad9a16",
+      "bytes": 107434,
+      "current_packaged_sha256": "1d954b82ac61063bc5816f213351336e46cf2ac130a4e38af7038b3b5cad9a16",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_03.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/56_wlemed_probe_03.csv",
+      "sha256": "863d22f6fbd2481e4b5ca1f07e01f0b80357ddf505a8a1c4a52177e5cfaf24d2",
+      "bytes": 107434,
+      "current_packaged_sha256": "863d22f6fbd2481e4b5ca1f07e01f0b80357ddf505a8a1c4a52177e5cfaf24d2",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_04.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/57_wlemed_probe_04.csv",
+      "sha256": "6a56bd5d27c3df3e7cbaafe431d622c2301f1b1acaa192bb03c73d5045e7b8b6",
+      "bytes": 107434,
+      "current_packaged_sha256": "6a56bd5d27c3df3e7cbaafe431d622c2301f1b1acaa192bb03c73d5045e7b8b6",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_05.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/58_wlemed_probe_05.csv",
+      "sha256": "6ef1249990fd30ec89337c7d3b46ac859cea179428bac4bf8bbbdf6e9222aec7",
+      "bytes": 107434,
+      "current_packaged_sha256": "6ef1249990fd30ec89337c7d3b46ac859cea179428bac4bf8bbbdf6e9222aec7",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_06.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/59_wlemed_probe_06.csv",
+      "sha256": "bf22cc00bb095efc95b70777e5066b6ee28a814b56abe3cd68fe53f3d46010e3",
+      "bytes": 107434,
+      "current_packaged_sha256": "bf22cc00bb095efc95b70777e5066b6ee28a814b56abe3cd68fe53f3d46010e3",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/wlemed_18changed.csv",
+      "packaged_path": "02_input_snapshots/scored_submissions_60/60_wlemed_18changed.csv",
+      "sha256": "9e5ae760a0c694d62fff7cbfd893fac8dee119eba9a13627bdfce2b113ae26b4",
+      "bytes": 107434,
+      "current_packaged_sha256": "9e5ae760a0c694d62fff7cbfd893fac8dee119eba9a13627bdfce2b113ae26b4",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs.json",
+      "packaged_path": "02_input_snapshots/validation_data/inputs.json",
+      "sha256": "2b2637b37a039aa9513be3141454bf9193ec474c0f3332bb958eb8d125d8714a",
+      "bytes": 4994,
+      "current_packaged_sha256": "6ccedab136e2fd278c5a20c8b2a325325cfefc5d17b2a09104cabe333a1cbc35",
+      "current_packaged_bytes": 4994
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/settings.json",
+      "packaged_path": "02_input_snapshots/validation_data/settings.json",
+      "sha256": "111db63439edd7a820b0340a92c7feec5dc713382cbed1b10639ff38d1fd665e",
+      "bytes": 2484,
+      "current_packaged_sha256": "111db63439edd7a820b0340a92c7feec5dc713382cbed1b10639ff38d1fd665e",
+      "current_packaged_bytes": 2484
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/validation.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/validation.csv",
+      "sha256": "7ad8463d372129e327996f4633469b7956e3f1134b149282fd9c41618c5c46a4",
+      "bytes": 199886,
+      "current_packaged_sha256": "7ad8463d372129e327996f4633469b7956e3f1134b149282fd9c41618c5c46a4",
+      "current_packaged_bytes": 199886
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/test_questions.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/test_questions.csv",
+      "sha256": "1a0a95ecf94202d1139c473f5be1fca7d9171b51e91386aac53720859f3c09b2",
+      "bytes": 614564,
+      "current_packaged_sha256": "1a0a95ecf94202d1139c473f5be1fca7d9171b51e91386aac53720859f3c09b2",
+      "current_packaged_bytes": 614564
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_01.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_01.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "bytes": 114152,
+      "current_packaged_sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_02.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_02.csv",
+      "sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "bytes": 107437,
+      "current_packaged_sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_03.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_03.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "bytes": 107434,
+      "current_packaged_sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_04.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_04.csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "bytes": 107434,
+      "current_packaged_sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_05.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_05.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "bytes": 107434,
+      "current_packaged_sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "current_packaged_bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_06.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_06.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "bytes": 107437,
+      "current_packaged_sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_07.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_07.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "bytes": 114152,
+      "current_packaged_sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_08.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_08.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "bytes": 114152,
+      "current_packaged_sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "current_packaged_bytes": 114152
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_09.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_09.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "bytes": 107437,
+      "current_packaged_sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/type_based_ensemble/inputs/model_10.csv",
+      "packaged_path": "02_input_snapshots/validation_data/inputs/model_10.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "bytes": 107437,
+      "current_packaged_sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "current_packaged_bytes": 107437
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/reference_matching_experiment/input_manifest.json",
+      "packaged_path": "02_input_snapshots/initial_model_source_manifest.json",
+      "sha256": "0f26cbbee759c2f24d403bbb3125482078cec77c6360780d1085eee9d124a013",
+      "bytes": 27312,
+      "current_packaged_sha256": "2675eff0c50fc09d87daa8d8bf39acb8b4f614decc30da0e845de47d0cbea891",
+      "current_packaged_bytes": 27504
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/addendum.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/addendum.json",
+      "sha256": "8d48df07a603bc7d7c3f0cd6b336c8f2a05cc79a22d0a1fa072e8c9df6210b6e",
+      "bytes": 4819
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/addendum.py",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/addendum.py",
+      "sha256": "649662a94ac15027e2be8246537cbb8cc034e3f7fd170d71db9c21cee035b23a",
+      "bytes": 5758
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/all_inputs_check.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/all_inputs_check.json",
+      "sha256": "143ef65d08f4a2f41c0cbf9e15e325745a3252b4585271100ba250ef57d413fb",
+      "bytes": 448
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/all_inputs_check.py",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/all_inputs_check.py",
+      "sha256": "517dd911431f3d3b568dae8da2627004fac5ae8064192cf26708c66a81004de0",
+      "bytes": 2129
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/audit.py",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/audit.py",
+      "sha256": "e040409af240e6bb48d1110ffc57e8fdda5b30f4667ebf8a9657c20d0eb2a786",
+      "bytes": 6729
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/audit_arrays.npz",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/audit_arrays.npz",
+      "sha256": "6ee832093f2906098106f8d0131949e19498abf9ca0f745d220fbb7610da79d8",
+      "bytes": 70629
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/audit_summary.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/audit_summary.json",
+      "sha256": "881e3752c7c96658bee9ccd31e728657be00dd6fa1055ad254444546765d6e89",
+      "bytes": 86766
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/duplicate_groups.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/duplicate_groups.json",
+      "sha256": "413c6657c36dc7414ef7e9a043265e5c58a687059c044b780e38ac045af61013",
+      "bytes": 57239
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/experiment.py",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/experiment.py",
+      "sha256": "28cb86e513b17f617fc9052edbb25ea212a9b5ebd8a812990fc2862842adf5ec",
+      "bytes": 5234
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/experiment_predictions.npz",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/experiment_predictions.npz",
+      "sha256": "e24508447142b3df07cc141d1cc37aaba25305aa359626af90ca6b5cbc7dd81d",
+      "bytes": 39232
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/experiment_results.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/experiment_results.json",
+      "sha256": "b61f17a8887f895e9cf6bdb74481e3ad8edd463eb821d416124f2a2e88f7d2e5",
+      "bytes": 18520
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/file_inventory.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/file_inventory.json",
+      "sha256": "b580698e2d68f5c3d874634c8b300b23bf8b078e1700f401f3f5c1712f10c8e6",
+      "bytes": 160877
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/report.py",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/report.py",
+      "sha256": "066e27ccb042b50821745c58fb2af1da1855210aa98fd52108af6d6a6557d814",
+      "bytes": 14680
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/verification.json",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/verification.json",
+      "sha256": "23518a15fa32fb8af40b97eae6ec7e3786c859374f735d373bc743e18801feb3",
+      "bytes": 247
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/결과.md",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/결과.md",
+      "sha256": "8e56440a5a3e2e94fc2b6d44cb8a1f9bac5a3258e02823d34ccb77b68d7be92e",
+      "bytes": 10660
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/ensemble_feasibility_20260928/전체_CSV_목록.md",
+      "packaged_path": "03_preliminary_analysis/ensemble_feasibility_20260928/전체_CSV_목록.md",
+      "sha256": "5476714346f27a59bd168ff2e5f58a2bc1c8fcef50ede2deafca2d40af9fc1dc",
+      "bytes": 84475
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/12회_제출_실험설계.md",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/12회_제출_실험설계.md",
+      "sha256": "0d978df2d8599a294ed6b306fc5b6516c6b1dba135038c045b888d07266a17a7",
+      "bytes": 6026
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/18개_전체변경_반영분석.md",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/18개_전체변경_반영분석.md",
+      "sha256": "d24bcdedb62d3e38991672e08e6dd50b3820369c41e1887310dca1170838a88a",
+      "bytes": 3619
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/1~5번_중간분석.md",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/1~5번_중간분석.md",
+      "sha256": "fd4007fd365aed610a090f4965a04028a1e8dd6bf71cba031e9c8744df34eb05",
+      "bytes": 1171
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/1~6번_중간분석.md",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/1~6번_중간분석.md",
+      "sha256": "dbab455ff429bb615c9c9221c3bace6260cd80214d2cf859a1f0fab62d5d69ce",
+      "bytes": 3562
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/active_probe_config.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/active_probe_config.json",
+      "sha256": "62e6d0b43fe9e219967c4aab03f8976d65ef56d9cdc607b8d732ed7b0b3eebd4",
+      "bytes": 3555
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/analyze_probe_feedback.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/analyze_probe_feedback.py",
+      "sha256": "8ea2d804f7cdb22f049ab878442a7c77dff46c305932e0a8725712733d25ad5c",
+      "bytes": 5787
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/audit.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/audit.py",
+      "sha256": "d76e6d293064e934c7fa0320599a6c420fa31346956906fe14b1ba5111883231",
+      "bytes": 5349
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/build_fixed12.mjs",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/build_fixed12.mjs",
+      "sha256": "05cd0e04a7c908e05c847f786a7b4b3a93e6c377b8cedaab721ccc33a6e2f696",
+      "bytes": 4376
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/direct_public_evidence.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/direct_public_evidence.json",
+      "sha256": "65347d351d02d34400246ce522abfe5e0e5f5e71bee20d61ec01406d69d71ac6",
+      "bytes": 5409
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/fixed12_plan.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/fixed12_plan.json",
+      "sha256": "4d4a8a7ba6b2750e2e0e0c594de730e5462b498f1cac63e1a98b4d2d272b2a0d",
+      "bytes": 29742
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/integer_witnesses.npz",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/integer_witnesses.npz",
+      "sha256": "c751cccc2535702ac8b4df5362aca959f3d8b0f9e85a7f58a71670a455153637",
+      "bytes": 43139
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/inventory.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/inventory.json",
+      "sha256": "62d58e4a18f0c42eedb893bde5e4e3c7b09e22d4d0373dfb79cf3f7c1bf54beb",
+      "bytes": 57857
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/inventory_summary.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/inventory_summary.json",
+      "sha256": "fda2af8a949ccdcc2f440bbca27db53a8a26344c7ece8ae9d3f7d58fc63dbb83",
+      "bytes": 485
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/plan_fixed12.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/plan_fixed12.py",
+      "sha256": "6e46355c0ce9248be9cf477fd7a92b93d12631e95fdd8db524dc4b2864e71109",
+      "bytes": 2946
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_adaptive_research.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_adaptive_research.json",
+      "sha256": "60d21debb7a969a88fd612a60f39f5ca621749fb7b803450e9bb52cdef56e481",
+      "bytes": 18789
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_adaptive_research.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_adaptive_research.py",
+      "sha256": "3bc81612359adaef8e9a7168262264943484a02aca618b05663acef02424977e",
+      "bytes": 2892
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_design_research.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_design_research.py",
+      "sha256": "99b4fb4738b4bf101127d285899b0cc6876471048a7a57413e95c05428cf94ba",
+      "bytes": 2719
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_feedback.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_feedback.json",
+      "sha256": "1ad388af866639c3392fe3046844460302c9a8cd91392054b248743b11361aff",
+      "bytes": 769
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_feedback_analysis.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis.json",
+      "sha256": "c3b5f33cefc91c0635e9da6e66f28be180038b49bbeccee8a242383fc0f7bbf3",
+      "bytes": 10849
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_feedback_analysis_after_05.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis_after_05.json",
+      "sha256": "bf12d7b276913ce8e215c2f1caac035212fff6ba4837151d81fb8716e238e5f5",
+      "bytes": 9795
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_feedback_analysis_after_06.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis_after_06.json",
+      "sha256": "765056231bc4b096a850e5db8d1e13e76c79730728926c7cbd00a2dde23bf1c4",
+      "bytes": 10324
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_feedback_analysis_after_all18.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis_after_all18.json",
+      "sha256": "c3b5f33cefc91c0635e9da6e66f28be180038b49bbeccee8a242383fc0f7bbf3",
+      "bytes": 10849
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/probe_research.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/probe_research.json",
+      "sha256": "1d737cfbfc895b7d53b49001b27c71e7f88121bd3a7bcef2d8f0113a1481147d",
+      "bytes": 21942
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/report.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/report.py",
+      "sha256": "871f4af2860b7a6e1538f36a6aed4216ceb031d30f692e0f27e8853abb16d077",
+      "bytes": 7179
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/report_probe_feedback.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/report_probe_feedback.py",
+      "sha256": "7c067149d2de004472635dfe9629e7de36f8c2c80d892fae769c1b44769afec6",
+      "bytes": 2590
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/score_records.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/score_records.json",
+      "sha256": "b53c9e454f09cbada8e2d0789f7856229f5cac634dea543063a8dcab016e4859",
+      "bytes": 23621
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/small_change_pairs.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/small_change_pairs.json",
+      "sha256": "d31a678915b08d3c745edfaca325d6d03d5353cf7a4fd0c562acaf5af52b1554",
+      "bytes": 47439
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/solve.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/solve.py",
+      "sha256": "58bbcc4df314a758ec843afa0b3c22663bacefaeadb8483da31668849f942112",
+      "bytes": 5535
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/split_inference.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/split_inference.json",
+      "sha256": "24684b6ab7b680fd77c6116c93e73ba9f9c6348b87283c0ad59ac0c84c5fb5fc",
+      "bytes": 886058
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/unresolved_score_records.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/unresolved_score_records.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/verify_fixed12.py",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/verify_fixed12.py",
+      "sha256": "a3e8fa66603fb1c17216a6385f647ce4d370ff7ea0d8ffafbad769e637a79618",
+      "bytes": 3645
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/manifest.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/manifest.json",
+      "sha256": "f276c0c9c2ecfb8043e8ec83e729e0bf6dc355ae70a9ec13b6ac5594cdd0b855",
+      "bytes": 31563
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/verification.json",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/verification.json",
+      "sha256": "5a6dbfce167711182231f048a5f30617d00a7ea798bdeaaa2a3931ed91842ef8",
+      "bytes": 2718
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_01.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_01.csv",
+      "sha256": "55a2b203cea88c4fae89992512db900e24de3ad4b22eef77d269b29fc17d0cae",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_02.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_02.csv",
+      "sha256": "1d954b82ac61063bc5816f213351336e46cf2ac130a4e38af7038b3b5cad9a16",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_03.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_03.csv",
+      "sha256": "863d22f6fbd2481e4b5ca1f07e01f0b80357ddf505a8a1c4a52177e5cfaf24d2",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_04.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_04.csv",
+      "sha256": "6a56bd5d27c3df3e7cbaafe431d622c2301f1b1acaa192bb03c73d5045e7b8b6",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_05.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_05.csv",
+      "sha256": "6ef1249990fd30ec89337c7d3b46ac859cea179428bac4bf8bbbdf6e9222aec7",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_06.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_06.csv",
+      "sha256": "bf22cc00bb095efc95b70777e5066b6ee28a814b56abe3cd68fe53f3d46010e3",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_07.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_07.csv",
+      "sha256": "41f5b9f7fd0e397fae9ab21ed86ad2c88ea4023a2373c724e9190149f3044856",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_08.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_08.csv",
+      "sha256": "2285f082058cb18d0162535e02e9a6b7187c298bf1860ebbd9a8995677c57b52",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_09.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_09.csv",
+      "sha256": "0463c2b89e5f1d2714825f786f691c0e91c6ade43bbb19b388dde01b2672c0a9",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_10.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_10.csv",
+      "sha256": "e64d5eb087372a83dec0ec4ca3c6f3777b2cf2f77b69a3eec3e2e9d33ce4ce53",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_11.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_11.csv",
+      "sha256": "d6ecfb4cccd82c947a4da438235ec321f70cf2784440b934e60d7c3d6e1b14ae",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_12.csv",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_12.csv",
+      "sha256": "d8825f798da608b1fa57d4284182b09967095c0ddd00a7d0456f94a23181878d",
+      "bytes": 107434
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/실험_안내.md",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/실험_안내.md",
+      "sha256": "08173e51e9a1693a2b01ef9e510fcec04b426d926b92cba01686572372e16d96",
+      "bytes": 2966
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927/점수_기록.txt",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/점수_기록.txt",
+      "sha256": "89b18e123e4e1903afaa50037892803ac84aa2bed22545d6fab2c3da0484cbf1",
+      "bytes": 276
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/wlemed_12probes_20260927.zip",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927.zip",
+      "sha256": "ef2cbc81656433d4b7a6dd59662f28ccb9e0ed8a7abf6e30992b59038d5454c9",
+      "bytes": 218135
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/score_audit_20260927/분석_결과.md",
+      "packaged_path": "03_preliminary_analysis/score_audit_20260927/분석_결과.md",
+      "sha256": "f145d8676d2c65c4512ccfd99d08ddd45efc8266256205a2f848a0e2dc790489",
+      "bytes": 10243
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/VQA_앙상블_솔루션_공유글.md",
+      "packaged_path": "04_posts/VQA_ensemble_solution_post.md",
+      "sha256": "aade7e6fa98cc31e5babc45815f9f79a3a7a6631df02aa728f6f83b4d7dee43e",
+      "bytes": 15812
+    },
+    {
+      "source": "/Users/yunjongseo/Downloads/종서 숙제/VQA_앙상블_솔루션_게시판용.html",
+      "packaged_path": "04_posts/VQA_ensemble_solution_post.html",
+      "sha256": "5f57749c99fb5fc4ebe37dc358258f7a57fae0100717d3ed06c851f6d79662b8",
+      "bytes": 20913
+    }
+  ],
+  "missing_before_rename": [
+    "03_preliminary_analysis/ensemble_feasibility_20260928/addendum.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/addendum.py",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/all_inputs_check.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/all_inputs_check.py",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/audit.py",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/audit_arrays.npz",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/audit_summary.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/duplicate_groups.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/experiment.py",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/experiment_predictions.npz",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/experiment_results.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/file_inventory.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/report.py",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/verification.json",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/결과.md",
+    "03_preliminary_analysis/ensemble_feasibility_20260928/전체_CSV_목록.md",
+    "03_preliminary_analysis/score_audit_20260927/12회_제출_실험설계.md",
+    "03_preliminary_analysis/score_audit_20260927/18개_전체변경_반영분석.md",
+    "03_preliminary_analysis/score_audit_20260927/1~5번_중간분석.md",
+    "03_preliminary_analysis/score_audit_20260927/1~6번_중간분석.md",
+    "03_preliminary_analysis/score_audit_20260927/active_probe_config.json",
+    "03_preliminary_analysis/score_audit_20260927/analyze_probe_feedback.py",
+    "03_preliminary_analysis/score_audit_20260927/audit.py",
+    "03_preliminary_analysis/score_audit_20260927/build_fixed12.mjs",
+    "03_preliminary_analysis/score_audit_20260927/direct_public_evidence.json",
+    "03_preliminary_analysis/score_audit_20260927/fixed12_plan.json",
+    "03_preliminary_analysis/score_audit_20260927/integer_witnesses.npz",
+    "03_preliminary_analysis/score_audit_20260927/inventory.json",
+    "03_preliminary_analysis/score_audit_20260927/inventory_summary.json",
+    "03_preliminary_analysis/score_audit_20260927/plan_fixed12.py",
+    "03_preliminary_analysis/score_audit_20260927/probe_adaptive_research.json",
+    "03_preliminary_analysis/score_audit_20260927/probe_adaptive_research.py",
+    "03_preliminary_analysis/score_audit_20260927/probe_design_research.py",
+    "03_preliminary_analysis/score_audit_20260927/probe_feedback.json",
+    "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis.json",
+    "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis_after_05.json",
+    "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis_after_06.json",
+    "03_preliminary_analysis/score_audit_20260927/probe_feedback_analysis_after_all18.json",
+    "03_preliminary_analysis/score_audit_20260927/probe_research.json",
+    "03_preliminary_analysis/score_audit_20260927/report.py",
+    "03_preliminary_analysis/score_audit_20260927/report_probe_feedback.py",
+    "03_preliminary_analysis/score_audit_20260927/score_records.json",
+    "03_preliminary_analysis/score_audit_20260927/small_change_pairs.json",
+    "03_preliminary_analysis/score_audit_20260927/solve.py",
+    "03_preliminary_analysis/score_audit_20260927/split_inference.json",
+    "03_preliminary_analysis/score_audit_20260927/unresolved_score_records.json",
+    "03_preliminary_analysis/score_audit_20260927/verify_fixed12.py",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/manifest.json",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/verification.json",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_01.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_02.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_03.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_04.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_05.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_06.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_07.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_08.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_09.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_10.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_11.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/wlemed_probe_12.csv",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/실험_안내.md",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927/점수_기록.txt",
+    "03_preliminary_analysis/score_audit_20260927/wlemed_12probes_20260927.zip",
+    "03_preliminary_analysis/score_audit_20260927/분석_결과.md",
+    "04_posts/VQA_ensemble_solution_post.md",
+    "04_posts/VQA_ensemble_solution_post.html"
+  ],
+  "rename_note": "sha256 preserves original copy hashes. current_packaged_sha256 records current bytes after internal path updates. Missing entries predate this rename."
+}

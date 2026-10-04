@@ -1,0 +1,867 @@
+{
+  "models": [
+    {
+      "name": "종서 Qwen 4B",
+      "path": "initial_model_csvs/jongseo_qwen3vl4b_submission.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "answer_sha256": "c13d1027cd36591fd7f3d24627a33b3790ee1e914b0d7c89201dbb5d5d06770c",
+      "group": "initial_models"
+    },
+    {
+      "name": "종서 Qwen 8B",
+      "path": "initial_model_csvs/yoon_jongseo_20260925T102849954716Z-full-low_lr_submission (1).csv",
+      "sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "answer_sha256": "936b3022027cc66fb8466d64954f47105af4dc1cb9969f29b3193d6c5013d757",
+      "group": "initial_models"
+    },
+    {
+      "name": "종서 Gemma 26B",
+      "path": "initial_model_csvs/jongseo_gemma4_submission.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "answer_sha256": "c966865e6f23dac3f99d41d1d8d6b6de8df1d49f317796e9093b768f21fe0721",
+      "group": "initial_models"
+    },
+    {
+      "name": "종서 Gemma 31B",
+      "path": "initial_model_csvs/submission_gemma4 (5).csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "answer_sha256": "3248bc24c876b82ea4996d88557198706c55ddfd2999c91e93f80f72f2fb03c2",
+      "group": "initial_models"
+    },
+    {
+      "name": "창엽 Qwen 27B",
+      "path": "initial_model_csvs/changyeop_qwen3827b_submission.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "answer_sha256": "2a3f797ef4990c1d99b118535b1c85d0043158dc2c110e152c3b86dcd5cb6926",
+      "group": "initial_models"
+    },
+    {
+      "name": "창엽 122B",
+      "path": "initial_model_csvs/122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "answer_sha256": "505392b90ce67a762a6086ccbb84d0befbb93c7058d9231a9f0ebf145d5d97c4",
+      "group": "initial_models"
+    },
+    {
+      "name": "소향 Qwen 9B",
+      "path": "initial_model_csvs/sohyang_qwen359b_submission.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "answer_sha256": "b7b6df2cff21b26e3bc7d5983a5b0547c96f00b41677800686e40525ec85df2a",
+      "group": "initial_models"
+    },
+    {
+      "name": "정아 Qwen 4B",
+      "path": "initial_model_csvs/jeonga_qwen354b_submission.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "answer_sha256": "18a013f5b46e4aa35e0c73b429a18bf8f7031a0e93d5c66429606059836b8c73",
+      "group": "initial_models"
+    },
+    {
+      "name": "Ling3-VL INT4",
+      "path": "initial_model_csvs/ling3_vl_int4_submission.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "answer_sha256": "b50bab97523979994506cdff2bd836696806764de8c9e1ae38fac7182879da51",
+      "group": "initial_models"
+    },
+    {
+      "name": "GLM-4.6V AWQ4",
+      "path": "initial_model_csvs/glm46v_awq4_submission.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "answer_sha256": "458fd6bc3a5ffbcd8a0a4a2dc7e8fb5b09fe4c5d0785f710036f6e1778c1a9fc",
+      "group": "initial_models"
+    }
+  ],
+  "history": [
+    {
+      "key": "history_001",
+      "name": "fuking_last_v3_source.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v4_v7_20260925/fuking_last_v3_source.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "answer_sha256": "3d0ad07725c106369cebded300535c69407daff97b109b37370afe20864c565f",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_002",
+      "name": "fuking_last_v4.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v4_v7_20260925/fuking_last_v4.csv",
+      "sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "answer_sha256": "b1b767ef1f4a05fc9161e17a7ff3a4d8a31da529f10b0996621e51a41d669bea",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_003",
+      "name": "fuking_last_v5.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v4_v7_20260925/fuking_last_v5.csv",
+      "sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "answer_sha256": "61a5336d3fde4ca16d4c9e3c783fdd6f6078a72eb685b5f15f7e921859dd5b09",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_004",
+      "name": "fuking_last_v6.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v4_v7_20260925/fuking_last_v6.csv",
+      "sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "answer_sha256": "c20a390be36965c23b9d0373665c1e15d48d60c1dfa71cbec4dd69fecfffb3b0",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_005",
+      "name": "fuking_last_v7.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v4_v7_20260925/fuking_last_v7.csv",
+      "sha256": "9e4fe0acda6e6977aa85387a80ff34c8b10eebc33635a0e711ca91d239e86440",
+      "answer_sha256": "37670ed1ac720383bd2e42ab32ca67020afb1b3243b83a6423966afaef23d979",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_006",
+      "name": "Fuging_last_v13.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/Fuging_last_v13.csv",
+      "sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "answer_sha256": "e3f71d7dca146ca81f4a2115ac6f0f2c02ca6a3f76d6b1ade4603f7670f4a194",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_007",
+      "name": "fuking_last_v10.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v10.csv",
+      "sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "answer_sha256": "57d694e9ca87eab6a1e82ca3f9966bb52f4d807557413432ff00f0478fe1f1fc",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_008",
+      "name": "fuking_last_v11.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v11.csv",
+      "sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "answer_sha256": "cc82b2cab553119bddfa97fd072df4d7bec746e5efc1b2041bb46ee5a07c866d",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_009",
+      "name": "fuking_last_v12.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v12.csv",
+      "sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "answer_sha256": "ef89d2ff42dada71661cf03041372066f694fe594d08fd996b9bc4e9e6c64a2c",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_010",
+      "name": "fuking_last_v13.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v13.csv",
+      "sha256": "51805b732d170d8094242a983ffce1e9f05d0230fb30dc50342c2ebceaebcb68",
+      "answer_sha256": "66001cf714fd0c75ee195c9c9ea143038b13f2b743f0fe34797e4785aa308acc",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_011",
+      "name": "fuking_last_v14.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v14.csv",
+      "sha256": "8893e0387ffb3801c9dd1d6a8e3dee8c6302a7e3676edf95bce21414d8a6b7ad",
+      "answer_sha256": "71c6eccc02809330b74b8eb8f6864d515f690e837ed71f8426b57d7c79a35354",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_012",
+      "name": "fuking_last_v15.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v15.csv",
+      "sha256": "07c97f28dd082efa23936f1bfd1504f0e762364c390fd3174fcac9538bfcbeeb",
+      "answer_sha256": "bf43c91d5c879912abd6b9edf89d2423723d94c53c93d7778a78ae70ca952107",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_013",
+      "name": "fuking_last_v16.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v16.csv",
+      "sha256": "3de063327559ffcc5bfd48c317be173e3307017c5e7c3ced947ad8dea2a8cd50",
+      "answer_sha256": "53e28d33de3d2826e72d850094d56eb15ccfc4edd05618e701a221d0c7fe83e8",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_014",
+      "name": "fuking_last_v17.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v17.csv",
+      "sha256": "a193278413d9a1e63a40ab0a265cf41f7d67cfad4ec8c17c76e9983b355976f4",
+      "answer_sha256": "70d1a8d26e9d3379bb35a9638fa0da22ca026bd862f80cc7008b83162b137960",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_015",
+      "name": "fuking_last_v18.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v18.csv",
+      "sha256": "9be62626d5ff003ba47772bb0e2d4a3575e7c92704656f099b2e344c61207c0c",
+      "answer_sha256": "abd04ef852bc7b75174ba8a71d243fe57f6a8cd6be61ddcd283c8c553a59c042",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_016",
+      "name": "fuking_last_v19.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v19.csv",
+      "sha256": "4d79bdbec33941395afa1248012011a302f2a0080fe58863f109ea49a2453d92",
+      "answer_sha256": "4b6a39b326d9b17b557f5b8d42f81673d5e736091a3086c999e1c00ee478aa1e",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_017",
+      "name": "fuking_last_v20.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v20.csv",
+      "sha256": "a429afd255efc554c8c432251629e8d15fc3e1c3f3b12a0a9b120ff6866ecb96",
+      "answer_sha256": "4216fdc7aaffc38e18a45d15cbdee2a8d34b53bd3e9581a1b28e1a227f783fbe",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_018",
+      "name": "fuking_last_v21.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v21.csv",
+      "sha256": "63fc3e96e9cb8e96364d7aaba64e81ac3fa6a8e0571395f2a9fecf5a10dc48b5",
+      "answer_sha256": "1a26f1939cc265e46f2becc7e658865463ecffcdd7071563cb33e23d496036d0",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_019",
+      "name": "fuking_last_v22.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v22.csv",
+      "sha256": "c68d638dc5852622e0bf754f96d440f17037d2192e394fc692fb8c48275fa1f6",
+      "answer_sha256": "f6c75fb219807d04e6877a85fc897aa5c8bc349e27dbe1dadeb24ff1a8f84a83",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_020",
+      "name": "fuking_last_v23.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v23.csv",
+      "sha256": "5a57353e36beffa44fd83a5367a9066ef72265c4a6c6795cfd6e306633149f96",
+      "answer_sha256": "59b147127a2e36a8d0de1648488742a609dd37d14ab8c88fba5df281cd919592",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_021",
+      "name": "fuking_last_v24.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v24.csv",
+      "sha256": "dba5191a741849780585720e4e2320596c996f9f55b6188bd9b61806d38e9997",
+      "answer_sha256": "34dbc35d7058963d83f2ca799948b53eb3d6b59dc09a5b67f999678a81f74a28",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_022",
+      "name": "fuking_last_v25.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v25.csv",
+      "sha256": "8118beea623e19b533479350cbc0e2bb84b0383787b5b34a929bd22285384091",
+      "answer_sha256": "5f30190e20eda7e128cd0e7aa427eb9e6c4d4bd5914235d78ded3d669ae6965b",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_023",
+      "name": "fuking_last_v26.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v26.csv",
+      "sha256": "ea1e4a8279b50052a0975ed983d312ba844e89904a00597f571729ad24ca1b37",
+      "answer_sha256": "ae7756a4542412a412a9eda9eaf30567e029ae4d2abb0b643fbf1b6b2d4ea1fe",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_024",
+      "name": "fuking_last_v7.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v7.csv",
+      "sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "answer_sha256": "ecbe48c5b935f52592c022c3b8d31dd10d7c61986ede05d52d95aaa1c95bd96c",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_025",
+      "name": "fuking_last_v8.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v8.csv",
+      "sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "answer_sha256": "670d774463112654646f38c33aa8c337b127ece9cb99270921dae628a9dc43e1",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_026",
+      "name": "fuking_last_v9.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v9.csv",
+      "sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "answer_sha256": "6aa7af3c5a7a77ec6151663b34bd2431fa89e5d001bb2f956b9c2d5d12bcc75c",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_027",
+      "name": "submission_kaggle_weighted_15.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/kaggle_weighted_15_20260925T104958964Z/submission_kaggle_weighted_15.csv",
+      "sha256": "96691043fc505ac27135ccfa742d14773178839e66c5f90462d75d8016b87fc9",
+      "answer_sha256": "a839467d8277c793ffb13f9b4c12c60026a198d1e7dd0958f9f133dbf8680906",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_028",
+      "name": "submission.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/submission.csv",
+      "sha256": "d2c23577b2d81faa36d8da737bed757e6ab4477ea7bdeff25df34be795d85340",
+      "answer_sha256": "6df89a88f1780f05e5bb50b1166344239b88a7db1e68dd3ca2eb3821359ef1af",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_029",
+      "name": "submission_history.csv",
+      "source_path": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_merge/historical_ensemble_csvs/history_029__submission_history.csv",
+      "sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "answer_sha256": "1207c746f7fbf0ef2e44c9e807650e1ccedd6f646ced6efecdfb13990e88b391",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": "",
+      "source_location_note": "Package copy after display-label normalization; original location retained in external backup."
+    },
+    {
+      "key": "history_030",
+      "name": "submission_jongseo_changyeop.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/submission_jongseo_changyeop.csv",
+      "sha256": "c121f3e80610544fac4c42fae23a58a7b7c556a9cc877367a4ed477a187e6394",
+      "answer_sha256": "aee45fb445ba5e69d3039e7acc00c83b99b0aa5317ff38fd507de68c9e841c01",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_031",
+      "name": "submission_primary_gemma_changyeop.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/submission_primary_gemma_changyeop.csv",
+      "sha256": "31f68ead5e098ece486f329e99da117e0181907b3cabd78fbec076fcdfbb0491",
+      "answer_sha256": "0639c28f87865ab864b83826064ffcb8ebfdaeb06b68fc156db8d3ca523b26e2",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_032",
+      "name": "submission_with_122b.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/submission_with_122b.csv",
+      "sha256": "844b68147df70ad62aa651fbbdd3f025f273d790b86dbab3b6559210796c8c77",
+      "answer_sha256": "19ba912b84390305ec46947f729d6ae19ba54f724eb5296978390cfe2a72159c",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_033",
+      "name": "submission_with_jeonga.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/submission_with_jeonga.csv",
+      "sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+      "answer_sha256": "009069c5e56f0fff07aa5de0980f4c9d3dc0fd90e08b8ae52095b802cff8adea",
+      "group": "historical_results",
+      "source_kind": "merge_results_history",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_034",
+      "name": "fuking_last_v14.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/fuking_last_v14.csv",
+      "sha256": "ef25a2bd6a6e6c8bca28428e33e88a3d2bf80d722d9dd11f44b8ccb5828a65f3",
+      "answer_sha256": "66e53562efbdc0d2c57014b3ee051dd9e3b4ac413182d98beb523e9fb21e1c2e",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_035",
+      "name": "i_want_sleep_v15.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/i_want_sleep_v15.csv",
+      "sha256": "7d89e45d9d5a19c8380627ecc78655890884cd6440cf56f6dae800f76749b9ec",
+      "answer_sha256": "dcfcfe8c7cf126c574feb460335d8cbc4dfebdda00b98fc8bd495fc3240040ec",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_036",
+      "name": "i_want_sleep_v16.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/i_want_sleep_v16.csv",
+      "sha256": "b41fcfac557babe8ad37f098e698e1cfd5728fd5dd9443a8c4ab62649352dae3",
+      "answer_sha256": "1a5905687fc308f33f03c80aba7b242bc859b3075c2122052dc681d49e00bf78",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_037",
+      "name": "i_want_sleep_v17.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/i_want_sleep_v17.csv",
+      "sha256": "f8d96b180d212d4cf9879fb3021b21347aa471da85d37cb61090aa21204d7a8c",
+      "answer_sha256": "c473934e412dcd6718d8d6d99df5a5444f2795da34a199a288a653618616d2ce",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_038",
+      "name": "mori.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/mori.csv",
+      "sha256": "824fde8e1374a0a6990a8f857f9c58ac567c2801ce4b97cc214ccb2ad31bed84",
+      "answer_sha256": "b6aee2b5b8c1ca40825d32b635b9d5efb79c07d03dbd2637a5b9b05497e5514f",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_039",
+      "name": "mori_v19.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/mori_v19.csv",
+      "sha256": "06173efb76ed6dc298679fda6633c7f5b0bc99a47dd48844b58240aabde3f9d1",
+      "answer_sha256": "6855dca0a5d207de385450d960fdbca4109b3b7090a1083639d9614acddcd933",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_040",
+      "name": "supple_A_variant_8.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/supple_A_variant_8.csv",
+      "sha256": "5988a87e1b093cdaf587665e927756e380a58e9bfb76750f790f14115ed4560d",
+      "answer_sha256": "cc0d7ce6062388d4a34c8165934b9068b5bd92b6a91b2f25e35eaafd1fb7c13c",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_041",
+      "name": "supple_B_semantic_13.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/supple_B_semantic_13.csv",
+      "sha256": "1c5e8ab5493b128fdfb6666bc1302093e411367f5569facadcbf81b172ae38d2",
+      "answer_sha256": "c7782fee22bb128fe82fcb1cf8255758df8c28ea3c7de3b4c1795dae81d07370",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_042",
+      "name": "supple_C_exploratory_16.csv",
+      "source_path": "/Users/yunjongseo/Downloads/종서 숙제/supple_candidates_20260926/supple_C_exploratory_16.csv",
+      "sha256": "376f5bc84f1eb1bbe333ace07bff45a389e1053850d37470bcc8496251b6d8a1",
+      "answer_sha256": "56363151725cd9856fe8ec363ab943efe4d5d3b685d977b36a1761187498978b",
+      "group": "historical_results",
+      "source_kind": "historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_043",
+      "name": "fuking_supple (1).csv",
+      "source_path": "/Users/yunjongseo/Downloads/fuking_supple (1).csv",
+      "sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+      "answer_sha256": "8cf592f6cb4dffed63d2d5a2d7fa34e4949953be77f7f57cb342865cf5030ae7",
+      "group": "historical_results",
+      "source_kind": "downloads_historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_044",
+      "name": "i_want_sleep_v18 (1).csv",
+      "source_path": "/Users/yunjongseo/Downloads/i_want_sleep_v18 (1).csv",
+      "sha256": "7c3a14935e62b12dfc68b07cf20b6d53d638f50107f4005b8fadce4a2ff1644d",
+      "answer_sha256": "e07af508d7fc78f1e8ff6a8700b860d5d3c2af4d2ce6e53e63efdf42fd78640b",
+      "group": "historical_results",
+      "source_kind": "downloads_historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_045",
+      "name": "supple_submission (1).csv",
+      "source_path": "/Users/yunjongseo/Downloads/supple_submission (1).csv",
+      "sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "answer_sha256": "8be864f40f5da9c75ecfcdaa3e4ccf182c2b06f0dc4318a73f9e133f204797a7",
+      "group": "historical_results",
+      "source_kind": "downloads_historical_submission",
+      "provenance_note": ""
+    },
+    {
+      "key": "history_046",
+      "name": "submission_gemma5_jongseo_changyeop_weighted (1).csv",
+      "source_path": "/Users/yunjongseo/Downloads/submission_gemma5_jongseo_changyeop_weighted (1).csv",
+      "sha256": "300bdf57c4420558a44933eb8790d980eefa150b6eb27dcdbb8721bb97052472",
+      "answer_sha256": "b3d77f7ee8a38cd2a066c6ed35e2c80d9002ffca8cbda5778d8916e568917a0c",
+      "group": "historical_results",
+      "source_kind": "downloads_historical_submission",
+      "provenance_note": ""
+    }
+  ],
+  "excluded": [
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/disagreements_three_people.csv",
+      "reason": "not submission columns"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/fuking_last_v6_reference.csv",
+      "sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_004"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/fuking_last_v7_v26_20260925/previous/fuking_last_v7_old_3108b.csv",
+      "sha256": "9e4fe0acda6e6977aa85387a80ff34c8b10eebc33635a0e711ca91d239e86440",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_005"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/gemma_changyeop_disagreements.csv",
+      "reason": "not submission columns"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/_disagreements.csv",
+      "reason": "not submission columns"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/_needs_check.csv",
+      "reason": "not submission columns"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/종서 숙제/merge_results/jongseo_changyeop_disagreements_all.csv",
+      "reason": "not submission columns"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last (1).csv",
+      "sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_029"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last.csv",
+      "sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_029"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v10 (1).csv",
+      "sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_007"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v10.csv",
+      "sha256": "b47f8bbacebb3c949ecc40917482d6e1e1cdc21ab7ca1744e3c1e81fcecb548c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_007"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v11 (1).csv",
+      "sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_008"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v11.csv",
+      "sha256": "a98f0a4b6c72419087c10de2eb6a121b16e9b8dd167de7c4262efb5522291927",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_008"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v12 (1).csv",
+      "sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_009"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v12.csv",
+      "sha256": "40299aa31e7a2ec7f041a01a49e5e563197c5ec0e3842e7c5855a52e61a088c2",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_009"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v13.csv",
+      "sha256": "51805b732d170d8094242a983ffce1e9f05d0230fb30dc50342c2ebceaebcb68",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_010"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v14 (1).csv",
+      "sha256": "ef25a2bd6a6e6c8bca28428e33e88a3d2bf80d722d9dd11f44b8ccb5828a65f3",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_034"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v14.csv",
+      "sha256": "8893e0387ffb3801c9dd1d6a8e3dee8c6302a7e3676edf95bce21414d8a6b7ad",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_011"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v15.csv",
+      "sha256": "07c97f28dd082efa23936f1bfd1504f0e762364c390fd3174fcac9538bfcbeeb",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_012"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v16.csv",
+      "sha256": "3de063327559ffcc5bfd48c317be173e3307017c5e7c3ced947ad8dea2a8cd50",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_013"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v17.csv",
+      "sha256": "a193278413d9a1e63a40ab0a265cf41f7d67cfad4ec8c17c76e9983b355976f4",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_014"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v18.csv",
+      "sha256": "9be62626d5ff003ba47772bb0e2d4a3575e7c92704656f099b2e344c61207c0c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_015"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v19.csv",
+      "sha256": "4d79bdbec33941395afa1248012011a302f2a0080fe58863f109ea49a2453d92",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_016"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v2 (1).csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_001"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v2.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_001"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v20.csv",
+      "sha256": "a429afd255efc554c8c432251629e8d15fc3e1c3f3b12a0a9b120ff6866ecb96",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_017"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v21.csv",
+      "sha256": "63fc3e96e9cb8e96364d7aaba64e81ac3fa6a8e0571395f2a9fecf5a10dc48b5",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_018"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v22.csv",
+      "sha256": "c68d638dc5852622e0bf754f96d440f17037d2192e394fc692fb8c48275fa1f6",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_019"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v23.csv",
+      "sha256": "5a57353e36beffa44fd83a5367a9066ef72265c4a6c6795cfd6e306633149f96",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_020"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v24.csv",
+      "sha256": "dba5191a741849780585720e4e2320596c996f9f55b6188bd9b61806d38e9997",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_021"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v25.csv",
+      "sha256": "8118beea623e19b533479350cbc0e2bb84b0383787b5b34a929bd22285384091",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_022"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v26.csv",
+      "sha256": "ea1e4a8279b50052a0975ed983d312ba844e89904a00597f571729ad24ca1b37",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_023"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v3 (1).csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_001"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v3.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_001"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v4 (1).csv",
+      "sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_002"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v4.csv",
+      "sha256": "fc21bcbc9afbed42cd103d7aa573b732f5afb1781dfcae0dfb808b2917f276de",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_002"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v5 (1).csv",
+      "sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_003"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v5.csv",
+      "sha256": "2c5185c02b25f258165fd9ea330c76711816d7666fbf19fc7d133d332f88a04e",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_003"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v6 (1).csv",
+      "sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_004"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v6.csv",
+      "sha256": "47cce8f0250c480477190f200d48f3d076918dd99e8cc15e1ecaaceac63b634e",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_004"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v7 (1).csv",
+      "sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_024"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v7.csv",
+      "sha256": "31e224f0f2a096db25ade048f75177103e0ea5cf474f65154aba1d9f13536798",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_024"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v8 (1).csv",
+      "sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_025"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v8.csv",
+      "sha256": "7eac258895f6c5d19dc6b35f7216effe42b22fcbe02e1a0f4b541564bd900490",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_025"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v9 (1).csv",
+      "sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_026"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_last_v9.csv",
+      "sha256": "847af6d21ee0962274cc8d4eab0b471615ac37ffcfc9509fac58cf7dafbfc469",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_026"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/fuking_supple.csv",
+      "sha256": "3d50b8e212ad92bd59e4ad7158d6fdfecf4027e4fa57a06e86740173f0ba8fa6",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_043"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/Fuging_last_v13 (1).csv",
+      "sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_006"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/Fuging_last_v13.csv",
+      "sha256": "96a118f68ef075927f2f3e718f927dd609a9081d0308a6595d3c8e5385dfa377",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_006"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/i_want_sleep_v15.csv",
+      "sha256": "7d89e45d9d5a19c8380627ecc78655890884cd6440cf56f6dae800f76749b9ec",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_035"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/i_want_sleep_v16.csv",
+      "sha256": "b41fcfac557babe8ad37f098e698e1cfd5728fd5dd9443a8c4ab62649352dae3",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_036"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/i_want_sleep_v17.csv",
+      "sha256": "f8d96b180d212d4cf9879fb3021b21347aa471da85d37cb61090aa21204d7a8c",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_037"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/i_want_sleep_v18.csv",
+      "sha256": "7c3a14935e62b12dfc68b07cf20b6d53d638f50107f4005b8fadce4a2ff1644d",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_044"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/supple_submission.csv",
+      "sha256": "3fa81166daad165613378a0d061bbcddeecb163c6a27b2b13bae1845dc93cdcf",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_045"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/mori.csv",
+      "sha256": "824fde8e1374a0a6990a8f857f9c58ac567c2801ce4b97cc214ccb2ad31bed84",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_038"
+    },
+    {
+      "path": "/Users/yunjongseo/Downloads/submission_gemma5_jongseo_changyeop_weighted.csv",
+      "sha256": "300bdf57c4420558a44933eb8790d980eefa150b6eb27dcdbb8721bb97052472",
+      "reason": "duplicate answer vector",
+      "duplicate_of": "history_046"
+    }
+  ],
+  "raw_candidates": 102,
+  "weight_policy": "changes"
+}

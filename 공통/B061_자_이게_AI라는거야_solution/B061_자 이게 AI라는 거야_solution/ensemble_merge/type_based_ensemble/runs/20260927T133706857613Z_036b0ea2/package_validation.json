@@ -1,0 +1,12 @@
+{
+  "rows_independently_verified": 6714,
+  "consensus_rows_preserved": 4444,
+  "portable_run_without_reference_or_legacy_files": true,
+  "same_seed_same_csv_and_weights": true,
+  "repeated_runs_saved_separately": true,
+  "history_entries_retained": true,
+  "tampered_input_rejected": true,
+  "heldout_fold_predictions_unchanged_when_its_label_changes": true,
+  "test_answers_different_from_four_model_global_weighting": 5,
+  "no_target_used_for_validation_or_weights": true
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "top": 1,
+    "minimum": -1,
+    "maximum": 1,
+    "ids": [
+      "test_4988.jpg"
+    ]
+  },
+  {
+    "top": 3,
+    "minimum": -2,
+    "maximum": 3,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg"
+    ]
+  },
+  {
+    "top": 5,
+    "minimum": 0,
+    "maximum": 5,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg"
+    ]
+  },
+  {
+    "top": 8,
+    "minimum": 0,
+    "maximum": 8,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg"
+    ]
+  },
+  {
+    "top": 12,
+    "minimum": -2,
+    "maximum": 12,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_3828.jpg",
+      "test_3206.jpg",
+      "test_4383.jpg",
+      "test_0615.jpg"
+    ]
+  },
+  {
+    "top": 28,
+    "minimum": -14,
+    "maximum": 25,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_3828.jpg",
+      "test_3206.jpg",
+      "test_4383.jpg",
+      "test_0615.jpg",
+      "test_1170.jpg",
+      "test_6519.jpg",
+      "test_6365.jpg",
+      "test_5434.jpg",
+      "test_0737.jpg",
+      "test_5718.jpg",
+      "test_4535.jpg",
+      "test_3596.jpg",
+      "test_0403.jpg",
+      "test_2228.jpg",
+      "test_0998.jpg",
+      "test_1126.jpg",
+      "test_4332.jpg",
+      "test_1060.jpg",
+      "test_2973.jpg",
+      "test_0369.jpg"
+    ]
+  }
+]

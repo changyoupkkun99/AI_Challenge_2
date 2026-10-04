@@ -1,0 +1,211 @@
+[
+  {
+    "iteration": 0,
+    "master_guarantee": 3,
+    "actual_worst": 2,
+    "changes": 11,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg"
+    ]
+  },
+  {
+    "iteration": 1,
+    "master_guarantee": 3,
+    "actual_worst": 1,
+    "changes": 11,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_3347.jpg",
+      "test_3828.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg"
+    ]
+  },
+  {
+    "iteration": 2,
+    "master_guarantee": 3,
+    "actual_worst": 0,
+    "changes": 11,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_1170.jpg",
+      "test_5434.jpg",
+      "test_5718.jpg"
+    ]
+  },
+  {
+    "iteration": 3,
+    "master_guarantee": 3,
+    "actual_worst": 2,
+    "changes": 9,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg"
+    ]
+  },
+  {
+    "iteration": 4,
+    "master_guarantee": 3,
+    "actual_worst": 2,
+    "changes": 10,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg",
+      "test_5718.jpg"
+    ]
+  },
+  {
+    "iteration": 5,
+    "master_guarantee": 3,
+    "actual_worst": 1,
+    "changes": 9,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg",
+      "test_5718.jpg"
+    ]
+  },
+  {
+    "iteration": 6,
+    "master_guarantee": 2,
+    "actual_worst": 1,
+    "changes": 12,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_3828.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg"
+    ]
+  },
+  {
+    "iteration": 7,
+    "master_guarantee": 2,
+    "actual_worst": 1,
+    "changes": 12,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_3206.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg"
+    ]
+  },
+  {
+    "iteration": 8,
+    "master_guarantee": 2,
+    "actual_worst": 1,
+    "changes": 12,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_0615.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg"
+    ]
+  },
+  {
+    "iteration": 9,
+    "master_guarantee": 2,
+    "actual_worst": 1,
+    "changes": 12,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_1170.jpg",
+      "test_6519.jpg",
+      "test_5434.jpg"
+    ]
+  },
+  {
+    "iteration": 10,
+    "master_guarantee": 2,
+    "actual_worst": 1,
+    "changes": 12,
+    "ids": [
+      "test_4988.jpg",
+      "test_1931.jpg",
+      "test_6468.jpg",
+      "test_2328.jpg",
+      "test_3928.jpg",
+      "test_5828.jpg",
+      "test_5424.jpg",
+      "test_3347.jpg",
+      "test_4383.jpg",
+      "test_6519.jpg",
+      "test_6365.jpg",
+      "test_5434.jpg"
+    ]
+  }
+]

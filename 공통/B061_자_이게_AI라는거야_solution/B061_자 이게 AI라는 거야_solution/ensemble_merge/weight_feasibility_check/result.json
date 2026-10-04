@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-09-27T22:14:59.072902+09:00",
+  "scope": "Current 56 inputs, one nonnegative weight per input shared by every row, at least one positive weight. Reference may tie for maximum on every row. No input changes or row overrides.",
+  "source_count": 56,
+  "rows": 6714,
+  "target_unsupported_by_all_sources": [],
+  "necessary_distinct_vote_inequalities": 1123,
+  "linear_program_status": "infeasible",
+  "exact_certificate_terms": 3,
+  "exact_certificate_all_coefficients_negative": true,
+  "reference_used_for_this_feasibility_check": true,
+  "existing_merge_config_sha256_unchanged": "c64fa6ee6b39a496affd6ce67cab20bef38f71b043f5d9a52a60f3f3d85156cc",
+  "existing_submission_sha256_unchanged": "40e0b809859deddcfbbf5538da27564ed0191b37d890e4044d764eb329238402",
+  "optimized_or_replacement_submission_created": false,
+  "scope_limitation": "Does not cover additional unseen inputs, row-dependent weights, negative weights, nonlinear rules, or changing the inputs."
+}

@@ -1,0 +1,212 @@
+{
+  "reference_used_for_training_and_model_selection": true,
+  "ordinary_validation_labels_used": false,
+  "feature_definition": "Existing input answers, one-hot encoded; no row number, ID or question text.",
+  "candidates": [
+    {
+      "feature_sources": 10,
+      "max_depth": 2,
+      "depth": 2,
+      "leaves": 3,
+      "same_reference_rows": 6710,
+      "different_reference_rows": 4
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": 3,
+      "depth": 3,
+      "leaves": 5,
+      "same_reference_rows": 6710,
+      "different_reference_rows": 4
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": 4,
+      "depth": 4,
+      "leaves": 8,
+      "same_reference_rows": 6711,
+      "different_reference_rows": 3
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": 5,
+      "depth": 5,
+      "leaves": 11,
+      "same_reference_rows": 6711,
+      "different_reference_rows": 3
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": 6,
+      "depth": 6,
+      "leaves": 14,
+      "same_reference_rows": 6713,
+      "different_reference_rows": 1
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": 8,
+      "depth": 8,
+      "leaves": 18,
+      "same_reference_rows": 6713,
+      "different_reference_rows": 1
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": 12,
+      "depth": 8,
+      "leaves": 17,
+      "same_reference_rows": 6713,
+      "different_reference_rows": 1
+    },
+    {
+      "feature_sources": 10,
+      "max_depth": null,
+      "depth": 8,
+      "leaves": 17,
+      "same_reference_rows": 6713,
+      "different_reference_rows": 1
+    },
+    {
+      "feature_sources": 56,
+      "max_depth": 2,
+      "depth": 2,
+      "leaves": 3,
+      "same_reference_rows": 6710,
+      "different_reference_rows": 4
+    },
+    {
+      "feature_sources": 56,
+      "max_depth": 3,
+      "depth": 3,
+      "leaves": 5,
+      "same_reference_rows": 6710,
+      "different_reference_rows": 4
+    },
+    {
+      "feature_sources": 56,
+      "max_depth": 4,
+      "depth": 4,
+      "leaves": 9,
+      "same_reference_rows": 6712,
+      "different_reference_rows": 2
+    },
+    {
+      "feature_sources": 56,
+      "max_depth": 5,
+      "depth": 5,
+      "leaves": 11,
+      "same_reference_rows": 6712,
+      "different_reference_rows": 2
+    },
+    {
+      "feature_sources": 56,
+      "max_depth": 6,
+      "depth": 6,
+      "leaves": 13,
+      "same_reference_rows": 6712,
+      "different_reference_rows": 2
+    },
+    {
+      "feature_sources": 56,
+      "max_depth": 8,
+      "depth": 7,
+      "leaves": 15,
+      "same_reference_rows": 6714,
+      "different_reference_rows": 0
+    }
+  ],
+  "selected": {
+    "feature_sources": 56,
+    "max_depth": 8,
+    "depth": 7,
+    "leaves": 15,
+    "same_reference_rows": 6714,
+    "different_reference_rows": 0,
+    "selected_source_counts": {
+      "model_04": 1,
+      "history_038": 3,
+      "history_039": 2266
+    }
+  },
+  "training_fit": {
+    "n": 6714,
+    "same": 6714,
+    "different": 0
+  },
+  "grouped_pattern_cross_validation": {
+    "folds": [
+      {
+        "fold": 0,
+        "n": 774,
+        "same": 773
+      },
+      {
+        "fold": 1,
+        "n": 367,
+        "same": 367
+      },
+      {
+        "fold": 2,
+        "n": 219,
+        "same": 217
+      },
+      {
+        "fold": 3,
+        "n": 328,
+        "same": 327
+      },
+      {
+        "fold": 4,
+        "n": 582,
+        "same": 579
+      }
+    ],
+    "same_all_rows": 6707,
+    "different_all_rows": 7,
+    "target": "reference answers, not official ground truth",
+    "limitation": "Post-selection diagnostic; input histories also derived from prior test-set work."
+  },
+  "single_input_baselines": [
+    {
+      "key": "history_039",
+      "name": "mori_v19.csv",
+      "different": 4
+    },
+    {
+      "key": "history_038",
+      "name": "mori.csv",
+      "different": 5
+    },
+    {
+      "key": "history_037",
+      "name": "i_want_sleep_v17.csv",
+      "different": 13
+    },
+    {
+      "key": "history_036",
+      "name": "i_want_sleep_v16.csv",
+      "different": 40
+    },
+    {
+      "key": "history_034",
+      "name": "fuking_last_v14.csv",
+      "different": 43
+    },
+    {
+      "key": "history_035",
+      "name": "i_want_sleep_v15.csv",
+      "different": 44
+    },
+    {
+      "key": "history_042",
+      "name": "supple_C_exploratory_16.csv",
+      "different": 45
+    },
+    {
+      "key": "history_041",
+      "name": "supple_B_semantic_13.csv",
+      "different": 46
+    }
+  ]
+}

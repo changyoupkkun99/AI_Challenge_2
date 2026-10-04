@@ -1,0 +1,74 @@
+{
+  "run_id": "20260927T133706857613Z_036b0ea2",
+  "seed": 42,
+  "rows": 6714,
+  "initial_models": 10,
+  "validated_voters": [
+    "model_01",
+    "model_02",
+    "model_03",
+    "model_04"
+  ],
+  "official_common_validation_rows": 1096,
+  "consensus_locked": 4444,
+  "type_weighted_rows": 2270,
+  "test_type_counts": {
+    "numeric": 1504,
+    "text": 2686,
+    "other": 1655,
+    "spatial": 475,
+    "negative": 344,
+    "quantity": 50
+  },
+  "routed_type_counts": {
+    "other": 533,
+    "text": 749,
+    "negative": 247,
+    "numeric": 544,
+    "spatial": 170,
+    "quantity": 27
+  },
+  "weighted_ties": 0,
+  "reference_read": false,
+  "row_id_specific_overrides": 0,
+  "input_snapshot_differences_from_original": [
+    {
+      "model_key": "model_02",
+      "changed_rows": [
+        {
+          "id": "test_2337.jpg",
+          "original": "a",
+          "current": "c"
+        }
+      ],
+      "note": "Current input snapshot differs from saved model inference original. Changes were already present before this task; this run does not alter or relabel training logs."
+    }
+  ],
+  "historical_submissions_used_as_votes": false,
+  "input_manifest_sha256": "410fe380cdf9fbc09499c7a992387823d0e666cea21b66fed9b0c7a2e5dcb1b3",
+  "settings_sha256": "111db63439edd7a820b0340a92c7feec5dc713382cbed1b10639ff38d1fd665e",
+  "script_sha256": "49459740b9313fb951d0ec542ddbb438fce9aacc1539c234d262b836e1b9308f",
+  "output_sha256": "142aad8e9eda56522bb4e22f774fb90f8a1427a07806ab1e652ba494fdc62f12",
+  "cross_validation_summary": {
+    "type_weighted": {
+      "n": 1096,
+      "correct": 1091,
+      "accuracy": 0.9954379562043796
+    },
+    "global_weighted": {
+      "n": 1096,
+      "correct": 1091,
+      "accuracy": 0.9954379562043796
+    },
+    "equal_weighted": {
+      "n": 1096,
+      "correct": 1085,
+      "accuracy": 0.989963503649635
+    },
+    "best_global_model": {
+      "n": 1096,
+      "correct": 1091,
+      "accuracy": 0.9954379562043796
+    }
+  }
+}

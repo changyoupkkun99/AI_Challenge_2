@@ -1,0 +1,36 @@
+{
+  "n": 1096,
+  "rf_crossfit_correct": 1091,
+  "best_single_model_correct": 1091,
+  "per_model_correct": [
+    1074,
+    1072,
+    1087,
+    1091
+  ],
+  "rf_crossfit_logloss": 0.02305739318056152,
+  "grouping": "image hash; all four candidate alternatives stay within same fold",
+  "limitation": "Only four models share saved official validation rows; reused validation may have influenced checkpoint selection. Other model support weights are auxiliary assumptions, not calibrated probabilities.",
+  "parameters": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "class_weight": null,
+    "criterion": "gini",
+    "max_depth": 8,
+    "max_features": 0.8,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 12,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 300,
+    "n_jobs": 4,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "feature_definition": "For each candidate option: four model support indicators, candidate/competitor vote fractions, margin, disagreement count, question type. No ID, teacher CSV label or public score attached as row truth."
+}

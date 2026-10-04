@@ -1,0 +1,427 @@
+{
+  "group_rule": "Connected components of at most two changed answers; near copies share a fold",
+  "groups": 41,
+  "rows": [
+    {
+      "file": "fuking_last_v2.csv",
+      "fold": 0,
+      "observed_correct": 3272,
+      "predicted_correct": 3272.612435015848,
+      "error": 0.6124350158479501
+    },
+    {
+      "file": "fuking_last_v4.csv",
+      "fold": 0,
+      "observed_correct": 3272,
+      "predicted_correct": 3272.865581643081,
+      "error": 0.8655816430809864
+    },
+    {
+      "file": "fuking_last_v5.csv",
+      "fold": 0,
+      "observed_correct": 3271,
+      "predicted_correct": 3272.849568825137,
+      "error": 1.8495688251368847
+    },
+    {
+      "file": "fuking_last_v6.csv",
+      "fold": 0,
+      "observed_correct": 3273,
+      "predicted_correct": 3273.3917820601255,
+      "error": 0.3917820601254789
+    },
+    {
+      "file": "fuking_last_v7.csv",
+      "fold": 0,
+      "observed_correct": 3274,
+      "predicted_correct": 3273.9738481053973,
+      "error": -0.02615189460266265
+    },
+    {
+      "file": "fuking_last_v8.csv",
+      "fold": 0,
+      "observed_correct": 3272,
+      "predicted_correct": 3273.1316323786173,
+      "error": 1.1316323786172688
+    },
+    {
+      "file": "fuking_last_v9.csv",
+      "fold": 0,
+      "observed_correct": 3274,
+      "predicted_correct": 3273.7965298855206,
+      "error": -0.20347011447938712
+    },
+    {
+      "file": "fuking_last_v10.csv",
+      "fold": 0,
+      "observed_correct": 3272,
+      "predicted_correct": 3273.0442136638912,
+      "error": 1.0442136638912416
+    },
+    {
+      "file": "fuking_last_v11.csv",
+      "fold": 0,
+      "observed_correct": 3273,
+      "predicted_correct": 3273.4426335531844,
+      "error": 0.4426335531843506
+    },
+    {
+      "file": "fuking_last_v12.csv",
+      "fold": 0,
+      "observed_correct": 3273,
+      "predicted_correct": 3273.962339773914,
+      "error": 0.9623397739142092
+    },
+    {
+      "file": "i_want_sleep_v16.csv",
+      "fold": 0,
+      "observed_correct": 3280,
+      "predicted_correct": 3280.985693510387,
+      "error": 0.9856935103871365
+    },
+    {
+      "file": "submission_gemma5_jongseo_changyeop_weighted.csv",
+      "fold": 0,
+      "observed_correct": 3250,
+      "predicted_correct": 3250.29210363737,
+      "error": 0.292103637370019
+    },
+    {
+      "file": "zuzu.csv",
+      "fold": 1,
+      "observed_correct": 3227,
+      "predicted_correct": 3227.9002509769625,
+      "error": 0.9002509769625249
+    },
+    {
+      "file": "ruru.csv",
+      "fold": 1,
+      "observed_correct": 3228,
+      "predicted_correct": 3229.0181940350353,
+      "error": 1.0181940350353216
+    },
+    {
+      "file": "pipi.csv",
+      "fold": 1,
+      "observed_correct": 3229,
+      "predicted_correct": 3229.0146220105776,
+      "error": 0.01462201057756829
+    },
+    {
+      "file": "nana.csv",
+      "fold": 1,
+      "observed_correct": 3227,
+      "predicted_correct": 3227.803225265413,
+      "error": 0.8032252654129479
+    },
+    {
+      "file": "mumu.csv",
+      "fold": 1,
+      "observed_correct": 3227,
+      "predicted_correct": 3227.756731859937,
+      "error": 0.7567318599371902
+    },
+    {
+      "file": "kuku.csv",
+      "fold": 1,
+      "observed_correct": 3229,
+      "predicted_correct": 3228.2991874407116,
+      "error": -0.7008125592883516
+    },
+    {
+      "file": "gugu.csv",
+      "fold": 1,
+      "observed_correct": 3229,
+      "predicted_correct": 3229.1520572918253,
+      "error": 0.1520572918252583
+    },
+    {
+      "file": "bobo.csv",
+      "fold": 1,
+      "observed_correct": 3228,
+      "predicted_correct": 3228.804350835937,
+      "error": 0.8043508359369298
+    },
+    {
+      "file": "submission_agnes3_highres1024_tta4.csv",
+      "fold": 1,
+      "observed_correct": 3228,
+      "predicted_correct": 3228.257682335814,
+      "error": 0.25768233581402455
+    },
+    {
+      "file": "submission_mori_v19_refit.csv",
+      "fold": 1,
+      "observed_correct": 3276,
+      "predicted_correct": 3276.8093824060525,
+      "error": 0.8093824060524639
+    },
+    {
+      "file": "i_want_sleep_v17.csv",
+      "fold": 1,
+      "observed_correct": 3286,
+      "predicted_correct": 3286.19754403898,
+      "error": 0.1975440389801406
+    },
+    {
+      "file": "wlemed_probe_02.csv",
+      "fold": 1,
+      "observed_correct": 3228,
+      "predicted_correct": 3226.883143726605,
+      "error": -1.1168562733951148
+    },
+    {
+      "file": "submission_with_122b.csv",
+      "fold": 2,
+      "observed_correct": 3252,
+      "predicted_correct": 3253.992719308102,
+      "error": 1.992719308102096
+    },
+    {
+      "file": "submission (1).csv",
+      "fold": 2,
+      "observed_correct": 3250,
+      "predicted_correct": 3246.460426619401,
+      "error": -3.539573380598995
+    },
+    {
+      "file": "submission.csv",
+      "fold": 2,
+      "observed_correct": 3250,
+      "predicted_correct": 3247.061108025372,
+      "error": -2.93889197462795
+    },
+    {
+      "file": "submission_with_jeonga.csv",
+      "fold": 2,
+      "observed_correct": 3240,
+      "predicted_correct": 3243.533341366663,
+      "error": 3.5333413666630804
+    },
+    {
+      "file": "122b_submission.csv",
+      "fold": 2,
+      "observed_correct": 3226,
+      "predicted_correct": 3228.496554129203,
+      "error": 2.496554129203105
+    },
+    {
+      "file": "submission_kaggle_weighted_15.csv",
+      "fold": 2,
+      "observed_correct": 3263,
+      "predicted_correct": 3259.682437619842,
+      "error": -3.3175623801580514
+    },
+    {
+      "file": "ling3_vl_int4_submission.csv",
+      "fold": 2,
+      "observed_correct": 3177,
+      "predicted_correct": 3174.5938566933437,
+      "error": -2.406143306656304
+    },
+    {
+      "file": "i_want_sleep_v18.csv",
+      "fold": 2,
+      "observed_correct": 3274,
+      "predicted_correct": 3274.015207172865,
+      "error": 0.015207172864847962
+    },
+    {
+      "file": "fuking_supple.csv",
+      "fold": 2,
+      "observed_correct": 3260,
+      "predicted_correct": 3263.330829157371,
+      "error": 3.3308291573712268
+    },
+    {
+      "file": "wlemed_probe_01.csv",
+      "fold": 2,
+      "observed_correct": 3230,
+      "predicted_correct": 3228.1789441801216,
+      "error": -1.8210558198784383
+    },
+    {
+      "file": "wlemed_probe_05.csv",
+      "fold": 2,
+      "observed_correct": 3226,
+      "predicted_correct": 3226.979912207813,
+      "error": 0.9799122078129585
+    },
+    {
+      "file": "wlemed_18changed.csv",
+      "fold": 2,
+      "observed_correct": 3226,
+      "predicted_correct": 3225.9865374633628,
+      "error": -0.013462536637234734
+    },
+    {
+      "file": "fuking_last.csv",
+      "fold": 3,
+      "observed_correct": 3268,
+      "predicted_correct": 3269.6402259239526,
+      "error": 1.6402259239525847
+    },
+    {
+      "file": "submission_primary_gemma_changyeop.csv",
+      "fold": 3,
+      "observed_correct": 3247,
+      "predicted_correct": 3249.6612423707766,
+      "error": 2.661242370776563
+    },
+    {
+      "file": "submission_final.csv",
+      "fold": 3,
+      "observed_correct": 3220,
+      "predicted_correct": 3223.1723930026956,
+      "error": 3.1723930026955713
+    },
+    {
+      "file": "_20260924T030403807440Z-full-full_best_train_submission.csv",
+      "fold": 3,
+      "observed_correct": 3008,
+      "predicted_correct": 3009.778931171263,
+      "error": 1.7789311712631388
+    },
+    {
+      "file": "submission_reference_10models_optimized.csv",
+      "fold": 3,
+      "observed_correct": 3264,
+      "predicted_correct": 3268.8161252670734,
+      "error": 4.816125267073403
+    },
+    {
+      "file": "weighted_random_category.csv",
+      "fold": 3,
+      "observed_correct": 3268,
+      "predicted_correct": 3269.459350675803,
+      "error": 1.4593506758028525
+    },
+    {
+      "file": "fuking_last_v14.csv",
+      "fold": 3,
+      "observed_correct": 3280,
+      "predicted_correct": 3279.1537087770917,
+      "error": -0.8462912229083486
+    },
+    {
+      "file": "supple_submission.csv",
+      "fold": 3,
+      "observed_correct": 3276,
+      "predicted_correct": 3275.08185637448,
+      "error": -0.9181436255198605
+    },
+    {
+      "file": "Fuging_last_v13.csv",
+      "fold": 3,
+      "observed_correct": 3275,
+      "predicted_correct": 3274.9999883484033,
+      "error": -1.16515966510633e-05
+    },
+    {
+      "file": "submission_gemma4.csv",
+      "fold": 3,
+      "observed_correct": 3235,
+      "predicted_correct": 3231.8247672354946,
+      "error": -3.175232764505381
+    },
+    {
+      "file": "wlemed_probe_04.csv",
+      "fold": 3,
+      "observed_correct": 3226,
+      "predicted_correct": 3226.8100873275007,
+      "error": 0.8100873275006961
+    },
+    {
+      "file": "wlemed_probe_06.csv",
+      "fold": 3,
+      "observed_correct": 3225,
+      "predicted_correct": 3226.1166786243793,
+      "error": 1.1166786243793467
+    },
+    {
+      "file": "submission_jongseo_changyeop.csv",
+      "fold": 4,
+      "observed_correct": 3247,
+      "predicted_correct": 3250.8095926187157,
+      "error": 3.8095926187156692
+    },
+    {
+      "file": "submission_gemma4 (2).csv",
+      "fold": 4,
+      "observed_correct": 3230,
+      "predicted_correct": 3226.4724651808533,
+      "error": -3.5275348191466946
+    },
+    {
+      "file": "submission_gemma4 (1).csv",
+      "fold": 4,
+      "observed_correct": 3199,
+      "predicted_correct": 3201.7779930415936,
+      "error": 2.777993041593618
+    },
+    {
+      "file": "_20260921T001126826670Z-full-none_submission.csv",
+      "fold": 4,
+      "observed_correct": 3163,
+      "predicted_correct": 3183.0907564734503,
+      "error": 20.090756473450256
+    },
+    {
+      "file": "wlemed.csv",
+      "fold": 4,
+      "observed_correct": 3233,
+      "predicted_correct": 3228.066679581192,
+      "error": -4.9333204188078525
+    },
+    {
+      "file": "glm46v_awq4_submission.csv",
+      "fold": 4,
+      "observed_correct": 2625,
+      "predicted_correct": 2637.1857971480204,
+      "error": 12.185797148020356
+    },
+    {
+      "file": "reference.csv",
+      "fold": 4,
+      "observed_correct": 3290,
+      "predicted_correct": 3286.2329044988473,
+      "error": -3.767095501152653
+    },
+    {
+      "file": "mori.csv",
+      "fold": 4,
+      "observed_correct": 3287,
+      "predicted_correct": 3283.232905127981,
+      "error": -3.767094872018788
+    },
+    {
+      "file": "i_want_sleep_v15.csv",
+      "fold": 4,
+      "observed_correct": 3279,
+      "predicted_correct": 3279.8086049280246,
+      "error": 0.8086049280245788
+    },
+    {
+      "file": "submission_gemma4 (5).csv",
+      "fold": 4,
+      "observed_correct": 3241,
+      "predicted_correct": 3256.8793495565087,
+      "error": 15.879349556508714
+    },
+    {
+      "file": "_20260921T001126826670Z-full-none_submission.csv",
+      "fold": 4,
+      "observed_correct": 3169,
+      "predicted_correct": 3176.4692774904343,
+      "error": 7.469277490434251
+    },
+    {
+      "file": "wlemed_probe_03.csv",
+      "fold": 4,
+      "observed_correct": 3226,
+      "predicted_correct": 3225.6681099374255,
+      "error": -0.33189006257453
+    }
+  ],
+  "limitations": "Diagnostics on adaptively collected submissions; hidden public identities and sparse histories limit reliability. No fresh Kaggle evaluation."
+}

@@ -1,0 +1,34 @@
+{
+  "output": "/Users/yunjongseo/Downloads/B061_자 이게 AI라는 거야_solution/ensemble_rf/runs/20260928T045423_acf0fb5d/RF_v1.csv",
+  "sha256": "1b353e8a8e2426d10b078c83cdd43d212c63fd007f5639285b2fb4ac10117dfb",
+  "rows": 6714,
+  "columns": [
+    "id",
+    "answer"
+  ],
+  "unique_ids": 6714,
+  "id_order_preserved": true,
+  "valid_answers": true,
+  "consensus_rows_preserved": 4444,
+  "disagreement_rows": 2270,
+  "changed_rows": 12,
+  "unchanged_rows": 6702,
+  "changed_ids": [
+    "test_1931.jpg",
+    "test_2328.jpg",
+    "test_3347.jpg",
+    "test_3928.jpg",
+    "test_4383.jpg",
+    "test_4988.jpg",
+    "test_5424.jpg",
+    "test_5434.jpg",
+    "test_5718.jpg",
+    "test_5828.jpg",
+    "test_6468.jpg",
+    "test_6519.jpg"
+  ],
+  "all_changes_in_disagreement": true,
+  "source_hashes_unchanged": true,
+  "readback_identical": true,
+  "submitted": false
+}

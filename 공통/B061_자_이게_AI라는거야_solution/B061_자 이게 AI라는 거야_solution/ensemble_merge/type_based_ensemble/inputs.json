@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "initial_models": [
+    {
+      "key": "model_01",
+      "name": "종서 Qwen 4B",
+      "path": "inputs/model_01.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "recorded_original_sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b"
+    },
+    {
+      "key": "model_02",
+      "name": "종서 Qwen 8B",
+      "path": "inputs/model_02.csv",
+      "sha256": "140b082d5928947f4ea3a2ca36d2368918e2fe543d7ea6f4ef7d8d88b7353109",
+      "recorded_original_sha256": "dd923adcc570929e41321ba1035a67350b77347b64e0291c678a27a866e10107"
+    },
+    {
+      "key": "model_03",
+      "name": "종서 Gemma 26B",
+      "path": "inputs/model_03.csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "recorded_original_sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02"
+    },
+    {
+      "key": "model_04",
+      "name": "종서 Gemma 31B",
+      "path": "inputs/model_04.csv",
+      "sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651",
+      "recorded_original_sha256": "8d188081f53840261deb3c209b715bd824d1e3a0b1253e4a7a10d3b2554b4651"
+    },
+    {
+      "key": "model_05",
+      "name": "창엽 Qwen 27B",
+      "path": "inputs/model_05.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "recorded_original_sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c"
+    },
+    {
+      "key": "model_06",
+      "name": "창엽 122B",
+      "path": "inputs/model_06.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "recorded_original_sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83"
+    },
+    {
+      "key": "model_07",
+      "name": "소향 Qwen 9B",
+      "path": "inputs/model_07.csv",
+      "sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68",
+      "recorded_original_sha256": "88c5624aac7723bf0a17201234a6a1921b9f46b9d8e931850c84bdd28ec47b68"
+    },
+    {
+      "key": "model_08",
+      "name": "정아 Qwen 4B",
+      "path": "inputs/model_08.csv",
+      "sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478",
+      "recorded_original_sha256": "8ad43629cf22069bfef4676e4cdfbbf4c39b25a3fccef5d4a6fcbcd9d3904478"
+    },
+    {
+      "key": "model_09",
+      "name": "Ling3-VL INT4",
+      "path": "inputs/model_09.csv",
+      "sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718",
+      "recorded_original_sha256": "4b9153839fbe7f7232bcbfaf004bc5d93d719215614ed525b28a79613fca6718"
+    },
+    {
+      "key": "model_10",
+      "name": "GLM-4.6V AWQ4",
+      "path": "inputs/model_10.csv",
+      "sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c",
+      "recorded_original_sha256": "9af6590121ee019d14abbd8046bfd3c51b6b17c4857004d1e8a4d9bd05ab651c"
+    }
+  ],
+  "validated_model_keys": [
+    "model_01",
+    "model_02",
+    "model_03",
+    "model_04"
+  ],
+  "validation": {
+    "path": "inputs/validation.csv",
+    "sha256": "7ad8463d372129e327996f4633469b7956e3f1134b149282fd9c41618c5c46a4"
+  },
+  "test_questions": {
+    "path": "inputs/test_questions.csv",
+    "sha256": "1a0a95ecf94202d1139c473f5be1fca7d9171b51e91386aac53720859f3c09b2"
+  },
+  "input_snapshot_differences_from_original": [
+    {
+      "model_key": "model_02",
+      "changed_rows": [
+        {
+          "id": "test_2337.jpg",
+          "original": "a",
+          "current": "c"
+        }
+      ],
+      "note": "Current input snapshot differs from saved model inference original. Changes were already present before this task; this run does not alter or relabel training logs."
+    }
+  ],
+  "excluded_from_type_weight_fitting": [
+    {
+      "key": "model_05",
+      "name": "창엽 Qwen 27B",
+      "reason": "No sufficiently large, linked common validation cohort established for this run."
+    },
+    {
+      "key": "model_06",
+      "name": "창엽 122B",
+      "reason": "No sufficiently large, linked common validation cohort established for this run."
+    },
+    {
+      "key": "model_07",
+      "name": "소향 Qwen 9B",
+      "reason": "No sufficiently large, linked common validation cohort established for this run."
+    },
+    {
+      "key": "model_08",
+      "name": "정아 Qwen 4B",
+      "reason": "No sufficiently large, linked common validation cohort established for this run."
+    },
+    {
+      "key": "model_09",
+      "name": "Ling3-VL INT4",
+      "reason": "No sufficiently large, linked common validation cohort established for this run."
+    },
+    {
+      "key": "model_10",
+      "name": "GLM-4.6V AWQ4",
+      "reason": "No sufficiently large, linked common validation cohort established for this run."
+    }
+  ],
+  "historical_csvs_reason_excluded": "No matched per-question validation predictions for the derived historical submissions. Their type-specific accuracy is not invented."
+}

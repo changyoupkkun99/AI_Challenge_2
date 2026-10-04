@@ -1,0 +1,207 @@
+{
+  "created_at": "2026-09-25T10:50:03.547Z",
+  "score_source": "https://www.kaggle.com/competitions/ssafy-16-2-ai-9-21-9-28/submissions",
+  "score_basis": "Public Score read from live Kaggle UI in preceding turn; v3 explicitly assigned same 0.97467 as v2 by user.",
+  "weight_rule": "sum displayed Public Scores by answer; exact integer scores scaled by 100000",
+  "tie_rule": "highest-score supporting input, then filename ascending",
+  "row_order": "fuking_last_v2.csv",
+  "inputs": [
+    {
+      "file": "fuking_last_v2.csv",
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v2.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "answer_sha256": "43f877176d9e0e68257d39fdf7c936fbf3b504a15c06b5d1162313c95b713052",
+      "weight": "0.97467",
+      "weight_integer": 97467,
+      "normalized_weight": 0.06768137458457342,
+      "copied_to": "inputs/fuking_last_v2.csv"
+    },
+    {
+      "file": "fuking_last_v3.csv",
+      "source": "/Users/yunjongseo/Downloads/fuking_last_v3.csv",
+      "sha256": "591cfafbf80b28d76ac1733d68eb48c6477bf23ce48a167ad51c048d4d52621c",
+      "answer_sha256": "43f877176d9e0e68257d39fdf7c936fbf3b504a15c06b5d1162313c95b713052",
+      "weight": "0.97467",
+      "weight_integer": 97467,
+      "normalized_weight": 0.06768137458457342,
+      "copied_to": "inputs/fuking_last_v3.csv"
+    },
+    {
+      "file": "fuking_last.csv",
+      "source": "/Users/yunjongseo/Downloads/fuking_last.csv",
+      "sha256": "1f90013451a458821466f87110e54a5cfd370cbbe3325b7a7d5524313e5209f2",
+      "answer_sha256": "8365148c03749d485f36bd123871365edc2670fa8a9d3451683b2f18a99a00b9",
+      "weight": "0.97348",
+      "weight_integer": 97348,
+      "normalized_weight": 0.06759874063076789,
+      "copied_to": "inputs/fuking_last.csv"
+    },
+    {
+      "file": "submission_with_122b.csv",
+      "source": "/Users/yunjongseo/Downloads/submission_with_122b.csv",
+      "sha256": "844b68147df70ad62aa651fbbdd3f025f273d790b86dbab3b6559210796c8c77",
+      "answer_sha256": "2e2a2bef46d3ed9818e95825a14347ef584fefeb55bd3e72cb6475da170bf3ff",
+      "weight": "0.96872",
+      "weight_integer": 96872,
+      "normalized_weight": 0.06726820481554574,
+      "copied_to": "inputs/submission_with_122b.csv"
+    },
+    {
+      "file": "submission (1).csv",
+      "source": "/Users/yunjongseo/Downloads/submission (1).csv",
+      "sha256": "fe7795408576e1bc083d31a2a54a20402f9a01476c1401bffdc05cd0132697e9",
+      "answer_sha256": "1699044b5eedbc50166f09fe26f4c229f8129f3c987811ebdd5b0f9066167700",
+      "weight": "0.96812",
+      "weight_integer": 96812,
+      "normalized_weight": 0.0672265406371564,
+      "copied_to": "inputs/submission (1).csv"
+    },
+    {
+      "file": "submission.csv",
+      "source": "/Users/yunjongseo/Downloads/submission.csv",
+      "sha256": "1b3332eab0ddb00fae8e4d345263d3e1db07e805b9bb0cd26576eb3b8b680269",
+      "answer_sha256": "4f6812982cc4371ecc9437181fad7aab4d48e604e625e5d53a327f9823c3c5f0",
+      "weight": "0.96812",
+      "weight_integer": 96812,
+      "normalized_weight": 0.0672265406371564,
+      "copied_to": "inputs/submission.csv"
+    },
+    {
+      "file": "submission_jongseo_changyeop.csv",
+      "source": "/Users/yunjongseo/Downloads/submission_jongseo_changyeop.csv",
+      "sha256": "c121f3e80610544fac4c42fae23a58a7b7c556a9cc877367a4ed477a187e6394",
+      "answer_sha256": "42c063176768c777e61c889bcfcc787017ecf8c11cfeb4f25a946d3ea8c8b482",
+      "weight": "0.96723",
+      "weight_integer": 96723,
+      "normalized_weight": 0.06716473877254553,
+      "copied_to": "inputs/submission_jongseo_changyeop.csv"
+    },
+    {
+      "file": "submission_primary_gemma_changyeop.csv",
+      "source": "/Users/yunjongseo/Downloads/submission_primary_gemma_changyeop.csv",
+      "sha256": "31f68ead5e098ece486f329e99da117e0181907b3cabd78fbec076fcdfbb0491",
+      "answer_sha256": "b4f907948b2accf7da75447cae3b4600e670341dcd3a1144746354e71898c7f8",
+      "weight": "0.96723",
+      "weight_integer": 96723,
+      "normalized_weight": 0.06716473877254553,
+      "copied_to": "inputs/submission_primary_gemma_changyeop.csv"
+    },
+    {
+      "file": "submission_with_jeonga.csv",
+      "source": "/Users/yunjongseo/Downloads/submission_with_jeonga.csv",
+      "sha256": "40523f6b898a4f7ad3d6b5eee38f6987f44027bbc52ae7334f3070abf864c0cf",
+      "answer_sha256": "472add47cb7b7769bd5dcb56651862d6a27e2dd77decfebfe107fbb6de9e13cd",
+      "weight": "0.96514",
+      "weight_integer": 96514,
+      "normalized_weight": 0.06701960855115598,
+      "copied_to": "inputs/submission_with_jeonga.csv"
+    },
+    {
+      "file": "submission_gemma4 (2).csv",
+      "source": "/Users/yunjongseo/Downloads/submission_gemma4 (2).csv",
+      "sha256": "af789ee1721db576cba4c2cedd04d44b7eea1da3f978e9a3f93a62c5c336ea02",
+      "answer_sha256": "cca91c5e4cdc9676d93131128eab13b4d63ace69da9cca80e7465273d75aa2c6",
+      "weight": "0.96216",
+      "weight_integer": 96216,
+      "normalized_weight": 0.06681267646515555,
+      "copied_to": "inputs/submission_gemma4 (2).csv"
+    },
+    {
+      "file": "122b_submission.csv",
+      "source": "/Users/yunjongseo/Downloads/122b_submission.csv",
+      "sha256": "f6b0799f5a15b01b960f6098c0993ff85fb08f4e37ee92af81340cac2cae4f83",
+      "answer_sha256": "3102f20104e32507616349b92f42ad92382981debfa5855d98b348443c032e84",
+      "weight": "0.96097",
+      "weight_integer": 96097,
+      "normalized_weight": 0.06673004251135002,
+      "copied_to": "inputs/122b_submission.csv"
+    },
+    {
+      "file": "submission_final.csv",
+      "source": "/Users/yunjongseo/Downloads/submission_final.csv",
+      "sha256": "af15d85af969ce5a989e602fb852431fd779754b7662ebf940718e7680b9815c",
+      "answer_sha256": "9243e0dcc99a930dba06d35e88dfec01408fafe3ae85ce261e245c2069b9b86f",
+      "weight": "0.95918",
+      "weight_integer": 95918,
+      "normalized_weight": 0.06660574437915513,
+      "copied_to": "inputs/submission_final.csv"
+    },
+    {
+      "file": "submission_gemma4 (1).csv",
+      "source": "/Users/yunjongseo/Downloads/submission_gemma4 (1).csv",
+      "sha256": "038fce2db050c68a896d52a0ce832eb5012f4a7bca2988d4eb3be28eca303d59",
+      "answer_sha256": "cef3d1af9ebf96df80759e6627f89fc00a46e6b9602db08247e9a454b8e23659",
+      "weight": "0.95293",
+      "weight_integer": 95293,
+      "normalized_weight": 0.06617174252093277,
+      "copied_to": "inputs/submission_gemma4 (1).csv"
+    },
+    {
+      "file": "_20260921T001126826670Z-full-none_submission.csv",
+      "source": "/Users/yunjongseo/Downloads/_20260921T001126826670Z-full-none_submission.csv",
+      "sha256": "08c0971ffbbb5aae4ff6d15f17ceb1206d9b39c8a9ed6fd2fb563219b6df649b",
+      "answer_sha256": "8a4d4b36881913696bb1b53305ba77bde188dd295834910aab7599fc4e86708c",
+      "weight": "0.94221",
+      "weight_integer": 94221,
+      "normalized_weight": 0.0654273425337098,
+      "copied_to": "inputs/_20260921T001126826670Z-full-none_submission.csv"
+    },
+    {
+      "file": "_20260924T030403807440Z-full-full_best_train_submission.csv",
+      "source": "/Users/yunjongseo/Downloads/_20260924T030403807440Z-full-full_best_train_submission.csv",
+      "sha256": "58ae6c0b23ff9f247e67527d05a43f1c6d22898cc0ffaded6992d83a768e677e",
+      "answer_sha256": "5a7c88b3ff8bfa4c7f855f57c53a473915259ea6245afc6907e1345682b509e6",
+      "weight": "0.89603",
+      "weight_integer": 89603,
+      "normalized_weight": 0.06222058960367645,
+      "copied_to": "inputs/_20260924T030403807440Z-full-full_best_train_submission.csv"
+    }
+  ],
+  "excluded_duplicates": [
+    {
+      "file": "submission_gemma4 (1) (1).csv",
+      "representative": "submission_gemma4 (1).csv",
+      "sha256": "038fce2db050c68a896d52a0ce832eb5012f4a7bca2988d4eb3be28eca303d59"
+    },
+    {
+      "file": "submission_gemma4 (1) (2).csv",
+      "representative": "submission_gemma4 (1).csv",
+      "sha256": "038fce2db050c68a896d52a0ce832eb5012f4a7bca2988d4eb3be28eca303d59"
+    },
+    {
+      "file": "윤종서_20260924T030403807440Z-full-full_best_train_submission.csv",
+      "representative": "_20260924T030403807440Z-full-full_best_train_submission.csv",
+      "sha256": "58ae6c0b23ff9f247e67527d05a43f1c6d22898cc0ffaded6992d83a768e677e"
+    }
+  ],
+  "statistics": {
+    "rows": 6714,
+    "input_count": 15,
+    "unanimous": 5754,
+    "weighted_ties": 0,
+    "changed_from_inputs": {
+      "fuking_last_v2.csv": 70,
+      "fuking_last_v3.csv": 70,
+      "fuking_last.csv": 74,
+      "submission_with_122b.csv": 54,
+      "submission (1).csv": 39,
+      "submission.csv": 37,
+      "submission_jongseo_changyeop.csv": 37,
+      "submission_primary_gemma_changyeop.csv": 49,
+      "submission_with_jeonga.csv": 80,
+      "submission_gemma4 (2).csv": 141,
+      "122b_submission.csv": 186,
+      "submission_final.csv": 148,
+      "submission_gemma4 (1).csv": 227,
+      "_20260921T001126826670Z-full-none_submission.csv": 257,
+      "_20260924T030403807440Z-full-full_best_train_submission.csv": 605
+    },
+    "v2_v3_different_answers": 0
+  },
+  "output": "submission_kaggle_weighted_15.csv",
+  "output_sha256": "96691043fc505ac27135ccfa742d14773178839e66c5f90462d75d8016b87fc9",
+  "limitations": [
+    "Existing ensemble outputs are included as requested; inputs are not independent models.",
+    "Public scores are weights, not a measured score for the new ensemble."
+  ]
+}

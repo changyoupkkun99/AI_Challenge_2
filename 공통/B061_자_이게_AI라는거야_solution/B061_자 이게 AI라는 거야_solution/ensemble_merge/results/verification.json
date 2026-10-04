@@ -1,0 +1,28 @@
+{
+  "rows": 6714,
+  "source_count": 56,
+  "group_sizes": {
+    "initial_models": 10,
+    "historical_results": 46
+  },
+  "group_total_weights": {
+    "initial_models": 230,
+    "historical_results": 230
+  },
+  "weight_per_initial_model": 23,
+  "weight_per_historical_csv": 5,
+  "tie_order": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ],
+  "ties": 0,
+  "row_level_overrides": 0,
+  "inputs_hash_verified": 56,
+  "answer_0047": "d",
+  "output_sha256": "40e0b809859deddcfbbf5538da27564ed0191b37d890e4044d764eb329238402",
+  "config_sha256": "95ec46015f4ea39cf7a3c187d241f004905da92c912bd99f94efdffbb37fca40",
+  "audit_sha256": "19ad3f5086cbf65f8777c28fd46759da2d5a5db80e9171b7f377e71282af49c0",
+  "official_accuracy_measured": false
+}
