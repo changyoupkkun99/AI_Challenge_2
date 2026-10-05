@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "artifact_kind": "configuration_only",
+  "run": {
+    "seed": 42,
+    "run_id": null,
+    "output_root": "runs",
+    "mode": "finetune"
+  },
+  "data": {
+    "train_csv": null,
+    "dev_csv": null,
+    "test_csv": null,
+    "image_root": null,
+    "sample_submission_csv": null,
+    "columns": {
+      "id": "id",
+      "image": "path",
+      "question": "question",
+      "choices": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "answer": "answer"
+    },
+    "classes": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "label_to_index": {
+      "a": 0,
+      "b": 1,
+      "c": 2,
+      "d": 3
+    },
+    "split": {
+      "train_fraction": 0.8,
+      "validation_fraction": 0.2,
+      "method": "group_stratified",
+      "group_key": "image_sha256",
+      "optional_phash_grouping": false,
+      "validation_sources": [
+        "train_gold"
+      ],
+      "dev_pseudo_labels_training_only": true,
+      "reuse_manifest": true,
+      "manifest_path": null,
+      "record_realized_counts_and_ratios": true
+    },
+    "cleaning": {
+      "mode": "manual_csv",
+      "manual_csv_dir": null,
+      "required_files": [
+        "train_changes.csv",
+        "train_delete_list.csv",
+        "dev_changes.csv",
+        "dev_delete_list.csv"
+      ],
+      "apply_option_edits": true,
+      "apply_delete_lists": true,
+      "check_before_text_matches": true,
+      "answer_letter_edit": false,
+      "require_cleaning_provenance": true,
+      "teacher_top2_review": {
+        "enabled": false,
+        "model_id": null,
+        "action": "flag_for_human_review_only",
+        "checkpoint_status": "글 Qwen3.8 / ZIP README Qwen3.5; 정확한 교사 미확인"
+      }
+    },
+    "dev_votes": {
+      "enabled": true,
+      "columns_pattern": "answer[0-9]+",
+      "keep_patterns": [
+        "3",
+        "3:1",
+        "3:1:1"
+      ],
+      "numeric_to_letter": {
+        "1": "a",
+        "2": "b",
+        "3": "c",
+        "4": "d"
+      },
+      "target": "majority",
+      "source_tag_required": true
+    },
+    "leakage": {
+      "exclude_validation_from_all_training_sources": true,
+      "check_ids": true,
+      "check_image_paths": true,
+      "check_content_hash_across_sources": true,
+      "check_test_overlap_and_record": true
+    },
+    "training_option_order": {
+      "mode": "balanced_target_positions",
+      "target_ratios": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "deterministic_seeded": true,
+      "remap_answer_with_options": true,
+      "reject_unsafe_position_references": true,
+      "report_exempt_samples_and_realized_balance": true,
+      "validation_original_order": true,
+      "test_original_order": true
+    },
+    "hard_reverse": {
+      "enabled": false,
+      "scope": "training_only",
+      "order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "answer_index_map": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "evidence": "A186 실험 코드 기능; 최종 스크립트에는 없음"
+    }
+  },
+  "image": {
+    "exif_transpose": true,
+    "color_mode": "RGB",
+    "resize_mode": "native_aspect",
+    "longest_side_cap": 2048,
+    "max_soft_tokens": 1120,
+    "letterbox": {
+      "side": 1024,
+      "fill_rgb": [
+        255,
+        255,
+        255
+      ],
+      "enabled": false
+    },
+    "augmentation": {
+      "external": [
+        "orig"
+      ],
+      "target": [
+        "orig",
+        "compression",
+        "blur",
+        "affine"
+      ],
+      "jpeg_quality": 70,
+      "blur_radius": 1.0,
+      "affine_translate_fraction": 0.03,
+      "affine_shear_degrees": 5.0,
+      "fill_rgb": [
+        255,
+        255,
+        255
+      ],
+      "validation": [
+        "orig"
+      ],
+      "test": [
+        "orig"
+      ],
+      "legacy_photometric": {
+        "enabled": false,
+        "source": "hybrid 노트북의 밝기/대비/색상/노이즈/JPEG 옵션 보존 대상"
+      }
+    }
+  },
+  "extra_context": {
+    "mode": "none",
+    "ocr": {
+      "backend": "easyocr",
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "cache_confidence": 0.25,
+      "prompt_confidence": 0.4,
+      "max_items": 15
+    },
+    "dino": {
+      "model_id": "IDEA-Research/grounding-dino-tiny",
+      "threshold": 0.3,
+      "max_items": 12,
+      "object_queries": null
+    },
+    "cache_key": "image_hash+preprocess_config+tool_revision",
+    "preserve_question_and_image_priority": true,
+    "compare_on_same_validation_manifest": true
+  },
+  "prompt": {
+    "system": "당신은 이미지를 보고 질문에 답하는 시각 질의응답 도우미입니다. a, b, c, d 중 정확히 한 글자로만 답하고, 설명은 하지 마세요.",
+    "instruction": "정답을 반드시 a, b, c, d 중 하나의 소문자 한 글자로만 출력하세요.",
+    "repeat": 2,
+    "repeat_separator": "\n\n",
+    "repeat_content": "question+four_choices+instruction",
+    "image_occurrences": 1,
+    "template_kwargs": {
+      "enable_thinking": false
+    },
+    "answer_prefix": "<|channel>thought\n<channel|>",
+    "append_prefix_only_if_missing": true,
+    "assert_each_answer_is_one_token": true,
+    "verify_next_token_answer_boundary": true
+  },
+  "model": {
+    "model_id": "unsloth/gemma-4-31B-it-unsloth-bnb-4bit",
+    "revision": null,
+    "record_resolved_revision": true,
+    "backend": "unsloth_fastvision",
+    "quantization": "bitsandbytes_4bit",
+    "load_in_4bit": true,
+    "compute_dtype": "bfloat16",
+    "max_seq_length": 4096,
+    "gradient_checkpointing": true,
+    "trust_remote_code": false,
+    "environment_before_import": {
+      "UNSLOTH_DISABLE_STATISTICS": "1",
+      "UNSLOTH_RETURN_LOGITS": "1",
+      "TOKENIZERS_PARALLELISM": "false"
+    }
+  },
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.0,
+    "bias": "none",
+    "finetune_vision_layers": false,
+    "finetune_language_layers": true,
+    "finetune_attention_modules": true,
+    "finetune_mlp_modules": true,
+    "record_resolved_target_module_names": true
+  },
+  "loss": {
+    "mode": "next_answer_token_only",
+    "supervised_tokens_per_sample": 1,
+    "normalization": "full_vocabulary_cross_entropy",
+    "exclude_prompt_image_reasoning_eos_padding_from_loss": true,
+    "padding_side": "left"
+  },
+  "external_data": {
+    "enabled": true,
+    "mtvqa": {
+      "repo_id": "ByteDance/MTVQA",
+      "splits": [
+        "train",
+        "test"
+      ],
+      "languages": [
+        "KO",
+        "KR"
+      ],
+      "max_answer_chars": 40,
+      "distractor_pool": 50,
+      "convert_to_four_choices": true,
+      "distractor_priority": [
+        "other_answers_same_image",
+        "similar_type_and_length"
+      ],
+      "exclude_duplicate_and_gold_substring_choices": true
+    },
+    "kreta": {
+      "repo_id": "tabtoyou/KRETA",
+      "split": "test",
+      "choice_columns": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer_to_lowercase": true
+    },
+    "dataset_revision": null,
+    "record_resolved_revisions": true,
+    "record_external_split_used_for_training": true
+  },
+  "training": {
+    "optimizer": "adamw_8bit",
+    "scheduler": "cosine",
+    "warmup_ratio": 0.05,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "logging_steps": 10,
+    "save_steps": 200,
+    "save_total_limit": 2,
+    "num_workers": null,
+    "report_to": "none",
+    "preflight_backward_required": true,
+    "benchmark_steps": 20,
+    "stages": [
+      {
+        "name": "external",
+        "epochs": 1.0,
+        "learning_rate": 0.0001,
+        "augmentation": [
+          "orig"
+        ],
+        "save_adapter": "adapter_external"
+      },
+      {
+        "name": "target",
+        "epochs": 1.0,
+        "learning_rate": 0.0001,
+        "augmentation": [
+          "orig",
+          "compression",
+          "blur",
+          "affine"
+        ],
+        "save_adapter": "adapter"
+      }
+    ],
+    "carry_same_adapter_external_to_target": true,
+    "new_optimizer_and_scheduler_per_stage": true,
+    "checkpoint_selection": "last_stage_final",
+    "resume_with_config_and_data_hash_checks": true,
+    "per_device_train_batch_size": 16,
+    "gradient_accumulation_steps": 1,
+    "per_device_eval_batch_size": 32,
+    "evidence": "A186 최종 소스 기본값 및 B200 192GB 주석; 실행 로그 미제공"
+  },
+  "inference": {
+    "mode": "direct_choice_logits",
+    "temperature": 1.0,
+    "choice_token_order": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "shifts": [
+      0,
+      2
+    ],
+    "map_back_to_original_order": true,
+    "aggregation": "arithmetic_probability_mean",
+    "generation_diagnostic": {
+      "enabled": true,
+      "sample_count": 8
+    },
+    "validation_shift_calibration": {
+      "enabled": true,
+      "candidate_shifts": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "apply_selected_shift_instead_of_tta": false,
+      "selection_policy": "record_reference_recipe_without_automatic_search"
+    },
+    "highres_1024_tta4": {
+      "enabled": false,
+      "side": 1024,
+      "shifts": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "resize_mode": "letterbox"
+    },
+    "same_model_routing": {
+      "enabled": false,
+      "confidence_threshold": null,
+      "margin_threshold": null
+    },
+    "save_partial_predictions": true,
+    "resume_only_matching_run_signature": true
+  },
+  "artifacts": {
+    "class_order": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "expected_counts": "derive_from_manifests",
+    "required": [
+      "probs/valid_logits.npy",
+      "probs/valid_probs.npy",
+      "probs/valid_labels.npy",
+      "probs/valid_ids.json",
+      "probs/test_logits.npy",
+      "probs/test_probs.npy",
+      "probs/test_ids.json",
+      "validation_predictions.csv",
+      "validation_summary.json",
+      "analysis/shift_calibration.csv",
+      "analysis/selected_shift.json"
+    ],
+    "additional_tta": [
+      "probs/valid_shift_logits.npy",
+      "probs/valid_shift_probs.npy",
+      "probs/test_shift_logits.npy",
+      "probs/test_shift_probs.npy",
+      "probs/valid_reference_probs.npy",
+      "probs/test_reference_probs.npy"
+    ],
+    "metadata_file": "probs/probability_metadata.json",
+    "logits_semantics": "actual_restored_logits_of_reference_shift",
+    "logits_reference_shift": 0,
+    "probs_semantics": "final_arithmetic_mean_of_restored_shift_probabilities",
+    "raw_logits_are_not_log_of_averaged_probs": true,
+    "id_order": "validation_manifest_or_original_test_order",
+    "submission_filename": "submission_{run_id}.csv",
+    "submission_columns": [
+      "id",
+      "answer"
+    ],
+    "charts": [
+      "loss_lr_vram",
+      "before_after_accuracy",
+      "class_accuracy_confusion",
+      "shift_tta_comparison",
+      "source_and_question_type_accuracy"
+    ],
+    "run_comparison_requires_same_validation_ids_and_label_hash": true
+  },
+  "environment_reference": {
+    "source": "A186 ZIP requirements.txt; 실제 환경 로그/호환성 미확인",
+    "python": "3.11",
+    "cuda": "12.8",
+    "torch": "2.11.0",
+    "unsloth": "2026.9.7",
+    "transformers": "5.5.0",
+    "peft": "0.21.0",
+    "bitsandbytes": "0.50.2",
+    "record_actual_versions_and_freeze": true
+  },
+  "evidence": {
+    "reference_score": {
+      "public": 0.97229,
+      "status": "solution_report_only_no_submission_or_score_log"
+    },
+    "desired_public": 0.97,
+    "score_guaranteed": false,
+    "reference_recipe_source": "A186_민구없는_민구팀.zip/src/train_gemma4_31b.py",
+    "execution_status": "not_trained_not_inferred_config_prepared"
+  },
+  "preset": "reference_gemma31",
+  "hardware_profile": "reference_b200"
+}
