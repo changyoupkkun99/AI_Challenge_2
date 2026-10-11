@@ -1,4 +1,4 @@
-# SSAFY 16기 AI Challenge 2
+# 삼성 AI Challenge 2
 
 **한국어 텍스트 이미지 기반 4지선다 VQA**
 
